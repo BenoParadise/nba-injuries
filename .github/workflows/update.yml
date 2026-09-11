@@ -1,0 +1,37 @@
+name: Actualiser les blessures NBA
+
+on:
+  schedule:
+    # Toutes les heures, à la minute 0 (heure UTC)
+    - cron: '0 * * * *'
+  workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Récupérer les blessures et générer data.json
+        run: node scripts/fetch-injuries.js
+
+      - name: Publier data.json s'il a changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement dans data.json, rien à committer."
+          else
+            git commit -m "Mise à jour automatique du rapport de blessures"
+            git push
+          fi

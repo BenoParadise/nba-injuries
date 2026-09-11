@@ -1,0 +1,12 @@
+{
+  "name": "nba-injuries",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rapport de blessures NBA, actualisé toutes les heures via GitHub Actions",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch-injuries.js"
+  }
+}
