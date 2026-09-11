@@ -234,6 +234,16 @@
   .no-injuries-row{
     text-align:center;color:var(--muted);font-size:12.5px;padding:12px 0 4px;
   }
+  .team-injury-block{
+    margin-top:12px;padding-top:12px;border-top:1px solid var(--line);
+  }
+  .team-injury-block.first{margin-top:6px;padding-top:0;border-top:none;}
+  .team-block-head{
+    display:flex;align-items:center;gap:7px;
+    font-size:12.5px;font-weight:600;color:var(--cream);
+    text-transform:uppercase;letter-spacing:0.02em;
+    margin-bottom:6px;
+  }
   .empty-note{
     color:var(--muted);
     font-size:14px;
@@ -565,21 +575,31 @@ function render(teams, games){
     const d = new Date(games[0].date);
     dateLabel.textContent = d.toLocaleDateString('fr-FR', {weekday:'long', day:'numeric', month:'long'});
     gamesArea.innerHTML = `<div class="games-row">${games.map(g => {
+      const buildTable = (players) => {
+        const outCol = players.filter(p => statusClass(p.status) === 'out');
+        const gtdCol = players.filter(p => statusClass(p.status) === 'gtd' || statusClass(p.status) === 'other');
+        const probCol = players.filter(p => statusClass(p.status) === 'ok');
+        const rows = Math.max(outCol.length, gtdCol.length, probCol.length);
+        const cell = (p) => p
+          ? `<td>${p.name}</td>`
+          : `<td class="empty-cell">—</td>`;
+        const tableBody = rows === 0
+          ? `<tr><td colspan="3" class="no-injuries-row">Aucune blessure signalée</td></tr>`
+          : Array.from({length: rows}).map((_, i) => `<tr>${cell(outCol[i])}${cell(gtdCol[i])}${cell(probCol[i])}</tr>`).join('');
+        return `<table class="injury-table">
+          <thead><tr><th class="out">Out</th><th class="gtd">Incertain</th><th class="ok">Probable</th></tr></thead>
+          <tbody>${tableBody}</tbody>
+        </table>`;
+      };
+
       const awayPlayers = injuriesForTeam(teams, g.away).map(p => ({...p, team: g.away}));
       const homePlayers = injuriesForTeam(teams, g.home).map(p => ({...p, team: g.home}));
-      const all = [...awayPlayers, ...homePlayers];
-      const outCol = all.filter(p => statusClass(p.status) === 'out');
-      const gtdCol = all.filter(p => statusClass(p.status) === 'gtd' || statusClass(p.status) === 'other');
-      const probCol = all.filter(p => statusClass(p.status) === 'ok');
-      const rows = Math.max(outCol.length, gtdCol.length, probCol.length);
 
-      const cell = (p) => p
-        ? `<td><div class="table-player">${teamVisual(p.team, 14)}<span>${p.name}</span></div></td>`
-        : `<td class="empty-cell">—</td>`;
-
-      const tableBody = rows === 0
-        ? `<tr><td colspan="3" class="no-injuries-row">Aucune blessure signalée pour ce match</td></tr>`
-        : Array.from({length: rows}).map((_, i) => `<tr>${cell(outCol[i])}${cell(gtdCol[i])}${cell(probCol[i])}</tr>`).join('');
+      const teamBlock = (name, players, first) => `
+        <div class="team-injury-block ${first ? 'first' : ''}">
+          <div class="team-block-head">${teamVisual(name, 16)}<span>${name}</span></div>
+          ${buildTable(players)}
+        </div>`;
 
       return `<div class="game-card" style="--away-color:${colorForTeam(g.away)};--home-color:${colorForTeam(g.home)}">
         <div class="game-time">${g.status || new Date(g.date).toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'})}</div>
@@ -588,10 +608,8 @@ function render(teams, games){
           <span class="vs">@</span>
           <span class="matchup-team">${teamVisual(g.home, 22)}${g.home}</span>
         </div>
-        <table class="injury-table">
-          <thead><tr><th class="out">Out</th><th class="gtd">Incertain</th><th class="ok">Probable</th></tr></thead>
-          <tbody>${tableBody}</tbody>
-        </table>
+        ${teamBlock(g.away, awayPlayers, true)}
+        ${teamBlock(g.home, homePlayers, false)}
       </div>`;
     }).join('')}</div>`;
   }
