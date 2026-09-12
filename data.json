@@ -572,13 +572,6 @@
           "returnDate": "2026-10-01"
         },
         {
-          "name": "Immanuel Quickley",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Quickley enters next season with pressure on him alongside RJ Barrett in the Raptors' backcourt, according to Esfandiar Baraheni of The Athletic.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Alijah Martin",
           "position": "G",
           "status": "Day-To-Day",
@@ -662,5 +655,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1789218995127
+  "fetchedAt": 1789231179650
 }
