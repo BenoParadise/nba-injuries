@@ -208,6 +208,13 @@
       "name": "LA Clippers",
       "players": [
         {
+          "name": "Brandon Ingram",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Heel — The Clippers and Raptors both agreed Monday to finalize the trade sending Leonard to Toronto for Brandon Ingram (heel), Gradey Dick, two unprotected first-round picks, one first-round pick swap and two second-rounders, Shams Charania of ESPN reports.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Jordan Miller",
           "position": "G",
           "status": "Out",
@@ -648,5 +655,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1789399804131
+  "fetchedAt": 1789416309127
 }
