@@ -132,13 +132,6 @@
       "name": "Denver Nuggets",
       "players": [
         {
-          "name": "Aaron Gordon",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Calf — Gordon (calf) could see more usage for Denver in 2026-27 after Peyton Watson was shipped to Cleveland.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Trevon Brazile",
           "position": "F",
           "status": "Day-To-Day",
@@ -655,5 +648,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1789343697705
+  "fetchedAt": 1789353399835
 }
