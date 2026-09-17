@@ -468,6 +468,13 @@
       "name": "Phoenix Suns",
       "players": [
         {
+          "name": "Duop Reath",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Reath (foot) agreed to a one-year veteran minimum contract with the Suns on Wednesday, John Gambadoro of Arizona Sports 98.7 FM reports.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Mark Williams",
           "position": "C",
           "status": "Out",
@@ -655,5 +662,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1789612750357
+  "fetchedAt": 1789632839773
 }
