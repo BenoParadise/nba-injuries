@@ -456,6 +456,13 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Adem Bona",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Bona (foot) will be re-evaluated at the start of training camp, Derek Bodner of AllPHLY.com reports.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Kentavious Caldwell-Pope",
           "position": "G",
           "status": "Day-To-Day",
@@ -662,5 +669,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1789667972396
+  "fetchedAt": 1789679173625
 }
