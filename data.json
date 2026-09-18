@@ -364,17 +364,17 @@
       "name": "New York Knicks",
       "players": [
         {
+          "name": "Jalen Brunson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Brunson (wrist) is expected to be ready for training camp, ESPN's Vincent Goodwill reports.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Mohamed Diawara",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Finger — Diawara (finger) didn't play in Friday's 110-88 Summer League loss to the Mavericks.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Jalen Brunson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Brunson is set to undergo surgery on his right wrist/forearm area Tuesday and is expected to require at least two months of rehab, Ian Begley of SportsNet New York reports.",
           "returnDate": "2026-10-01"
         }
       ]
@@ -669,5 +669,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1789759230830
+  "fetchedAt": 1789769191261
 }
