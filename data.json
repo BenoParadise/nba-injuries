@@ -4,6 +4,13 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Henri Veesaar",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
+          "returnDate": "2027-07-01"
+        },
+        {
           "name": "Mouhamed Gueye",
           "position": "F",
           "status": "Day-To-Day",
@@ -383,6 +390,13 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Jalen Williams",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Williams said he has \"enthusiasm\" for the 2026-27 season after dealing with injuries, according to Justin Martinez of the Thunder Wire.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Isaiah Hartenstein",
           "position": "C",
           "status": "Day-To-Day",
@@ -408,13 +422,6 @@
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Knee — Sorber underwent a successful minor arthroscopic procedure on his right knee Wednesday and will return to full basketball activities in approximately four weeks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Jalen Williams",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Williams (hamstring) has been ruled out for Saturday's Game 7 of the Western Conference Finals against the Spurs.",
           "returnDate": "2026-10-01"
         },
         {
@@ -631,6 +638,13 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Trae Young",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Quadriceps — Young (quadriceps) has been doing sand-dune workouts during the offseason, and his trainer discussed the guard's outlook and leadership criticism Monday, Mark Medina of RG reports.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Jamir Watkins",
           "position": "G",
           "status": "Out",
@@ -650,13 +664,6 @@
           "status": "Day-To-Day",
           "detail": "Finger — The Wizards selected AJ Dybantsa with the No. 1 overall pick in the 2026 NBA Draft, adding another high-usage scorer to the roster.",
           "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Trae Young",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Quadriceps — Young (quadriceps) plans to sign a four-year, $212 million deal with the Wizards, Shams Charania of ESPN reports.",
-          "returnDate": "2026-10-01"
         }
       ]
     }
@@ -669,5 +676,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790011877454
+  "fetchedAt": 1790026107472
 }
