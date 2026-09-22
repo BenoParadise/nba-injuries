@@ -170,13 +170,6 @@
       "name": "Houston Rockets",
       "players": [
         {
-          "name": "Fred VanVleet",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Head coach Ime Udoka said Friday that VanVleet (knee) is ramping up his rehab work, Lachard Binkley of SI.com reports.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Kevin Durant",
           "position": "F",
           "status": "Day-To-Day",
@@ -676,5 +669,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790090262845
+  "fetchedAt": 1790105135789
 }
