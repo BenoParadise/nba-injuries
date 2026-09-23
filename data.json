@@ -211,7 +211,7 @@
           "name": "Brandon Ingram",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Heel — The Clippers and Raptors both agreed Monday to finalize the trade sending Leonard to Toronto for Brandon Ingram (heel), Gradey Dick, two unprotected first-round picks, one first-round pick swap and two second-rounders, Shams Charania of ESPN reports.",
+          "detail": "Heel — Ingram had surgery on his foot/heel during the offseason, ESPN's Brian Windhorst reported Tuesday.",
           "returnDate": "2026-10-01"
         },
         {
@@ -669,5 +669,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790168995221
+  "fetchedAt": 1790186740804
 }
