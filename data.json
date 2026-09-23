@@ -170,17 +170,10 @@
       "name": "Houston Rockets",
       "players": [
         {
-          "name": "Kevin Durant",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Durant (ankle) averaged 26.0 points per game during his first season with Houston and continued to cement his place among the NBA's all-time great scorers, moving into the top five on the league's career 30-point games list.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Steven Adams",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — The Rockets announced Wednesday that Adams has undergone season-ending left ankle surgery, per Shams Charania of ESPN.",
+          "detail": "Ankle — Adams (ankle) didn't offer a return timetable Monday at media day, per Varun Shankar of the Houston Chronicle.",
           "returnDate": "2026-10-01"
         }
       ]
@@ -527,13 +520,6 @@
       "name": "Sacramento Kings",
       "players": [
         {
-          "name": "Domantas Sabonis",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Sabonis (knee) did not participate in Lithuania's latest FIBA World Cup qualifying window as he turned his attention toward preparing for the 2026-27 NBA season.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Keegan Murray",
           "position": "F",
           "status": "Day-To-Day",
@@ -669,5 +655,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790186740804
+  "fetchedAt": 1790200489396
 }
