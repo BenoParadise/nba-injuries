@@ -113,6 +113,13 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Dereck Lively II",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Lively (foot) has not been cleared to participate in training camp yet and is slowly ramping up toward basketball activities, Tim MacMahon of ESPN.com reports.",
+          "returnDate": "2026-10-09"
+        },
+        {
           "name": "Kyrie Irving",
           "position": "G",
           "status": "Day-To-Day",
@@ -124,13 +131,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Knee — Aldama (knee) is expected to be ready in time for training camp, according to NBA reporter Marc Stein.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Dereck Lively II",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Lively (foot) still hasn't progressed to running yet, per Christian Clark of The Athletic.",
           "returnDate": "2026-10-01"
         }
       ]
@@ -655,5 +655,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790208496786
+  "fetchedAt": 1790228459551
 }
