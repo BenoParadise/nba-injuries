@@ -34,18 +34,6 @@
       ]
     },
     {
-      "name": "Boston Celtics",
-      "players": [
-        {
-          "name": "Jayson Tatum",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Tatum (knee) should once again serve as the unquestioned centerpiece of Boston's offense after the Celtics traded Jaylen Brown for Paul George, John Schuhmann of NBA.com reports.",
-          "returnDate": "2026-10-01"
-        }
-      ]
-    },
-    {
       "name": "Brooklyn Nets",
       "players": [
         {
@@ -181,13 +169,6 @@
     {
       "name": "Indiana Pacers",
       "players": [
-        {
-          "name": "Tyrese Haliburton",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Achilles — The Pacers may opt to slowly bring Haliburton back up to speed as he aims to return from a torn Achilles suffered in Game 7 of the 2025 NBA Finals, Jamal Collier of ESPN reports.",
-          "returnDate": "2026-10-01"
-        },
         {
           "name": "Johnny Furphy",
           "position": "G",
@@ -376,6 +357,27 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Ajay Mitchell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Calf — Thunder general manager Sam Presti has mentioned Mitchell (calf) multiple times as a player who could take on more minutes and make a jump this season, according to Brandon Rahbar of Daily Thunder.",
+          "returnDate": "2026-10-01"
+        },
+        {
+          "name": "Thomas Sorber",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Sorber will be limited to begin training camp, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-01"
+        },
+        {
+          "name": "Nikola Topic",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Topic (back) will be limited when training camp begins, Clemente Almanza of USA Today reports",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Jalen Williams",
           "position": "G",
           "status": "Day-To-Day",
@@ -390,31 +392,10 @@
           "returnDate": "2026-10-01"
         },
         {
-          "name": "Ajay Mitchell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — According to Bryan Toporek of Forbes, Oklahoma City's offseason roster shakeup opened additional opportunities in the backcourt after the departures of Isaiah Joe, Aaron Wiggins and Luguentz Dort.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Otega Oweh",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Lower Leg — Oweh (lower leg) didn't play in Sunday's 108-90 Summer League loss to the Nets.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Thomas Sorber",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Sorber underwent a successful minor arthroscopic procedure on his right knee Wednesday and will return to full basketball activities in approximately four weeks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Nikola Topic",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Topic (back) underwent surgery Saturday and is expected to be ready for the start of training camp, Justin Martinez of The Oklahoman reports.",
           "returnDate": "2026-10-01"
         }
       ]
@@ -617,6 +598,13 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Anthony Davis",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Finger — General manager Will Dawkins said during Thursday's press conference that Davis (finger) is \"very much a motivated player\" and that he expects the veteran big man to bounce back in 2026-27.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Alex Sarr",
           "position": "C",
           "status": "Day-To-Day",
@@ -636,13 +624,6 @@
           "status": "Out",
           "detail": "Knee — The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.",
           "returnDate": "2027-04-01"
-        },
-        {
-          "name": "Anthony Davis",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Finger — The Wizards selected AJ Dybantsa with the No. 1 overall pick in the 2026 NBA Draft, adding another high-usage scorer to the roster.",
-          "returnDate": "2026-10-01"
         }
       ]
     }
@@ -655,5 +636,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790264236242
+  "fetchedAt": 1790278741408
 }
