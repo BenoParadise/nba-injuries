@@ -617,6 +617,13 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Alex Sarr",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Sarr will be a partial participant when training camp begins as he continues his recovery from surgery to repair a fractured right foot,Josh Robbins of The Athletic reports.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Trae Young",
           "position": "G",
           "status": "Day-To-Day",
@@ -629,13 +636,6 @@
           "status": "Out",
           "detail": "Knee — The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.",
           "returnDate": "2027-04-01"
-        },
-        {
-          "name": "Alex Sarr",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Washington's selection of AJ Dybantsa likely won't significantly alter Sarr's role heading into his third NBA season",
-          "returnDate": "2026-10-01"
         },
         {
           "name": "Anthony Davis",
@@ -655,5 +655,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790246956026
+  "fetchedAt": 1790264236242
 }
