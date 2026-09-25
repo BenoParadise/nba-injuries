@@ -49,17 +49,17 @@
       "name": "Charlotte Hornets",
       "players": [
         {
-          "name": "Grant Williams",
-          "position": "F",
-          "status": "Out",
-          "detail": "Hamstring — Williams will miss the preseason after suffering a right hamstring injury, the Hornets announced Friday.",
+          "name": "Kon Knueppel",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Knueppel will miss the preseason after suffering a left hamstring injury during an offseason workout, the Hornets announced Friday.",
           "returnDate": "2026-10-21"
         },
         {
-          "name": "Kon Knueppel",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — Knueppel will miss the preseason after suffering a left hamstring injury during an offseason workout, the Hornets announced Friday.",
+          "name": "Grant Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Williams will miss the preseason after suffering a right hamstring injury, the Hornets announced Friday.",
           "returnDate": "2026-10-21"
         },
         {
@@ -107,6 +107,18 @@
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Wrist — Dillingham recently underwent successful minor surgery to have a ganglion cyst removed from his right wrist, the Bulls announced Wednesday.",
+          "returnDate": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "players": [
+        {
+          "name": "Peyton Watson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Although head coach Kenny Atkinson said the starting lineup for the beginning of the 2026-27 season is not yet set, he praised Watson's (hamstring) fit in Cleveland and added that \"there's a lot of room for growth in his offensive game,\" Chris Fedor of Cleveland.com reports.",
           "returnDate": "2026-10-01"
         }
       ]
@@ -629,5 +641,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790369677286
+  "fetchedAt": 1790379820131
 }
