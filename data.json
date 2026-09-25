@@ -338,13 +338,6 @@
       "name": "New York Knicks",
       "players": [
         {
-          "name": "Jalen Brunson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Brunson (wrist) is expected to be ready for training camp, ESPN's Vincent Goodwill reports.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Mohamed Diawara",
           "position": "F",
           "status": "Day-To-Day",
@@ -636,5 +629,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790290316337
+  "fetchedAt": 1790298158676
 }
