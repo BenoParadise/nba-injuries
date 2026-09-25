@@ -49,6 +49,20 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Grant Williams",
+          "position": "F",
+          "status": "Out",
+          "detail": "Hamstring — Williams will miss the preseason after suffering a right hamstring injury, the Hornets announced Friday.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Kon Knueppel",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hamstring — Knueppel will miss the preseason after suffering a left hamstring injury during an offseason workout, the Hornets announced Friday.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Brandon Miller",
           "position": "F",
           "status": "Day-To-Day",
@@ -473,13 +487,6 @@
           "status": "Out",
           "detail": "Knee — Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
           "returnDate": "2027-03-01"
-        },
-        {
-          "name": "Damian Lillard",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Achilles — Lillard (Achilles) defeated Devin Booker and Kon Knueppel in the final round of Saturday's 2026 State Farm 3-Point Contest, taking home his third title.",
-          "returnDate": "2026-10-01"
         }
       ]
     },
@@ -622,5 +629,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790357982403
+  "fetchedAt": 1790369677286
 }
