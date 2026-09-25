@@ -101,18 +101,18 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "Dereck Lively II",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Lively (foot) has not been cleared to participate in training camp yet and is slowly ramping up toward basketball activities, Tim MacMahon of ESPN.com reports.",
-          "returnDate": "2026-10-09"
-        },
-        {
           "name": "Kyrie Irving",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Irving (knee) has been playing in pickup games this offseason in an effort to ramp up toward his return to the court in 2026-27, Tim MacMahon of ESPN reports.",
-          "returnDate": "2026-10-01"
+          "detail": "Knee — Mavericks president Masai Ujiri offered an encouraging update on Irving's recovery Friday, saying the veteran guard is \"right there\" as he works toward returning to game action, Mike Curtis of The Dallas Morning News reports.",
+          "returnDate": "2026-10-09"
+        },
+        {
+          "name": "Dereck Lively II",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Mavericks president Masai Ujiri said Friday that Lively (foot) is \"making good progress\" in his recovery, Mike Curtis of The Dallas Morning News reports.",
+          "returnDate": "2026-10-09"
         },
         {
           "name": "Santi Aldama",
@@ -371,13 +371,6 @@
           "returnDate": "2026-10-01"
         },
         {
-          "name": "Jalen Williams",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Williams said he has \"enthusiasm\" for the 2026-27 season after dealing with injuries, according to Justin Martinez of the Thunder Wire.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Isaiah Hartenstein",
           "position": "C",
           "status": "Day-To-Day",
@@ -629,5 +622,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790339252947
+  "fetchedAt": 1790357982403
 }
