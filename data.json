@@ -127,6 +127,13 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Santi Aldama",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Aldama (undisclosed) was limited during Saturday's practice, Noah Weber of TheSmokingCuban.com reported.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Kyrie Irving",
           "position": "G",
           "status": "Day-To-Day",
@@ -139,13 +146,6 @@
           "status": "Day-To-Day",
           "detail": "Foot — Mavericks president Masai Ujiri said Friday that Lively (foot) is \"making good progress\" in his recovery, Mike Curtis of The Dallas Morning News reports.",
           "returnDate": "2026-10-09"
-        },
-        {
-          "name": "Santi Aldama",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Aldama (knee) is expected to be ready in time for training camp, according to NBA reporter Marc Stein.",
-          "returnDate": "2026-10-01"
         }
       ]
     },
@@ -641,5 +641,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790443863039
+  "fetchedAt": 1790454384342
 }
