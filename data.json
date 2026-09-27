@@ -180,8 +180,8 @@
           "name": "Steven Adams",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Adams (ankle) didn't offer a return timetable Monday at media day, per Varun Shankar of the Houston Chronicle.",
-          "returnDate": "2026-10-01"
+          "detail": "Ankle — Head coach Ime Udoka said Friday that he does not see Adams (ankle) playing in both halves of back-to-back sets to start the 2026-27 season, Will Guillory of The Athletic reports.",
+          "returnDate": "2026-10-09"
         }
       ]
     },
@@ -634,5 +634,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790477156320
+  "fetchedAt": 1790498761570
 }
