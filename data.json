@@ -101,13 +101,6 @@
           "status": "Day-To-Day",
           "detail": "Ankle — Giddey (ankle) could benefit from the selections of Caleb Wilson and Dailyn Swain as well as Chicago's acquisition of Nic Claxton (finger) in 2026-27.",
           "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Rob Dillingham",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Dillingham recently underwent successful minor surgery to have a ganglion cyst removed from his right wrist, the Bulls announced Wednesday.",
-          "returnDate": "2026-10-01"
         }
       ]
     },
@@ -641,5 +634,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790464589737
+  "fetchedAt": 1790477156320
 }
