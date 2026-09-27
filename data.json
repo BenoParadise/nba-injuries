@@ -49,6 +49,13 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Rob Dillingham",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Wrist — The Hornets acquired Dillingham (wrist) from the Bulls on Saturday in exchange for Buddy Hield and cash, Shams Charania of ESPN reports.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Kon Knueppel",
           "position": "G",
           "status": "Day-To-Day",
@@ -634,5 +641,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790519211145
+  "fetchedAt": 1790534862240
 }
