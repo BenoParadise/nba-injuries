@@ -40,15 +40,8 @@
           "name": "Mikel Brown Jr.",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Brown (rest) is primed for a significant role ahead of his rookie season in 2026-27.",
+          "detail": "Ankle — General manager Sean Marks said Monday that Brown rolled his ankle last week and will ramp up at the start of training camp, Erik Slater of ClutchPoints.com reports.",
           "returnDate": "2026-10-06"
-        },
-        {
-          "name": "Nolan Traore",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Brooklyn general manager Sean Marks announced Monday that Traore underwent right knee surgery and won't play in Summer League, C.J. Holmes of the New York Daily News reports.",
-          "returnDate": "2026-10-01"
         }
       ]
     },
@@ -100,13 +93,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Toe — Collins (toe) agreed to a two-year, $17 million extension with Chicago on Tuesday, Shams Charania of ESPN reports.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Josh Giddey",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Giddey (ankle) could benefit from the selections of Caleb Wilson and Dailyn Swain as well as Chicago's acquisition of Nic Claxton (finger) in 2026-27.",
           "returnDate": "2026-10-01"
         }
       ]
@@ -165,17 +151,24 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Kristaps Porzingis",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Porzingis is out indefinitely due to an undisclosed issue, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
           "name": "Jimmy Butler III",
           "position": "F",
           "status": "Out",
-          "detail": "Knee — Butler (knee) is still in the relatively early stages of his recovery and has only recently begun getting back on the court, according to Danny Emerman of SFStandard.com.",
+          "detail": "Knee — Butler has been cleared to participate in light on-court activities, Evan Webeck of the California Post reports.",
           "returnDate": "2026-12-01"
         },
         {
           "name": "Moses Moody",
           "position": "G",
           "status": "Out",
-          "detail": "Knee — Moody has been diagnosed with a torn patellar tendon in his left knee, Shams Charania of ESPN reports.",
+          "detail": "Knee — Moody has progressed to light on-court activities as he continues his recovery from a ruptured left patellar tendon, Evan Webeck of The Mercury News reports.",
           "returnDate": "2026-12-01"
         }
       ]
@@ -208,11 +201,25 @@
       "name": "LA Clippers",
       "players": [
         {
+          "name": "Bradley Beal",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Beal (knee) will miss the start of training camp, Law Murray of The Athletic reports.",
+          "returnDate": "2026-10-04"
+        },
+        {
+          "name": "Yanic Konan Niederhauser",
+          "position": "C",
+          "status": "Out",
+          "detail": "Foot — Niederhauser (foot) won't be ready for the start of the season, Law Murray of The Athletic reports.",
+          "returnDate": "2026-11-01"
+        },
+        {
           "name": "Brandon Ingram",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Heel — Ingram had surgery on his foot/heel during the offseason, ESPN's Brian Windhorst reported Tuesday.",
-          "returnDate": "2026-10-01"
+          "status": "Out",
+          "detail": "Achilles — Ingram won't be ready for the start of the season due to a partially torn Achilles, per Joey Linn of SI.com.",
+          "returnDate": "2026-11-01"
         },
         {
           "name": "Jordan Miller",
@@ -220,26 +227,26 @@
           "status": "Out",
           "detail": "Shoulder — Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
           "returnDate": "2027-03-01"
-        },
-        {
-          "name": "Bradley Beal",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Beal (hip) agreed to a two-year, $13.2 million contract with Los Angeles on Thursday, Shams Charania of ESPN reports.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Yanic Konan Niederhauser",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Niederhauser has been diagnosed with a Lisfranc injury in his right foot and will require surgery. He's been ruled out for the remainder of the 2025-26 season, Joey Linn of SI.com reports.",
-          "returnDate": "2026-10-01"
         }
       ]
     },
     {
       "name": "Memphis Grizzlies",
       "players": [
+        {
+          "name": "Micah Peavy",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — General manager Zach Kleiman said Monday that Peavy recently turned his ankle and it'll be \"some time\" before the team gets a full look at him, Damichael Cole of The Memphis Commercial Appeal reports.",
+          "returnDate": "2026-10-05"
+        },
+        {
+          "name": "Zach Edey",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — General manager Zach Kleiman said Monday that Edey (ankle/elbow) has been cleared for on-court activity and is on pace to suit up for Memphis' regular-season opener against the Jazz on Wednesday, Oct. 21, Chris Herrington of The Daily Memphian reports.",
+          "returnDate": "2026-10-05"
+        },
         {
           "name": "Scotty Pippen Jr.",
           "position": "G",
@@ -273,13 +280,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Toe — Wells (toe) should continue competing for rotation minutes on the wing despite Memphis adding Cameron Boozer with the No. 3 overall pick.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Zach Edey",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Edey's (ankle, elbow) role becomes more intriguing following Memphis' addition of Cameron Boozer.",
           "returnDate": "2026-10-01"
         }
       ]
@@ -336,7 +336,7 @@
           "name": "Donte DiVincenzo",
           "position": "G",
           "status": "Out",
-          "detail": "Achilles — DiVincenzo will undergo surgery Sunday to repair a ruptured right Achilles tendon that he suffered during the Timberwolves Game 4 win over the Nuggets on Saturday.",
+          "detail": "Achilles — Team president Tim Connelly believes DiVincenzo (Achilles) will return at some point this season, Jack Borman of the Locked On Wolves Podcast reports.",
           "returnDate": "2027-04-01"
         }
       ]
@@ -409,25 +409,18 @@
       "name": "Orlando Magic",
       "players": [
         {
-          "name": "Franz Wagner",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Calf — Wagner (calf) did not participate in Germany's latest FIBA World Cup qualifying window as he focuses on preparing for the 2026-27 NBA season.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Izaiyah Nelson",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — The Magic announced Monday that Nelson will undergo surgery to repair a fracture in his left ankle, and he's expected to return to basketball activities in 3-4 months.",
+          "detail": "Ankle — Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
           "returnDate": "2026-11-01"
         },
         {
           "name": "Jonathan Isaac",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Isaac (knee) will return to the Magic on a one-year deal, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-01"
+          "detail": "Knee — Isaac (knee) said he will be limited to open training camp, according to Orlando Magic Daily.",
+          "returnDate": "2026-10-07"
         }
       ]
     },
@@ -480,44 +473,11 @@
       "name": "Portland Trail Blazers",
       "players": [
         {
-          "name": "Ja Morant",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Elbow — Morant is set to share the playmaking duties with Damian Lillard in Portland's starting backcourt after being traded from Memphis.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Shaedon Sharpe",
           "position": "G",
           "status": "Out",
           "detail": "Knee — Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
           "returnDate": "2027-03-01"
-        }
-      ]
-    },
-    {
-      "name": "Sacramento Kings",
-      "players": [
-        {
-          "name": "Keegan Murray",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Murray (ankle) is projected to start at power forward for the Kings in 2026-27, according to Kings beat writer Chris Watkins.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Zach LaVine",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hand — LaVine (hand) exercised his $49 million player option for 2026-27 on Monday, Shams Charania of ESPN reports.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "De'Andre Hunter",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Eye — Hunter (eye) has a major competitor for usage after the Kings took Darius Acuff in the 2026 WNBA Draft.",
-          "returnDate": "2026-10-01"
         }
       ]
     },
@@ -627,5 +587,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790606778052
+  "fetchedAt": 1790629044523
 }
