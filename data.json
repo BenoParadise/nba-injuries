@@ -37,6 +37,13 @@
       "name": "Brooklyn Nets",
       "players": [
         {
+          "name": "Mikel Brown Jr.",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Brown (rest) is primed for a significant role ahead of his rookie season in 2026-27.",
+          "returnDate": "2026-10-06"
+        },
+        {
           "name": "Nolan Traore",
           "position": "G",
           "status": "Day-To-Day",
@@ -49,6 +56,13 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Kon Knueppel",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Hornets general manager Jeff Peterson said Monday that he \"doesn't know\" whether Knueppel (hamstring) will be available for the team's regular-season opener against the Nets, Owen Watterson of SI.com reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Rob Dillingham",
           "position": "G",
           "status": "Day-To-Day",
@@ -56,25 +70,11 @@
           "returnDate": "2026-10-01"
         },
         {
-          "name": "Kon Knueppel",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Knueppel will miss the preseason after suffering a left hamstring injury during an offseason workout, the Hornets announced Friday.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Grant Williams",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Hamstring — Williams will miss the preseason after suffering a right hamstring injury, the Hornets announced Friday.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Brandon Miller",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Miller (shoulder) provided an update on his rehab after surgery in comments to Roderick Boone of The Charlotte Observer on Tuesday.",
-          "returnDate": "2026-10-01"
         },
         {
           "name": "PJ Hall",
@@ -563,13 +563,6 @@
           "status": "Day-To-Day",
           "detail": "Knee — Hepburn (knee) won't play in Sunday's Summer League game against the Nuggets, Zulfi Sheikh of Sportsnet reports.",
           "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Collin Murray-Boyles",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Finger — Murray-Boyles (finger) won't play in Sunday's Summer League game against the Nuggets, Zulfi Sheikh of sportsnet reports.",
-          "returnDate": "2026-10-01"
         }
       ]
     },
@@ -634,5 +627,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790575747271
+  "fetchedAt": 1790606778052
 }
