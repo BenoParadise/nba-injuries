@@ -302,13 +302,6 @@
           "returnDate": "2026-10-01"
         },
         {
-          "name": "Trevor Keels",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Keels (knee) didn't play in Friday's 101-87 Summer League win over the Pistons.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Ryan Conwell",
           "position": "G",
           "status": "Day-To-Day",
@@ -641,5 +634,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790545524816
+  "fetchedAt": 1790554172524
 }
