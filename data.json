@@ -148,6 +148,18 @@
       ]
     },
     {
+      "name": "Detroit Pistons",
+      "players": [
+        {
+          "name": "Jalen Duren",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Not Injury Related — Duren won't attend the Pistons' media day Monday and isn't planning to show up for the start of training camp, Shams Charania of ESPN reports.",
+          "returnDate": "2026-10-05"
+        }
+      ]
+    },
+    {
       "name": "Golden State Warriors",
       "players": [
         {
@@ -181,20 +193,15 @@
       ]
     },
     {
-      "name": "Houston Rockets",
-      "players": [
-        {
-          "name": "Steven Adams",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Head coach Ime Udoka said Friday that he does not see Adams (ankle) playing in both halves of back-to-back sets to start the 2026-27 season, Will Guillory of The Athletic reports.",
-          "returnDate": "2026-10-09"
-        }
-      ]
-    },
-    {
       "name": "Indiana Pacers",
       "players": [
+        {
+          "name": "Larry Nance Jr.",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Pacers coach Rick Carlisle said Nance is limited to 5-on-0 work at training camp after suffering a hamstring injury just over two weeks ago, Tony East of Forbes.com reports.",
+          "returnDate": "2026-10-07"
+        },
         {
           "name": "Johnny Furphy",
           "position": "G",
@@ -287,13 +294,6 @@
     {
       "name": "Miami Heat",
       "players": [
-        {
-          "name": "Giannis Antetokounmpo",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Antetokounmpo (knee) did not participate in Greece's latest FIBA World Cup qualifying window as he focused on preparing for the 2026-27 NBA season.",
-          "returnDate": "2026-10-01"
-        },
         {
           "name": "Bam Adebayo",
           "position": "C",
@@ -601,5 +601,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790688944353
+  "fetchedAt": 1790708457015
 }
