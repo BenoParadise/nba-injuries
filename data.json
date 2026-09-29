@@ -56,13 +56,6 @@
           "returnDate": "2026-10-21"
         },
         {
-          "name": "Rob Dillingham",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Wrist — The Hornets acquired Dillingham (wrist) from the Bulls on Saturday in exchange for Buddy Hield and cash, Shams Charania of ESPN reports.",
-          "returnDate": "2026-10-01"
-        },
-        {
           "name": "Grant Williams",
           "position": "F",
           "status": "Day-To-Day",
@@ -82,17 +75,17 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Zach Collins",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Toe — Head coach Tiago Splitter said Monday that Collins (toe) is dealing with a soft tissue injury and isn't expected to practice Tuesday, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
           "name": "Dailyn Swain",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Wrist — Swain is out for Friday's Summer League game against the Cavaliers due to right wrist soreness, per K.C. Johnson of Chicago Sports Network.",
-          "returnDate": "2026-10-01"
-        },
-        {
-          "name": "Zach Collins",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Toe — Collins (toe) agreed to a two-year, $17 million extension with Chicago on Tuesday, Shams Charania of ESPN reports.",
           "returnDate": "2026-10-01"
         }
       ]
@@ -113,10 +106,17 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Morez Johnson Jr.",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Johnson (undisclosed) has been limited during training camp thus far, though head coach Dusty May said Monday that he's working his way back and getting close to practicing in full, Grant Afseth of DallasHoopsJournal.com reports.",
+          "returnDate": "2026-10-09"
+        },
+        {
           "name": "Santi Aldama",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Aldama (undisclosed) was limited during Saturday's practice, Noah Weber of TheSmokingCuban.com reported.",
+          "detail": "Undisclosed — Aldama (undisclosed) was limited during Saturday's practice, Noah Weber of TheSmokingCuban.com reported.",
           "returnDate": "2026-10-01"
         },
         {
@@ -269,13 +269,6 @@
           "returnDate": "2026-10-01"
         },
         {
-          "name": "Richie Saunders",
-          "position": "G",
-          "status": "Out",
-          "detail": "Knee — Saunders was selected by the Grizzlies with the No. 32 overall pick in the 2026 NBA Draft.",
-          "returnDate": "2026-12-01"
-        },
-        {
           "name": "Jaylen Wells",
           "position": "F",
           "status": "Day-To-Day",
@@ -357,6 +350,20 @@
       "name": "New York Knicks",
       "players": [
         {
+          "name": "N'Faly Dante",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Dante (knee) signed an Exhibit 10 contract with the Knicks on Saturday.",
+          "returnDate": "2026-11-02"
+        },
+        {
+          "name": "Drew Eubanks",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Thumb — Eubanks (thumb) agreed to a training camp contract with the Knicks on Tuesday, Ian Begley of SportsNet New York reports.",
+          "returnDate": "2026-10-01"
+        },
+        {
           "name": "Mohamed Diawara",
           "position": "F",
           "status": "Day-To-Day",
@@ -411,7 +418,7 @@
         {
           "name": "Izaiyah Nelson",
           "position": "F",
-          "status": "Day-To-Day",
+          "status": "Out",
           "detail": "Ankle — Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
           "returnDate": "2026-11-01"
         },
@@ -458,7 +465,7 @@
           "position": "C",
           "status": "Out",
           "detail": "Shoulder — Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
-          "returnDate": "2027-02-01"
+          "returnDate": "2027-02-03"
         },
         {
           "name": "CJ Huntley",
@@ -477,7 +484,7 @@
           "position": "G",
           "status": "Out",
           "detail": "Knee — Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
-          "returnDate": "2027-03-01"
+          "returnDate": "2027-03-02"
         }
       ]
     },
@@ -587,5 +594,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790629044523
+  "fetchedAt": 1790642944449
 }
