@@ -170,6 +170,13 @@
           "status": "Out",
           "detail": "Knee — Moody has progressed to light on-court activities as he continues his recovery from a ruptured left patellar tendon, Evan Webeck of The Mercury News reports.",
           "returnDate": "2026-12-01"
+        },
+        {
+          "name": "Alex Toohey",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Toohey (knee) signed an Exhibit 10 contract with the Warriors on Wednesday, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-10-01"
         }
       ]
     },
@@ -594,5 +601,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790642944449
+  "fetchedAt": 1790663201165
 }
