@@ -80,13 +80,6 @@
           "status": "Day-To-Day",
           "detail": "Toe — Head coach Tiago Splitter said Monday that Collins (toe) is dealing with a soft tissue injury and isn't expected to practice Tuesday, K.C. Johnson of Chicago Sports Network reports.",
           "returnDate": "2026-10-07"
-        },
-        {
-          "name": "Dailyn Swain",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Swain is out for Friday's Summer League game against the Cavaliers due to right wrist soreness, per K.C. Johnson of Chicago Sports Network.",
-          "returnDate": "2026-10-01"
         }
       ]
     },
@@ -294,13 +287,6 @@
     {
       "name": "Miami Heat",
       "players": [
-        {
-          "name": "Bam Adebayo",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Back — Adebayo's (back) fantasy outlook should remain strong after Miami acquired Giannis Antetokounmpo, though his offensive role could shift alongside another high-usage frontcourt star, Ira Winderman of the South Florida Sentinel opines.",
-          "returnDate": "2026-10-01"
-        },
         {
           "name": "Ryan Conwell",
           "position": "G",
@@ -601,5 +587,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790708457015
+  "fetchedAt": 1790723855806
 }
