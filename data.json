@@ -346,7 +346,7 @@
           "name": "N'Faly Dante",
           "position": "C",
           "status": "Out",
-          "detail": "Knee — Dante (knee) signed an Exhibit 10 contract with the Knicks on Saturday.",
+          "detail": "Knee — The Knicks waived Dante (knee) on Wednesday.",
           "returnDate": "2026-11-02"
         },
         {
@@ -408,6 +408,20 @@
     {
       "name": "Orlando Magic",
       "players": [
+        {
+          "name": "Noah Penda",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Penda tweaked his hamstring and is sidelined to begin training camp, according to Orlando Magic Daily.",
+          "returnDate": "2026-10-07"
+        },
+        {
+          "name": "Anthony Black",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Magic coach Sean Sweeney said Wednesday that Black is sidelined to begin training camp with a minor ankle sprain, according to Orlando Magic Daily.",
+          "returnDate": "2026-10-07"
+        },
         {
           "name": "Izaiyah Nelson",
           "position": "F",
@@ -587,5 +601,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790762856328
+  "fetchedAt": 1790786039467
 }
