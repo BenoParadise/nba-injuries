@@ -102,7 +102,7 @@
           "name": "Morez Johnson Jr.",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Johnson (undisclosed) has been limited during training camp thus far, though head coach Dusty May said Monday that he's working his way back and getting close to practicing in full, Grant Afseth of DallasHoopsJournal.com reports.",
+          "detail": "Lower Leg — Head coach Dusty May said Wednesday that Johnson has been limited in training camp due to lower-leg soreness, Ron Harrod Jr. of DLLS Sports reports.",
           "returnDate": "2026-10-09"
         },
         {
@@ -342,13 +342,6 @@
     {
       "name": "New York Knicks",
       "players": [
-        {
-          "name": "N'Faly Dante",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — The Knicks waived Dante (knee) on Wednesday.",
-          "returnDate": "2026-11-02"
-        },
         {
           "name": "Drew Eubanks",
           "position": "F",
@@ -601,5 +594,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790816172100
+  "fetchedAt": 1790837143120
 }
