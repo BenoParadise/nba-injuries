@@ -388,18 +388,18 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Tacko Fall",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Hip — Fall was diagnosed with a left hip strain Thursday and will miss at least two weeks, Kyle Neubeck of AllPHLY.com reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
           "name": "Adem Bona",
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Foot — 76ers coach Nick Nurse said Bona (foot) will be re-evaluated in a couple days, Tony Jones of The Athletic reports.",
           "returnDate": "2026-10-05"
-        },
-        {
-          "name": "Tacko Fall",
-          "position": "C",
-          "status": "Out",
-          "detail": "Hip — Fall was diagnosed with a left hip strain Thursday and will miss at least two weeks, Kyle Neubeck of AllPHLY.com reports.",
-          "returnDate": "2026-10-16"
         }
       ]
     },
@@ -463,6 +463,27 @@
     {
       "name": "Toronto Raptors",
       "players": [
+        {
+          "name": "Jamison Battle",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Battle was held out of Thursday's scrimmage due to a lower back injury, Josh Lewenberg of TSN.ca reports.",
+          "returnDate": "2026-10-03"
+        },
+        {
+          "name": "Kyle Anderson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Anderson sat out of Thursday's scrimmage due to a bruised right knee, Josh Lewenberg of TSN.ca reports.",
+          "returnDate": "2026-10-03"
+        },
+        {
+          "name": "Allen Graves",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Groin — Graves did not participate in the Raptors' scrimmage Thursday after tweaking his groin in practice, Josh Lewenberg of TSN.ca reports.",
+          "returnDate": "2026-10-03"
+        },
         {
           "name": "Nate Bittle",
           "position": "C",
@@ -533,5 +554,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790884767110
+  "fetchedAt": 1790898378176
 }
