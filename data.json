@@ -141,18 +141,6 @@
       ]
     },
     {
-      "name": "Detroit Pistons",
-      "players": [
-        {
-          "name": "Jalen Duren",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Not Injury Related — Duren won't attend the Pistons' media day Monday and isn't planning to show up for the start of training camp, Shams Charania of ESPN reports.",
-          "returnDate": "2026-10-05"
-        }
-      ]
-    },
-    {
       "name": "Golden State Warriors",
       "players": [
         {
@@ -554,5 +542,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790898378176
+  "fetchedAt": 1790911222553
 }
