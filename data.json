@@ -215,6 +215,13 @@
       "name": "LA Clippers",
       "players": [
         {
+          "name": "Kobe Sanders",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hip — Sanders won't play in Sunday's preseason game against the Warriors due to a left hip impingement, Joey Linn of SI.com reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Bradley Beal",
           "position": "G",
           "status": "Day-To-Day",
@@ -407,25 +414,11 @@
       "name": "Phoenix Suns",
       "players": [
         {
-          "name": "Duop Reath",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Reath (foot) agreed to a one-year veteran minimum contract with the Suns on Wednesday, John Gambadoro of Arizona Sports 98.7 FM reports.",
-          "returnDate": "2026-10-05"
-        },
-        {
           "name": "Mark Williams",
           "position": "C",
           "status": "Out",
           "detail": "Shoulder — Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
           "returnDate": "2027-02-03"
-        },
-        {
-          "name": "CJ Huntley",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Huntley (hamstring) is out for Saturday's Las Vegas Summer League finale versus the Spurs, Duane Rankin of The Arizona Republic reports.",
-          "returnDate": "2026-10-05"
         }
       ]
     },
@@ -464,31 +457,45 @@
       "name": "Toronto Raptors",
       "players": [
         {
-          "name": "Nate Bittle",
-          "position": "C",
+          "name": "Trayce Jackson-Davis",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Foot — Bittle (foot) didn't participate in Thursday's scrimmage, Michael Grange of Sportsnet.ca reports.",
-          "returnDate": "2026-10-03"
+          "detail": "Undisclosed — Jackson-Davis won't play against the Heat in Saturday's preseason game due to undisclosed reasons, according to Josh Lewenberg of TSN.ca.",
+          "returnDate": "2026-10-10"
         },
         {
           "name": "Jamison Battle",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Back — Battle was held out of Thursday's scrimmage due to a lower back injury, Josh Lewenberg of TSN.ca reports.",
-          "returnDate": "2026-10-03"
+          "detail": "Back — Battle (back) has been ruled out for Saturday's preseason game against the Heat, Josh Lewenberg of TSN.ca reports.",
+          "returnDate": "2026-10-10"
         },
         {
           "name": "Kyle Anderson",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Anderson sat out of Thursday's scrimmage due to a bruised right knee, Josh Lewenberg of TSN.ca reports.",
-          "returnDate": "2026-10-03"
+          "detail": "Knee — Anderson (knee) has been ruled out for Saturday's preseason game against the Heat, Josh Lewenberg of TSN.ca reports.",
+          "returnDate": "2026-10-10"
         },
         {
           "name": "Allen Graves",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Groin — Graves did not participate in the Raptors' scrimmage Thursday after tweaking his groin in practice, Josh Lewenberg of TSN.ca reports.",
+          "detail": "Groin — Graves (groin) has been ruled out for Saturday's preseason game against the Heat, Josh Lewenberg of TSN.ca reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Kawhi Leonard",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Not Injury Related — Leonard (not injury related) won't play in Saturday's preseason opener against Miami and is unlikely to suit up for next Saturday's preseason game against the Clippers, Josh Lewenberg of TSN.ca reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Nate Bittle",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Bittle (foot) didn't participate in Thursday's scrimmage, Michael Grange of Sportsnet.ca reports.",
           "returnDate": "2026-10-03"
         },
         {
@@ -523,18 +530,18 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Alex Sarr",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Sarr (foot) didn't participate in Saturday's scrimmage but is expected to ramp up to full contact in the coming days, Josh Robbins of The Athletic reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
           "name": "Tristan Vukcevic",
           "position": "F",
           "status": "Out",
           "detail": "Hip — The Wizards announced Thursday that Vukcevic (hip) will be re-evaluated in four weeks.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Alex Sarr",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Sarr will be a partial participant when training camp begins as he continues his recovery from surgery to repair a fractured right foot,Josh Robbins of The Athletic reports.",
-          "returnDate": "2026-10-08"
         },
         {
           "name": "Jamir Watkins",
@@ -554,5 +561,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1791053689652
+  "fetchedAt": 1791064518348
 }
