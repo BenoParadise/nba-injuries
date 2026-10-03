@@ -148,6 +148,18 @@
       ]
     },
     {
+      "name": "Detroit Pistons",
+      "players": [
+        {
+          "name": "Jalen Duren",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Duren (undisclosed) is not present for the Pistons' open practice Saturday, Eric Vincent of ClutchPoints.com reports.",
+          "returnDate": "2026-10-05"
+        }
+      ]
+    },
+    {
       "name": "Golden State Warriors",
       "players": [
         {
@@ -274,13 +286,6 @@
           "status": "Day-To-Day",
           "detail": "Calf — Smith will miss a couple weeks with a strained right calf, Ira Winderman of the South Florida Sun Sentinel reports.",
           "returnDate": "2026-10-16"
-        },
-        {
-          "name": "Myron Gardner",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Gardner (ankle) won't participate in the Las Vegas Summer League, per Ira Winderman of the South Florida Sun Sentinel.",
-          "returnDate": "2026-10-03"
         }
       ]
     },
@@ -316,13 +321,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Thumb — Eubanks (thumb) agreed to a training camp contract with the Knicks on Tuesday, Ian Begley of SportsNet New York reports.",
-          "returnDate": "2026-10-05"
-        },
-        {
-          "name": "Mohamed Diawara",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Finger — Diawara (finger) didn't play in Friday's 110-88 Summer League loss to the Mavericks.",
           "returnDate": "2026-10-05"
         }
       ]
@@ -466,6 +464,13 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Nate Bittle",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Bittle (foot) didn't participate in Thursday's scrimmage, Michael Grange of Sportsnet.ca reports.",
+          "returnDate": "2026-10-03"
+        },
+        {
           "name": "Jamison Battle",
           "position": "F",
           "status": "Day-To-Day",
@@ -484,13 +489,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Groin — Graves did not participate in the Raptors' scrimmage Thursday after tweaking his groin in practice, Josh Lewenberg of TSN.ca reports.",
-          "returnDate": "2026-10-03"
-        },
-        {
-          "name": "Nate Bittle",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Lower Leg — Bittle (lower leg) was spotted in a walking boot Wednesday, Esfandiar Baraheni of The Athletic reports.",
           "returnDate": "2026-10-03"
         },
         {
@@ -556,5 +554,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1791039624115
+  "fetchedAt": 1791053689652
 }
