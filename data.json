@@ -132,6 +132,13 @@
       "name": "Denver Nuggets",
       "players": [
         {
+          "name": "Spencer Jones",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Jones tweaked his hamstring and did not practice Friday, Harrison Wind of TheDNVR.com reports.",
+          "returnDate": "2026-10-04"
+        },
+        {
           "name": "Trevon Brazile",
           "position": "F",
           "status": "Day-To-Day",
@@ -549,5 +556,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1790988632004
+  "fetchedAt": 1791006938757
 }
