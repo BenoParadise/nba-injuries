@@ -135,8 +135,15 @@
           "name": "Spencer Jones",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Jones tweaked his hamstring and did not practice Friday, Harrison Wind of TheDNVR.com reports.",
-          "returnDate": "2026-10-04"
+          "detail": "Hamstring — Jones (hamstring) has been ruled out for Sunday's preseason game against the Jazz, Katy Winge of Altitude Sports reports.",
+          "returnDate": "2026-10-06"
+        },
+        {
+          "name": "Jamal Murray",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Personal — Murray is out for Sunday's preseason opener against the Jazz due to personal reasons, Katy Winge of Altitude Sports reports.",
+          "returnDate": "2026-10-06"
         },
         {
           "name": "Trevon Brazile",
@@ -228,6 +235,13 @@
     {
       "name": "LA Clippers",
       "players": [
+        {
+          "name": "Max Strus",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Strus exited Sunday's preseason game against the Warriors due to an apparent right ankle injury, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-10-04"
+        },
         {
           "name": "Kobe Sanders",
           "position": "G",
@@ -452,6 +466,13 @@
       "name": "San Antonio Spurs",
       "players": [
         {
+          "name": "Tobias Harris",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Calf — Harris will not play in the preseason due to a left calf strain, Michael C. Wright of ESPN.com reports.",
+          "returnDate": "2026-10-20"
+        },
+        {
           "name": "David Jones Garcia",
           "position": "F",
           "status": "Day-To-Day",
@@ -525,11 +546,25 @@
       "name": "Utah Jazz",
       "players": [
         {
-          "name": "Trey Alexander",
+          "name": "Josh Green",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ribs — Alexander (rib) is out for Friday's Summer League game against Portland, per Ben Anderson of KSL News Salt Lake City.",
-          "returnDate": "2026-10-04"
+          "detail": "Knee — Green (knee) has been ruled out for Sunday's preseason game against the Nuggets, Shreyas Laddha of The Salt Lake Tribune reports.",
+          "returnDate": "2026-10-06"
+        },
+        {
+          "name": "Brice Sensabaugh",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hip — Sensabaugh won't play in Sunday's preseason opener against the Nuggets due to a left hip injury, Shreyas Laddha of The Salt Lake Tribune reports.",
+          "returnDate": "2026-10-06"
+        },
+        {
+          "name": "Kyle Filipowski",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Filipowski is out for Sunday's preseason opener against the Nuggets due to a lower back issue, Shreyas Laddha of The Salt Lake Tribune reports.",
+          "returnDate": "2026-10-06"
         }
       ]
     },
@@ -563,16 +598,16 @@
   "games": [
     {
       "date": "2026-10-04T23:00Z",
-      "status": "10/4 - 7:00 PM EDT",
+      "status": "10:17 - 2nd",
       "home": "Denver Nuggets",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-10-04T23:00Z",
-      "status": "10/4 - 7:00 PM EDT",
+      "status": "11:42 - 2nd",
       "home": "LA Clippers",
       "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1791146536794
+  "fetchedAt": 1791157463114
 }
