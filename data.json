@@ -457,6 +457,20 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Nate Bittle",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Bittle (foot) did not play in Saturday's 129-105 preseason loss to the Heat.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Alijah Martin",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Martin (knee) didn't play in Saturday's preseason game against the Heat.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Trayce Jackson-Davis",
           "position": "F",
           "status": "Day-To-Day",
@@ -490,27 +504,6 @@
           "status": "Day-To-Day",
           "detail": "Not Injury Related — Leonard (not injury related) won't play in Saturday's preseason opener against Miami and is unlikely to suit up for next Saturday's preseason game against the Clippers, Josh Lewenberg of TSN.ca reports.",
           "returnDate": "2026-10-10"
-        },
-        {
-          "name": "Nate Bittle",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Bittle (foot) didn't participate in Thursday's scrimmage, Michael Grange of Sportsnet.ca reports.",
-          "returnDate": "2026-10-03"
-        },
-        {
-          "name": "Alijah Martin",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Martin (knee) won't play in Sunday's Summer League game against the Nuggets, Zulfi Sheikh of Sportsnet reports.",
-          "returnDate": "2026-10-03"
-        },
-        {
-          "name": "Chucky Hepburn",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Hepburn (knee) won't play in Sunday's Summer League game against the Nuggets, Zulfi Sheikh of Sportsnet reports.",
-          "returnDate": "2026-10-03"
         }
       ]
     },
@@ -556,10 +549,10 @@
   "games": [
     {
       "date": "2026-10-03T23:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Toronto Raptors",
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1791072970625
+  "fetchedAt": 1791095573240
 }
