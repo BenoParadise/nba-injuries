@@ -556,10 +556,10 @@
   "games": [
     {
       "date": "2026-10-03T23:00Z",
-      "status": "10/3 - 7:00 PM EDT",
+      "status": "Halftime",
       "home": "Toronto Raptors",
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1791064518348
+  "fetchedAt": 1791072970625
 }
