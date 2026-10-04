@@ -196,10 +196,24 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "Quenton Jackson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Jackson (undisclosed) won't participate in Sunday's scrimmage, Tony East of Forbes.com reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
+          "name": "T.J. McConnell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — McConnell (undisclosed) will not participate in Sunday's scrimmage, Tony East of Forbes.com reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
           "name": "Larry Nance Jr.",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Pacers coach Rick Carlisle said Nance is limited to 5-on-0 work at training camp after suffering a hamstring injury just over two weeks ago, Tony East of Forbes.com reports.",
+          "detail": "Hamstring — Nance (hamstring) won't participate in Sunday's scrimmage, Tony East of Forbes.com reports.",
           "returnDate": "2026-10-07"
         },
         {
@@ -365,14 +379,14 @@
           "name": "Noah Penda",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Penda is nearing a return to full participation after being limited by a hamstring injury during training camp, Jason Beede of the Orlando Sentinel reports.",
+          "detail": "Hamstring — Penda (hamstring) participated in Sunday's practice and has been progressing in his ramp-up process, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-07"
         },
         {
           "name": "Anthony Black",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Black is making progress in his recovery from the ankle sprain that has limited him during training camp, Jason Beede of the Orlando Sentinel reports.",
+          "detail": "Ankle — Black (ankle) participated in Sunday's practice and has been progressing in his ramp-up process, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-07"
         },
         {
@@ -548,11 +562,17 @@
   ],
   "games": [
     {
-      "date": "2026-10-03T23:00Z",
-      "status": "Final",
-      "home": "Toronto Raptors",
-      "away": "Miami Heat"
+      "date": "2026-10-04T23:00Z",
+      "status": "10/4 - 7:00 PM EDT",
+      "home": "Denver Nuggets",
+      "away": "Utah Jazz"
+    },
+    {
+      "date": "2026-10-04T23:00Z",
+      "status": "10/4 - 7:00 PM EDT",
+      "home": "LA Clippers",
+      "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1791118700577
+  "fetchedAt": 1791134387564
 }
