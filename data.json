@@ -144,13 +144,6 @@
           "status": "Day-To-Day",
           "detail": "Personal — Murray is out for Sunday's preseason opener against the Jazz due to personal reasons, Katy Winge of Altitude Sports reports.",
           "returnDate": "2026-10-06"
-        },
-        {
-          "name": "Trevon Brazile",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Brazile is out for Sunday's Summer League finale for undisclosed reasons, Ryan Blackburn of MileHighSports.com reports.",
-          "returnDate": "2026-10-04"
         }
       ]
     },
@@ -189,13 +182,6 @@
           "status": "Out",
           "detail": "Knee — Moody has progressed to light on-court activities as he continues his recovery from a ruptured left patellar tendon, Evan Webeck of The Mercury News reports.",
           "returnDate": "2026-12-01"
-        },
-        {
-          "name": "Alex Toohey",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Toohey (knee) signed an Exhibit 10 contract with the Warriors on Wednesday, Anthony Slater of ESPN.com reports.",
-          "returnDate": "2026-10-04"
         }
       ]
     },
@@ -239,8 +225,8 @@
           "name": "Max Strus",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Strus exited Sunday's preseason game against the Warriors due to an apparent right ankle injury, Anthony Slater of ESPN.com reports.",
-          "returnDate": "2026-10-04"
+          "detail": "Ankle — Strus will not return to Sunday's preseason game against the Warriors due to a right foot injury, Ohm Youngmisuk of ESPN.com reports.",
+          "returnDate": "2026-10-10"
         },
         {
           "name": "Kobe Sanders",
@@ -254,7 +240,7 @@
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Knee — Beal (knee) will miss the start of training camp, Law Murray of The Athletic reports.",
-          "returnDate": "2026-10-04"
+          "returnDate": "2026-10-10"
         },
         {
           "name": "Yanic Konan Niederhauser",
@@ -469,7 +455,7 @@
           "name": "Tobias Harris",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Calf — Harris will not play in the preseason due to a left calf strain, Michael C. Wright of ESPN.com reports.",
+          "detail": "Calf — Spurs head coach Mitch Johnson said they will not rush Tobias Harris (calf) back to the court, Jared Weiss of The Athletic reports.",
           "returnDate": "2026-10-20"
         },
         {
@@ -598,16 +584,16 @@
   "games": [
     {
       "date": "2026-10-04T23:00Z",
-      "status": "10:17 - 2nd",
+      "status": "Final",
       "home": "Denver Nuggets",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-10-04T23:00Z",
-      "status": "11:42 - 2nd",
+      "status": "Final",
       "home": "LA Clippers",
       "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1791157463114
+  "fetchedAt": 1791170126956
 }
