@@ -15,7 +15,7 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Foot — Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports.",
-          "returnDate": "2026-10-15"
+          "returnDate": "2026-10-21"
         },
         {
           "name": "Keshon Gilbert",
@@ -37,11 +37,18 @@
       "name": "Brooklyn Nets",
       "players": [
         {
+          "name": "Joshua Jefferson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Jefferson (lower back) is out for Tuesday's preseason game against Charlotte, Brian Lewis of the New York Post reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
           "name": "Mikel Brown Jr.",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Brown (ankle) has progressed to taking some contact in practice and said Sunday that he's \"starting to get to full speed,\" Brian Lewis of the New York Post reports.",
-          "returnDate": "2026-10-06"
+          "detail": "Ankle — Brown (ankle) will miss Tuesday's preseason game against the Hornets, Brian Lewis of the New York Post reports.",
+          "returnDate": "2026-10-08"
         }
       ]
     },
@@ -74,6 +81,13 @@
     {
       "name": "Chicago Bulls",
       "players": [
+        {
+          "name": "Nic Claxton",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Claxton tweaked his hamstring and will be re-evaluated in two weeks, Chuck Swirsky of the Bulls Radio Network of the Bulls Radio Network reports.",
+          "returnDate": "2026-10-21"
+        },
         {
           "name": "Zach Collins",
           "position": "F",
@@ -154,7 +168,7 @@
           "name": "Jalen Duren",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Duren (undisclosed) is not present for the Pistons' open practice Saturday, Eric Vincent of ClutchPoints.com reports.",
+          "detail": "Undisclosed — Duren was spotted back at practice Monday, Hunter Patterson of The Athletic reports.",
           "returnDate": "2026-10-05"
         }
       ]
@@ -353,15 +367,57 @@
           "name": "Thomas Sorber",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Knee — Sorber will be limited to begin training camp, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-06"
+          "detail": "Knee — Sorber (knee) will not play in Tuesday's preseason opener against New Orleans, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-07"
         },
         {
           "name": "Nikola Topic",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Back — Topic (back) will be limited when training camp begins, Clemente Almanza of USA Today reports",
-          "returnDate": "2026-10-06"
+          "detail": "Back — Topic (back) will not play in Tuesday's preseason opener against the Pelicans, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
+          "name": "Cason Wallace",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Wallace will not play in Tuesday's preseason opener against New Orleans, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
+          "name": "Alex Caruso",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Caruso will not play in Tuesday's preseason opener against the Pelicans, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
+          "name": "Chet Holmgren",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Holmgren (rest) will not play in Tuesday's preseason opener against New Orleans, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
+          "name": "Isaiah Hartenstein",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Hartenstein (rest) will not play in Tuesday's preseason opener against the Pelicans, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
+          "name": "Jalen Williams",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Not Injury Related — Williams (not injury related) is out for Tuesday's preseason game against the Pelicans, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Not Injury Related — Gilgeous-Alexander will not play in Tuesday's preseason opener against the Pelicans, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-07"
         },
         {
           "name": "Otega Oweh",
@@ -375,6 +431,13 @@
     {
       "name": "Orlando Magic",
       "players": [
+        {
+          "name": "Jalen Suggs",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Suggs remains under the weather but appears to be improving, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-07"
+        },
         {
           "name": "Noah Penda",
           "position": "F",
@@ -409,18 +472,53 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "Tacko Fall",
-          "position": "C",
+          "name": "Anfernee Simons",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hip — Fall was diagnosed with a left hip strain Thursday and will miss at least two weeks, Kyle Neubeck of AllPHLY.com reports.",
-          "returnDate": "2026-10-16"
+          "detail": "Rest — Simons (rest) won't play in Monday's preseason game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "Dominick Barlow",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Barlow will be rested for Monday's preseason game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
+          "returnDate": "2026-10-08"
         },
         {
           "name": "Adem Bona",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Foot — 76ers coach Nick Nurse said Bona (foot) will be re-evaluated in a couple days, Tony Jones of The Athletic reports.",
-          "returnDate": "2026-10-05"
+          "detail": "Foot — Bona (foot) will not play in Monday's preseason opener against New York, Chris Hine of The Minnesota Star Tribune reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "Tyrese Maxey",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Maxey (rest) won't play in Monday's preseason game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "LeBron James",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — James (rest) has been ruled out for Monday's game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "Joel Embiid",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Embiid (rest) won't play in Monday's preseason game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "Tacko Fall",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Hip — Fall was diagnosed with a left hip strain Thursday and will miss at least two weeks, Kyle Neubeck of AllPHLY.com reports.",
+          "returnDate": "2026-10-16"
         }
       ]
     },
@@ -445,6 +543,18 @@
           "status": "Out",
           "detail": "Knee — Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
           "returnDate": "2027-03-02"
+        }
+      ]
+    },
+    {
+      "name": "Sacramento Kings",
+      "players": [
+        {
+          "name": "Ben Simmons",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Simmons (not injury related) is not expected to play in Monday's preseason game against the Lakers, Marc J. Spears of ESPN.com reports.",
+          "returnDate": "2026-10-05"
         }
       ]
     },
@@ -477,6 +587,20 @@
     {
       "name": "Toronto Raptors",
       "players": [
+        {
+          "name": "Scottie Barnes",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Barnes said he injured his knee during the opening minute of Friday's preseason loss to Miami and is still experiencing some soreness, Josh Lewenberg of TSN.ca reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Kawhi Leonard",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Not Injury Related — Leonard (not injury related) went through a full practice Monday, Michael Grange of Sportsnet.ca reports.",
+          "returnDate": "2026-10-10"
+        },
         {
           "name": "Nate Bittle",
           "position": "C",
@@ -517,13 +641,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Groin — Graves (groin) has been ruled out for Saturday's preseason game against the Heat, Josh Lewenberg of TSN.ca reports.",
-          "returnDate": "2026-10-10"
-        },
-        {
-          "name": "Kawhi Leonard",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Not Injury Related — Leonard (not injury related) won't play in Saturday's preseason opener against Miami and is unlikely to suit up for next Saturday's preseason game against the Clippers, Josh Lewenberg of TSN.ca reports.",
           "returnDate": "2026-10-10"
         }
       ]
@@ -583,17 +700,35 @@
   ],
   "games": [
     {
-      "date": "2026-10-04T23:00Z",
-      "status": "Final",
-      "home": "Denver Nuggets",
-      "away": "Utah Jazz"
+      "date": "2026-10-05T23:00Z",
+      "status": "10/5 - 7:00 PM EDT",
+      "home": "Atlanta Hawks",
+      "away": "Memphis Grizzlies"
     },
     {
-      "date": "2026-10-04T23:00Z",
-      "status": "Final",
-      "home": "LA Clippers",
-      "away": "Golden State Warriors"
+      "date": "2026-10-05T23:00Z",
+      "status": "10/5 - 7:00 PM EDT",
+      "home": "Detroit Pistons",
+      "away": "Phoenix Suns"
+    },
+    {
+      "date": "2026-10-05T23:00Z",
+      "status": "10/5 - 7:00 PM EDT",
+      "home": "Philadelphia 76ers",
+      "away": "New York Knicks"
+    },
+    {
+      "date": "2026-10-06T00:00Z",
+      "status": "10/5 - 8:00 PM EDT",
+      "home": "Milwaukee Bucks",
+      "away": "Minnesota Timberwolves"
+    },
+    {
+      "date": "2026-10-06T02:00Z",
+      "status": "10/5 - 10:00 PM EDT",
+      "home": "Sacramento Kings",
+      "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1791198096113
+  "fetchedAt": 1791230656812
 }
