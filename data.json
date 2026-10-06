@@ -103,18 +103,18 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Zach Collins",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Toe — Collins (toe) was a big part of Tuesday's practice, Joel Lorenzi of The Athletic reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
           "name": "Nic Claxton",
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Hamstring — Claxton tweaked his hamstring and will be re-evaluated in two weeks, Chuck Swirsky of the Bulls Radio Network of the Bulls Radio Network reports.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Zach Collins",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Toe — Head coach Tiago Splitter said Monday that Collins (toe) is dealing with a soft tissue injury and isn't expected to practice Tuesday, K.C. Johnson of Chicago Sports Network reports.",
-          "returnDate": "2026-10-07"
         }
       ]
     },
@@ -191,18 +191,18 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Kristaps Porzingis",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Porzingis (undisclosed) remains out indefinitely, per Anthony Slater of ESPN.com.",
+          "returnDate": "2026-10-13"
+        },
+        {
           "name": "Jimmy Butler III",
           "position": "F",
           "status": "Out",
           "detail": "Knee — The Warriors hope to have Butler (knee) back early in 2027, per Keith Watkins of Yahoo Sports.",
           "returnDate": "2027-01-02"
-        },
-        {
-          "name": "Kristaps Porzingis",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Porzingis is out indefinitely due to an undisclosed issue, Anthony Slater of ESPN.com reports.",
-          "returnDate": "2026-10-13"
         },
         {
           "name": "Moses Moody",
@@ -475,8 +475,15 @@
           "name": "Jalen Suggs",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Illness — Suggs remains under the weather but appears to be improving, Jason Beede of the Orlando Sentinel reports.",
+          "detail": "Illness — Suggs remains under the weather but was able to get on the court and run around during Tuesday's practice, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-07"
+        },
+        {
+          "name": "Jonathan Isaac",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Isaac (knee) won't travel with the Magic for Wednesday's preseason opener against the Grizzlies due to personal reasons, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-11"
         },
         {
           "name": "Noah Penda",
@@ -498,13 +505,6 @@
           "status": "Out",
           "detail": "Ankle — Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
           "returnDate": "2026-11-01"
-        },
-        {
-          "name": "Jonathan Isaac",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Isaac (knee) said he will be limited to open training camp, according to Orlando Magic Daily.",
-          "returnDate": "2026-10-07"
         }
       ]
     },
@@ -514,9 +514,9 @@
         {
           "name": "Ariel Hukporti",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Lower Leg — Hukporti (lower leg) didn't return to Monday's preseason game against the Knicks. He didn't score (0-1 FG, 0-1 3Pt) and recorded one assist in five minutes before exiting.",
-          "returnDate": "2026-10-08"
+          "status": "Out",
+          "detail": "Achilles — Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
+          "returnDate": "2027-10-01"
         },
         {
           "name": "Anfernee Simons",
@@ -649,6 +649,13 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Trayce Jackson-Davis",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Head — Correcting a previous report, Jackson-Davis (migraines) was absent from Tuesday's practice, Josh Lewenberg of TSN.ca reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Jamison Battle",
           "position": "F",
           "status": "Day-To-Day",
@@ -656,31 +663,10 @@
           "returnDate": "2026-10-10"
         },
         {
-          "name": "Trayce Jackson-Davis",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Jackson-Davis (undisclosed) did not participate in Monday's practice, Josh Lewenberg of TSN.ca reports.",
-          "returnDate": "2026-10-10"
-        },
-        {
           "name": "Allen Graves",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Groin — Graves (groin) was limited during Sunday's practice, Josh Lewenberg of TSN.ca reports.",
-          "returnDate": "2026-10-10"
-        },
-        {
-          "name": "Alijah Martin",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Martin (knee) was a full participant in Monday's practice, Esfandiar Baraheni of The Athletic reports.",
-          "returnDate": "2026-10-10"
-        },
-        {
-          "name": "Scottie Barnes",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Barnes said he injured his knee during the opening minute of Friday's preseason loss to Miami and is still experiencing some soreness, Josh Lewenberg of TSN.ca reports.",
           "returnDate": "2026-10-10"
         },
         {
@@ -785,5 +771,5 @@
       "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1791301039140
+  "fetchedAt": 1791319285892
 }
