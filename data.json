@@ -761,35 +761,29 @@
   ],
   "games": [
     {
-      "date": "2026-10-05T23:00Z",
-      "status": "Final",
-      "home": "Atlanta Hawks",
-      "away": "Memphis Grizzlies"
+      "date": "2026-10-06T23:00Z",
+      "status": "10/6 - 7:00 PM EDT",
+      "home": "Charlotte Hornets",
+      "away": "Brooklyn Nets"
     },
     {
-      "date": "2026-10-05T23:00Z",
-      "status": "Final",
-      "home": "Detroit Pistons",
-      "away": "Phoenix Suns"
+      "date": "2026-10-07T00:00Z",
+      "status": "10/6 - 8:00 PM EDT",
+      "home": "Oklahoma City Thunder",
+      "away": "New Orleans Pelicans"
     },
     {
-      "date": "2026-10-05T23:00Z",
-      "status": "Final",
-      "home": "Philadelphia 76ers",
-      "away": "New York Knicks"
+      "date": "2026-10-07T01:00Z",
+      "status": "10/6 - 9:00 PM EDT",
+      "home": "Utah Jazz",
+      "away": "Denver Nuggets"
     },
     {
-      "date": "2026-10-06T00:00Z",
-      "status": "Final",
-      "home": "Milwaukee Bucks",
-      "away": "Minnesota Timberwolves"
-    },
-    {
-      "date": "2026-10-06T02:00Z",
-      "status": "Final",
-      "home": "Sacramento Kings",
+      "date": "2026-10-07T02:00Z",
+      "status": "10/6 - 10:00 PM EDT",
+      "home": "Golden State Warriors",
       "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1791274913444
+  "fetchedAt": 1791301039140
 }
