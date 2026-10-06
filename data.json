@@ -37,20 +37,6 @@
           "status": "Day-To-Day",
           "detail": "Foot — Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Keshon Gilbert",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Gilbert (hip) won't play in Saturday's Las Vegas Summer League game against the Wizards, Brad Rowland of the Locked On Podcast Network reports.",
-          "returnDate": "2026-10-05"
-        },
-        {
-          "name": "RayJ Dennis",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Achilles — Dennis (Achilles) has been ruled out for Saturday's Summer League game against the Wizards, Brad Rowland of the Locked On Podcast Network reports.",
-          "returnDate": "2026-10-05"
         }
       ]
     },
@@ -344,11 +330,18 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
+          "name": "Micah Peavy",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Peavy (ankle) did not see the floor in Monday's 132-123 preseason win over the Hawks.",
+          "returnDate": "2026-10-07"
+        },
+        {
           "name": "Isaiah Stewart",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Stewart is doubtful to return to Monday's preseason game against the Hawks due to a left ankle injury.",
-          "returnDate": "2026-10-05"
+          "detail": "Ankle — Stewart exited Monday's 132-123 preseason win over the Hawks in the first quarter and did not return due to a left ankle injury, finishing with one rebound in two minutes.",
+          "returnDate": "2026-10-07"
         },
         {
           "name": "Zach Edey",
@@ -356,20 +349,6 @@
           "status": "Day-To-Day",
           "detail": "Ankle — Edey (ankle) completed a full on-court workout Monday but won't play in the Grizzlies' preseason game against the Hawks, Michael Wallace of the Grizzlies' official site reports.",
           "returnDate": "2026-10-07"
-        },
-        {
-          "name": "Micah Peavy",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — General manager Zach Kleiman said Monday that Peavy recently turned his ankle and it'll be \"some time\" before the team gets a full look at him, Damichael Cole of The Memphis Commercial Appeal reports.",
-          "returnDate": "2026-10-05"
-        },
-        {
-          "name": "Karim Lopez",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Lopez (undisclosed) is out for Sunday's Summer League championship game against the Warriors, Drew Hill of The Daily Memphian reports.",
-          "returnDate": "2026-10-05"
         }
       ]
     },
@@ -536,8 +515,8 @@
           "name": "Ariel Hukporti",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Calf — Hukporti was helped to the locker room during the first quarter of Monday's preseason game against the Knicks after suffering an apparent calf/ankle injury, Kristian Winfield of the New York Daily News reports.",
-          "returnDate": "2026-10-05"
+          "detail": "Lower Leg — Hukporti (lower leg) didn't return to Monday's preseason game against the Knicks. He didn't score (0-1 FG, 0-1 3Pt) and recorded one assist in five minutes before exiting.",
+          "returnDate": "2026-10-08"
         },
         {
           "name": "Anfernee Simons",
@@ -618,10 +597,24 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Keegan Murray",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Murray (undisclosed) won't play in Monday's preseason game against the Lakers, Sean Cunningham of Fox 40 Sacramento reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "Malik Monk",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Monk (rest) won't suit up for Monday's exhibition versus the Lakers, Sean Cunningham of Fox 40 Sacramento reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
           "name": "Ben Simmons",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Simmons (not injury related) is not expected to play in Monday's preseason game against the Lakers, Marc J. Spears of ESPN.com reports.",
+          "detail": "Undisclosed — Simmons (not injury related) won't play in Monday's preseason game against the Lakers, Sean Cunningham of Fox 40 Sacramento reports.",
           "returnDate": "2026-10-08"
         }
       ]
@@ -769,34 +762,34 @@
   "games": [
     {
       "date": "2026-10-05T23:00Z",
-      "status": "8:02 - 4th",
+      "status": "Final",
       "home": "Atlanta Hawks",
       "away": "Memphis Grizzlies"
     },
     {
       "date": "2026-10-05T23:00Z",
-      "status": "11:14 - 4th",
+      "status": "Final",
       "home": "Detroit Pistons",
       "away": "Phoenix Suns"
     },
     {
       "date": "2026-10-05T23:00Z",
-      "status": "6:30 - 4th",
+      "status": "Final",
       "home": "Philadelphia 76ers",
       "away": "New York Knicks"
     },
     {
       "date": "2026-10-06T00:00Z",
-      "status": "2:21 - 2nd",
+      "status": "Final",
       "home": "Milwaukee Bucks",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-10-06T02:00Z",
-      "status": "10/5 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1791249117727
+  "fetchedAt": 1791274913444
 }
