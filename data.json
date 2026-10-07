@@ -182,7 +182,7 @@
           "name": "Jalen Duren",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Rest — Duren (rest) won't play in Monday's preseason game against the Suns, Hunter Patterson of The Athletic reports.",
+          "detail": "Rest — Duren (rest) is expected to play at some point this preseason, per Hunter Patterson of The Athletic.",
           "returnDate": "2026-10-10"
         }
       ]
@@ -190,6 +190,48 @@
     {
       "name": "Golden State Warriors",
       "players": [
+        {
+          "name": "Gui Santos",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Santos (rest) won't travel with the Warriors for Wednesday's preseason game against the Trail Blazers, Dalton Johnson of NBC Sports Bay Area reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Brandin Podziemski",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Podziemski (rest) won't travel with the Warriors for Wednesday's preseason game against the Trail Blazers, Dalton Johnson of NBC Sports Bay Area reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Gary Payton II",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Payton (rest) is out for Wednesday's preseason game against the Trail Blazers, Dalton Johnson of NBC Sports Bay Area reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Georges Niang",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Niang (rest) won't travel with the Warriors for Wednesday's preseason game against Portland, Dalton Johnson of NBC Sports Bay Area reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "De'Anthony Melton",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Melton (rest) won't travel with the Warriors for Wednesday's preseason game against the Trail Blazers, Dalton Johnson of NBC Sports Bay Area reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Yaxel Lendeborg",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Lendeborg (rest) is out for Wednesday's preseason game against the Trail Blazers, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-10-10"
+        },
         {
           "name": "Stephen Curry",
           "position": "G",
@@ -216,7 +258,7 @@
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Undisclosed — Porzingis (undisclosed) remains out indefinitely, per Anthony Slater of ESPN.com.",
-          "returnDate": "2026-10-13"
+          "returnDate": "2026-10-21"
         },
         {
           "name": "Jimmy Butler III",
@@ -401,8 +443,22 @@
           "name": "Keshad Johnson",
           "position": "F",
           "status": "Out",
-          "detail": "Hamstring — Johnson will be sidelined a few weeks with a right hamstring strain, Anthony Chiang of the Miami Herald reports.",
+          "detail": "Hamstring — Johnson (hamstring) is practicing in a limited fashion, per Ira Winderman of the South Florida Sun Sentinel.",
           "returnDate": "2026-10-26"
+        },
+        {
+          "name": "Pelle Larsson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Larsson didn't practice Wednesday due to an illness, Ira Winderman of the South Florida Sun Sentinel reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "Andrew Wiggins",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Wiggins is dealing with an illness, per Ira Winderman of the South Florida Sun Sentinel.",
+          "returnDate": "2026-10-08"
         },
         {
           "name": "Dru Smith",
@@ -549,32 +605,32 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "Ariel Hukporti",
-          "position": "C",
-          "status": "Out",
-          "detail": "Achilles — Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
-          "returnDate": "2027-10-01"
+          "name": "Dominick Barlow",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Barlow (back) isn't expected to play in either of Philadelphia's next two preseason games against Brooklyn and Boston, Dave McMenamin of ESPN.com reports.",
+          "returnDate": "2026-10-16"
         },
         {
           "name": "Anfernee Simons",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Simons (rest) won't play in Monday's preseason game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
-          "returnDate": "2026-10-08"
-        },
-        {
-          "name": "Dominick Barlow",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Barlow will be rested for Monday's preseason game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Undisclosed — Simons (right hamstring) isn't expected to play in either of Philadelphia's next two preseason games against Brooklyn and Boston, Dave McMenamin of ESPN reports.",
+          "returnDate": "2026-10-16"
         },
         {
           "name": "Adem Bona",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Foot — Bona (foot) will not play in Monday's preseason opener against New York, Chris Hine of The Minnesota Star Tribune reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Foot — Bona (left foot) isn't expected to play in either of Philadelphia's next two preseason games against Brooklyn and Boston, Dave McMenamin of ESPN.com reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Ariel Hukporti",
+          "position": "C",
+          "status": "Out",
+          "detail": "Achilles — Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
+          "returnDate": "2027-10-01"
         },
         {
           "name": "Tyrese Maxey",
@@ -784,29 +840,35 @@
   ],
   "games": [
     {
-      "date": "2026-10-06T23:00Z",
-      "status": "Final",
-      "home": "Charlotte Hornets",
-      "away": "Brooklyn Nets"
+      "date": "2026-10-07T23:00Z",
+      "status": "10/7 - 7:00 PM EDT",
+      "home": "Indiana Pacers",
+      "away": "Minnesota Timberwolves"
     },
     {
-      "date": "2026-10-07T00:00Z",
-      "status": "Final",
+      "date": "2026-10-08T00:00Z",
+      "status": "10/7 - 8:00 PM EDT",
+      "home": "Memphis Grizzlies",
+      "away": "Orlando Magic"
+    },
+    {
+      "date": "2026-10-08T00:00Z",
+      "status": "10/7 - 8:00 PM EDT",
       "home": "Oklahoma City Thunder",
-      "away": "New Orleans Pelicans"
+      "away": "Milwaukee Bucks"
     },
     {
-      "date": "2026-10-07T01:00Z",
-      "status": "Final",
-      "home": "Utah Jazz",
-      "away": "Denver Nuggets"
+      "date": "2026-10-08T00:00Z",
+      "status": "10/7 - 8:00 PM EDT",
+      "home": "Chicago Bulls",
+      "away": "Phoenix Suns"
     },
     {
-      "date": "2026-10-07T02:00Z",
-      "status": "Final",
-      "home": "Golden State Warriors",
-      "away": "Los Angeles Lakers"
+      "date": "2026-10-08T02:00Z",
+      "status": "10/7 - 10:00 PM EDT",
+      "home": "Portland Trail Blazers",
+      "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1791381951485
+  "fetchedAt": 1791404487020
 }
