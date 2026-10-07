@@ -103,13 +103,6 @@
           "status": "Day-To-Day",
           "detail": "Hamstring — Williams will miss the preseason after suffering a right hamstring injury, the Hornets announced Friday.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "PJ Hall",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — The Hornets announced Thursday that Hall underwent a procedure to address a fractured right ankle and will miss the remainder of the 2025-26 campaign.",
-          "returnDate": "2026-10-06"
         }
       ]
     },
@@ -177,15 +170,8 @@
           "name": "Spencer Jones",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Jones (hamstring) has been ruled out for Sunday's preseason game against the Jazz, Katy Winge of Altitude Sports reports.",
-          "returnDate": "2026-10-06"
-        },
-        {
-          "name": "Jamal Murray",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Personal — Murray is out for Sunday's preseason opener against the Jazz due to personal reasons, Katy Winge of Altitude Sports reports.",
-          "returnDate": "2026-10-06"
+          "detail": "Hamstring — Jones (hamstring) did not play during Tuesday's 93-79 preseason win over the Jazz.",
+          "returnDate": "2026-10-11"
         }
       ]
     },
@@ -204,6 +190,27 @@
     {
       "name": "Golden State Warriors",
       "players": [
+        {
+          "name": "Draymond Green",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Green will be limited to around 20 minutes in Tuesday's preseason contest against the Lakers and won't travel to Portland for Wednesday's back-to-back against the Trail Blazers, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Al Horford",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Horford will come off the bench for Tuesday's preseason game against the Lakers and he will not travel to Portland for Wednesday's exhibition, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Stephen Curry",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Curry will be limited to \"around 20 minutes\" in Tuesday's preseason game against the Lakers, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-10-10"
+        },
         {
           "name": "Kristaps Porzingis",
           "position": "C",
@@ -314,29 +321,50 @@
           "name": "Arthur Kaluma",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Lower Body — Kaluma (undisclosed) won't play in Monday's preseason game against the Kings, Dan Woike of The Athletic reports.",
-          "returnDate": "2026-10-06"
+          "detail": "Lower Body — Kaluma (lower body) won't play in Tuesday's preseason game Golden State, Luca Evans of the San Francisco Chronicle reports.",
+          "returnDate": "2026-10-08"
         },
         {
           "name": "Collin Sexton",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Lower Body — Sexton (undisclosed) has been ruled out for Monday's preseason game against the Kings, Dan Woike of The Athletic reports.",
-          "returnDate": "2026-10-06"
+          "detail": "Lower Body — Sexton (lower body) won't play in Tuesday's preseason game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
+          "returnDate": "2026-10-08"
         },
         {
-          "name": "Austin Reaves",
-          "position": "G",
+          "name": "Ziaire Williams",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Reaves won't play in Monday's preseason game against the Kings after tweaking his ankle, Dan Woike of The Athletic reports.",
-          "returnDate": "2026-10-06"
+          "detail": "Rest — Williams (rest) is out for Tuesday's preseason game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
+          "returnDate": "2026-10-08"
         },
         {
           "name": "Walker Kessler",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Finger — Kessler (rest) won't suit up for Monday's exhibition against the Kings, Khobi Price of The California Post reports.",
-          "returnDate": "2026-10-06"
+          "detail": "Finger — Kessler (finger) won't play in Tuesday's exhibition game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "Luka Doncic",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Doncic (undisclosed) won't play in Tuesday's preseason game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "Matisse Thybulle",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Thybulle (rest) will skip Tuesday's exhibition against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
+          "returnDate": "2026-10-08"
+        },
+        {
+          "name": "Austin Reaves",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Reaves (ankle) won't play in Tuesday's preseason game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
+          "returnDate": "2026-10-08"
         }
       ]
     },
@@ -394,18 +422,6 @@
           "status": "Out",
           "detail": "Achilles — DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
           "returnDate": "2027-04-01"
-        }
-      ]
-    },
-    {
-      "name": "New Orleans Pelicans",
-      "players": [
-        {
-          "name": "Bryce McGowens",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Toe — McGowens (toe) is out for Sunday's game against the Timberwolves.",
-          "returnDate": "2026-10-06"
         }
       ]
     },
@@ -710,32 +726,32 @@
       "name": "Utah Jazz",
       "players": [
         {
-          "name": "Jusuf Nurkic",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Nurkic didn't participate in Monday's practice due to a right foot injury, Shreyas Laddha of The Salt Lake Tribune reports.",
-          "returnDate": "2026-10-06"
-        },
-        {
-          "name": "Kyle Filipowski",
+          "name": "Lauri Markkanen",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Back — Filipowski (back) won't play in Tuesday's preseason game against the Nuggets, Shreyas Laddha of The Salt Lake Tribune reports.",
-          "returnDate": "2026-10-06"
-        },
-        {
-          "name": "Josh Green",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Green (knee) has been ruled out for Sunday's preseason game against the Nuggets, Shreyas Laddha of The Salt Lake Tribune reports.",
-          "returnDate": "2026-10-06"
+          "detail": "Neck — Markkanen won't play in Tuesday's preseason game against the Nuggets due to neck soreness.",
+          "returnDate": "2026-10-12"
         },
         {
           "name": "Brice Sensabaugh",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hip — Sensabaugh won't play in Sunday's preseason opener against the Nuggets due to a left hip injury, Shreyas Laddha of The Salt Lake Tribune reports.",
-          "returnDate": "2026-10-06"
+          "detail": "Hip — Sensabaugh (hip) won't play in Tuesday's preseason game against the Nuggets.",
+          "returnDate": "2026-10-12"
+        },
+        {
+          "name": "Jusuf Nurkic",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Nurkic (foot) is listed as out for Tuesday's preseason game against Denver.",
+          "returnDate": "2026-10-12"
+        },
+        {
+          "name": "Kyle Filipowski",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Filipowski (back) is out for Tuesday's exhibition versus the Nuggets.",
+          "returnDate": "2026-10-12"
         }
       ]
     },
@@ -769,28 +785,28 @@
   "games": [
     {
       "date": "2026-10-06T23:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Charlotte Hornets",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-10-07T00:00Z",
-      "status": "8:11 - 1st",
+      "status": "Final",
       "home": "Oklahoma City Thunder",
       "away": "New Orleans Pelicans"
     },
     {
       "date": "2026-10-07T01:00Z",
-      "status": "10/6 - 9:00 PM EDT",
+      "status": "Final",
       "home": "Utah Jazz",
       "away": "Denver Nuggets"
     },
     {
       "date": "2026-10-07T02:00Z",
-      "status": "10/6 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Golden State Warriors",
       "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1791332153065
+  "fetchedAt": 1791355450959
 }
