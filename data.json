@@ -191,6 +191,13 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Stephen Curry",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Curry generated 16 points, 4-7 FG, 3-6 3Pt, 5-6 FT), five assists and two rebounds across 14 minutes in Tuesday's 124-98 preseason win over the Lakers.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Draymond Green",
           "position": "F",
           "status": "Day-To-Day",
@@ -202,13 +209,6 @@
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Rest — Horford will come off the bench for Tuesday's preseason game against the Lakers and he will not travel to Portland for Wednesday's exhibition, Anthony Slater of ESPN.com reports.",
-          "returnDate": "2026-10-10"
-        },
-        {
-          "name": "Stephen Curry",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Curry will be limited to \"around 20 minutes\" in Tuesday's preseason game against the Lakers, Anthony Slater of ESPN.com reports.",
           "returnDate": "2026-10-10"
         },
         {
@@ -808,5 +808,5 @@
       "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1791355450959
+  "fetchedAt": 1791381951485
 }
