@@ -63,6 +63,20 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Brandon Miller",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Leg — Miller (leg) is listed as out for Tuesday's preseason game versus the Nets.",
+          "returnDate": "2026-10-11"
+        },
+        {
+          "name": "Christian Anderson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Anderson (ankle) won't play in Tuesday's preseason game against the Nets.",
+          "returnDate": "2026-10-11"
+        },
+        {
           "name": "Kylan Boswell",
           "position": "G",
           "status": "Day-To-Day",
@@ -411,6 +425,13 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Jaylin Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Heel — Williams (heel) won't play in Tuesday's preseason opener against the Pelicans, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-07"
+        },
+        {
           "name": "Thomas Sorber",
           "position": "C",
           "status": "Day-To-Day",
@@ -748,13 +769,13 @@
   "games": [
     {
       "date": "2026-10-06T23:00Z",
-      "status": "10/6 - 7:00 PM EDT",
+      "status": "Halftime",
       "home": "Charlotte Hornets",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-10-07T00:00Z",
-      "status": "10/6 - 8:00 PM EDT",
+      "status": "8:11 - 1st",
       "home": "Oklahoma City Thunder",
       "away": "New Orleans Pelicans"
     },
@@ -771,5 +792,5 @@
       "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1791319285892
+  "fetchedAt": 1791332153065
 }
