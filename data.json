@@ -421,18 +421,18 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
+          "name": "Micah Peavy",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Peavy (ankle) did not play in Wednesday's 122-118 preseason loss to the Magic.",
+          "returnDate": "2026-10-09"
+        },
+        {
           "name": "Isaiah Stewart",
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Ankle — Stewart (ankle) didn't participate in Tuesday's practice and will not play in Wednesday's preseason game against the Magic, Michael Wallace of the Grizzlies' official site reports.",
           "returnDate": "2026-10-09"
-        },
-        {
-          "name": "Micah Peavy",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Peavy (ankle) did not see the floor in Monday's 132-123 preseason win over the Hawks.",
-          "returnDate": "2026-10-07"
         }
       ]
     },
@@ -466,6 +466,18 @@
           "status": "Day-To-Day",
           "detail": "Calf — Smith will miss a couple weeks with a strained right calf, Ira Winderman of the South Florida Sun Sentinel reports.",
           "returnDate": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "players": [
+        {
+          "name": "Nate Ament",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Ament won't return to Wednesday's preseason game against the Thunder due to a left ankle sprain. He'll finish with three points (1-7 FG, 0-1 3Pt, 1-4 FT), four rebounds, one assist and one steal in 10 minutes.",
+          "returnDate": "2026-10-11"
         }
       ]
     },
@@ -637,6 +649,13 @@
     {
       "name": "Phoenix Suns",
       "players": [
+        {
+          "name": "Miles Bridges",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Bridges exited Wednesday's 124-117 preseason loss to the Bulls with a right ankle injury and did not return, Duane Rankin of The Arizona Republic reports.",
+          "returnDate": "2026-10-10"
+        },
         {
           "name": "Mark Williams",
           "position": "C",
@@ -813,34 +832,34 @@
   "games": [
     {
       "date": "2026-10-07T23:00Z",
-      "status": "4:41 - 3rd",
+      "status": "Final",
       "home": "Indiana Pacers",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-10-08T00:00Z",
-      "status": "2:31 - 1st",
+      "status": "Final",
       "home": "Memphis Grizzlies",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-10-08T00:00Z",
-      "status": "1:02 - 1st",
+      "status": "Final",
       "home": "Oklahoma City Thunder",
       "away": "Milwaukee Bucks"
     },
     {
       "date": "2026-10-08T00:00Z",
-      "status": "2:45 - 1st",
+      "status": "Final",
       "home": "Chicago Bulls",
       "away": "Phoenix Suns"
     },
     {
       "date": "2026-10-08T02:00Z",
-      "status": "10/7 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Portland Trail Blazers",
       "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1791419842544
+  "fetchedAt": 1791442371271
 }
