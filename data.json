@@ -47,15 +47,29 @@
           "name": "Joshua Jefferson",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Back — Jefferson (lower back) is out for Tuesday's preseason game against Charlotte, Brian Lewis of the New York Post reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Back — Jefferson (back) will not play in Thursday's preseason game against the 76ers, Brian Lewis of the New York Post reports.",
+          "returnDate": "2026-10-12"
         },
         {
           "name": "Mikel Brown Jr.",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Brown (ankle) will miss Tuesday's preseason game against the Hornets, Brian Lewis of the New York Post reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Ankle — Brown (ankle) will miss Thursday's preseason game against Philadelphia, Brian Lewis of the New York Post reports.",
+          "returnDate": "2026-10-12"
+        },
+        {
+          "name": "Day'Ron Sharpe",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Sharpe has been ruled out for Thursday's preseason matchup against Philadelphia due to left shoulder soreness, Brian Lewis of the New York Post reports.",
+          "returnDate": "2026-10-12"
+        },
+        {
+          "name": "Michael Porter Jr.",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Porter will not play in Thursday's preseason game against Philadelphia due to left wrist soreness, Brian Lewis of the New York Post reports.",
+          "returnDate": "2026-10-12"
         }
       ]
     },
@@ -155,13 +169,6 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "Morez Johnson Jr.",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Lower Leg — Johnson (lower leg) is expected to play in Friday's preseason opener against Houston, per Brad Townsend of The Dallas Morning News.",
-          "returnDate": "2026-10-09"
-        },
-        {
           "name": "Santi Aldama",
           "position": "F",
           "status": "Day-To-Day",
@@ -204,13 +211,6 @@
     {
       "name": "Golden State Warriors",
       "players": [
-        {
-          "name": "Al Horford",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Horford (rest) is out for Wednesday's preseason game against Portland, per Tomer Azarly of ClutchPoints.com.",
-          "returnDate": "2026-10-10"
-        },
         {
           "name": "Gui Santos",
           "position": "F",
@@ -617,27 +617,6 @@
           "returnDate": "2027-10-01"
         },
         {
-          "name": "Tyrese Maxey",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Maxey (rest) won't play in Monday's preseason game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
-          "returnDate": "2026-10-08"
-        },
-        {
-          "name": "LeBron James",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — James (rest) has been ruled out for Monday's game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
-          "returnDate": "2026-10-08"
-        },
-        {
-          "name": "Joel Embiid",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Embiid (rest) won't play in Monday's preseason game against the Knicks, Chris Hine of The Minnesota Star Tribune reports.",
-          "returnDate": "2026-10-08"
-        },
-        {
           "name": "Tacko Fall",
           "position": "C",
           "status": "Day-To-Day",
@@ -707,6 +686,13 @@
       "name": "San Antonio Spurs",
       "players": [
         {
+          "name": "Maliq Brown",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Brown (back) is out for Thursday's preseason game against the Hawks, Tom Orsborn of the San Antonio Express-News reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Jayden Quaintance",
           "position": "F",
           "status": "Out",
@@ -719,13 +705,6 @@
           "status": "Day-To-Day",
           "detail": "Calf — Spurs head coach Mitch Johnson said they will not rush Tobias Harris (calf) back to the court, Jared Weiss of The Athletic reports.",
           "returnDate": "2026-10-20"
-        },
-        {
-          "name": "David Jones Garcia",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Jones Garcia (ankle) agreed to a two-way contract with the Spurs on Wednesday, per Michael Scotto of HoopsHype.com.",
-          "returnDate": "2026-10-08"
         }
       ]
     },
@@ -831,35 +810,41 @@
   ],
   "games": [
     {
-      "date": "2026-10-07T23:00Z",
-      "status": "Final",
-      "home": "Indiana Pacers",
-      "away": "Minnesota Timberwolves"
+      "date": "2026-10-08T23:00Z",
+      "status": "10/8 - 7:00 PM EDT",
+      "home": "Cleveland Cavaliers",
+      "away": "Boston Celtics"
     },
     {
-      "date": "2026-10-08T00:00Z",
-      "status": "Final",
-      "home": "Memphis Grizzlies",
-      "away": "Orlando Magic"
+      "date": "2026-10-08T23:30Z",
+      "status": "10/8 - 7:30 PM EDT",
+      "home": "Miami Heat",
+      "away": "New Orleans Pelicans"
     },
     {
-      "date": "2026-10-08T00:00Z",
-      "status": "Final",
-      "home": "Oklahoma City Thunder",
-      "away": "Milwaukee Bucks"
+      "date": "2026-10-08T23:30Z",
+      "status": "10/8 - 7:30 PM EDT",
+      "home": "Brooklyn Nets",
+      "away": "Philadelphia 76ers"
     },
     {
-      "date": "2026-10-08T00:00Z",
-      "status": "Final",
-      "home": "Chicago Bulls",
-      "away": "Phoenix Suns"
+      "date": "2026-10-08T23:30Z",
+      "status": "10/8 - 7:30 PM EDT",
+      "home": "New York Knicks",
+      "away": "Washington Wizards"
     },
     {
-      "date": "2026-10-08T02:00Z",
-      "status": "Final",
-      "home": "Portland Trail Blazers",
-      "away": "Golden State Warriors"
+      "date": "2026-10-09T00:00Z",
+      "status": "10/8 - 8:00 PM EDT",
+      "home": "San Antonio Spurs",
+      "away": "Atlanta Hawks"
+    },
+    {
+      "date": "2026-10-09T02:30Z",
+      "status": "10/8 - 10:30 PM EDT",
+      "home": "Los Angeles Lakers",
+      "away": "Sacramento Kings"
     }
   ],
-  "fetchedAt": 1791468933223
+  "fetchedAt": 1791491034554
 }
