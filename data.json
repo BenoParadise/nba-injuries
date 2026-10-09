@@ -244,18 +244,46 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "Santi Aldama",
+          "name": "Marcus Sasser",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hip — Sasser won't play in Friday's preseason game against the Rockets due to left adductor soreness.",
+          "returnDate": "2026-10-11"
+        },
+        {
+          "name": "P.J. Washington",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Aldama (undisclosed) was limited during Saturday's practice, Noah Weber of TheSmokingCuban.com reported.",
-          "returnDate": "2026-10-09"
+          "detail": "Ankle — Washington won't play in Friday's preseason game against the Rockets.",
+          "returnDate": "2026-10-11"
+        },
+        {
+          "name": "Caleb Martin",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Martin won't play in Friday's preseason game against the Rocket due to an illness.",
+          "returnDate": "2026-10-11"
         },
         {
           "name": "Dereck Lively II",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Foot — Mavericks president Masai Ujiri said Friday that Lively (foot) is \"making good progress\" in his recovery, Mike Curtis of The Dallas Morning News reports.",
-          "returnDate": "2026-10-09"
+          "detail": "Foot — Lively (foot) won't play in Friday's preseason game against the Rockets.",
+          "returnDate": "2026-10-11"
+        },
+        {
+          "name": "Santi Aldama",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Aldama (knee) won't play in Friday's preseason game against the Rockets.",
+          "returnDate": "2026-10-11"
+        },
+        {
+          "name": "Kyrie Irving",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Irving (rest) won't play in Friday's preseason game against the Rockets.",
+          "returnDate": "2026-10-11"
         }
       ]
     },
@@ -946,41 +974,17 @@
   ],
   "games": [
     {
-      "date": "2026-10-08T23:00Z",
+      "date": "2026-10-09T12:00Z",
       "status": "Final",
-      "home": "Cleveland Cavaliers",
-      "away": "Boston Celtics"
+      "home": "Dallas Mavericks",
+      "away": "Houston Rockets"
     },
     {
-      "date": "2026-10-08T23:30Z",
-      "status": "Final",
-      "home": "Miami Heat",
-      "away": "New Orleans Pelicans"
-    },
-    {
-      "date": "2026-10-08T23:30Z",
-      "status": "Final",
-      "home": "Brooklyn Nets",
-      "away": "Philadelphia 76ers"
-    },
-    {
-      "date": "2026-10-08T23:30Z",
-      "status": "Final",
-      "home": "New York Knicks",
-      "away": "Washington Wizards"
-    },
-    {
-      "date": "2026-10-09T00:00Z",
-      "status": "Final",
-      "home": "San Antonio Spurs",
-      "away": "Atlanta Hawks"
-    },
-    {
-      "date": "2026-10-09T02:45Z",
-      "status": "Final",
-      "home": "Los Angeles Lakers",
-      "away": "Sacramento Kings"
+      "date": "2026-10-10T00:00Z",
+      "status": "10/9 - 8:00 PM EDT",
+      "home": "Chicago Bulls",
+      "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1791529277625
+  "fetchedAt": 1791557357386
 }
