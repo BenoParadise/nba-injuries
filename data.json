@@ -277,13 +277,6 @@
           "status": "Day-To-Day",
           "detail": "Knee — Aldama (knee) won't play in Friday's preseason game against the Rockets.",
           "returnDate": "2026-10-11"
-        },
-        {
-          "name": "Kyrie Irving",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Irving (rest) won't play in Friday's preseason game against the Rockets.",
-          "returnDate": "2026-10-11"
         }
       ]
     },
@@ -394,13 +387,25 @@
       ]
     },
     {
+      "name": "Houston Rockets",
+      "players": [
+        {
+          "name": "Kevin Durant",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Not Injury Related — Durant will not play in Sunday's preseason rematch against Dallas, Varun Shankar of the Houston Chronicle reports. The forward finished Friday's preseason contest with 15 points (7-12 FG, 1-1 3Pt, 0-1 FT), two assists and one block in 23 minutes.",
+          "returnDate": "2026-10-15"
+        }
+      ]
+    },
+    {
       "name": "Indiana Pacers",
       "players": [
         {
           "name": "Larry Nance Jr.",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Nance (hamstring) is out for Wednesday's preseason game against Minnesota, Tony East of Forbes.com reports.",
+          "detail": "Hamstring — Nance (hamstring) practiced Friday, per Tony East of Forbes.com.",
           "returnDate": "2026-10-10"
         },
         {
@@ -517,17 +522,17 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
+          "name": "Isaiah Stewart",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Stewart (ankle) didn't practice Friday, per Michael Wallace of the Grizzlies' official site.",
+          "returnDate": "2026-10-09"
+        },
+        {
           "name": "Micah Peavy",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Ankle — Peavy (ankle) did not play in Wednesday's 122-118 preseason loss to the Magic.",
-          "returnDate": "2026-10-09"
-        },
-        {
-          "name": "Isaiah Stewart",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Stewart (ankle) didn't participate in Tuesday's practice and will not play in Wednesday's preseason game against the Magic, Michael Wallace of the Grizzlies' official site reports.",
           "returnDate": "2026-10-09"
         }
       ]
@@ -942,17 +947,17 @@
       "name": "Washington Wizards",
       "players": [
         {
-          "name": "Alex Sarr",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Sarr (foot) won't play in Thursday's preseason game against the Knicks, Josh Robbins of The Athletic reports.",
-          "returnDate": "2026-10-10"
-        },
-        {
           "name": "Khris Middleton",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Rest — Middleton (rest) won't play in Thursday's preseason game against the Knicks, Josh Robbins of The Athletic reports.",
+          "detail": "Rest — Middleton (rest) is trending in the right direction for Saturday's preseason game against Detroit, per Josh Robbins of The Athletic.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Alex Sarr",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Wizards head coach Brian Keefe said Friday that Sarr (foot) is trending in a positive direction regarding his availability, though his status for Saturday's preseason game remains uncertain, Josh Robbins of The Athletic reports.",
           "returnDate": "2026-10-10"
         },
         {
@@ -986,5 +991,5 @@
       "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1791557357386
+  "fetchedAt": 1791575771808
 }
