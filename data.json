@@ -185,25 +185,32 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Tre Jones",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hip — Jones (hip) has been ruled out for Friday's preseason game against the Grizzlies, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-10-11"
+        },
+        {
+          "name": "Jalen Smith",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Foot — Smith (foot) has been ruled out for Friday's preseason game against the Grizzlies, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-10-11"
+        },
+        {
           "name": "Zach Collins",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Toe — Collins (toe) won't play in Wednesday's preseason game against the Suns, K.C. Johnson of Chicago Sports Network reports.",
-          "returnDate": "2026-10-09"
+          "detail": "Toe — Collins (toe) won't play in Friday's preseason game against the Grizzlies, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-10-11"
         },
         {
           "name": "Jaylin Sellers",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Back — Sellers (back) won't play in Wednesday's preseason game against the Suns, Duane Rankin of The Arizona Republic reports.",
-          "returnDate": "2026-10-09"
-        },
-        {
-          "name": "Tre Jones",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Jones won't play in Wednesday's preseason game against the Suns, Duane Rankin of The Arizona Republic reports.",
-          "returnDate": "2026-10-09"
+          "detail": "Back — Sellers (back) won't play in Friday's preseason game against the Grizzlies, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-10-11"
         },
         {
           "name": "Nic Claxton",
@@ -524,9 +531,9 @@
         {
           "name": "Isaiah Stewart",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Stewart (ankle) didn't practice Friday, per Michael Wallace of the Grizzlies' official site.",
-          "returnDate": "2026-10-09"
+          "status": "Out",
+          "detail": "Ankle — The Grizzlies announced Friday that Stewart (ankle) will miss at least two weeks.",
+          "returnDate": "2026-10-23"
         },
         {
           "name": "Micah Peavy",
@@ -683,17 +690,17 @@
       "name": "Orlando Magic",
       "players": [
         {
+          "name": "Anthony Black",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Black (ankle) was a full participant in Friday's practice, per Jason Beede of the Orlando Sentinel.",
+          "returnDate": "2026-10-11"
+        },
+        {
           "name": "Noah Penda",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Hamstring — Penda (hamstring) is out for Wednesday's preseason game in Memphis, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-11"
-        },
-        {
-          "name": "Anthony Black",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Black (ankle) has been ruled out for Wednesday's preseason game against the Grizzlies, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-11"
         },
         {
@@ -766,7 +773,7 @@
           "name": "Miles Bridges",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Bridges exited Wednesday's 124-117 preseason loss to the Bulls with a right ankle injury and did not return, Duane Rankin of The Arizona Republic reports.",
+          "detail": "Ankle — Head coach Jordan Ott said Friday that Bridges' X-rays came back negative, and he participated in Friday's practice, Duane Rankin of The Arizona Republic reports.",
           "returnDate": "2026-10-10"
         },
         {
@@ -899,7 +906,7 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Not Injury Related — Leonard (not injury related) went through a full practice Monday, Michael Grange of Sportsnet.ca reports.",
-          "returnDate": "2026-10-10"
+          "returnDate": "2026-10-13"
         },
         {
           "name": "Nate Bittle",
@@ -991,5 +998,5 @@
       "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1791575771808
+  "fetchedAt": 1791589583650
 }
