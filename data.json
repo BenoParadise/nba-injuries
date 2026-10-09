@@ -4,6 +4,13 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Keshon Gilbert",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Gilbert didn't play in Thursday's 123-116 preseason win over the Spurs due to left patella tendinitis, Lauren L. Williams of The Atlanta Journal-Constitution reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Luguentz Dort",
           "position": "G",
           "status": "Day-To-Day",
@@ -435,53 +442,46 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Arthur Kaluma",
+          "name": "Dalton Knecht",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Lower Body — Kaluma (lower body) won't play in Tuesday's preseason game Golden State, Luca Evans of the San Francisco Chronicle reports.",
-          "returnDate": "2026-10-08"
-        },
-        {
-          "name": "Collin Sexton",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Lower Body — Sexton (lower body) won't play in Tuesday's preseason game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
-          "returnDate": "2026-10-08"
-        },
-        {
-          "name": "Ziaire Williams",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Williams (rest) is out for Tuesday's preseason game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Undisclosed — Knecht won't play in Thursday's preseason game against the Kings due to a contusion, Mike Trudell of Spectrum SportsNet reports.",
+          "returnDate": "2026-10-13"
         },
         {
           "name": "Walker Kessler",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Finger — Kessler (finger) won't play in Tuesday's exhibition game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Finger — Kessler (finger) won't play in Thursday's preseason game against the Kings, Benjamin Royer of The Orange County Register reports.",
+          "returnDate": "2026-10-13"
         },
         {
-          "name": "Luka Doncic",
+          "name": "Collin Sexton",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Doncic (undisclosed) won't play in Tuesday's preseason game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Lower Body — Sexton (lower body) has been ruled out for Thursday's preseason game against Sacramento, Benjamin Royer of The Orange County Register reports.",
+          "returnDate": "2026-10-13"
         },
         {
-          "name": "Matisse Thybulle",
-          "position": "G",
+          "name": "Arthur Kaluma",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Rest — Thybulle (rest) will skip Tuesday's exhibition against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Lower Body — Kaluma (lower body) is out for Thursday's preseason game against the Kings, Benjamin Royer of The Orange County Register reports.",
+          "returnDate": "2026-10-13"
         },
         {
-          "name": "Austin Reaves",
+          "name": "Ziaire Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Williams (undisclosed) won't play in Thursday's preseason game against the Kings, Benjamin Royer of The Orange County Register reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Cameron Carr",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Reaves (ankle) won't play in Tuesday's preseason game against the Warriors, Luca Evans of the San Francisco Chronicle reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Undisclosed — Carr (undisclosed) won't play in Thursday's preseason game against the Kings, Benjamin Royer of The Orange County Register reports.",
+          "returnDate": "2026-10-13"
         }
       ]
     },
@@ -507,6 +507,13 @@
     {
       "name": "Miami Heat",
       "players": [
+        {
+          "name": "Kylor Kelley",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Calf — Kelley (calf) signed a contract with the Heat on Thursday, Ira Winderman of the South Florida Sun Sentinel reports.",
+          "returnDate": "2026-10-10"
+        },
         {
           "name": "Pelle Larsson",
           "position": "G",
@@ -596,13 +603,6 @@
           "status": "Day-To-Day",
           "detail": "Coach's Decision — Eubanks (rest) is not in line to play in Thursday's preseason game against Wizards, Stefan Bondy of The New York Post reports.",
           "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Jose Alvarado",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Alvarado (knee) won't play in Monday's preseason game against the 76ers, Steve Popper of Newsday reports.",
-          "returnDate": "2026-10-08"
         }
       ]
     },
@@ -761,25 +761,39 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Leaky Black",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Face — Black (face) exited to the locker room in the fourth quarter of Thursday's 114-110 preseason loss to the Lakers and did not return, finishing with four points (2-2 FG), two rebounds, one assist and one steal across 11 minutes.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Domantas Sabonis",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Sabonis (undisclosed) has been ruled out for Thursday's preseason matchup with the Lakers, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Keegan Murray",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Murray (undisclosed) won't play in Monday's preseason game against the Lakers, Sean Cunningham of Fox 40 Sacramento reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Undisclosed — Murray (undisclosed) won't play in Thursday's preseason game against the Lakers, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+          "returnDate": "2026-10-10"
         },
         {
           "name": "Malik Monk",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Rest — Monk (rest) won't suit up for Monday's exhibition versus the Lakers, Sean Cunningham of Fox 40 Sacramento reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Rest — Monk (rest) is out for Thursday's preseason game against the Lakers, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+          "returnDate": "2026-10-10"
         },
         {
           "name": "Ben Simmons",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Simmons (not injury related) won't play in Monday's preseason game against the Lakers, Sean Cunningham of Fox 40 Sacramento reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Undisclosed — Simmons (not injury related) has been ruled out for Thursday's preseason game against the Lakers, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+          "returnDate": "2026-10-10"
         }
       ]
     },
@@ -787,17 +801,17 @@
       "name": "San Antonio Spurs",
       "players": [
         {
+          "name": "Malik Williams",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Williams (undisclosed) is out for Thursday's preseason game against the Hawks, Matt Guzman of SI.com reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "De'Aaron Fox",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Undisclosed — Fox won't play in Thursday's preseason game against the Hawks due to soreness, Jeff McDonald of the San Antonio Express-News reports.",
-          "returnDate": "2026-10-10"
-        },
-        {
-          "name": "Malik Williams",
-          "position": "C",
-          "status": "Out",
-          "detail": "Undisclosed — Williams (undisclosed) is out for Thursday's preseason game against the Hawks, Matt Guzman of SI.com reports.",
           "returnDate": "2026-10-10"
         },
         {
@@ -933,40 +947,40 @@
   "games": [
     {
       "date": "2026-10-08T23:00Z",
-      "status": "2:42 - 3rd",
+      "status": "Final",
       "home": "Cleveland Cavaliers",
       "away": "Boston Celtics"
     },
     {
       "date": "2026-10-08T23:30Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "New Orleans Pelicans"
     },
     {
       "date": "2026-10-08T23:30Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Brooklyn Nets",
       "away": "Philadelphia 76ers"
     },
     {
       "date": "2026-10-08T23:30Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "New York Knicks",
       "away": "Washington Wizards"
     },
     {
       "date": "2026-10-09T00:00Z",
-      "status": "7:45 - 2nd",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "Atlanta Hawks"
     },
     {
-      "date": "2026-10-09T02:30Z",
-      "status": "10/8 - 10:30 PM EDT",
+      "date": "2026-10-09T02:45Z",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "Sacramento Kings"
     }
   ],
-  "fetchedAt": 1791507154150
+  "fetchedAt": 1791529277625
 }
