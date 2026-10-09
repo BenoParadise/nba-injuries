@@ -4,25 +4,18 @@
       "name": "Atlanta Hawks",
       "players": [
         {
-          "name": "Aaron Wiggins",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Lips — Wiggins won't return to Monday's preseason game against the Grizzlies due to a cut to his inner lip. He'll end with seven points (2-4 FG, 1-2 3Pt, 2-2 FT) in 11 minutes.",
-          "returnDate": "2026-10-08"
-        },
-        {
           "name": "Luguentz Dort",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Dort won't play in Monday's preseason game against the Grizzlies due to a right knee contusion, Kevin Chouinard of the Hawks' official site reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Knee — Dort (knee) has been ruled out for Thursday's preseason matchup with San Antonio, Brad Rowland of the Locked On Podcast Network reports.",
+          "returnDate": "2026-10-10"
         },
         {
-          "name": "CJ McCollum",
-          "position": "G",
+          "name": "Jalen Johnson",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Nose — McCollum is out for Monday's preseason opener against the Grizzlies due to a nose contusion, Brad Rowland of the Locked On Podcast Network reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Rest — Johnson (rest) has been ruled out for Thursday's preseason game against San Antonio, Brad Rowland of the Locked On Podcast Network reports.",
+          "returnDate": "2026-10-10"
         },
         {
           "name": "Henri Veesaar",
@@ -37,6 +30,67 @@
           "status": "Day-To-Day",
           "detail": "Foot — Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports.",
           "returnDate": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "name": "Boston Celtics",
+      "players": [
+        {
+          "name": "Sam Hauser",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Hauser (rest) is out for Thursday's preseason game against the Cavaliers, Sean Grande of NBC Sports Boston reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Ron Harper Jr.",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Harper (undisclosed) won't play in Thursday's preseason game against the Cavaliers, Sean Grande of NBC Sports Boston reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Payton Pritchard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Pritchard (undisclosed) has been ruled out for Thursday's preseason game against the Cavaliers, Sean Grande of NBC Sports Boston reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Mitchell Robinson",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Robinson (undisclosed) won't play in Thursday's preseason game against the Cavaliers, Sean Grande of NBC Sports Boston reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Neemias Queta",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Queta (rest) isn't in line to play Thursday against Cleveland, Zack Cox of the Boston Herald reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Paul George",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — George (rest) isn't in line to play Thursday versus Cleveland, Zack Cox of the Boston Herald reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Jayson Tatum",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Tatum (rest) isn't in line to play Thursday against Cleveland, Zack Cox of the Boston Herald reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Derrick White",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — White (rest) isn't in line to play Thursday against Cleveland, Zack Cox of the Boston Herald reports.",
+          "returnDate": "2026-10-10"
         }
       ]
     },
@@ -157,11 +211,25 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
-          "name": "Peyton Watson",
+          "name": "Khalifa Diop",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Diop (undisclosed) won't play in Thursday's preseason game against Boston, Serena Winters of FanDuel Sports Network Ohio reports.",
+          "returnDate": "2026-10-11"
+        },
+        {
+          "name": "Nae'Qwan Tomlin",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Tomlin (back) won't play in Thursday's preseason game against Boston, Serena Winters of FanDuel Sports Network Ohio reports.",
+          "returnDate": "2026-10-11"
+        },
+        {
+          "name": "James Harden",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Although head coach Kenny Atkinson said the starting lineup for the beginning of the 2026-27 season is not yet set, he praised Watson's (hamstring) fit in Cleveland and added that \"there's a lot of room for growth in his offensive game,\" Chris Fedor of Cleveland.com reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Ankle — Harden (ankle) has been ruled out for Thursday's preseason game against the Celtics, Serena Winters of FanDuel Sports Network Ohio reports.",
+          "returnDate": "2026-10-11"
         }
       ]
     },
@@ -191,7 +259,7 @@
           "name": "Spencer Jones",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Jones (hamstring) did not play during Tuesday's 93-79 preseason win over the Jazz.",
+          "detail": "Hamstring — Jones (hamstring) participated in on-court work after Thursday's practice, Katy Winge of Altitude Sports reports.",
           "returnDate": "2026-10-11"
         }
       ]
@@ -440,25 +508,18 @@
       "name": "Miami Heat",
       "players": [
         {
+          "name": "Pelle Larsson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Larsson (illness) won't play in Thursday's preseason game against the Pelicans, Anthony Chiang of the Miami Herald reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Keshad Johnson",
           "position": "F",
           "status": "Out",
           "detail": "Hamstring — Johnson (hamstring) is practicing in a limited fashion, per Ira Winderman of the South Florida Sun Sentinel.",
           "returnDate": "2026-10-26"
-        },
-        {
-          "name": "Pelle Larsson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Larsson didn't practice Wednesday due to an illness, Ira Winderman of the South Florida Sun Sentinel reports.",
-          "returnDate": "2026-10-08"
-        },
-        {
-          "name": "Andrew Wiggins",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Wiggins is dealing with an illness, per Ira Winderman of the South Florida Sun Sentinel.",
-          "returnDate": "2026-10-08"
         },
         {
           "name": "Dru Smith",
@@ -494,8 +555,48 @@
       ]
     },
     {
+      "name": "New Orleans Pelicans",
+      "players": [
+        {
+          "name": "Dejounte Murray",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Toe — Murray (toe) has been ruled out for Thursday's preseason game against the Heat, Andrew Lopez of Gulf Coast Sports &amp; Entertainment Network reports.",
+          "returnDate": "2026-10-14"
+        }
+      ]
+    },
+    {
       "name": "New York Knicks",
       "players": [
+        {
+          "name": "Kevin McCullar Jr.",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Coach's Decision — McCullar (undisclosed) won't play in Thursday's preseason game against the Wizards but is in line to suit up for Monday's preseason matchup with Minnesota, Stefan Bondy of The New York Post reports.",
+          "returnDate": "2026-10-12"
+        },
+        {
+          "name": "Tony Bradley",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Coach's Decision — Bradley (rest) is not in line to play in Thursday's preseason game against Wizards, Stefan Bondy of The New York Post reports.",
+          "returnDate": "2026-10-12"
+        },
+        {
+          "name": "Ochai Agbaji",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Coach's Decision — Agbaji (coach's decision) won't play in Thursday's preseason game against Washington, Stefan Bondy of The New York Post reports.",
+          "returnDate": "2026-10-12"
+        },
+        {
+          "name": "Drew Eubanks",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Coach's Decision — Eubanks (rest) is not in line to play in Thursday's preseason game against Wizards, Stefan Bondy of The New York Post reports.",
+          "returnDate": "2026-10-12"
+        },
         {
           "name": "Jose Alvarado",
           "position": "G",
@@ -686,6 +787,20 @@
       "name": "San Antonio Spurs",
       "players": [
         {
+          "name": "De'Aaron Fox",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Fox won't play in Thursday's preseason game against the Hawks due to soreness, Jeff McDonald of the San Antonio Express-News reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Malik Williams",
+          "position": "C",
+          "status": "Out",
+          "detail": "Undisclosed — Williams (undisclosed) is out for Thursday's preseason game against the Hawks, Matt Guzman of SI.com reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Maliq Brown",
           "position": "F",
           "status": "Day-To-Day",
@@ -788,8 +903,15 @@
           "name": "Alex Sarr",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Foot — Sarr said he took part in the Wizards' 5-on-5 full-contact work during Monday's practice, Josh Robbins of The Athletic reports.",
-          "returnDate": "2026-10-08"
+          "detail": "Foot — Sarr (foot) won't play in Thursday's preseason game against the Knicks, Josh Robbins of The Athletic reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
+          "name": "Khris Middleton",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Middleton (rest) won't play in Thursday's preseason game against the Knicks, Josh Robbins of The Athletic reports.",
+          "returnDate": "2026-10-10"
         },
         {
           "name": "Tristan Vukcevic",
@@ -811,31 +933,31 @@
   "games": [
     {
       "date": "2026-10-08T23:00Z",
-      "status": "10/8 - 7:00 PM EDT",
+      "status": "2:42 - 3rd",
       "home": "Cleveland Cavaliers",
       "away": "Boston Celtics"
     },
     {
       "date": "2026-10-08T23:30Z",
-      "status": "10/8 - 7:30 PM EDT",
+      "status": "Halftime",
       "home": "Miami Heat",
       "away": "New Orleans Pelicans"
     },
     {
       "date": "2026-10-08T23:30Z",
-      "status": "10/8 - 7:30 PM EDT",
+      "status": "Halftime",
       "home": "Brooklyn Nets",
       "away": "Philadelphia 76ers"
     },
     {
       "date": "2026-10-08T23:30Z",
-      "status": "10/8 - 7:30 PM EDT",
+      "status": "Halftime",
       "home": "New York Knicks",
       "away": "Washington Wizards"
     },
     {
       "date": "2026-10-09T00:00Z",
-      "status": "10/8 - 8:00 PM EDT",
+      "status": "7:45 - 2nd",
       "home": "San Antonio Spurs",
       "away": "Atlanta Hawks"
     },
@@ -846,5 +968,5 @@
       "away": "Sacramento Kings"
     }
   ],
-  "fetchedAt": 1791491034554
+  "fetchedAt": 1791507154150
 }
