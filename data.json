@@ -489,38 +489,38 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Dalton Knecht",
+          "name": "Ziaire Williams",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Knecht won't play in Thursday's preseason game against the Kings due to a contusion, Mike Trudell of Spectrum SportsNet reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Walker Kessler",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Finger — Kessler (finger) won't play in Thursday's preseason game against the Kings, Benjamin Royer of The Orange County Register reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Collin Sexton",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Lower Body — Sexton (lower body) has been ruled out for Thursday's preseason game against Sacramento, Benjamin Royer of The Orange County Register reports.",
+          "detail": "Foot — Lakers head coach JJ Redick said Williams is dealing with a foot contusion, Benjamin Royer of The Orange County Register reports.",
           "returnDate": "2026-10-13"
         },
         {
           "name": "Arthur Kaluma",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Lower Body — Kaluma (lower body) is out for Thursday's preseason game against the Kings, Benjamin Royer of The Orange County Register reports.",
+          "detail": "Lower Body — Lakers head coach JJ Redick said Kaluma (lower body) returned to practice Saturday, Benjamin Royer of The Orange County Register reports.",
           "returnDate": "2026-10-13"
         },
         {
-          "name": "Ziaire Williams",
+          "name": "Walker Kessler",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Finger — Lakers head coach JJ Redick said Kessler participated in Saturday's practice but didn't do live work, though the center might return to scrimmaging Sunday, Jovan Buha of The Athletic reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Collin Sexton",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Lower Leg — Lakers head coach JJ Redick said Saturday that Sexton is day-to-day due to a lower-leg injury, Jovan Buha of The Athletic reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Dalton Knecht",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Williams (undisclosed) won't play in Thursday's preseason game against the Kings, Benjamin Royer of The Orange County Register reports.",
+          "detail": "Undisclosed — Knecht won't play in Thursday's preseason game against the Kings due to a contusion, Mike Trudell of Spectrum SportsNet reports.",
           "returnDate": "2026-10-13"
         },
         {
@@ -660,42 +660,98 @@
           "name": "Thomas Sorber",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Knee — Sorber (knee) won't play in Wednesday's preseason game against the Bucks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Chet Holmgren",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Holmgren (quadriceps) won't play in Wednesday's preseason game against Milwaukee, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-12"
+          "detail": "Knee — Sorber (knee) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
         },
         {
           "name": "Nikola Topic",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Back — Topic (back) won't play in Wednesday's preseason game against the Bucks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-12"
+          "detail": "Back — Topic (back) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
         },
         {
-          "name": "Isaiah Hartenstein",
+          "name": "Chet Holmgren",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Hartenstein (ankle) won't play in Wednesday's preseason game against the Bucks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-12"
+          "detail": "Quadriceps — Holmgren (quadriceps) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
         },
         {
           "name": "Jaylin Williams",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Heel — Williams (heel) is out for Wednesday's preseason game against the Bucks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-12"
+          "detail": "Heel — Williams (heel) won't play in Monday's preseason game against Atlanta, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Kenrich Williams",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Williams (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Alex Caruso",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Caruso (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Jared McCain",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — McCain (rest) has been ruled out for Monday's game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Ajay Mitchell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Mitchell (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Isaiah Hartenstein",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Hartenstein (ankle) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Cason Wallace",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Wallace (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Jalen Williams",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Williams (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Gilgeous-Alexander (rest) won't play in Monday's preseason game against Atlanta, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-13"
         }
       ]
     },
     {
       "name": "Orlando Magic",
       "players": [
+        {
+          "name": "Jalen Suggs",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Magic head coach Sean Sweeney said Suggs (illness) increased his activity level at Saturday's practice and looked more like himself, but they can't \"skip steps\" in the point guard's recovery, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-11"
+        },
         {
           "name": "Anthony Black",
           "position": "G",
@@ -708,13 +764,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Hamstring — Penda (hamstring) is out for Wednesday's preseason game in Memphis, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-11"
-        },
-        {
-          "name": "Jalen Suggs",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Suggs (illness) has been ruled out for Wednesday's preseason game against the Grizzlies, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-11"
         },
         {
@@ -928,6 +977,13 @@
       "name": "Utah Jazz",
       "players": [
         {
+          "name": "Kyle Filipowski",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Jazz head coach Will Hardy said Saturday that Filipowski is progressing well and doing the necessary steps to get back on the court, but the big man doesn't have a return timeline, Shreyas Laddha of The Salt Lake Tribune reports.",
+          "returnDate": "2026-10-12"
+        },
+        {
           "name": "Jusuf Nurkic",
           "position": "C",
           "status": "Out",
@@ -946,13 +1002,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Hip — Sensabaugh (hip) won't play in Tuesday's preseason game against the Nuggets.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Kyle Filipowski",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Filipowski (back) is out for Tuesday's exhibition versus the Nuggets.",
           "returnDate": "2026-10-12"
         }
       ]
@@ -1035,5 +1084,5 @@
       "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1791648165772
+  "fetchedAt": 1791663867516
 }
