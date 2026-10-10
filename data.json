@@ -185,6 +185,13 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Matas Buzelis",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Buzelis exited to the locker room in the second quarter and will not return to Friday's preseason game against the Grizzlies due to a right ankle injury, K.C. Johnson of Chicago Sports Network reports. He'll finish with six points (3-6 FG, 0-2 3Pt) and one block in 12 minutes.",
+          "returnDate": "2026-10-11"
+        },
+        {
           "name": "Tre Jones",
           "position": "G",
           "status": "Day-To-Day",
@@ -529,18 +536,18 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
+          "name": "Micah Peavy",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Peavy (ankle) did not see the floor in Friday's 104-100 preseason win over the Bulls.",
+          "returnDate": "2026-10-16"
+        },
+        {
           "name": "Isaiah Stewart",
           "position": "C",
           "status": "Out",
           "detail": "Ankle — The Grizzlies announced Friday that Stewart (ankle) will miss at least two weeks.",
           "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Micah Peavy",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Peavy (ankle) did not play in Wednesday's 122-118 preseason loss to the Magic.",
-          "returnDate": "2026-10-09"
         }
       ]
     },
@@ -881,6 +888,13 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Kawhi Leonard",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Not Injury Related — Leonard (not injury related) won't suit up for Saturday's exhibition against the Clippers, Tomer Azarly of ClutchPoints.com reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
           "name": "Trayce Jackson-Davis",
           "position": "F",
           "status": "Day-To-Day",
@@ -900,13 +914,6 @@
           "status": "Day-To-Day",
           "detail": "Groin — Graves (groin) was limited during Sunday's practice, Josh Lewenberg of TSN.ca reports.",
           "returnDate": "2026-10-10"
-        },
-        {
-          "name": "Kawhi Leonard",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Not Injury Related — Leonard (not injury related) went through a full practice Monday, Michael Grange of Sportsnet.ca reports.",
-          "returnDate": "2026-10-13"
         },
         {
           "name": "Nate Bittle",
@@ -993,10 +1000,10 @@
     },
     {
       "date": "2026-10-10T00:00Z",
-      "status": "10/9 - 8:00 PM EDT",
+      "status": "Final",
       "home": "Chicago Bulls",
       "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1791589583650
+  "fetchedAt": 1791603259269
 }
