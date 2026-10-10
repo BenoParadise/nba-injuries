@@ -322,17 +322,17 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Brandin Podziemski",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Podziemski (rest) and the Warriors agreed to a five-year, $110 million contract extension Saturday, Shams Charania of ESPN reports.",
+          "returnDate": "2026-10-10"
+        },
+        {
           "name": "Gui Santos",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Rest — Santos (rest) won't travel with the Warriors for Wednesday's preseason game against the Trail Blazers, Dalton Johnson of NBC Sports Bay Area reports.",
-          "returnDate": "2026-10-10"
-        },
-        {
-          "name": "Brandin Podziemski",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Podziemski (rest) won't travel with the Warriors for Wednesday's preseason game against the Trail Blazers, Dalton Johnson of NBC Sports Bay Area reports.",
           "returnDate": "2026-10-10"
         },
         {
@@ -993,17 +993,47 @@
   ],
   "games": [
     {
-      "date": "2026-10-09T12:00Z",
-      "status": "Final",
-      "home": "Dallas Mavericks",
-      "away": "Houston Rockets"
+      "date": "2026-10-10T22:30Z",
+      "status": "10/10 - 6:30 PM EDT",
+      "home": "Toronto Raptors",
+      "away": "LA Clippers"
     },
     {
-      "date": "2026-10-10T00:00Z",
-      "status": "Final",
-      "home": "Chicago Bulls",
-      "away": "Memphis Grizzlies"
+      "date": "2026-10-10T23:00Z",
+      "status": "10/10 - 7:00 PM EDT",
+      "home": "Indiana Pacers",
+      "away": "Atlanta Hawks"
+    },
+    {
+      "date": "2026-10-10T23:00Z",
+      "status": "10/10 - 7:00 PM EDT",
+      "home": "Washington Wizards",
+      "away": "Detroit Pistons"
+    },
+    {
+      "date": "2026-10-11T00:00Z",
+      "status": "10/10 - 8:00 PM EDT",
+      "home": "Miami Heat",
+      "away": "Minnesota Timberwolves"
+    },
+    {
+      "date": "2026-10-11T00:00Z",
+      "status": "10/10 - 8:00 PM EDT",
+      "home": "Boston Celtics",
+      "away": "Philadelphia 76ers"
+    },
+    {
+      "date": "2026-10-11T00:30Z",
+      "status": "10/10 - 8:30 PM EDT",
+      "home": "Golden State Warriors",
+      "away": "Sacramento Kings"
+    },
+    {
+      "date": "2026-10-11T02:30Z",
+      "status": "10/10 - 10:30 PM EDT",
+      "home": "Phoenix Suns",
+      "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1791627511826
+  "fetchedAt": 1791648165772
 }
