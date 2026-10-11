@@ -901,9 +901,9 @@
         {
           "name": "Maxime Raynaud",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Raynaud suffered an right knee injury during the second quarter of Saturday's preseason game against the Warriors, Marc J. Spears of ESPN.com reports.",
-          "returnDate": "2026-10-13"
+          "status": "Out",
+          "detail": "Knee — Raynaud has been diagnosed with a right knee subluxation and will be re-evaluated in approximately two weeks, Michael Scotto of HoopsHype.com reports.",
+          "returnDate": "2026-10-25"
         },
         {
           "name": "Dylan Cardwell",
@@ -1101,5 +1101,5 @@
       "away": "Chicago Bulls"
     }
   ],
-  "fetchedAt": 1791726004000
+  "fetchedAt": 1791743548975
 }
