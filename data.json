@@ -226,36 +226,29 @@
           "name": "Marcus Sasser",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hip — Sasser won't play in Friday's preseason game against the Rockets due to left adductor soreness.",
-          "returnDate": "2026-10-11"
-        },
-        {
-          "name": "P.J. Washington",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Washington won't play in Friday's preseason game against the Rockets.",
-          "returnDate": "2026-10-11"
-        },
-        {
-          "name": "Caleb Martin",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Martin won't play in Friday's preseason game against the Rocket due to an illness.",
-          "returnDate": "2026-10-11"
-        },
-        {
-          "name": "Dereck Lively II",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Lively (foot) won't play in Friday's preseason game against the Rockets.",
-          "returnDate": "2026-10-11"
+          "detail": "Hip — Sasser (adductor) won't play in Sunday's preseason game against the Rockets, Grant Afseth of DallasHoopsJournal.com reports.",
+          "returnDate": "2026-10-14"
         },
         {
           "name": "Santi Aldama",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Aldama (knee) won't play in Friday's preseason game against the Rockets.",
-          "returnDate": "2026-10-11"
+          "detail": "Knee — Aldama (knee) won't play in Sunday's preseason game against the Rockets, Grant Afseth of DallasHoopsJournal.com reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Dereck Lively II",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Lively (foot) won't play in Sunday's preseason game against the Rockets, Grant Afseth of DallasHoopsJournal.com reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Morez Johnson Jr.",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Johnson (rest) won't play in Sunday's preseason game against the Rockets, Grant Afseth of DallasHoopsJournal.com reports.",
+          "returnDate": "2026-10-14"
         }
       ]
     },
@@ -319,6 +312,27 @@
     {
       "name": "Houston Rockets",
       "players": [
+        {
+          "name": "Steven Adams",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Adams (rest) isn't expected to play in Sunday's preseason game against the Mavericks, Will Guillory of The Athletic reports.",
+          "returnDate": "2026-10-15"
+        },
+        {
+          "name": "Alperen Sengun",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Sengun (rest) isn't expected to play in Sunday's preseason game against the Mavericks, Will Guillory of The Athletic reports.",
+          "returnDate": "2026-10-15"
+        },
+        {
+          "name": "Fred VanVleet",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — VanVleet (rest) isn't expected to play in Sunday's preseason game against the Mavericks, Will Guillory of The Athletic reports.",
+          "returnDate": "2026-10-15"
+        },
         {
           "name": "Kevin Durant",
           "position": "F",
@@ -1063,47 +1077,29 @@
   ],
   "games": [
     {
-      "date": "2026-10-10T22:30Z",
+      "date": "2026-10-11T10:00Z",
       "status": "Final",
-      "home": "Toronto Raptors",
-      "away": "LA Clippers"
+      "home": "Houston Rockets",
+      "away": "Dallas Mavericks"
     },
     {
-      "date": "2026-10-10T23:00Z",
-      "status": "Final",
-      "home": "Indiana Pacers",
-      "away": "Atlanta Hawks"
+      "date": "2026-10-11T22:30Z",
+      "status": "10/11 - 6:30 PM EDT",
+      "home": "Cleveland Cavaliers",
+      "away": "Orlando Magic"
     },
     {
-      "date": "2026-10-10T23:00Z",
-      "status": "Final/OT",
-      "home": "Washington Wizards",
-      "away": "Detroit Pistons"
+      "date": "2026-10-11T23:00Z",
+      "status": "10/11 - 7:00 PM EDT",
+      "home": "Charlotte Hornets",
+      "away": "Milwaukee Bucks"
     },
     {
-      "date": "2026-10-11T00:00Z",
-      "status": "Final",
-      "home": "Miami Heat",
-      "away": "Minnesota Timberwolves"
-    },
-    {
-      "date": "2026-10-11T00:00Z",
-      "status": "Final",
-      "home": "Boston Celtics",
-      "away": "Philadelphia 76ers"
-    },
-    {
-      "date": "2026-10-11T00:30Z",
-      "status": "Final",
-      "home": "Golden State Warriors",
-      "away": "Sacramento Kings"
-    },
-    {
-      "date": "2026-10-11T02:30Z",
-      "status": "Final",
-      "home": "Phoenix Suns",
-      "away": "San Antonio Spurs"
+      "date": "2026-10-12T01:00Z",
+      "status": "10/11 - 9:00 PM EDT",
+      "home": "Denver Nuggets",
+      "away": "Chicago Bulls"
     }
   ],
-  "fetchedAt": 1791700805029
+  "fetchedAt": 1791726004000
 }
