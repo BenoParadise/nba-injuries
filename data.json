@@ -103,18 +103,18 @@
       "name": "Charlotte Hornets",
       "players": [
         {
-          "name": "Brandon Miller",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Leg — Miller (leg) is listed as out for Tuesday's preseason game versus the Nets.",
-          "returnDate": "2026-10-11"
-        },
-        {
           "name": "Christian Anderson",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Anderson (ankle) won't play in Tuesday's preseason game against the Nets.",
-          "returnDate": "2026-10-11"
+          "detail": "Ankle — Anderson (ankle) has been ruled out for Sunday's preseason game against Milwaukee.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Grayson Allen",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Allen will not play in Sunday's preseason game against the Bucks due to right knee soreness.",
+          "returnDate": "2026-10-14"
         },
         {
           "name": "Kylan Boswell",
@@ -197,25 +197,18 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
-          "name": "Khalifa Diop",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Diop (undisclosed) won't play in Thursday's preseason game against Boston, Serena Winters of FanDuel Sports Network Ohio reports.",
-          "returnDate": "2026-10-11"
-        },
-        {
           "name": "Nae'Qwan Tomlin",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Back — Tomlin (back) won't play in Thursday's preseason game against Boston, Serena Winters of FanDuel Sports Network Ohio reports.",
-          "returnDate": "2026-10-11"
+          "detail": "Back — Tomlin (back) is out for Sunday's preseason game against the Magic, Serena Winters of FanDuel Sports Network Ohio reports.",
+          "returnDate": "2026-10-13"
         },
         {
-          "name": "James Harden",
-          "position": "G",
+          "name": "Khalifa Diop",
+          "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Harden (ankle) has been ruled out for Thursday's preseason game against the Celtics, Serena Winters of FanDuel Sports Network Ohio reports.",
-          "returnDate": "2026-10-11"
+          "detail": "Knee — Diop (knee) has been ruled out for Sunday's preseason game against the Magic, Serena Winters of FanDuel Sports Network Ohio reports.",
+          "returnDate": "2026-10-13"
         }
       ]
     },
@@ -419,6 +412,13 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Walker Kessler",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Finger — Kessler (finger) was a full participant in Sunday's practice, Law Murray of The Athletic reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
           "name": "Ziaire Williams",
           "position": "F",
           "status": "Day-To-Day",
@@ -430,13 +430,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Lower Body — Lakers head coach JJ Redick said Kaluma (lower body) returned to practice Saturday, Benjamin Royer of The Orange County Register reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Walker Kessler",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Finger — Lakers head coach JJ Redick said Kessler participated in Saturday's practice but didn't do live work, though the center might return to scrimmaging Sunday, Jovan Buha of The Athletic reports.",
           "returnDate": "2026-10-13"
         },
         {
@@ -753,32 +746,32 @@
       "name": "Orlando Magic",
       "players": [
         {
-          "name": "Jalen Suggs",
-          "position": "G",
+          "name": "Jonathan Isaac",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Illness — Magic head coach Sean Sweeney said Suggs (illness) increased his activity level at Saturday's practice and looked more like himself, but they can't \"skip steps\" in the point guard's recovery, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-11"
+          "detail": "Knee — Isaac (personal, knee) is out for Sunday's preseason game against the Cavaliers, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-13"
         },
         {
           "name": "Anthony Black",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Black (ankle) was a full participant in Friday's practice, per Jason Beede of the Orlando Sentinel.",
-          "returnDate": "2026-10-11"
+          "detail": "Ankle — Black (ankle) is out for Sunday's preseason game against the Cavaliers, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-13"
         },
         {
-          "name": "Noah Penda",
-          "position": "F",
+          "name": "Desmond Bane",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Penda (hamstring) is out for Wednesday's preseason game in Memphis, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-11"
+          "detail": "Rest — Bane (rest) has been ruled out for Sunday's preseason game versus Cleveland, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-13"
         },
         {
-          "name": "Jonathan Isaac",
-          "position": "F",
+          "name": "Jalen Suggs",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Isaac (knee) won't travel with the Magic for Wednesday's preseason opener against the Grizzlies due to personal reasons, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-11"
+          "detail": "Illness — Suggs is out for Sunday's preseason game against the Cavaliers, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-13"
         },
         {
           "name": "Izaiyah Nelson",
@@ -1101,5 +1094,5 @@
       "away": "Chicago Bulls"
     }
   ],
-  "fetchedAt": 1791743548975
+  "fetchedAt": 1791758160450
 }
