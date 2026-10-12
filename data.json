@@ -150,24 +150,10 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Matas Buzelis",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Buzelis exited to the locker room in the second quarter and will not return to Friday's preseason game against the Grizzlies due to a right ankle injury, K.C. Johnson of Chicago Sports Network reports. He'll finish with six points (3-6 FG, 0-2 3Pt) and one block in 12 minutes.",
-          "returnDate": "2026-10-11"
-        },
-        {
           "name": "Tre Jones",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Hip — Jones (hip) has been ruled out for Friday's preseason game against the Grizzlies, K.C. Johnson of Chicago Sports Network reports.",
-          "returnDate": "2026-10-11"
-        },
-        {
-          "name": "Jalen Smith",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Foot — Smith (foot) has been ruled out for Friday's preseason game against the Grizzlies, K.C. Johnson of Chicago Sports Network reports.",
           "returnDate": "2026-10-11"
         },
         {
@@ -546,11 +532,25 @@
       "name": "Milwaukee Bucks",
       "players": [
         {
+          "name": "Kasparas Jakucionis",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Coach's Decision — Jakucionis (coach's decision) is inactive for Sunday's preseason game against Charlotte, Justin Garcia of the Milwaukee Bucks Radio Network reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Brayden Burries",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Coach's Decision — Burries will not play in Sunday's preseason game against the Hornets due to a coach's decision, Justin Garcia of the Milwaukee Bucks Radio Network reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
           "name": "Nate Ament",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Ament won't return to Wednesday's preseason game against the Thunder due to a left ankle sprain. He'll finish with three points (1-7 FG, 0-1 3Pt, 1-4 FT), four rebounds, one assist and one steal in 10 minutes.",
-          "returnDate": "2026-10-11"
+          "detail": "Ankle — Ament (ankle) is out for Sunday's preseason game against the Hornets, Justin Garcia of the Milwaukee Bucks Radio Networkreports.",
+          "returnDate": "2026-10-14"
         }
       ]
     },
@@ -1077,22 +1077,22 @@
     },
     {
       "date": "2026-10-11T22:30Z",
-      "status": "10/11 - 6:30 PM EDT",
+      "status": "Final",
       "home": "Cleveland Cavaliers",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-10-11T23:00Z",
-      "status": "10/11 - 7:00 PM EDT",
+      "status": "Final",
       "home": "Charlotte Hornets",
       "away": "Milwaukee Bucks"
     },
     {
       "date": "2026-10-12T01:00Z",
-      "status": "10/11 - 9:00 PM EDT",
+      "status": "8:52 - 2nd",
       "home": "Denver Nuggets",
       "away": "Chicago Bulls"
     }
   ],
-  "fetchedAt": 1791758160450
+  "fetchedAt": 1791770180679
 }
