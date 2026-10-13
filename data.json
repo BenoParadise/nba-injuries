@@ -753,6 +753,13 @@
       "name": "Orlando Magic",
       "players": [
         {
+          "name": "Jalen Suggs",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Magic coach Sean Sweeney said Suggs is no longer under the weather, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-13"
+        },
+        {
           "name": "Jonathan Isaac",
           "position": "F",
           "status": "Day-To-Day",
@@ -771,13 +778,6 @@
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Rest — Bane (rest) has been ruled out for Sunday's preseason game versus Cleveland, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Jalen Suggs",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Suggs is out for Sunday's preseason game against the Cavaliers, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-13"
         },
         {
@@ -1112,35 +1112,35 @@
   ],
   "games": [
     {
-      "date": "2026-10-12T20:00Z",
-      "status": "Final",
-      "home": "Portland Trail Blazers",
-      "away": "London Lions"
+      "date": "2026-10-13T23:00Z",
+      "status": "10/13 - 7:00 PM EDT",
+      "home": "Orlando Magic",
+      "away": "Cleveland Cavaliers"
     },
     {
-      "date": "2026-10-12T23:00Z",
-      "status": "Final",
-      "home": "Atlanta Hawks",
-      "away": "Oklahoma City Thunder"
+      "date": "2026-10-13T23:00Z",
+      "status": "10/13 - 7:00 PM EDT",
+      "home": "Toronto Raptors",
+      "away": "New York Knicks"
     },
     {
-      "date": "2026-10-12T23:00Z",
-      "status": "Final",
-      "home": "Washington Wizards",
-      "away": "Brooklyn Nets"
+      "date": "2026-10-14T00:00Z",
+      "status": "10/13 - 8:00 PM EDT",
+      "home": "Oklahoma City Thunder",
+      "away": "Indiana Pacers"
     },
     {
-      "date": "2026-10-12T23:30Z",
-      "status": "Final",
-      "home": "New York Knicks",
-      "away": "Minnesota Timberwolves"
+      "date": "2026-10-14T02:00Z",
+      "status": "10/13 - 10:00 PM EDT",
+      "home": "Los Angeles Lakers",
+      "away": "Golden State Warriors"
     },
     {
-      "date": "2026-10-13T01:00Z",
-      "status": "Final",
-      "home": "Utah Jazz",
-      "away": "San Antonio Spurs"
+      "date": "2026-10-14T02:00Z",
+      "status": "10/13 - 10:00 PM EDT",
+      "home": "Sacramento Kings",
+      "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1791881120573
+  "fetchedAt": 1791909415992
 }
