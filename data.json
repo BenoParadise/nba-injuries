@@ -164,17 +164,31 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Zach Collins",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Toe — Collins (toe) is progressing in his recovery but has been ruled out for Wednesday's preseason meeting with the Bucks, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Tobe Awaka",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Awaka (knee) didn't practice Tuesday, per K.C. Johnson of Chicago Sports Network.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Isaac Okoro",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Okoro (undisclosed) didn't participate in Tuesday's practice, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
           "name": "Jaylin Sellers",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Back — Sellers (back) did not play in Sunday's 133-128 preseason loss to Denver.",
-          "returnDate": "2026-10-14"
-        },
-        {
-          "name": "Zach Collins",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Toe — Collins (toe) did not play in Sunday's 133-128 preseason loss to Denver.",
           "returnDate": "2026-10-14"
         },
         {
@@ -245,8 +259,8 @@
           "name": "Spencer Jones",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Jones (hamstring) did not play in Sunday's 133-128 preseason win over Chicago.",
-          "returnDate": "2026-10-14"
+          "detail": "Hamstring — Jones (hamstring) remains limited to non-contact work, Vinny Benedetto of The Denver Gazette reports.",
+          "returnDate": "2026-10-22"
         }
       ]
     },
@@ -481,7 +495,7 @@
           "name": "Pelle Larsson",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Illness — Larsson (illness) didn't practice Monday, Ira Winderman of the South Florida Sun Sentinel reports.",
+          "detail": "Illness — Larsson (illness) is doubtful for Wednesday's preseason game against the Nets, Ira Winderman of the South Florida Sun Sentinel reports.",
           "returnDate": "2026-10-14"
         },
         {
@@ -753,25 +767,18 @@
       "name": "Orlando Magic",
       "players": [
         {
-          "name": "Jalen Suggs",
+          "name": "Anthony Black",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Illness — Magic coach Sean Sweeney said Suggs is no longer under the weather, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Ankle — Black (ankle) has been ruled out for Tuesday's preseason game against Cleveland, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-16"
         },
         {
           "name": "Jonathan Isaac",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Isaac (personal, knee) is out for Sunday's preseason game against the Cavaliers, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Anthony Black",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Black (ankle) is out for Sunday's preseason game against the Cavaliers, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Knee — Isaac (knee) won't play in Tuesday's preseason game against Cleveland, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-16"
         },
         {
           "name": "Desmond Bane",
@@ -792,6 +799,13 @@
     {
       "name": "Philadelphia 76ers",
       "players": [
+        {
+          "name": "Dominick Barlow",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Barlow (back) was unable to practice Tuesday, Noah Levick of NBC Sports Philadelphia reports.",
+          "returnDate": "2026-10-16"
+        },
         {
           "name": "Adem Bona",
           "position": "C",
@@ -832,13 +846,6 @@
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Rest — Embiid (rest) is out for Saturday's exhibition against the Celtics, Tony Jones of The Athletic reports.",
-          "returnDate": "2026-10-16"
-        },
-        {
-          "name": "Dominick Barlow",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Barlow (back) isn't expected to play in either of Philadelphia's next two preseason games against Brooklyn and Boston, Dave McMenamin of ESPN.com reports.",
           "returnDate": "2026-10-16"
         },
         {
@@ -890,22 +897,8 @@
           "name": "Chris Youngblood",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Calf — Youngblood is out for Monday's preseason game against London with left calf soreness.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Robert Williams III",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Williams (rest) is out for Monday's preseason game against London.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Damian Lillard",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Lillard (rest) is out for Monday's preseason game against London.",
-          "returnDate": "2026-10-13"
+          "detail": "Calf — Youngblood (calf) has been ruled out for Tuesday's preseason game against the Kings.",
+          "returnDate": "2026-10-16"
         },
         {
           "name": "Shaedon Sharpe",
@@ -920,6 +913,13 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Dylan Cardwell",
+          "position": "C",
+          "status": "Out",
+          "detail": "Calf — Cardwell will miss at least two weeks with a left calf strain, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-10-29"
+        },
+        {
           "name": "Malik Monk",
           "position": "G",
           "status": "Day-To-Day",
@@ -931,13 +931,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Undisclosed — Saboins (undisclosed) was a full participant during Monday's practice but remains questionable for Tuesday's preseason game against the Trail Blazers, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Dylan Cardwell",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Calf — Cardwell (calf) didn't practice Monday, per James Ham of ESPN 1320 Sacramento.",
           "returnDate": "2026-10-13"
         },
         {
@@ -1028,13 +1021,6 @@
           "returnDate": "2026-10-13"
         },
         {
-          "name": "Allen Graves",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Groin — Graves (groin) practiced Monday, per Zulfi Sheikh of Sportsnet.",
-          "returnDate": "2026-10-13"
-        },
-        {
           "name": "Alijah Martin",
           "position": "G",
           "status": "Day-To-Day",
@@ -1046,7 +1032,7 @@
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Foot — Bittle (foot) has been ruled out for Saturday's exhibition game against the Clippers, Michael Grange of Sportsnet.ca reports.",
-          "returnDate": "2026-10-13"
+          "returnDate": "2026-10-21"
         }
       ]
     },
@@ -1142,5 +1128,5 @@
       "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1791909415992
+  "fetchedAt": 1791927586019
 }
