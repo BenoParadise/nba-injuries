@@ -7,22 +7,50 @@
           "name": "Keshon Gilbert",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Gilbert (knee) has been ruled out for Saturday's preseason game against the Pacers, Brad Rowland of the Locked On Podcast Network reports.",
-          "returnDate": "2026-10-12"
+          "detail": "Knee — Gilbert (knee) won't play in Monday's preseason game against the Thunder, per Brad Rowland of the Locked On Podcast Network.",
+          "returnDate": "2026-10-16"
         },
         {
-          "name": "Dorian Finney-Smith",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Finney-Smith (rest) is out for Saturday's exhibition against the Pacers, Brad Rowland of the Locked On Podcast Network reports.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Nickeil Alexander-Walker",
+          "name": "Aaron Wiggins",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Rest — Alexander-Walker (rest) won't suit up for Saturday's preseason game in Indiana, Brad Rowland of the Locked On Podcast Network reports.",
-          "returnDate": "2026-10-12"
+          "detail": "Rest — Wiggins (rest) won't play in Monday's preseason game against the Thunder, Brad Rowland of the Locked On Podcast Network reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Onyeka Okongwu",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Okongwu (rest) is out for Monday's preseason game against the Thunder, per Brad Rowland of the Locked On Podcast Network.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "CJ McCollum",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — McCollum (rest) won't play in Monday's preseason game against the Thunder, Brad Rowland of the Locked On Podcast Network reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Luguentz Dort",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Dort (rest) is out for Monday's preseason game against the Thunder, per Brad Rowland of the Locked On Podcast Network.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Jalen Johnson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Johnson (rest) won't play in Monday's preseason game against the Thunder, Brad Rowland of the Locked On Podcast Network reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Dyson Daniels",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Daniels (rest) has been ruled out for Monday's preseason game against the Thunder, Brad Rowland of the Locked On Podcast Network reports.",
+          "returnDate": "2026-10-16"
         },
         {
           "name": "Henri Veesaar",
@@ -245,6 +273,13 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Al Horford",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Horford (rest) won't play in Tuesday's preseason game against the Lakers, per Nick Friedell of The Athletic.",
+          "returnDate": "2026-10-16"
+        },
+        {
           "name": "Kristaps Porzingis",
           "position": "C",
           "status": "Day-To-Day",
@@ -443,17 +478,17 @@
       "name": "Miami Heat",
       "players": [
         {
+          "name": "Pelle Larsson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Larsson (illness) didn't practice Monday, Ira Winderman of the South Florida Sun Sentinel reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
           "name": "Kylor Kelley",
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Calf — Kelley (calf) did not play during Saturday's 125-124 preseason loss to the Timberwolves.",
-          "returnDate": "2026-10-14"
-        },
-        {
-          "name": "Pelle Larsson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Larsson won't return to Saturday's preseason game against the Timberwolves due to an illness, Anthony Chiang of the Miami Herald reports.",
           "returnDate": "2026-10-14"
         },
         {
@@ -537,46 +572,32 @@
       "name": "Minnesota Timberwolves",
       "players": [
         {
-          "name": "Jaden McDaniels",
-          "position": "F",
+          "name": "Rocco Zikarsky",
+          "position": "C",
           "status": "Day-To-Day",
-          "detail": "Rest — McDaniels (rest) has been ruled out for Saturday's game against the Heat.",
-          "returnDate": "2026-10-12"
+          "detail": "Undisclosed — Zikarsky (undisclosed) has been ruled out for Monday's preseason game against the Knicks.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Terrence Shannon Jr.",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Shannon (undisclosed) has been ruled out for Monday's preseason game against the Knicks.",
+          "returnDate": "2026-10-14"
         },
         {
           "name": "Jonathan Kuminga",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Rest — Kuminga (rest) is not available against the Heat on Saturday.",
-          "returnDate": "2026-10-12"
+          "detail": "Rest — Kuminga (general soreness) won't play in Monday's preseason game against the Knicks, Alan Horton of the Timberwolves Radio Network reports.",
+          "returnDate": "2026-10-14"
         },
         {
-          "name": "Ayo Dosunmu",
-          "position": "G",
+          "name": "Enrique Freeman",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Rest — Dosunmu (rest) has been ruled out for Saturday's preseason game against Miami.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Rudy Gobert",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Gobert (rest) has been ruled out for Saturday's game against the Heat.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Anthony Edwards",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Edwards (rest) is not available for Saturday's preseason game against Miami.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "LaMelo Ball",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Ball (rest) has been ruled out for Saturday's preseason game against the Heat.",
-          "returnDate": "2026-10-12"
+          "detail": "Shoulder — Freeman is out for Monday's preseason matchup with the Knicks due to a right shoulder injury.",
+          "returnDate": "2026-10-14"
         },
         {
           "name": "Donte DiVincenzo",
@@ -596,39 +617,6 @@
           "status": "Day-To-Day",
           "detail": "Toe — Murray (toe) has been ruled out for Thursday's preseason game against the Heat, Andrew Lopez of Gulf Coast Sports &amp; Entertainment Network reports.",
           "returnDate": "2026-10-14"
-        }
-      ]
-    },
-    {
-      "name": "New York Knicks",
-      "players": [
-        {
-          "name": "Kevin McCullar Jr.",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Coach's Decision — McCullar (undisclosed) won't play in Thursday's preseason game against the Wizards but is in line to suit up for Monday's preseason matchup with Minnesota, Stefan Bondy of The New York Post reports.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Tony Bradley",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Coach's Decision — Bradley (rest) is not in line to play in Thursday's preseason game against Wizards, Stefan Bondy of The New York Post reports.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Ochai Agbaji",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Coach's Decision — Agbaji (coach's decision) won't play in Thursday's preseason game against Washington, Stefan Bondy of The New York Post reports.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Drew Eubanks",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Coach's Decision — Eubanks (rest) is not in line to play in Thursday's preseason game against Wizards, Stefan Bondy of The New York Post reports.",
-          "returnDate": "2026-10-12"
         }
       ]
     },
@@ -862,14 +850,14 @@
           "name": "Chris Youngblood",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Calf — Youngblood finished Monday's 111-84 Summer League win over the Timberwolves with 20 points (5-11 FG, 3-7 3Pt, 4-4 FT), five rebounds and three assists across 19 minutes.",
+          "detail": "Calf — Youngblood is out for Monday's preseason game against London with left calf soreness.",
           "returnDate": "2026-10-13"
         },
         {
           "name": "Robert Williams III",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Rest — Williams played 14 minutes off the bench in Wednesday's preseason win over the Warriors, scoring eight points (4-5 FG, 0-1 3Pt) and adding five rebounds, five blocks, an assist and a steal.",
+          "detail": "Rest — Williams (rest) is out for Monday's preseason game against London.",
           "returnDate": "2026-10-13"
         },
         {
@@ -892,32 +880,32 @@
       "name": "Sacramento Kings",
       "players": [
         {
-          "name": "Maxime Raynaud",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Raynaud has been diagnosed with a right knee subluxation and will be re-evaluated in approximately two weeks, Michael Scotto of HoopsHype.com reports.",
-          "returnDate": "2026-10-25"
-        },
-        {
-          "name": "Dylan Cardwell",
-          "position": "C",
+          "name": "Malik Monk",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Rest — Cardwell (rest) has been ruled out for Saturday's exhibition game against Golden State, Jason Anderson of The Sacramento Bee reports.",
+          "detail": "Rest — Monk (rest) participated in Monday's practice, per James Ham of ESPN 1320 Sacramento.",
           "returnDate": "2026-10-13"
         },
         {
           "name": "Domantas Sabonis",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Sabonis (undisclosed) is out for Saturday's preseason game against the Warriors, Jason Anderson of The Sacramento Bee reports.",
+          "detail": "Undisclosed — Saboins (undisclosed) was a full participant during Monday's practice but remains questionable for Tuesday's preseason game against the Trail Blazers, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
           "returnDate": "2026-10-13"
         },
         {
-          "name": "Malik Monk",
-          "position": "G",
+          "name": "Dylan Cardwell",
+          "position": "C",
           "status": "Day-To-Day",
-          "detail": "Rest — Monk (rest) has been ruled out for Saturday's preseason game against the Warriors, Jason Anderson of The Sacramento Bee reports.",
+          "detail": "Calf — Cardwell (calf) didn't practice Monday, per James Ham of ESPN 1320 Sacramento.",
           "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Maxime Raynaud",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Raynaud has been diagnosed with a right knee subluxation and will be re-evaluated in approximately two weeks, Michael Scotto of HoopsHype.com reports.",
+          "returnDate": "2026-10-25"
         }
       ]
     },
@@ -993,11 +981,25 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Trayce Jackson-Davis",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Teeth — Jackson-Davis (dental) practiced Monday, per Zulfi Sheikh of Sportsnet.",
+          "returnDate": "2026-10-13"
+        },
+        {
+          "name": "Allen Graves",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Groin — Graves (groin) practiced Monday, per Zulfi Sheikh of Sportsnet.",
+          "returnDate": "2026-10-13"
+        },
+        {
           "name": "Chucky Hepburn",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Hepburn (hamstring) didn't return to Saturday's preseason game against the Clippers.",
-          "returnDate": "2026-10-13"
+          "detail": "Hamstring — The Raptors waived Hepburn (hamstring) on Monday, per Ryan Wolstat of the Toronto Sun.",
+          "returnDate": "2026-11-06"
         },
         {
           "name": "Alijah Martin",
@@ -1012,26 +1014,19 @@
           "status": "Day-To-Day",
           "detail": "Foot — Bittle (foot) has been ruled out for Saturday's exhibition game against the Clippers, Michael Grange of Sportsnet.ca reports.",
           "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Trayce Jackson-Davis",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Teeth — Jackson-Davis (dental) will not play against the Clippers in Saturday's preseason game, Michael Grange of Sportsnet.ca reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Allen Graves",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Groin — Graves (groin) has been ruled for Saturday's preseason game against the Clippers, Michael Grange of Sportsnet.ca reports.",
-          "returnDate": "2026-10-13"
         }
       ]
     },
     {
       "name": "Utah Jazz",
       "players": [
+        {
+          "name": "Blake Hinson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hip — Hinson (adductor) has been ruled out for Monday's preseason game against San Antonio.",
+          "returnDate": "2026-10-16"
+        },
         {
           "name": "Kyle Filipowski",
           "position": "F",
@@ -1045,26 +1040,19 @@
           "status": "Out",
           "detail": "Foot — Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
           "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Lauri Markkanen",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Neck — Markkanen won't play in Tuesday's preseason game against the Nuggets due to neck soreness.",
-          "returnDate": "2026-10-12"
-        },
-        {
-          "name": "Brice Sensabaugh",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hip — Sensabaugh (hip) won't play in Tuesday's preseason game against the Nuggets.",
-          "returnDate": "2026-10-12"
         }
       ]
     },
     {
       "name": "Washington Wizards",
       "players": [
+        {
+          "name": "Anthony Davis",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Davis (rest) is out for Monday's preseason game against the Nets, Josh Robbins of The Athletic reports.",
+          "returnDate": "2026-10-16"
+        },
         {
           "name": "Khris Middleton",
           "position": "F",
@@ -1099,25 +1087,25 @@
   "games": [
     {
       "date": "2026-10-12T20:00Z",
-      "status": "10/12 - 4:00 PM EDT",
+      "status": "Final",
       "home": "Portland Trail Blazers",
       "away": "London Lions"
     },
     {
       "date": "2026-10-12T23:00Z",
-      "status": "10/12 - 7:00 PM EDT",
+      "status": "8:55 - 4th",
       "home": "Atlanta Hawks",
       "away": "Oklahoma City Thunder"
     },
     {
       "date": "2026-10-12T23:00Z",
-      "status": "10/12 - 7:00 PM EDT",
+      "status": "11:26 - 4th",
       "home": "Washington Wizards",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-10-12T23:30Z",
-      "status": "10/12 - 7:30 PM EDT",
+      "status": "10:25 - 3rd",
       "home": "New York Knicks",
       "away": "Minnesota Timberwolves"
     },
@@ -1128,5 +1116,5 @@
       "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1791829463379
+  "fetchedAt": 1791853354583
 }
