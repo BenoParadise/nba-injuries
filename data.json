@@ -207,15 +207,22 @@
           "name": "Nae'Qwan Tomlin",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Back — Tomlin (back) is out for Sunday's preseason game against the Magic, Serena Winters of FanDuel Sports Network Ohio reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Back — Tomlin (back) won't play in Tuesday's preseason game against the Magic, Serena Winters of FanDuel Sports Network Ohio reports.",
+          "returnDate": "2026-10-22"
+        },
+        {
+          "name": "Sam Merrill",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Elbow — Merrill (elbow) has been ruled out for Tuesday's preseason game against the Magic, Serena Winters of FanDuel Sports Network Ohio reports.",
+          "returnDate": "2026-10-22"
         },
         {
           "name": "Khalifa Diop",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Knee — Diop (knee) has been ruled out for Sunday's preseason game against the Magic, Serena Winters of FanDuel Sports Network Ohio reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Knee — Diop (knee) won't play in Tuesday's preseason game against the Magic, Serena Winters of FanDuel Sports Network Ohio reports.",
+          "returnDate": "2026-10-22"
         }
       ]
     },
@@ -353,18 +360,32 @@
       "name": "Indiana Pacers",
       "players": [
         {
-          "name": "Tyrese Haliburton",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Haliburton (ankle) participated in Monday's practice without restrictions, head coach Rick Carlisle told Tony East of Forbes.com.",
-          "returnDate": "2026-10-13"
-        },
-        {
           "name": "T.J. McConnell",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — McConnell (undisclosed) did not play during Saturday's 119-117 preseason loss to the Hawks.",
-          "returnDate": "2026-10-13"
+          "detail": "Undisclosed — McConnell (undisclosed) will not play in Tuesday's preseason matchup against Oklahoma City, Scott Agness of Fieldhouse Files reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Jarace Walker",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Walker (undisclosed) won't play in Tuesday's preseason game against the Thunder, Scott Agness of FieldhouseFiles.com reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Aaron Nesmith",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Nesmith will be rested for Tuesday's preseason game against the Thunder, Scott Agness of FieldhouseFiles.com reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Andrew Nembhard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Nembhard (undisclosed) won't play in Tuesday's preseason game against the Thunder, Scott Agness of FieldhouseFiles.com reports.",
+          "returnDate": "2026-10-16"
         },
         {
           "name": "Johnny Furphy",
@@ -426,31 +447,38 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Walker Kessler",
-          "position": "C",
+          "name": "Collin Sexton",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Finger — Kessler (finger) was a full participant in Sunday's practice, Law Murray of The Athletic reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Lower Leg — Sexton (lower leg) has been ruled out for Tuesday's preseason game against the Warriors, Khobi Price of The California Post reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Adou Thiero",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Thiero (undisclosed) is out for Tuesday's preseason game against the Warriors, Khobi Price of The California Post reports.",
+          "returnDate": "2026-10-16"
         },
         {
           "name": "Ziaire Williams",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Foot — Lakers head coach JJ Redick said Williams is dealing with a foot contusion, Benjamin Royer of The Orange County Register reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Foot — Williams (foot) will not play in Tuesday's preseason matchup against Golden State, Khobi Price of The California Post reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Luka Doncic",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Doncic will be rested for Tuesday's preseason game against the Warriors, Khobi Price of The California Post reports.",
+          "returnDate": "2026-10-16"
         },
         {
           "name": "Arthur Kaluma",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Lower Body — Lakers head coach JJ Redick said Kaluma (lower body) returned to practice Saturday, Benjamin Royer of The Orange County Register reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Collin Sexton",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Lower Leg — Lakers head coach JJ Redick said Saturday that Sexton is day-to-day due to a lower-leg injury, Jovan Buha of The Athletic reports.",
           "returnDate": "2026-10-13"
         },
         {
@@ -678,94 +706,52 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
-          "name": "Thomas Sorber",
-          "position": "C",
+          "name": "Jaylin Williams",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Sorber (knee) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Nikola Topic",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Topic (back) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Heel — Williams (heel) has been ruled out for Tuesday's preseason game against the Pacers, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-15"
         },
         {
           "name": "Chet Holmgren",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Quadriceps — Holmgren (quadriceps) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Jaylin Williams",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Heel — Williams (heel) won't play in Monday's preseason game against Atlanta, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Kenrich Williams",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Williams (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Alex Caruso",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Caruso (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Jared McCain",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — McCain (rest) has been ruled out for Monday's game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Quadriceps — Holmgren (quadriceps) has been ruled out for Tuesday's preseason game against the Pacers, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-15"
         },
         {
           "name": "Ajay Mitchell",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Rest — Mitchell (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Rest — Mitchell (rest) won't play in Tuesday's preseason game against the Pacers, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-15"
         },
         {
-          "name": "Isaiah Hartenstein",
+          "name": "Thomas Sorber",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Hartenstein (ankle) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Knee — Sorber (knee) won't play Tuesday against the Pacers, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-15"
         },
         {
-          "name": "Cason Wallace",
+          "name": "Nikola Topic",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Rest — Wallace (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Jalen Williams",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Williams (rest) won't play in Monday's preseason game against the Hawks, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
-        },
-        {
-          "name": "Shai Gilgeous-Alexander",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Gilgeous-Alexander (rest) won't play in Monday's preseason game against Atlanta, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Back — Topic (back) won't play Tuesday against Indiana, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-10-15"
         }
       ]
     },
     {
       "name": "Orlando Magic",
       "players": [
+        {
+          "name": "Nikola Vucevic",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Vucevic (rest) is out for Tuesday's preseason game against the Cavaliers.",
+          "returnDate": "2026-10-16"
+        },
         {
           "name": "Anthony Black",
           "position": "G",
@@ -779,13 +765,6 @@
           "status": "Day-To-Day",
           "detail": "Knee — Isaac (knee) won't play in Tuesday's preseason game against Cleveland, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-16"
-        },
-        {
-          "name": "Desmond Bane",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Bane (rest) has been ruled out for Sunday's preseason game versus Cleveland, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-13"
         },
         {
           "name": "Izaiyah Nelson",
@@ -1014,25 +993,32 @@
       "name": "Toronto Raptors",
       "players": [
         {
-          "name": "Trayce Jackson-Davis",
-          "position": "F",
+          "name": "Trey Jemison III",
+          "position": "C",
           "status": "Day-To-Day",
-          "detail": "Teeth — Jackson-Davis (dental) practiced Monday, per Zulfi Sheikh of Sportsnet.",
-          "returnDate": "2026-10-13"
+          "detail": "Undisclosed — Jemison (undisclosed) has been ruled out for Tuesday's preseason meeting with the Knicks, Vivek Jacob of the Raptors' official site reports.",
+          "returnDate": "2026-10-15"
         },
         {
-          "name": "Alijah Martin",
-          "position": "G",
+          "name": "Jamison Battle",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Martin (knee) has been ruled out for Saturday's preseason game against the Clippers, Michael Grange of Sportsnet.ca reports.",
-          "returnDate": "2026-10-13"
+          "detail": "Undisclosed — Battle (undisclosed) has been ruled out for Tuesday's preseason matchup with the Knicks, Vivek Jacob of the Raptors' official site reports.",
+          "returnDate": "2026-10-15"
         },
         {
           "name": "Nate Bittle",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Foot — Bittle (foot) has been ruled out for Saturday's exhibition game against the Clippers, Michael Grange of Sportsnet.ca reports.",
+          "detail": "Foot — Bittle (foot) is still in a walking boot, but he has a follow-up appointment Wednesday and could ditch the boot if all goes well, Blake Murphy of Sportsnet.ca reports.",
           "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Chucky Hepburn",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — The Raptors waived Hepburn (hamstring) on Monday, per Ryan Wolstat of the Toronto Sun.",
+          "returnDate": "2026-11-06"
         }
       ]
     },
@@ -1099,19 +1085,19 @@
   "games": [
     {
       "date": "2026-10-13T23:00Z",
-      "status": "10/13 - 7:00 PM EDT",
+      "status": "5:35 - 3rd",
       "home": "Orlando Magic",
       "away": "Cleveland Cavaliers"
     },
     {
       "date": "2026-10-13T23:00Z",
-      "status": "10/13 - 7:00 PM EDT",
+      "status": "6:19 - 3rd",
       "home": "Toronto Raptors",
       "away": "New York Knicks"
     },
     {
       "date": "2026-10-14T00:00Z",
-      "status": "10/13 - 8:00 PM EDT",
+      "status": "9:57 - 2nd",
       "home": "Oklahoma City Thunder",
       "away": "Indiana Pacers"
     },
@@ -1128,5 +1114,5 @@
       "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1791927586019
+  "fetchedAt": 1791938759624
 }
