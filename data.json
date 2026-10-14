@@ -1040,13 +1040,6 @@
           "status": "Day-To-Day",
           "detail": "Foot — Bittle (foot) is still in a walking boot, but he has a follow-up appointment Wednesday and could ditch the boot if all goes well, Blake Murphy of Sportsnet.ca reports.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Chucky Hepburn",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — The Raptors waived Hepburn (hamstring) on Monday, per Ryan Wolstat of the Toronto Sun.",
-          "returnDate": "2026-11-06"
         }
       ]
     },
@@ -1142,5 +1135,5 @@
       "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1791956364558
+  "fetchedAt": 1791975302575
 }
