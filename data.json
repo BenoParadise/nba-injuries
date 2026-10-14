@@ -101,15 +101,8 @@
           "name": "Joshua Jefferson",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Back — Jefferson (back) is out for Monday's preseason game against the Wizards, Brian Lewis of the New York Post reports.",
-          "returnDate": "2026-10-14"
-        },
-        {
-          "name": "Mikel Brown Jr.",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Brown (ankle) is out for Monday's preseason game against the Wizards, Brian Lewis of the New York Post reports.",
-          "returnDate": "2026-10-14"
+          "detail": "Back — Jefferson (back) won't play in Wednesday's preseason game versus the Heat, per Erik Slater of ClutchPoints.com.",
+          "returnDate": "2026-10-21"
         }
       ]
     },
@@ -847,17 +840,45 @@
       "name": "Phoenix Suns",
       "players": [
         {
-          "name": "Devin Booker",
+          "name": "Oso Ighodaro",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Ighodaro (rest) isn't expected to play in Wednesday's preseason matchup against San Antonio after missing the full morning shootaround, Duane Rankin of The Arizona Republic reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Dillon Brooks",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Brooks is unlikely to suit up for Wednesday's preseason meeting with San Antonio after sitting out the full morning shootaround, Duane Rankin of The Arizona Republic reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Collin Gillespie",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Rest — Booker is not playing in Saturday's preseason game against the Spurs due to rest, Hayden Cilley of ClutchPoints.com reports.",
+          "detail": "Rest — Gillespie did not take part in Wednesday's full morning shootaround and isn't expected to play against San Antonio, Duane Rankin of The Arizona Republic reports.",
           "returnDate": "2026-10-14"
         },
         {
           "name": "Miles Bridges",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Bridges (ankle) won't play in Saturday's preseason game against the Spurs, Hayden Cilley of ClutchPoints.com reports.",
+          "detail": "Ankle — Bridges isn't expected to play Wednesday against the Spurs after missing Phoenix's full morning shootaround, Duane Rankin of The Arizona Republic reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Jalen Green",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Green did not participate in Wednesday's full morning shootaround and isn't expected to face San Antonio, Duane Rankin of The Arizona Republic reports.",
+          "returnDate": "2026-10-14"
+        },
+        {
+          "name": "Devin Booker",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Booker (rest) isn't expected to play in Wednesday's preseason matchup against San Antonio after sitting out the Suns' full morning shootaround, Duane Rankin of The Arizona Republic reports.",
           "returnDate": "2026-10-14"
         },
         {
@@ -960,13 +981,6 @@
       "name": "San Antonio Spurs",
       "players": [
         {
-          "name": "Malik Williams",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Williams (undisclosed) is out for Monday's preseason game against Utah, per Tom Orsborn of the San Antonio Express-News.",
-          "returnDate": "2026-10-14"
-        },
-        {
           "name": "Carter Bryant",
           "position": "F",
           "status": "Day-To-Day",
@@ -1027,20 +1041,6 @@
     {
       "name": "Toronto Raptors",
       "players": [
-        {
-          "name": "Trey Jemison III",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Jemison (undisclosed) has been ruled out for Tuesday's preseason meeting with the Knicks, Vivek Jacob of the Raptors' official site reports.",
-          "returnDate": "2026-10-15"
-        },
-        {
-          "name": "Jamison Battle",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Battle (undisclosed) has been ruled out for Tuesday's preseason matchup with the Knicks, Vivek Jacob of the Raptors' official site reports.",
-          "returnDate": "2026-10-15"
-        },
         {
           "name": "Nate Bittle",
           "position": "C",
@@ -1154,5 +1154,5 @@
       "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1791992334572
+  "fetchedAt": 1792007556354
 }
