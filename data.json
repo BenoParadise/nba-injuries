@@ -198,7 +198,21 @@
           "name": "Moussa Cisse",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Cisse exited Wednesday's 101-97 preseason loss to New Orleans due to a left ankle sprain.",
+          "detail": "Ankle — Head coach Dusty May said Cisse (ankle) didn't practice Thursday as a precaution but added that the big man \"would've been able to play\" if there was a game, Mike Curtis of The Dallas Morning News reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Santi Aldama",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Aldama is unlikely to suit up for Friday's preseason finale against Atlanta, Mike Curtis of The Dallas Morning News reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Marcus Sasser",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hip — Sasser (groin) is expected to play in Friday's preseason finale against Atlanta, Mike Curtis of The Dallas Morning News reports.",
           "returnDate": "2026-10-16"
         },
         {
@@ -209,24 +223,10 @@
           "returnDate": "2026-10-16"
         },
         {
-          "name": "Marcus Sasser",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Sasser (adductor) has been ruled out for Wednesday's preseason game against New Orleans, Grant Afseth of DallasHoopsJournal.com reports.",
-          "returnDate": "2026-10-16"
-        },
-        {
           "name": "Dereck Lively II",
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Foot — Lively (foot) has been ruled out for Wednesday's preseason game against New Orleans, Grant Afseth of DallasHoopsJournal.com reports.",
-          "returnDate": "2026-10-16"
-        },
-        {
-          "name": "Santi Aldama",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Aldama (knee) has been ruled out for Wednesday's preseason game against New Orleans, Grant Afseth of DallasHoopsJournal.com reports.",
           "returnDate": "2026-10-16"
         },
         {
@@ -362,6 +362,13 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "Aaron Nesmith",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Nesmith (hamstring) will not play in Friday's preseason finale against Milwaukee, Tony East of Forbes.com reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "T.J. McConnell",
           "position": "G",
           "status": "Day-To-Day",
@@ -373,13 +380,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Undisclosed — Walker (undisclosed) won't play in Tuesday's preseason game against the Thunder, Scott Agness of FieldhouseFiles.com reports.",
-          "returnDate": "2026-10-16"
-        },
-        {
-          "name": "Aaron Nesmith",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Nesmith will be rested for Tuesday's preseason game against the Thunder, Scott Agness of FieldhouseFiles.com reports.",
           "returnDate": "2026-10-16"
         },
         {
@@ -459,28 +459,28 @@
           "name": "Cameron Carr",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Carr (undisclosed) has been ruled out for Tuesday's preseason matchup with the Warriors, Khobi Price of The California Post reports.",
+          "detail": "Undisclosed — Carr (undisclosed) didn't practice Thursday, per Thuc Nhi Nguyen of the Los Angeles Times.",
           "returnDate": "2026-10-16"
         },
         {
           "name": "Collin Sexton",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Lower Leg — Sexton (lower leg) has been ruled out for Tuesday's preseason game against the Warriors, Khobi Price of The California Post reports.",
-          "returnDate": "2026-10-16"
-        },
-        {
-          "name": "Adou Thiero",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Thiero (undisclosed) is out for Tuesday's preseason game against the Warriors, Khobi Price of The California Post reports.",
+          "detail": "Lower Leg — Sexton (lower leg) participated in Thursday's practice but didn't take part in any live action, Law Murray of The Athletic reports.",
           "returnDate": "2026-10-16"
         },
         {
           "name": "Ziaire Williams",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Foot — Williams (foot) will not play in Tuesday's preseason matchup against Golden State, Khobi Price of The California Post reports.",
+          "detail": "Foot — Williams (foot) was a full participant in Thursday's practice, Law Murray of The Athletic reports.",
+          "returnDate": "2026-10-16"
+        },
+        {
+          "name": "Adou Thiero",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Thiero (undisclosed) is being managed for \"maintenance,\" per Law Murray of The Athletic.",
           "returnDate": "2026-10-16"
         },
         {
@@ -499,8 +499,8 @@
           "name": "Micah Peavy",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Peavy (ankle) did not see the floor in Friday's 104-100 preseason win over the Bulls.",
-          "returnDate": "2026-10-16"
+          "detail": "Ankle — Head coach Tumos Iisalo said Thursday that Peavy (ankle) has progressed well in his recovery, though he won't play in Friday's preseason finale against Charlotte, Anthony Sain of Buff City Media reports.",
+          "returnDate": "2026-10-21"
         },
         {
           "name": "Isaiah Stewart",
@@ -615,6 +615,13 @@
     {
       "name": "Minnesota Timberwolves",
       "players": [
+        {
+          "name": "Ayo Dosunmu",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Dosunmu isn't dealing with an injury but will sit out Friday's preseason finale against the Bulls for rest purposes, Jon Krawczynski of The Athletic reports.",
+          "returnDate": "2026-10-21"
+        },
         {
           "name": "Rocco Zikarsky",
           "position": "C",
@@ -774,24 +781,24 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "Dominick Barlow",
-          "position": "F",
+          "name": "Anfernee Simons",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Back — Barlow (back) was unable to practice Tuesday, Noah Levick of NBC Sports Philadelphia reports.",
-          "returnDate": "2026-10-16"
+          "detail": "Hamstring — Simons (hamstring) is out for Friday's preseason game against the Celtics, Kyle Neubeck of AllPHLY.com reports.",
+          "returnDate": "2026-10-20"
         },
         {
           "name": "Adem Bona",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Foot — Bona (foot) practiced in a limited fashion Monday, per Ky Carlin of USA Today.",
-          "returnDate": "2026-10-16"
+          "detail": "Foot — Bona (foot) remains out for Friday's preseason finale against the Celtics, but he's getting closer to a return, Kyle Neubeck of AllPHLY.com reports.",
+          "returnDate": "2026-10-20"
         },
         {
-          "name": "Anfernee Simons",
-          "position": "G",
+          "name": "Dominick Barlow",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Simons (hamstring) was limited at Monday's practice, Ky Carlin of USA Today reports.",
+          "detail": "Back — Barlow (back) was unable to practice Tuesday, Noah Levick of NBC Sports Philadelphia reports.",
           "returnDate": "2026-10-16"
         },
         {
@@ -841,6 +848,13 @@
     {
       "name": "Phoenix Suns",
       "players": [
+        {
+          "name": "Luke Kennard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Kennard experienced soreness in his left knee during Wednesday's preseason game, Amanda Pflugrad of 3TV Phoenix reports.",
+          "returnDate": "2026-10-16"
+        },
         {
           "name": "Oso Ighodaro",
           "position": "F",
@@ -1105,5 +1119,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792085502253
+  "fetchedAt": 1792097173451
 }
