@@ -291,9 +291,9 @@
         {
           "name": "Kristaps Porzingis",
           "position": "C",
-          "status": "Day-To-Day",
+          "status": "Out",
           "detail": "Undisclosed — Porzingis (undisclosed) returned Thursday to the Warriors' practice facility, per Anthony Slater of ESPN.com.",
-          "returnDate": "2026-10-21"
+          "returnDate": "2026-11-09"
         },
         {
           "name": "Draymond Green",
@@ -420,28 +420,28 @@
           "position": "G",
           "status": "Out",
           "detail": "Knee — Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",
-          "returnDate": "2026-10-23"
+          "returnDate": "2026-11-08"
         },
         {
           "name": "Max Strus",
           "position": "G",
           "status": "Out",
           "detail": "Foot — Strus has been diagnosed with a partially torn plantar fascia in his right foot and he will be re-evaluated in four weeks, Ohm Youngmisuk of ESPN.com reports.",
-          "returnDate": "2026-11-02"
+          "returnDate": "2026-11-08"
         },
         {
           "name": "Yanic Konan Niederhauser",
           "position": "C",
           "status": "Out",
           "detail": "Foot — Niederhauser (foot) won't be ready for the start of the season, Law Murray of The Athletic reports.",
-          "returnDate": "2026-11-01"
+          "returnDate": "2026-11-08"
         },
         {
           "name": "Brandon Ingram",
           "position": "F",
           "status": "Out",
           "detail": "Achilles — Ingram won't be ready for the start of the season due to a partially torn Achilles, per Joey Linn of SI.com.",
-          "returnDate": "2026-11-01"
+          "returnDate": "2026-11-08"
         },
         {
           "name": "Jordan Miller",
@@ -741,24 +741,24 @@
       "name": "Orlando Magic",
       "players": [
         {
-          "name": "Nikola Vucevic",
-          "position": "C",
+          "name": "Jonathan Isaac",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Rest — Vucevic (rest) is out for Tuesday's preseason game against the Cavaliers.",
+          "detail": "Knee — Isaac (personal, knee) participated in Thursday's practice but is still ramping up his activity, according to Orlando Magic Daily.",
           "returnDate": "2026-10-16"
         },
         {
           "name": "Anthony Black",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Black (ankle) has been ruled out for Tuesday's preseason game against Cleveland, Jason Beede of the Orlando Sentinel reports.",
+          "detail": "Ankle — Black (ankle) participated in Thursday's practice but remains in the process of ramping up his activity, according to Orlando Magic Daily.",
           "returnDate": "2026-10-16"
         },
         {
-          "name": "Jonathan Isaac",
-          "position": "F",
+          "name": "Nikola Vucevic",
+          "position": "C",
           "status": "Day-To-Day",
-          "detail": "Knee — Isaac (knee) won't play in Tuesday's preseason game against Cleveland, Jason Beede of the Orlando Sentinel reports.",
+          "detail": "Rest — Vucevic (rest) is out for Tuesday's preseason game against the Cavaliers.",
           "returnDate": "2026-10-16"
         },
         {
@@ -915,6 +915,20 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Dylan Cardwell",
+          "position": "C",
+          "status": "Out",
+          "detail": "Calf — Cardwell (calf) is expected to miss at least the first five or six games of the regular season, with a longer absence possible, Frankie Cartoscelli of KHTK Sactown Sports 1140 reports.",
+          "returnDate": "2026-11-02"
+        },
+        {
+          "name": "Maxime Raynaud",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Raynaud (knee) is expected to miss at least the first five or six games of the regular season, and potentially longer, Frankie Cartoscelli of KHTK Sactown Sports 1140 reports.",
+          "returnDate": "2026-11-02"
+        },
+        {
           "name": "Precious Achiuwa",
           "position": "F",
           "status": "Day-To-Day",
@@ -962,20 +976,6 @@
           "status": "Day-To-Day",
           "detail": "Rest — LaVine (rest) will not play in Tuesday's preseason matchup against Portland, Matt George of ABC 10 Sacramento reports.",
           "returnDate": "2026-10-16"
-        },
-        {
-          "name": "Dylan Cardwell",
-          "position": "C",
-          "status": "Out",
-          "detail": "Calf — Cardwell will miss at least two weeks with a left calf strain, Anthony Slater of ESPN.com reports.",
-          "returnDate": "2026-10-29"
-        },
-        {
-          "name": "Maxime Raynaud",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Raynaud has been diagnosed with a right knee subluxation and will be re-evaluated in approximately two weeks, Michael Scotto of HoopsHype.com reports.",
-          "returnDate": "2026-10-25"
         }
       ]
     },
@@ -1093,47 +1093,17 @@
   ],
   "games": [
     {
-      "date": "2026-10-14T23:30Z",
-      "status": "Final",
-      "home": "Miami Heat",
-      "away": "Brooklyn Nets"
+      "date": "2026-10-15T23:30Z",
+      "status": "10/15 - 7:30 PM EDT",
+      "home": "New York Knicks",
+      "away": "Toronto Raptors"
     },
     {
-      "date": "2026-10-14T23:30Z",
-      "status": "Final",
-      "home": "Boston Celtics",
-      "away": "Charlotte Hornets"
-    },
-    {
-      "date": "2026-10-15T00:00Z",
-      "status": "Final",
-      "home": "San Antonio Spurs",
-      "away": "Phoenix Suns"
-    },
-    {
-      "date": "2026-10-15T00:00Z",
-      "status": "Final",
-      "home": "Dallas Mavericks",
-      "away": "New Orleans Pelicans"
-    },
-    {
-      "date": "2026-10-15T00:00Z",
-      "status": "Final",
-      "home": "Milwaukee Bucks",
-      "away": "Chicago Bulls"
-    },
-    {
-      "date": "2026-10-15T00:00Z",
-      "status": "Final",
-      "home": "Minnesota Timberwolves",
-      "away": "Detroit Pistons"
-    },
-    {
-      "date": "2026-10-15T02:30Z",
-      "status": "Final",
-      "home": "LA Clippers",
-      "away": "Denver Nuggets"
+      "date": "2026-10-16T00:30Z",
+      "status": "10/15 - 8:30 PM EDT",
+      "home": "Houston Rockets",
+      "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792066828042
+  "fetchedAt": 1792085502253
 }
