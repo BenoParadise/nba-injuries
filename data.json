@@ -643,7 +643,7 @@
           "name": "Josh Hart",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Hart (undisclosed) has been ruled out for Thursday's preseason game against Toronto, Stefan Bondy of The New York Post reports.",
+          "detail": "Ankle — Coach Mike Brown isn't concerned about Hart missing Tuesday's regular-season opener Tuesday against Philadelphia, Kristian Winfield of the New York Daily News reports.",
           "returnDate": "2026-10-20"
         }
       ]
@@ -803,8 +803,8 @@
           "name": "Luke Kennard",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Kennard experienced soreness in his left knee during Wednesday's preseason game, Amanda Pflugrad of 3TV Phoenix reports.",
-          "returnDate": "2026-10-16"
+          "detail": "Knee — Kennard (knee) has been ruled out for the Suns' final game of the preseason Friday against Utah, John Gambadoro of Arizona Sports 98.7 FM reports.",
+          "returnDate": "2026-10-21"
         },
         {
           "name": "Oso Ighodaro",
@@ -1072,10 +1072,10 @@
     },
     {
       "date": "2026-10-16T00:30Z",
-      "status": "6:16 - 4th",
+      "status": "Final",
       "home": "Houston Rockets",
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792117625612
+  "fetchedAt": 1792136633049
 }
