@@ -332,8 +332,8 @@
           "name": "Steven Adams",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Rest — Adams (rest) isn't expected to play in Sunday's preseason game against the Mavericks, Will Guillory of The Athletic reports.",
-          "returnDate": "2026-10-15"
+          "detail": "Rest — Adams (rest) is listed as inactive for Thursday's preseason game against the Thunder.",
+          "returnDate": "2026-10-21"
         }
       ]
     },
@@ -637,49 +637,61 @@
       ]
     },
     {
+      "name": "New York Knicks",
+      "players": [
+        {
+          "name": "Josh Hart",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Hart (undisclosed) has been ruled out for Thursday's preseason game against Toronto, Stefan Bondy of The New York Post reports.",
+          "returnDate": "2026-10-20"
+        }
+      ]
+    },
+    {
       "name": "Oklahoma City Thunder",
       "players": [
+        {
+          "name": "Thomas Sorber",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Sorber (knee) has been ruled out for Thursday's preseason game against the Rockets, Justin Martinez of The Oklahoman reports.",
+          "returnDate": "2026-10-20"
+        },
+        {
+          "name": "Jaylin Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Heel — Williams (heel) won't play in Thursday's preseason game against Houston, Justin Martinez of The Oklahoman reports.",
+          "returnDate": "2026-10-20"
+        },
+        {
+          "name": "Cason Wallace",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Wallace (undisclosed) has been ruled out for Thursday's preseason game against the Rockets, Justin Martinez of The Oklahoman reports.",
+          "returnDate": "2026-10-20"
+        },
+        {
+          "name": "Nikola Topic",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Topic (back) is out for Thursday's preseason game against Houston, Justin Martinez of The Oklahoman reports.",
+          "returnDate": "2026-10-20"
+        },
+        {
+          "name": "Chet Holmgren",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Quadriceps — Holmgren (quadriceps) has been ruled out for Thursday's preseason game against the Rockets, Justin Martinez of The Oklahoman reports.",
+          "returnDate": "2026-10-20"
+        },
         {
           "name": "Otega Oweh",
           "position": "G",
           "status": "Out",
           "detail": "Achilles — Oweh (Achilles) underwent surgery Wednesday and will miss the entirety of the 2026-27 season, Brandon Rahbar of DailyThunder.com reports.",
           "returnDate": "2027-07-01"
-        },
-        {
-          "name": "Jaylin Williams",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Heel — Williams (heel) has been ruled out for Tuesday's preseason game against the Pacers, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-15"
-        },
-        {
-          "name": "Chet Holmgren",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Quadriceps — Holmgren (quadriceps) has been ruled out for Tuesday's preseason game against the Pacers, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-15"
-        },
-        {
-          "name": "Ajay Mitchell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Mitchell (rest) won't play in Tuesday's preseason game against the Pacers, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-15"
-        },
-        {
-          "name": "Thomas Sorber",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Sorber (knee) won't play Tuesday against the Pacers, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-15"
-        },
-        {
-          "name": "Nikola Topic",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Topic (back) won't play Tuesday against Indiana, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-10-15"
         }
       ]
     },
@@ -1054,16 +1066,16 @@
   "games": [
     {
       "date": "2026-10-15T23:30Z",
-      "status": "10/15 - 7:30 PM EDT",
+      "status": "Final",
       "home": "New York Knicks",
       "away": "Toronto Raptors"
     },
     {
       "date": "2026-10-16T00:30Z",
-      "status": "10/15 - 8:30 PM EDT",
+      "status": "6:16 - 4th",
       "home": "Houston Rockets",
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792106893566
+  "fetchedAt": 1792117625612
 }
