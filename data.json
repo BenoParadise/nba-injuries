@@ -86,9 +86,9 @@
         {
           "name": "Joshua Jefferson",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Jefferson (back) won't play in Wednesday's preseason game versus the Heat, per Erik Slater of ClutchPoints.com.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Back — Jefferson (back) has yet to fully participate in team activities and remains without a timetable for his return, Erik Slater of ClutchPoints.com reports.",
+          "returnDate": "2026-10-24"
         }
       ]
     },
@@ -842,13 +842,6 @@
           "returnDate": "2026-10-16"
         },
         {
-          "name": "Dillon Brooks",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Brooks is unlikely to suit up for Wednesday's preseason meeting with San Antonio after sitting out the full morning shootaround, Duane Rankin of The Arizona Republic reports.",
-          "returnDate": "2026-10-16"
-        },
-        {
           "name": "Mark Williams",
           "position": "C",
           "status": "Out",
@@ -1137,5 +1130,5 @@
       "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1792170390896
+  "fetchedAt": 1792181950188
 }
