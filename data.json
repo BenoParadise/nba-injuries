@@ -30,13 +30,6 @@
           "returnDate": "2026-10-20"
         },
         {
-          "name": "Mitchell Robinson",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Robinson (rest) won't play in Friday's preseason game against the 76ers, Sean Grande of NBC Sports Boston reports.",
-          "returnDate": "2026-10-20"
-        },
-        {
           "name": "Neemias Queta",
           "position": "C",
           "status": "Day-To-Day",
@@ -48,13 +41,6 @@
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Rest — Pritchard (rest) won't play in Friday's preseason finale against the 76ers, Sean Grande of NBC Sports Boston reports.",
-          "returnDate": "2026-10-20"
-        },
-        {
-          "name": "Derrick White",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — White will not play in Friday's preseason finale against the 76ers, Sean Grande of NBC Sports Boston reports.",
           "returnDate": "2026-10-20"
         }
       ]
@@ -181,13 +167,6 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "Max Christie",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Christie (rest) will be inactive for Friday's preseason finale against the Hawks.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Tarik Biberovic",
           "position": "F",
           "status": "Day-To-Day",
@@ -220,13 +199,6 @@
     {
       "name": "Denver Nuggets",
       "players": [
-        {
-          "name": "Aaron Gordon",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Gordon (rest) won't play in Friday's preseason finale against the Lakers, Jovan Buha of The Athletic reports.",
-          "returnDate": "2026-10-22"
-        },
         {
           "name": "Julian Strawther",
           "position": "G",
@@ -270,18 +242,6 @@
       ]
     },
     {
-      "name": "Houston Rockets",
-      "players": [
-        {
-          "name": "Steven Adams",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Adams (rest) is listed as inactive for Thursday's preseason game against the Thunder.",
-          "returnDate": "2026-10-21"
-        }
-      ]
-    },
-    {
       "name": "Indiana Pacers",
       "players": [
         {
@@ -317,20 +277,6 @@
     {
       "name": "LA Clippers",
       "players": [
-        {
-          "name": "Kris Dunn",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Dunn (rest) has been ruled out for Wednesday's preseason game against the Nuggets, independent Clippers reporter Joey Linn reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Kobe Sanders",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Sanders (hip) won't play in Wednesday's preseason game against the Nuggets, NBA writer Justin Russo reports.",
-          "returnDate": "2026-10-21"
-        },
         {
           "name": "Bradley Beal",
           "position": "G",
@@ -457,13 +403,6 @@
           "status": "Day-To-Day",
           "detail": "Groin — Adebayo (groin) has been ruled out for Friday's preseason game against the Magic, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Giannis Antetokounmpo",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Antetokounmpo (rest) won't play in Friday's preseason game against the Magic, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-21"
         }
       ]
     },
@@ -502,13 +441,6 @@
           "status": "Day-To-Day",
           "detail": "Undisclosed — Zikarsky (undisclosed) is out for Friday's preseason finale in Chicago.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Bones Hyland",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hyland (rest) won't play in Friday's preseason game against Chicago, Alan Horton of the Timberwolves Radio Network reports.",
-          "returnDate": ""
         },
         {
           "name": "Donte DiVincenzo",
@@ -887,5 +819,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792258787571
+  "fetchedAt": 1792266843631
 }
