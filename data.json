@@ -496,21 +496,21 @@
           "name": "Jase Richardson",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Back — Richardson logged seven minutes before exiting Friday's 136-115 preseason win over the Heat due to lower-back soreness. He contributed two rebounds and two assists.",
+          "detail": "Back — Richardson (back) is considered day-to-day, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Noah Penda",
+          "position": "F",
+          "status": "Out",
+          "detail": "Hamstring — Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-11-18"
         },
         {
           "name": "Franz Wagner",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Shoulder — Wagner exited Friday's 136-115 preseason win over the Heat with right shoulder soreness and did not return, Cody Taylor of USA Today reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Noah Penda",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Penda won't return to Friday's preseason game against the Heat due to right hamstring tightness, Jason Beede of the Orlando Sentinel reports. He'll finish with one steal in two minutes.",
           "returnDate": "2026-10-21"
         },
         {
@@ -696,13 +696,6 @@
           "status": "Day-To-Day",
           "detail": "Foot — Bittle (foot) agreed to a two-way contract with Toronto on Saturday, Michael Scotto of HoopsHype.com reports.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Chucky Hepburn",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — The Raptors waived Hepburn (hamstring) on Monday, per Ryan Wolstat of the Toronto Sun.",
-          "returnDate": "2026-11-06"
         }
       ]
     },
@@ -786,5 +779,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792274046967
+  "fetchedAt": 1792280389638
 }
