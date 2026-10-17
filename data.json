@@ -30,13 +30,6 @@
           "returnDate": "2026-10-20"
         },
         {
-          "name": "Devin Carter",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Carter (illness) has been ruled out for Friday's preseason game versus the 76ers, Sean Grande of NBC Sports Boston reports",
-          "returnDate": "2026-10-20"
-        },
-        {
           "name": "Mitchell Robinson",
           "position": "C",
           "status": "Day-To-Day",
@@ -294,13 +287,6 @@
           "status": "Out",
           "detail": "Undisclosed — Porzingis (undisclosed) returned Thursday to the Warriors' practice facility, per Anthony Slater of ESPN.com.",
           "returnDate": "2026-11-09"
-        },
-        {
-          "name": "Al Horford",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Horford (rest) won't play in Tuesday's preseason game against the Lakers, per Nick Friedell of The Athletic.",
-          "returnDate": "2026-10-16"
         }
       ]
     },
@@ -953,13 +939,6 @@
           "returnDate": "2026-10-21"
         },
         {
-          "name": "Nate Bittle",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Bittle (foot) is still in a walking boot, but he has a follow-up appointment Wednesday and could ditch the boot if all goes well, Blake Murphy of Sportsnet.ca reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Chucky Hepburn",
           "position": "G",
           "status": "Day-To-Day",
@@ -1102,5 +1081,5 @@
       "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1792237987454
+  "fetchedAt": 1792248186688
 }
