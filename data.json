@@ -103,18 +103,18 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Grayson Allen",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Allen (knee) didn't play in Friday's 117-98 preseason loss to the Grizzlies.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Moussa Diabate",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Elbow — Diabate has been ruled out for Friday's preseason finale against the Grizzlies due to a right elbow injury.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Grayson Allen",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Allen (knee) did not play in Wednesday's 114-93 preseason loss to the Celtics.",
-          "returnDate": "2026-10-16"
         },
         {
           "name": "Kylan Boswell",
@@ -407,6 +407,13 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Jarred Vanderbilt",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Vanderbilt (undisclosed) isn't expected to play in Friday's preseason game against the Nuggets, Thuc Nhi Nguyen of the Los Angeles Times reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Cameron Carr",
           "position": "G",
           "status": "Day-To-Day",
@@ -518,13 +525,6 @@
           "status": "Day-To-Day",
           "detail": "Ankle — Ament (ankle) didn't play in Friday's 128-127 preseason win over the Pacers in overtime.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Kevin Porter Jr.",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Porter (rest) won't play in Wednesday's preseason game against Chicago, Cameron Ezeir of CBS58 reports.",
-          "returnDate": "2026-10-16"
         }
       ]
     },
@@ -732,10 +732,24 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Dominick Barlow",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Barlow (back) didn't play in Friday's 125-120 preseason loss to Boston in overtime.",
+          "returnDate": "2026-10-20"
+        },
+        {
+          "name": "Tacko Fall",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Hip — Fall (hip) didn't play in Friday's 125-120 preseason loss to the Celtics in overtime.",
+          "returnDate": "2026-10-20"
+        },
+        {
           "name": "Dean Wade",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Wade will come off the bench in Friday's preseason finale against the Celtics, Sean Grande of NBC Sports Boston reports.",
+          "detail": "Ankle — Wade had zero points (0-2 FG, 0-2 3Pt), two assists and one steal over 13 minutes in Friday's 125-120 preseason loss to the Celtics.",
           "returnDate": "2026-10-20"
         },
         {
@@ -760,25 +774,11 @@
           "returnDate": "2026-10-20"
         },
         {
-          "name": "Dominick Barlow",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Barlow (back) was unable to practice Tuesday, Noah Levick of NBC Sports Philadelphia reports.",
-          "returnDate": "2026-10-20"
-        },
-        {
           "name": "Ariel Hukporti",
           "position": "C",
           "status": "Out",
           "detail": "Achilles — Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
           "returnDate": "2027-10-01"
-        },
-        {
-          "name": "Tacko Fall",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Hip — Fall was diagnosed with a left hip strain Thursday and will miss at least two weeks, Kyle Neubeck of AllPHLY.com reports.",
-          "returnDate": "2026-10-16"
         }
       ]
     },
@@ -1012,13 +1012,6 @@
           "returnDate": "2026-10-21"
         },
         {
-          "name": "Khris Middleton",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Middleton (rest) was unavailable for Monday's 131-122 preseason loss to Brooklyn, Greg Finberg of Wizardscentral.com reports.",
-          "returnDate": "2026-10-16"
-        },
-        {
           "name": "Tristan Vukcevic",
           "position": "F",
           "status": "Out",
@@ -1062,52 +1055,52 @@
     },
     {
       "date": "2026-10-17T00:00Z",
-      "status": "5:03 - 4th",
+      "status": "Final",
       "home": "Dallas Mavericks",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-10-17T00:00Z",
-      "status": "4:06 - 4th",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "Sacramento Kings"
     },
     {
       "date": "2026-10-17T00:00Z",
-      "status": "5:37 - 4th",
+      "status": "Final",
       "home": "Memphis Grizzlies",
       "away": "Charlotte Hornets"
     },
     {
       "date": "2026-10-17T00:00Z",
-      "status": "3:10 - 4th",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Washington Wizards"
     },
     {
       "date": "2026-10-17T00:00Z",
-      "status": "7:18 - 4th",
+      "status": "Final",
       "home": "Chicago Bulls",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-10-17T02:00Z",
-      "status": "6:41 - 1st",
+      "status": "Final",
       "home": "Golden State Warriors",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-10-17T02:00Z",
-      "status": "7:07 - 1st",
+      "status": "Final",
       "home": "Phoenix Suns",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-10-17T02:30Z",
-      "status": "10/16 - 10:30 PM EDT",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1792203577814
+  "fetchedAt": 1792221712983
 }
