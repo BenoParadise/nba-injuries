@@ -20,32 +20,6 @@
       ]
     },
     {
-      "name": "Boston Celtics",
-      "players": [
-        {
-          "name": "Sam Hauser",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Hauser (rest) is not suiting up for Friday's preseason game against the 76ers, Sean Grande of NBC Sports Boston reports.",
-          "returnDate": "2026-10-20"
-        },
-        {
-          "name": "Neemias Queta",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Queta will not participate in Friday's preseason finale against the 76ers, Sean Grande of NBC Sports Boston reports.",
-          "returnDate": "2026-10-20"
-        },
-        {
-          "name": "Payton Pritchard",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Pritchard (rest) won't play in Friday's preseason finale against the 76ers, Sean Grande of NBC Sports Boston reports.",
-          "returnDate": "2026-10-20"
-        }
-      ]
-    },
-    {
       "name": "Brooklyn Nets",
       "players": [
         {
@@ -428,13 +402,6 @@
     {
       "name": "Minnesota Timberwolves",
       "players": [
-        {
-          "name": "Enrique Freeman",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Freeman (shoulder) won't play in Friday's preseason game against Chicago.",
-          "returnDate": "2026-10-21"
-        },
         {
           "name": "Rocco Zikarsky",
           "position": "C",
@@ -819,5 +786,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792266843631
+  "fetchedAt": 1792274046967
 }
