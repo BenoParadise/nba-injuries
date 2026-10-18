@@ -47,6 +47,20 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Coby White",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Calf — Head coach Charles Lee said Sunday that White (calf) is without a definitive timetable for a return, though he's been ramping up and taking more contact in practice, Nick Carboni of WCNC Charlotte reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Kon Knueppel",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Head coach Charles Lee said Sunday that Knueppel (hamstring) is still without a timetable for a return, though he's been ramping up and taking more contact in practice, Nick Carboni of WCNC Charlotte reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Grayson Allen",
           "position": "G",
           "status": "Day-To-Day",
@@ -65,20 +79,6 @@
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Knee — Boswell is rehabbing a right knee injury, and he's hopeful to be cleared for basketball activities prior to the start of the G League season in late October.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Coby White",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — The Hornets announced Monday that White suffered a left calf strain during training camp and will not play during the preseason.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Kon Knueppel",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Hornets general manager Jeff Peterson said Monday that he \"doesn't know\" whether Knueppel (hamstring) will be available for the team's regular-season opener against the Nets, Owen Watterson of SI.com reports.",
           "returnDate": "2026-10-21"
         },
         {
@@ -186,18 +186,18 @@
       "name": "Denver Nuggets",
       "players": [
         {
+          "name": "Spencer Jones",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Jones (hamstring) participated in Sunday's practice, Adam Mares of TheDNVR.com reports.",
+          "returnDate": "2026-10-22"
+        },
+        {
           "name": "Julian Strawther",
           "position": "G",
           "status": "Out",
           "detail": "Knee — Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
           "returnDate": "2026-11-29"
-        },
-        {
-          "name": "Spencer Jones",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Jones (hamstring) remains limited to non-contact work, Vinny Benedetto of The Denver Gazette reports.",
-          "returnDate": "2026-10-22"
         }
       ]
     },
@@ -370,24 +370,24 @@
       "name": "Miami Heat",
       "players": [
         {
-          "name": "Pelle Larsson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Larsson (illness) has been ruled out for Friday's preseason game against the Magic, Ira Winderman of the South Florida Sun Sentinel reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Dru Smith",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Calf — Smith (calf) has been ruled out for Friday's preseason game against the Magic, Jason Beede of the Orlando Sentinel reports.",
+          "detail": "Calf — Smith (calf) participated in Sunday's practice, Anthony Chiang of the Miami Herald reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Pelle Larsson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Larsson (illness) participated in Sunday's practice, Anthony Chiang of the Miami Herald reports.",
           "returnDate": "2026-10-21"
         },
         {
           "name": "Bam Adebayo",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Groin — Adebayo (groin) has been ruled out for Friday's preseason game against the Magic, Jason Beede of the Orlando Sentinel reports.",
+          "detail": "Groin — Adebayo (groin) participated in Sunday's practice, Ira Winderman of the South Florida Sun Sentinel reports.",
           "returnDate": "2026-10-21"
         }
       ]
@@ -505,6 +505,13 @@
       "name": "Orlando Magic",
       "players": [
         {
+          "name": "Anthony Black",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Black (ankle) participated in Sunday's practice, and head coach Sean Sweeney said he will continue ramping up, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Franz Wagner",
           "position": "F",
           "status": "Day-To-Day",
@@ -533,13 +540,6 @@
           "returnDate": "2026-10-21"
         },
         {
-          "name": "Anthony Black",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Black (ankle) will not play in Friday's preseason game against the Heat.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Izaiyah Nelson",
           "position": "F",
           "status": "Out",
@@ -552,38 +552,38 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "Tacko Fall",
+          "name": "Adem Bona",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Hip — Fall had his Exhibit 10 deal converted to a two-way contract Saturday, Shams Charania of ESPN reports.",
-          "returnDate": "2026-10-20"
-        },
-        {
-          "name": "Dominick Barlow",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Barlow (back) didn't play in Friday's 125-120 preseason loss to Boston in overtime.",
-          "returnDate": "2026-10-20"
-        },
-        {
-          "name": "Dean Wade",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Wade had zero points (0-2 FG, 0-2 3Pt), two assists and one steal over 13 minutes in Friday's 125-120 preseason loss to the Celtics.",
+          "detail": "Foot — Bona (foot) was a full participant in Sunday's practice, Ky Carlin of USA Today reports.",
           "returnDate": "2026-10-20"
         },
         {
           "name": "Anfernee Simons",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Simons (hamstring) is out for Friday's preseason game against the Celtics, Kyle Neubeck of AllPHLY.com reports.",
+          "detail": "Hamstring — Simons (hamstring) was a full participant in Sunday's practice, Ky Carlin of USA Today reports.",
           "returnDate": "2026-10-20"
         },
         {
-          "name": "Adem Bona",
+          "name": "Tacko Fall",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Foot — Bona (foot) remains out for Friday's preseason finale against the Celtics, but he's getting closer to a return, Kyle Neubeck of AllPHLY.com reports.",
+          "detail": "Hip — Fall (hip) didn't participate in Sunday's practice, Ky Carlin of USA Today reports.",
+          "returnDate": "2026-10-20"
+        },
+        {
+          "name": "Dominick Barlow",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Barlow (back) didn't participate in Sunday's practice, Adam Aaronson of PhillyVoice.com reports.",
+          "returnDate": "2026-10-20"
+        },
+        {
+          "name": "Dean Wade",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Wade (ankle) didn't participate in Sunday's practice, Adam Aaronson of PhillyVoice.com reports.",
           "returnDate": "2026-10-20"
         },
         {
@@ -751,7 +751,7 @@
           "name": "AJ Dybantsa",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Dybantsa (ankle) won't return to Friday's preseason game against the Pelicans, Josh Robbins of The Athletic reports. He'll finish with 12 points (4-8 FG, 1-3 3Pt, 3-4 FT), two rebounds and one block in 15 minutes.",
+          "detail": "Ankle — Head coach Brian Keefe said Sunday that Dybantsa is day-to-day with an ankle sprain, Kyle Williams of the Chicago Sun-Times reports.",
           "returnDate": "2026-10-21"
         },
         {
@@ -791,5 +791,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792340149177
+  "fetchedAt": 1792350433980
 }
