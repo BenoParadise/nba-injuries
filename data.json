@@ -153,6 +153,13 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Santi Aldama",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Aldama (knee) remains without a timetable to return, and head coach Dusty May said he \"doesn't know yet\" if the forward will play in Wednesday's regular-season opener against Houston, Mike Curtis of The Dallas Morning News reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Tarik Biberovic",
           "position": "F",
           "status": "Day-To-Day",
@@ -171,13 +178,6 @@
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Foot — Lively (foot) has been ruled out for Friday's exhibition against the Hawks.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Santi Aldama",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Aldama (knee) won't play in Friday's preseason game against the Hawks.",
           "returnDate": "2026-10-21"
         }
       ]
@@ -791,5 +791,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792350433980
+  "fetchedAt": 1792361184820
 }
