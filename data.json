@@ -20,6 +20,18 @@
       ]
     },
     {
+      "name": "Boston Celtics",
+      "players": [
+        {
+          "name": "Devin Carter",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Carter (illness) agreed to a two-way deal with the Celtics on Saturday, Michael Scotto of HoopsHype.com reports.",
+          "returnDate": "2026-10-20"
+        }
+      ]
+    },
+    {
       "name": "Brooklyn Nets",
       "players": [
         {
@@ -779,5 +791,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792289975327
+  "fetchedAt": 1792308972149
 }
