@@ -465,6 +465,13 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Cason Wallace",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Wallace (undisclosed) has agreed to a five-year, $139 million contract extension with the Thunder on Sunday, Shams Charania of ESPN reports.",
+          "returnDate": "2026-10-20"
+        },
+        {
           "name": "Thomas Sorber",
           "position": "C",
           "status": "Day-To-Day",
@@ -476,13 +483,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Heel — Williams (heel) won't play in Thursday's preseason game against Houston, Justin Martinez of The Oklahoman reports.",
-          "returnDate": "2026-10-20"
-        },
-        {
-          "name": "Cason Wallace",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Wallace (undisclosed) has been ruled out for Thursday's preseason game against the Rockets, Justin Martinez of The Oklahoman reports.",
           "returnDate": "2026-10-20"
         },
         {
@@ -805,5 +805,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792370305598
+  "fetchedAt": 1792387897849
 }
