@@ -27,7 +27,7 @@
           "position": "G",
           "status": "Out",
           "detail": "Illness — Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports.",
-          "returnDate": "2026-10-27"
+          "returnDate": "2026-11-08"
         }
       ]
     },
@@ -35,10 +35,10 @@
       "name": "Brooklyn Nets",
       "players": [
         {
-          "name": "Joshua Jefferson",
+          "name": "Tyler Bilodeau",
           "position": "F",
           "status": "Out",
-          "detail": "Back — Jefferson (back) has yet to fully participate in team activities and remains without a timetable for his return, Erik Slater of ClutchPoints.com reports.",
+          "detail": "Shoulder — Bilodeau will miss the season opener against the Hornets on Wednesday due to a shoulder sprain, Sharif Phillips-Keaton of USA Today reports.",
           "returnDate": "2026-10-24"
         }
       ]
@@ -94,6 +94,13 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Nic Claxton",
+          "position": "C",
+          "status": "Out",
+          "detail": "Hamstring — Claxton (hamstring) will be re-evaluated in two weeks, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-11-04"
+        },
+        {
           "name": "Tobe Awaka",
           "position": "F",
           "status": "Day-To-Day",
@@ -112,13 +119,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Toe — Collins (toe) won't play in Friday's preseason finale against the Timberwolves, Bulls' reporter Will Gottlieb reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Nic Claxton",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Claxton tweaked his hamstring and will be re-evaluated in two weeks, Chuck Swirsky of the Bulls Radio Network of the Bulls Radio Network reports.",
           "returnDate": "2026-10-21"
         }
       ]
@@ -263,7 +263,7 @@
           "position": "G",
           "status": "Out",
           "detail": "Knee — Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the season, Michael Scotto of USA Today reports.",
-          "returnDate": "2027-01-01"
+          "returnDate": "2027-01-02"
         }
       ]
     },
@@ -303,7 +303,7 @@
           "position": "G",
           "status": "Out",
           "detail": "Shoulder — Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
-          "returnDate": "2027-03-01"
+          "returnDate": "2027-03-02"
         }
       ]
     },
@@ -551,13 +551,27 @@
           "position": "F",
           "status": "Out",
           "detail": "Ankle — Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
-          "returnDate": "2026-11-01"
+          "returnDate": "2026-11-18"
         }
       ]
     },
     {
       "name": "Philadelphia 76ers",
       "players": [
+        {
+          "name": "Dominick Barlow",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Barlow (back) did not participate in Monday's practice, according to 76ers reporter Paul Hudrick.",
+          "returnDate": "2026-10-20"
+        },
+        {
+          "name": "Dean Wade",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Wade (ankle) did not practice Monday, according to 76ers reporter Paul Hudrick.",
+          "returnDate": "2026-10-20"
+        },
         {
           "name": "Adem Bona",
           "position": "C",
@@ -577,20 +591,6 @@
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Hip — Fall (hip) didn't participate in Sunday's practice, Ky Carlin of USA Today reports.",
-          "returnDate": "2026-10-20"
-        },
-        {
-          "name": "Dominick Barlow",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Barlow (back) didn't participate in Sunday's practice, Adam Aaronson of PhillyVoice.com reports.",
-          "returnDate": "2026-10-20"
-        },
-        {
-          "name": "Dean Wade",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Wade (ankle) didn't participate in Sunday's practice, Adam Aaronson of PhillyVoice.com reports.",
           "returnDate": "2026-10-20"
         },
         {
@@ -698,18 +698,18 @@
       "name": "San Antonio Spurs",
       "players": [
         {
+          "name": "Tobias Harris",
+          "position": "F",
+          "status": "Out",
+          "detail": "Calf — Harris (calf) will not be ready for the season opener Wednesday against the Thunder, Matt Guzman of SI.com reports.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Jayden Quaintance",
           "position": "F",
           "status": "Out",
           "detail": "Knee — Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
-          "returnDate": "2026-12-01"
-        },
-        {
-          "name": "Tobias Harris",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Calf — Spurs head coach Mitch Johnson said they will not rush Tobias Harris (calf) back to the court, Jared Weiss of The Athletic reports.",
-          "returnDate": "2026-10-20"
+          "returnDate": "2026-12-03"
         }
       ]
     },
@@ -765,7 +765,7 @@
           "name": "AJ Dybantsa",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Head coach Brian Keefe said Sunday that Dybantsa is day-to-day with an ankle sprain, Kyle Williams of the Chicago Sun-Times reports.",
+          "detail": "Ankle — Dybantsa (ankle) participated in shooting drills during Monday's practice but remains day-to-day, Ben Strober of 106-7 The Fan Washington reports.",
           "returnDate": "2026-10-21"
         },
         {
@@ -805,5 +805,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792410056386
+  "fetchedAt": 1792432914040
 }
