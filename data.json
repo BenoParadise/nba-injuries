@@ -205,6 +205,13 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Stephen Curry",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Curry sustained a right ankle injury during Sunday's practice but is expected to be fine, Dalton Johnson of NBC Sports Bay Area reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Moses Moody",
           "position": "G",
           "status": "Out",
@@ -609,7 +616,7 @@
           "name": "Oso Ighodaro",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hip — Ighodaro (hip) won't play in Friday's preseason game against Utah, Kellan Olson of ArizonaSports.com reports.",
+          "detail": "Hip — Ighodaro (hip) signed a three-year, $29 million deal with the Suns on Sunday, Shams Charania of ESPN reports.",
           "returnDate": "2026-10-21"
         },
         {
@@ -657,6 +664,13 @@
     {
       "name": "Sacramento Kings",
       "players": [
+        {
+          "name": "Ben Simmons",
+          "position": "G",
+          "status": "Out",
+          "detail": "Achilles — Simmons is believed to have suffered a season-ending Achilles tear during practice Sunday, Shams Charania of ESPN reports.",
+          "returnDate": "2027-10-01"
+        },
         {
           "name": "Malik Monk",
           "position": "G",
@@ -791,5 +805,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792361184820
+  "fetchedAt": 1792370305598
 }
