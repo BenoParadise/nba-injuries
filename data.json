@@ -47,46 +47,32 @@
       "name": "Charlotte Hornets",
       "players": [
         {
-          "name": "Coby White",
+          "name": "Kylan Boswell",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Head coach Charles Lee said Sunday that White (calf) is without a definitive timetable for a return, though he's been ramping up and taking more contact in practice, Nick Carboni of WCNC Charlotte reports.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Knee — Boswell is rehabbing a right knee injury, and he's hopeful to be cleared for basketball activities prior to the start of the G League season in late October.",
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Kon Knueppel",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Head coach Charles Lee said Sunday that Knueppel (hamstring) is still without a timetable for a return, though he's been ramping up and taking more contact in practice, Nick Carboni of WCNC Charlotte reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Grayson Allen",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Allen (knee) didn't play in Friday's 117-98 preseason loss to the Grizzlies.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Moussa Diabate",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Elbow — Diabate has been ruled out for Friday's preseason finale against the Grizzlies due to a right elbow injury.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Kylan Boswell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Boswell is rehabbing a right knee injury, and he's hopeful to be cleared for basketball activities prior to the start of the G League season in late October.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Hamstring — Knueppel (hamstring) has returned to individual on-court activity but won't play in Wednesday's game against the Nets.",
+          "returnDate": "2026-10-23"
         },
         {
           "name": "Grant Williams",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Williams will miss the preseason after suffering a right hamstring injury, the Hornets announced Friday.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Hamstring — Williams (hamstring) is out for Wednesday's season opener versus the Nets.",
+          "returnDate": "2026-10-23"
+        },
+        {
+          "name": "Coby White",
+          "position": "G",
+          "status": "Out",
+          "detail": "Calf — White (calf) is out for Wednesday's season opener against the Nets.",
+          "returnDate": "2026-10-23"
         }
       ]
     },
@@ -94,24 +80,45 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Jordan Hawkins",
-          "position": "G",
-          "status": "Out",
-          "detail": "Illness — Hawkins (illness) is out for Wednesday's game against the Raptors, K.C. Johnson of Chicago Sports Network reports.",
-          "returnDate": "2026-10-23"
+          "name": "Leonard Miller",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Groin — Miller is probable for Wednesday's game against the Raptors with a right adductor strain.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Isaac Okoro",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Okoro (knee) is probable for Wednesday's season opener against Toronto.",
+          "returnDate": "2026-10-21"
         },
         {
           "name": "Dailyn Swain",
           "position": "G",
-          "status": "Out",
-          "detail": "Illness — Swain (illness) is out for Wednesday's game against the Raptors, K.C. Johnson of Chicago Sports Network reports.",
-          "returnDate": "2026-10-23"
+          "status": "Day-To-Day",
+          "detail": "Illness — Swain (illness) is officially doubtful for Wednesday's season opener in Toronto.",
+          "returnDate": "2026-10-21"
         },
         {
           "name": "Zach Collins",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Toe — Collins (toe) is hopeful to play Wednesday against the Raptors, K.C. Johnson of Chicago Sports Network reports.",
+          "detail": "Toe — Collins (toe) is probable for Wednesday's game against the Raptors.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Tobe Awaka",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Awaka (knee) is probable for Wednesday's game against the Raptors.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Jordan Hawkins",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Hawkins (illness) is out for Wednesday's game against the Raptors, K.C. Johnson of Chicago Sports Network reports.",
           "returnDate": "2026-10-21"
         },
         {
@@ -120,20 +127,6 @@
           "status": "Out",
           "detail": "Hamstring — Claxton (hamstring) will be re-evaluated in two weeks, K.C. Johnson of Chicago Sports Network reports.",
           "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Tobe Awaka",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Awaka (knee) is out for Friday's preseason finale versus Minnesota, K.C. Johnson of Chicago Sports Network reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Isaac Okoro",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Okoro (undisclosed) is out for Friday's preseason finale versus the Timberwolves, K.C. Johnson of Chicago Sports Network reports.",
-          "returnDate": "2026-10-21"
         }
       ]
     },
@@ -141,18 +134,18 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
+          "name": "Sam Merrill",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Elbow — Head coach Kenny Atkinson said Tuesday that Merrill (elbow) went through a full practice, per Danny Cunningham of Sports Radio 92.3 The Fan Cleveland.",
+          "returnDate": "2026-10-22"
+        },
+        {
           "name": "Nae'Qwan Tomlin",
           "position": "F",
           "status": "Out",
           "detail": "Back — Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
           "returnDate": "2026-11-16"
-        },
-        {
-          "name": "Sam Merrill",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Elbow — Merrill (elbow) isn't participating in Saturday's scrimmage, Danny Cunningham of Sports Radio 92.3 The Fan Cleveland reports.",
-          "returnDate": "2026-10-22"
         },
         {
           "name": "Khalifa Diop",
@@ -167,17 +160,17 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "Santi Aldama",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Aldama (knee) remains without a timetable to return, and head coach Dusty May said he \"doesn't know yet\" if the forward will play in Wednesday's regular-season opener against Houston, Mike Curtis of The Dallas Morning News reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Tarik Biberovic",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Heel — Biberovic is out for Friday's exhibition against the Hawks due to right heel bursitis.",
+          "detail": "Heel — Biberovic (heel) is unlikely to play in Wednesday's season opener against the Rockets, per Grant Afseth of DallasHoopsJournal.com.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Santi Aldama",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Aldama (knee) is doubtful for Wednesday's game against Houston, Grant Afseth of DallasHoopsJournal.com reports.",
           "returnDate": "2026-10-21"
         },
         {
@@ -231,6 +224,20 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Charles Bassey",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Bassey (knee) is questionable for Wednesday's season opener versus the Lakers, per Nick Friedell of The Athletic.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Brandin Podziemski",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Podziemski (back) was unable to practice Tuesday, Nick Friedell of The Athletic reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Stephen Curry",
           "position": "G",
           "status": "Day-To-Day",
@@ -245,20 +252,6 @@
           "returnDate": "2026-12-01"
         },
         {
-          "name": "Charles Bassey",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Bassey (knee) didn't practice Monday, per Nick Friedell of The Athletic.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Brandin Podziemski",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Podziemski (back) is questionable for Wednesday's season opener against the Lakers, per Dalton Johnson of NBC Sports Bay Area.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Moses Moody",
           "position": "G",
           "status": "Out",
@@ -271,6 +264,25 @@
           "status": "Out",
           "detail": "Knee — Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
           "returnDate": "2027-01-02"
+        }
+      ]
+    },
+    {
+      "name": "Houston Rockets",
+      "players": [
+        {
+          "name": "Julian Phillips",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — The Rockets converted Phillips' deal to a two-way contract Monday, per Michael Scotto of HoopsHype.com.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Steven Adams",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Calf — Adams (calf) is listed as questionable for Wednesday's game against the Mavericks.",
+          "returnDate": "2026-10-21"
         }
       ]
     },
@@ -351,24 +363,24 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Bronny James",
-          "position": "G",
+          "name": "Adou Thiero",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Illness — James (illness) was excused from practice Monday, per Jovan Buha of The Athletic.",
+          "detail": "Undisclosed — Thiero (undisclosed) didn't practice Tuesday, Law Murray of The Athletic reports.",
           "returnDate": "2026-10-21"
         },
         {
           "name": "Cameron Carr",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Carr (undisclosed) didn't practice Monday, per Thuc Nhi Nguyen of the Los Angeles Times.",
+          "detail": "Undisclosed — Carr (undisclosed) didn't practice Tuesday, per Law Murray of The Athletic.",
           "returnDate": "2026-10-21"
         },
         {
-          "name": "Adou Thiero",
-          "position": "F",
+          "name": "Bronny James",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Thiero (undisclosed) didn't practice Monday, per Thuc Nhi Nguyen of the Los Angeles Times.",
+          "detail": "Illness — James (illness) participated in Tuesday's practice, Dan Woike of The Athletic reports.",
           "returnDate": "2026-10-21"
         },
         {
@@ -420,28 +432,7 @@
           "name": "Vladislav Goldin",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Goldin (ankle) did not practice Tuesday, Ira reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Dru Smith",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Smith (calf) participated in practice Monday, Anthony Chiang of the Miami Herald reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Bam Adebayo",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Groin — Adebayo (groin) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Pelle Larsson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Larsson (illness) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.",
+          "detail": "Ankle — Goldin is questionable for Wednesday's season opener against Minnesota with a right ankle sprain.",
           "returnDate": "2026-10-21"
         }
       ]
@@ -453,8 +444,8 @@
           "name": "Jericho Sims",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Sims (undisclosed) didn't play in Friday's 128-127 preseason win over the Pacers in overtime.",
-          "returnDate": "2026-10-21"
+          "detail": "Sims (undisclosed) didn't play in Friday's 128-127 preseason win over the Pacers in overtime.",
+          "returnDate": ""
         },
         {
           "name": "Nate Ament",
@@ -468,13 +459,6 @@
     {
       "name": "Minnesota Timberwolves",
       "players": [
-        {
-          "name": "Rocco Zikarsky",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Zikarsky (undisclosed) is out for Friday's preseason finale in Chicago.",
-          "returnDate": "2026-10-21"
-        },
         {
           "name": "Donte DiVincenzo",
           "position": "G",
@@ -514,25 +498,18 @@
       "name": "Orlando Magic",
       "players": [
         {
+          "name": "Jonathan Isaac",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — Isaac (knee) is out for Friday's preseason game against Miami.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Anthony Black",
           "position": "G",
-          "status": "Day-To-Day",
+          "status": "Out",
           "detail": "Ankle — Black (ankle) said Tuesday that he doesn't know if he will play in Wednesday's season opener against the Hawks, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Franz Wagner",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Wagner (shoulder) practiced in full Tuesday and is planning to play in Wednesday's game against the Hawks, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Jase Richardson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Richardson (back) is considered day-to-day, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-21"
+          "returnDate": "2026-10-23"
         },
         {
           "name": "Noah Penda",
@@ -540,13 +517,6 @@
           "status": "Out",
           "detail": "Hamstring — Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-11-18"
-        },
-        {
-          "name": "Jonathan Isaac",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Isaac (knee) is out for Friday's preseason game against Miami.",
-          "returnDate": "2026-10-21"
         },
         {
           "name": "Izaiyah Nelson",
@@ -721,9 +691,9 @@
         {
           "name": "Nate Bittle",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Bittle (foot) agreed to a two-way contract with Toronto on Saturday, Michael Scotto of HoopsHype.com reports.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Foot — Bittle (foot) is out for Wednesday's season opener against the Bulls.",
+          "returnDate": "2026-10-28"
         }
       ]
     },
@@ -790,7 +760,7 @@
   "games": [
     {
       "date": "2026-10-20T19:00Z",
-      "status": "10/20 - 3:00 PM EDT",
+      "status": "9:30 - 4th",
       "home": "Detroit Pistons",
       "away": "Boston Celtics"
     },
@@ -807,5 +777,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792517976519
+  "fetchedAt": 1792530186494
 }
