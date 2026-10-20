@@ -406,21 +406,21 @@
           "name": "Dru Smith",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Calf — Smith (calf) participated in Sunday's practice, Anthony Chiang of the Miami Herald reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Pelle Larsson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Larsson (illness) participated in Sunday's practice, Anthony Chiang of the Miami Herald reports.",
+          "detail": "Calf — Smith (calf) participated in practice Monday, Anthony Chiang of the Miami Herald reports.",
           "returnDate": "2026-10-21"
         },
         {
           "name": "Bam Adebayo",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Groin — Adebayo (groin) participated in Sunday's practice, Ira Winderman of the South Florida Sun Sentinel reports.",
+          "detail": "Groin — Adebayo (groin) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
+          "name": "Pelle Larsson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Larsson (illness) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.",
           "returnDate": "2026-10-21"
         }
       ]
@@ -786,5 +786,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792449736562
+  "fetchedAt": 1792459413300
 }
