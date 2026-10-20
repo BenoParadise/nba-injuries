@@ -94,6 +94,20 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Jordan Hawkins",
+          "position": "G",
+          "status": "Out",
+          "detail": "Illness — Hawkins (illness) is out for Wednesday's game against the Raptors, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-10-23"
+        },
+        {
+          "name": "Dailyn Swain",
+          "position": "G",
+          "status": "Out",
+          "detail": "Illness — Swain (illness) is out for Wednesday's game against the Raptors, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Zach Collins",
           "position": "F",
           "status": "Day-To-Day",
@@ -127,17 +141,17 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
+          "name": "Nae'Qwan Tomlin",
+          "position": "F",
+          "status": "Out",
+          "detail": "Back — Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
+          "returnDate": "2026-11-16"
+        },
+        {
           "name": "Sam Merrill",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Elbow — Merrill (elbow) isn't participating in Saturday's scrimmage, Danny Cunningham of Sports Radio 92.3 The Fan Cleveland reports.",
-          "returnDate": "2026-10-22"
-        },
-        {
-          "name": "Nae'Qwan Tomlin",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Tomlin (back) won't play in Tuesday's preseason game against the Magic, Serena Winters of FanDuel Sports Network Ohio reports.",
           "returnDate": "2026-10-22"
         },
         {
@@ -207,9 +221,9 @@
         {
           "name": "Taurean Prince",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Personal — Prince is questionable for Tuesday's season opener against the Celtics for personal reasons.",
-          "returnDate": "2026-10-20"
+          "status": "Out",
+          "detail": "Personal — Prince (personal) is out for Tuesday's game against the Celtics.",
+          "returnDate": "2026-10-23"
         }
       ]
     },
@@ -403,6 +417,13 @@
       "name": "Miami Heat",
       "players": [
         {
+          "name": "Vladislav Goldin",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Goldin (ankle) did not practice Tuesday, Ira reports.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Dru Smith",
           "position": "G",
           "status": "Day-To-Day",
@@ -496,14 +517,14 @@
           "name": "Anthony Black",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Black (ankle) participated in Sunday's practice, and head coach Sean Sweeney said he will continue ramping up, Jason Beede of the Orlando Sentinel reports.",
+          "detail": "Ankle — Black (ankle) said Tuesday that he doesn't know if he will play in Wednesday's season opener against the Hawks, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-21"
         },
         {
           "name": "Franz Wagner",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Shoulder — Head coach Sean Sweeney said the team will continue to evaluate Wagner's right shoulder, and he was limited to \"light work\" in Sunday's practice, Jason Beede of the Orlando Sentinel reports.",
+          "detail": "Shoulder — Wagner (shoulder) practiced in full Tuesday and is planning to play in Wednesday's game against the Hawks, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-21"
         },
         {
@@ -745,9 +766,9 @@
         {
           "name": "AJ Dybantsa",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Dybantsa (ankle) participated in shooting drills during Monday's practice but remains day-to-day, Ben Strober of 106-7 The Fan Washington reports.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Ankle — Dybantsa (ankle) will not debut Wednesday against the Bucks, Josh Robbins of The Athletic reports.",
+          "returnDate": "2026-10-23"
         },
         {
           "name": "Tristan Vukcevic",
@@ -786,5 +807,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792499191109
+  "fetchedAt": 1792517976519
 }
