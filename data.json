@@ -94,34 +94,6 @@
           "returnDate": "2026-10-24"
         },
         {
-          "name": "Leonard Miller",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Groin — Miller is probable for Wednesday's game against the Raptors with a right adductor strain.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Isaac Okoro",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Okoro (knee) is probable for Wednesday's season opener against Toronto.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Zach Collins",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Toe — Collins (toe) is probable for Wednesday's game against the Raptors.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Tobe Awaka",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Awaka (knee) is probable for Wednesday's game against the Raptors.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Nic Claxton",
           "position": "C",
           "status": "Out",
@@ -134,10 +106,17 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
-          "name": "Sam Merrill",
-          "position": "G",
+          "name": "Khalifa Diop",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Diop (knee) has been ruled out for Thursday's game against the 76ers.",
+          "returnDate": "2026-10-24"
+        },
+        {
+          "name": "Jarrett Allen",
+          "position": "C",
           "status": "Day-To-Day",
-          "detail": "Elbow — Head coach Kenny Atkinson said Tuesday that Merrill (elbow) went through a full practice, per Danny Cunningham of Sports Radio 92.3 The Fan Cleveland.",
+          "detail": "Knee — Allen (knee) is questionable for Thursday's game against the 76ers.",
           "returnDate": "2026-10-22"
         },
         {
@@ -146,13 +125,6 @@
           "status": "Out",
           "detail": "Back — Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
           "returnDate": "2026-11-16"
-        },
-        {
-          "name": "Khalifa Diop",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Diop (knee) won't play in Tuesday's preseason game against the Magic, Serena Winters of FanDuel Sports Network Ohio reports.",
-          "returnDate": "2026-10-22"
         }
       ]
     },
@@ -203,7 +175,7 @@
           "name": "Spencer Jones",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Jones (hamstring) participated in Sunday's practice, Adam Mares of TheDNVR.com reports.",
+          "detail": "Hamstring — Jones (hamstring) is questionable for Thursday's season opener against the Thunder.",
           "returnDate": "2026-10-22"
         },
         {
@@ -363,18 +335,18 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Collin Sexton",
+          "position": "G",
+          "status": "Out",
+          "detail": "Calf — Sexton (calf) won't play in Wednesday's regular-season opener against the Warriors, per Khobi Price of The California Post.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Cameron Carr",
           "position": "G",
           "status": "Out",
           "detail": "Oblique — Carr (oblique) is listed as out for Wednesday's game against the Warriors.",
           "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Collin Sexton",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Sexton (calf) is questionable for Wednesday's regular-season opener against the Warriors.",
-          "returnDate": "2026-10-21"
         },
         {
           "name": "Adou Thiero",
@@ -398,30 +370,6 @@
       ]
     },
     {
-      "name": "Miami Heat",
-      "players": [
-        {
-          "name": "Vladislav Goldin",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Goldin is questionable for Wednesday's season opener against Minnesota with a right ankle sprain.",
-          "returnDate": "2026-10-21"
-        }
-      ]
-    },
-    {
-      "name": "Milwaukee Bucks",
-      "players": [
-        {
-          "name": "Nate Ament",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Ament is probable for Wednesday's season opener against the Wizards with a right ankle sprain.",
-          "returnDate": "2026-10-21"
-        }
-      ]
-    },
-    {
       "name": "Minnesota Timberwolves",
       "players": [
         {
@@ -437,18 +385,18 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
-          "name": "Thomas Sorber",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Sorber (knee) won't play in Tuesday's season opener against the Spurs, Justin Martinez of The Oklahoman reports.",
-          "returnDate": "2026-10-22"
-        },
-        {
           "name": "Nikola Topic",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Topic (back) won't play in Tuesday's season opener against the Spurs, Justin Martinez of The Oklahoman reports.",
-          "returnDate": "2026-10-22"
+          "status": "Out",
+          "detail": "Back — Topic (back) won't play in Thursday's game against the Nuggets.",
+          "returnDate": "2026-10-26"
+        },
+        {
+          "name": "Thomas Sorber",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Sorber (knee) is listed as out for Thursday's game against Denver.",
+          "returnDate": "2026-10-26"
         },
         {
           "name": "Otega Oweh",
@@ -498,15 +446,15 @@
         {
           "name": "Tacko Fall",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Hip — Fall (hip) is out for Tuesday's regular-season opener against the Knicks, Adam Aaronson of PhillyVoice.com reports.",
-          "returnDate": "2026-10-22"
+          "status": "Out",
+          "detail": "Quadriceps — Fall (quadriceps) is out for Thursday's game against Cleveland.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Dean Wade",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Wade (ankle) is out for Tuesday's game against the Knicks.",
+          "detail": "Ankle — Wade (ankle) is questionable for Thursday's game against Cleveland.",
           "returnDate": "2026-10-22"
         },
         {
@@ -548,6 +496,13 @@
       "name": "Portland Trail Blazers",
       "players": [
         {
+          "name": "Micah Potter",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Illness — Potter (illness) has been upgraded to probable for Wednesday's game against the Suns.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Branden Carlson",
           "position": "C",
           "status": "Out",
@@ -560,13 +515,6 @@
           "status": "Out",
           "detail": "Ankle — Youngblood is out for Wednesday's regular-season opener against Phoenix due to left ankle soreness.",
           "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Micah Potter",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Illness — Potter (illness) is questionable for Wednesday's regular-season opener against the Suns.",
-          "returnDate": "2026-10-21"
         },
         {
           "name": "Deni Avdija",
@@ -769,5 +717,5 @@
       "away": "Sacramento Kings"
     }
   ],
-  "fetchedAt": 1792612138069
+  "fetchedAt": 1792623322251
 }
