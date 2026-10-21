@@ -160,6 +160,13 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Jett Howard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Calf — Howard (calf) is listed as questionable for Wednesday's game against the Rockets.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Caleb Martin",
           "position": "F",
           "status": "Out",
@@ -359,29 +366,22 @@
           "name": "Cameron Carr",
           "position": "G",
           "status": "Out",
-          "detail": "Undisclosed — Carr (undisclosed) didn't practice Tuesday, per Law Murray of The Athletic.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Adou Thiero",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Thiero (undisclosed) didn't practice Tuesday, Law Murray of The Athletic reports.",
+          "detail": "Oblique — Carr (oblique) is listed as out for Wednesday's game against the Warriors.",
           "returnDate": "2026-10-23"
         },
         {
           "name": "Collin Sexton",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Calf — Sexton (lower leg) fully practiced Monday, per Dan Woike of The Athletic.",
+          "detail": "Calf — Sexton (calf) is questionable for Wednesday's regular-season opener against the Warriors.",
           "returnDate": "2026-10-21"
         },
         {
-          "name": "Jarred Vanderbilt",
+          "name": "Adou Thiero",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Undisclosed — Vanderbilt (undisclosed) isn't expected to play in Friday's preseason game against the Nuggets, Thuc Nhi Nguyen of the Los Angeles Times reports.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Knee — Thiero (knee) has been ruled out for Wednesday's game against Golden State.",
+          "returnDate": "2026-10-23"
         }
       ]
     },
@@ -498,7 +498,7 @@
         {
           "name": "Dean Wade",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Wade (ankle) is out for Tuesday's game against the Knicks.",
           "returnDate": "2026-10-22"
         },
@@ -532,14 +532,7 @@
           "name": "Luke Kennard",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Kennard (knee) increased his activity in practice Monday, Duane Rankin of the Arizona Republic reports.",
-          "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Oso Ighodaro",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hip — Ighodaro (hip) signed a three-year, $29 million deal with the Suns on Sunday, Shams Charania of ESPN reports.",
+          "detail": "Knee — Kennard (knee) is listed as questionable for Wednesday's game against Portland.",
           "returnDate": "2026-10-21"
         },
         {
@@ -595,18 +588,18 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Ben Simmons",
+          "position": "G",
+          "status": "Out",
+          "detail": "Achilles — Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
+          "returnDate": "2027-10-01"
+        },
+        {
           "name": "Malik Monk",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Ankle — Monk (ankle) is listed as questionable for Wednesday's game against the Clippers.",
           "returnDate": "2026-10-21"
-        },
-        {
-          "name": "Ben Simmons",
-          "position": "G",
-          "status": "Out",
-          "detail": "Achilles — Simmons is believed to have suffered a season-ending Achilles tear during practice Sunday, Shams Charania of ESPN reports.",
-          "returnDate": "2027-10-01"
         },
         {
           "name": "Dylan Cardwell",
@@ -724,16 +717,16 @@
     },
     {
       "date": "2026-10-20T23:00Z",
-      "status": "3:51 - 2nd",
+      "status": "Final",
       "home": "New York Knicks",
       "away": "Philadelphia 76ers"
     },
     {
-      "date": "2026-10-21T01:30Z",
-      "status": "10/20 - 9:30 PM EDT",
+      "date": "2026-10-21T01:50Z",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1792541763047
+  "fetchedAt": 1792560891587
 }
