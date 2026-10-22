@@ -37,7 +37,7 @@
         {
           "name": "Tyler Bilodeau",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Shoulder — Bilodeau will miss the season opener against the Hornets on Wednesday due to a shoulder sprain, Sharif Phillips-Keaton of USA Today reports.",
           "returnDate": "2026-10-24"
         }
@@ -47,18 +47,18 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Kon Knueppel",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Knueppel (hamstring) has returned to individual on-court activity but won't play in Wednesday's game against the Nets.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Kylan Boswell",
           "position": "G",
           "status": "Out",
           "detail": "Knee — Boswell (knee) is out for Wednesday's season opener against the Nets.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Kon Knueppel",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — Knueppel (hamstring) has returned to individual on-court activity but won't play in Wednesday's game against the Nets.",
-          "returnDate": "2026-10-23"
         },
         {
           "name": "Grant Williams",
@@ -82,14 +82,14 @@
         {
           "name": "Dailyn Swain",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Swain is out for Wednesday's season opener against Toronto with an illness.",
           "returnDate": "2026-10-24"
         },
         {
           "name": "Jordan Hawkins",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Hawkins is out for Wednesday's season opener against Toronto with an illness.",
           "returnDate": "2026-10-24"
         },
@@ -132,24 +132,31 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "Jett Howard",
-          "position": "G",
-          "status": "Out",
-          "detail": "Calf — Howard (calf) has been ruled out for Wednesday's game against the Rockets.",
+          "name": "Caleb Martin",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Thumb — Martin is out for Wednesday's season opener against the Rockets with a sprained right thumb.",
           "returnDate": "2026-10-23"
         },
         {
-          "name": "Caleb Martin",
-          "position": "F",
-          "status": "Out",
-          "detail": "Thumb — Martin is out for Wednesday's season opener against the Rockets with a sprained right thumb.",
+          "name": "Jett Howard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Calf — Howard (calf) has been ruled out for Wednesday's game against the Rockets.",
           "returnDate": "2026-10-23"
         },
         {
           "name": "Tarik Biberovic",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Heel — Biberovic (heel) has been ruled out for Wednesday's game against Houston.",
+          "returnDate": "2026-10-23"
+        },
+        {
+          "name": "Santi Aldama",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Aldama (knee) has been ruled out for Wednesday's game against the Rockets.",
           "returnDate": "2026-10-23"
         },
         {
@@ -157,13 +164,6 @@
           "position": "C",
           "status": "Out",
           "detail": "Foot — Lively (foot) has been ruled out for Wednesday's game against Houston.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Santi Aldama",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Aldama (knee) has been ruled out for Wednesday's game against the Rockets.",
           "returnDate": "2026-10-23"
         }
       ]
@@ -203,25 +203,25 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Brandin Podziemski",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Podziemski (back) has been ruled out for Wednesday's game against the Lakers.",
+          "returnDate": "2026-10-23"
+        },
+        {
+          "name": "Charles Bassey",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Bassey (knee) is out for Wednesday's season opener versus the Lakers.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Kristaps Porzingis",
           "position": "C",
           "status": "Out",
           "detail": "Illness — Porzingis is contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as postural orthostatic tachycardia syndrome, per Shams Charania of ESPN.",
           "returnDate": "2026-12-01"
-        },
-        {
-          "name": "Charles Bassey",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Bassey (knee) is out for Wednesday's season opener versus the Lakers.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Brandin Podziemski",
-          "position": "G",
-          "status": "Out",
-          "detail": "Back — Podziemski (back) has been ruled out for Wednesday's game against the Lakers.",
-          "returnDate": "2026-10-23"
         },
         {
           "name": "Moses Moody",
@@ -245,7 +245,7 @@
         {
           "name": "Steven Adams",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Calf — Adams (calf) won't play in Wednesday's game versus Dallas.",
           "returnDate": "2026-10-23"
         }
@@ -255,17 +255,17 @@
       "name": "Indiana Pacers",
       "players": [
         {
-          "name": "T.J. McConnell",
+          "name": "Aaron Nesmith",
           "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — McConnell won't play Wednesday in New Orleans due to a right hamstring strain.",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Nesmith (hamstring) has been ruled out for Wednesday's game against New Orleans.",
           "returnDate": "2026-10-23"
         },
         {
-          "name": "Aaron Nesmith",
+          "name": "T.J. McConnell",
           "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — Nesmith (hamstring) has been ruled out for Wednesday's game against New Orleans.",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — McConnell won't play Wednesday in New Orleans due to a right hamstring strain.",
           "returnDate": "2026-10-23"
         },
         {
@@ -323,21 +323,21 @@
         {
           "name": "Adou Thiero",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Head coach JJ Redick said Thiero (knee), who is out for Wednesday's game against Golden State, will begin ramping up soon and can be considered day-to-day moving forward, Daniel Starkand of LakersNation.com reports.",
           "returnDate": "2026-10-23"
         },
         {
           "name": "Collin Sexton",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Calf — Head coach JJ Redick said that Sexton (calf) did not experience a setback, but the Lakers will sit him out of Wednesday's regular-season opener against the Warriors as a precaution, Daniel Starkland of Lakers Nation reports.",
           "returnDate": "2026-10-23"
         },
         {
           "name": "Cameron Carr",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Oblique — Head coach JJ Redick said Carr (oblique), who is out for Wednesday's game against Golden State, is \"ramping up\" and can be considered day-to-day moving forward, Daniel Starkand of LakersNation.com reports.",
           "returnDate": "2026-10-23"
         }
@@ -349,7 +349,7 @@
         {
           "name": "Isaiah Stewart",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Stewart (ankle) has been ruled out for Wednesday's game against the Jazz.",
           "returnDate": "2026-10-23"
         }
@@ -399,14 +399,14 @@
         {
           "name": "Jonathan Isaac",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Isaac (knee) has been ruled out for Wednesday's game against the Hawks.",
           "returnDate": "2026-10-23"
         },
         {
           "name": "Anthony Black",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Black (ankle) has been ruled out for Wednesday's game against the Hawks, Philip Rossman-Reich of OrlandoMagicDaily.com reports.",
           "returnDate": "2026-10-23"
         },
@@ -465,8 +465,15 @@
         {
           "name": "Luke Kennard",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Kennard (knee) won't play Wednesday versus Portland, Duane Rankin of The Arizona Republic reports.",
+          "returnDate": "2026-10-24"
+        },
+        {
+          "name": "Oso Ighodaro",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hip — Ighodaro (hip) didn't return to Wednesday's 124-83 loss to Portland, Duane Rankin reports. He finished with eight points (4-7 FG, 0-2 FT), three rebounds and three assists over 15 minutes.",
           "returnDate": "2026-10-24"
         },
         {
@@ -482,11 +489,11 @@
       "name": "Portland Trail Blazers",
       "players": [
         {
-          "name": "Micah Potter",
-          "position": "C",
+          "name": "Chris Youngblood",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Illness — Potter (illness) has been upgraded to probable for Wednesday's game against the Suns.",
-          "returnDate": "2026-10-21"
+          "detail": "Ankle — Youngblood is out for Wednesday's regular-season opener against Phoenix due to left ankle soreness.",
+          "returnDate": "2026-10-23"
         },
         {
           "name": "Branden Carlson",
@@ -494,20 +501,6 @@
           "status": "Out",
           "detail": "Concussion — Carlson (concussion) has been ruled out for Wednesday's game against the Suns.",
           "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Chris Youngblood",
-          "position": "G",
-          "status": "Out",
-          "detail": "Ankle — Youngblood is out for Wednesday's regular-season opener against Phoenix due to left ankle soreness.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Deni Avdija",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Avdija is questionable for Wednesday's game against the Suns due to right ankle soreness.",
-          "returnDate": "2026-10-21"
         },
         {
           "name": "Shaedon Sharpe",
@@ -525,8 +518,8 @@
           "name": "Malik Monk",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Monk (ankle) has been downgraded to doubtful for Wednesday's game against the Clippers.",
-          "returnDate": "2026-10-21"
+          "detail": "Ankle — Monk (ankle) won't play Wednesday versus the Clippers.",
+          "returnDate": "2026-10-23"
         },
         {
           "name": "Ben Simmons",
@@ -588,14 +581,14 @@
         {
           "name": "Tony Bradley",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Quadriceps — Bradley is out for Wednesday's game in Memphis due to a left quadriceps strain.",
           "returnDate": "2026-10-23"
         },
         {
           "name": "Trey Alexander",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
           "returnDate": "2026-10-23"
         },
@@ -614,7 +607,7 @@
         {
           "name": "AJ Dybantsa",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Dybantsa (ankle) will not debut Wednesday against the Bucks, Josh Robbins of The Athletic reports.",
           "returnDate": "2026-10-23"
         },
@@ -638,70 +631,70 @@
   "games": [
     {
       "date": "2026-10-21T23:00Z",
-      "status": "3:00 - 3rd",
+      "status": "Final",
       "home": "Orlando Magic",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-10-21T23:00Z",
-      "status": "1.1 - 3rd",
+      "status": "Final",
       "home": "Washington Wizards",
       "away": "Milwaukee Bucks"
     },
     {
       "date": "2026-10-21T23:30Z",
-      "status": "9:46 - 3rd",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-10-21T23:30Z",
-      "status": "11:36 - 3rd",
+      "status": "Final",
       "home": "Brooklyn Nets",
       "away": "Charlotte Hornets"
     },
     {
       "date": "2026-10-21T23:30Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Toronto Raptors",
       "away": "Chicago Bulls"
     },
     {
       "date": "2026-10-22T00:00Z",
-      "status": "2:58 - 2nd",
+      "status": "Final",
       "home": "Memphis Grizzlies",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-10-22T00:00Z",
-      "status": "2:46 - 2nd",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Indiana Pacers"
     },
     {
       "date": "2026-10-22T00:30Z",
-      "status": "1:52 - 1st",
+      "status": "Final",
       "home": "Houston Rockets",
       "away": "Dallas Mavericks"
     },
     {
       "date": "2026-10-22T02:00Z",
-      "status": "10/21 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "Golden State Warriors"
     },
     {
       "date": "2026-10-22T02:00Z",
-      "status": "10/21 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Portland Trail Blazers",
       "away": "Phoenix Suns"
     },
     {
       "date": "2026-10-22T02:30Z",
-      "status": "10/21 - 10:30 PM EDT",
+      "status": "Final",
       "home": "LA Clippers",
       "away": "Sacramento Kings"
     }
   ],
-  "fetchedAt": 1792631247092
+  "fetchedAt": 1792651972248
 }
