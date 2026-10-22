@@ -134,9 +134,9 @@
         {
           "name": "Jett Howard",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Howard (calf) is now doubtful for Wednesday against the Rockets.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Calf — Howard (calf) has been ruled out for Wednesday's game against the Rockets.",
+          "returnDate": "2026-10-23"
         },
         {
           "name": "Caleb Martin",
@@ -217,13 +217,6 @@
           "returnDate": "2026-10-23"
         },
         {
-          "name": "Stephen Curry",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Curry (ankle) is listed as probable for Wednesday's game against the Lakers.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Brandin Podziemski",
           "position": "G",
           "status": "Out",
@@ -250,18 +243,11 @@
       "name": "Houston Rockets",
       "players": [
         {
-          "name": "Julian Phillips",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — The Rockets converted Phillips' deal to a two-way contract Monday, per Michael Scotto of HoopsHype.com.",
-          "returnDate": "2026-10-21"
-        },
-        {
           "name": "Steven Adams",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Calf — Adams (calf) is listed as questionable for Wednesday's game against the Mavericks.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Calf — Adams (calf) won't play in Wednesday's game versus Dallas.",
+          "returnDate": "2026-10-23"
         }
       ]
     },
@@ -335,24 +321,24 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Adou Thiero",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — Head coach JJ Redick said Thiero (knee), who is out for Wednesday's game against Golden State, will begin ramping up soon and can be considered day-to-day moving forward, Daniel Starkand of LakersNation.com reports.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Collin Sexton",
           "position": "G",
           "status": "Out",
-          "detail": "Calf — Sexton (calf) won't play in Wednesday's regular-season opener against the Warriors, per Khobi Price of The California Post.",
+          "detail": "Calf — Head coach JJ Redick said that Sexton (calf) did not experience a setback, but the Lakers will sit him out of Wednesday's regular-season opener against the Warriors as a precaution, Daniel Starkland of Lakers Nation reports.",
           "returnDate": "2026-10-23"
         },
         {
           "name": "Cameron Carr",
           "position": "G",
           "status": "Out",
-          "detail": "Oblique — Carr (oblique) is listed as out for Wednesday's game against the Warriors.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Adou Thiero",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Thiero (knee) has been ruled out for Wednesday's game against Golden State.",
+          "detail": "Oblique — Head coach JJ Redick said Carr (oblique), who is out for Wednesday's game against Golden State, is \"ramping up\" and can be considered day-to-day moving forward, Daniel Starkand of LakersNation.com reports.",
           "returnDate": "2026-10-23"
         }
       ]
@@ -363,9 +349,9 @@
         {
           "name": "Isaiah Stewart",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Stewart (ankle) is doubtful to play Wednesday against the Jazz.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Ankle — Stewart (ankle) has been ruled out for Wednesday's game against the Jazz.",
+          "returnDate": "2026-10-23"
         }
       ]
     },
@@ -479,9 +465,9 @@
         {
           "name": "Luke Kennard",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Kennard (knee) is listed as questionable for Wednesday's game against Portland.",
-          "returnDate": "2026-10-21"
+          "status": "Out",
+          "detail": "Knee — Kennard (knee) won't play Wednesday versus Portland, Duane Rankin of The Arizona Republic reports.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Mark Williams",
@@ -536,18 +522,18 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Malik Monk",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Monk (ankle) has been downgraded to doubtful for Wednesday's game against the Clippers.",
+          "returnDate": "2026-10-21"
+        },
+        {
           "name": "Ben Simmons",
           "position": "G",
           "status": "Out",
           "detail": "Achilles — Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
           "returnDate": "2027-10-01"
-        },
-        {
-          "name": "Malik Monk",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Monk (ankle) is listed as questionable for Wednesday's game against the Clippers.",
-          "returnDate": "2026-10-21"
         },
         {
           "name": "Dylan Cardwell",
@@ -652,49 +638,49 @@
   "games": [
     {
       "date": "2026-10-21T23:00Z",
-      "status": "10/21 - 7:00 PM EDT",
+      "status": "3:00 - 3rd",
       "home": "Orlando Magic",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-10-21T23:00Z",
-      "status": "10/21 - 7:00 PM EDT",
+      "status": "1.1 - 3rd",
       "home": "Washington Wizards",
       "away": "Milwaukee Bucks"
     },
     {
       "date": "2026-10-21T23:30Z",
-      "status": "10/21 - 7:30 PM EDT",
+      "status": "9:46 - 3rd",
       "home": "Miami Heat",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-10-21T23:30Z",
-      "status": "10/21 - 7:30 PM EDT",
+      "status": "11:36 - 3rd",
       "home": "Brooklyn Nets",
       "away": "Charlotte Hornets"
     },
     {
       "date": "2026-10-21T23:30Z",
-      "status": "10/21 - 7:30 PM EDT",
+      "status": "Halftime",
       "home": "Toronto Raptors",
       "away": "Chicago Bulls"
     },
     {
       "date": "2026-10-22T00:00Z",
-      "status": "10/21 - 8:00 PM EDT",
+      "status": "2:58 - 2nd",
       "home": "Memphis Grizzlies",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-10-22T00:00Z",
-      "status": "10/21 - 8:00 PM EDT",
+      "status": "2:46 - 2nd",
       "home": "New Orleans Pelicans",
       "away": "Indiana Pacers"
     },
     {
       "date": "2026-10-22T00:30Z",
-      "status": "10/21 - 8:30 PM EDT",
+      "status": "1:52 - 1st",
       "home": "Houston Rockets",
       "away": "Dallas Mavericks"
     },
@@ -717,5 +703,5 @@
       "away": "Sacramento Kings"
     }
   ],
-  "fetchedAt": 1792623322251
+  "fetchedAt": 1792631247092
 }
