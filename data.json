@@ -47,6 +47,20 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Grant Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Williams (hamstring) is out for Wednesday's season opener versus the Nets.",
+          "returnDate": "2026-10-23"
+        },
+        {
+          "name": "Coby White",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Calf — White (calf) is out for Wednesday's season opener against the Nets.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Kon Knueppel",
           "position": "G",
           "status": "Day-To-Day",
@@ -59,20 +73,6 @@
           "status": "Out",
           "detail": "Knee — Boswell (knee) is out for Wednesday's season opener against the Nets.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Grant Williams",
-          "position": "F",
-          "status": "Out",
-          "detail": "Hamstring — Williams (hamstring) is out for Wednesday's season opener versus the Nets.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Coby White",
-          "position": "G",
-          "status": "Out",
-          "detail": "Calf — White (calf) is out for Wednesday's season opener against the Nets.",
-          "returnDate": "2026-10-23"
         }
       ]
     },
@@ -84,14 +84,14 @@
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Illness — Swain is out for Wednesday's season opener against Toronto with an illness.",
-          "returnDate": "2026-10-24"
+          "returnDate": "2026-10-23"
         },
         {
           "name": "Jordan Hawkins",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Illness — Hawkins is out for Wednesday's season opener against Toronto with an illness.",
-          "returnDate": "2026-10-24"
+          "returnDate": "2026-10-23"
         },
         {
           "name": "Nic Claxton",
@@ -106,18 +106,18 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
+          "name": "Jarrett Allen",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Allen (knee) said he expects to play Thursday against the 76ers, Chris Fedor of The Cleveland Plain Dealer reports.",
+          "returnDate": "2026-10-22"
+        },
+        {
           "name": "Khalifa Diop",
           "position": "C",
           "status": "Out",
           "detail": "Knee — Diop (knee) has been ruled out for Thursday's game against the 76ers.",
           "returnDate": "2026-10-24"
-        },
-        {
-          "name": "Jarrett Allen",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Allen (knee) is questionable for Thursday's game against the 76ers.",
-          "returnDate": "2026-10-22"
         },
         {
           "name": "Nae'Qwan Tomlin",
@@ -131,6 +131,13 @@
     {
       "name": "Dallas Mavericks",
       "players": [
+        {
+          "name": "Dereck Lively II",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Lively (foot) has been ruled out for Wednesday's game against Houston.",
+          "returnDate": "2026-10-23"
+        },
         {
           "name": "Caleb Martin",
           "position": "F",
@@ -157,13 +164,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Knee — Aldama (knee) has been ruled out for Wednesday's game against the Rockets.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Dereck Lively II",
-          "position": "C",
-          "status": "Out",
-          "detail": "Foot — Lively (foot) has been ruled out for Wednesday's game against Houston.",
           "returnDate": "2026-10-23"
         }
       ]
@@ -321,6 +321,13 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Jake LaRavia",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — LaRavia logged 10 points (4-5 FG, 2-3 3Pt), two rebounds, two assists and one steal in 18 minutes during Wednesday's 127-105 win over the Warriors.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Adou Thiero",
           "position": "F",
           "status": "Day-To-Day",
@@ -430,18 +437,18 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Dean Wade",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Wade (ankle) participated in Thursday's morning shootaround, Adam Aaronson of PhillyVoice.com reports.",
+          "returnDate": "2026-10-22"
+        },
+        {
           "name": "Tacko Fall",
           "position": "C",
           "status": "Out",
           "detail": "Quadriceps — Fall (quadriceps) is out for Thursday's game against Cleveland.",
           "returnDate": "2026-10-24"
-        },
-        {
-          "name": "Dean Wade",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Wade (ankle) is questionable for Thursday's game against Cleveland.",
-          "returnDate": "2026-10-22"
         },
         {
           "name": "Dominick Barlow",
@@ -489,17 +496,17 @@
       "name": "Portland Trail Blazers",
       "players": [
         {
+          "name": "Branden Carlson",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Concussion — Carlson (concussion) has been ruled out for Wednesday's game against the Suns.",
+          "returnDate": "2026-10-23"
+        },
+        {
           "name": "Chris Youngblood",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Ankle — Youngblood is out for Wednesday's regular-season opener against Phoenix due to left ankle soreness.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Branden Carlson",
-          "position": "C",
-          "status": "Out",
-          "detail": "Concussion — Carlson (concussion) has been ruled out for Wednesday's game against the Suns.",
           "returnDate": "2026-10-23"
         },
         {
@@ -607,9 +614,9 @@
         {
           "name": "AJ Dybantsa",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Dybantsa (ankle) will not debut Wednesday against the Bucks, Josh Robbins of The Athletic reports.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Ankle — Dybantsa (ankle) is out for Friday's game against the Raptors, Josh Robbins of The Athletic reports.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Tristan Vukcevic",
@@ -630,71 +637,17 @@
   ],
   "games": [
     {
-      "date": "2026-10-21T23:00Z",
-      "status": "Final",
-      "home": "Orlando Magic",
-      "away": "Atlanta Hawks"
+      "date": "2026-10-22T23:00Z",
+      "status": "10/22 - 7:00 PM EDT",
+      "home": "Philadelphia 76ers",
+      "away": "Cleveland Cavaliers"
     },
     {
-      "date": "2026-10-21T23:00Z",
-      "status": "Final",
-      "home": "Washington Wizards",
-      "away": "Milwaukee Bucks"
-    },
-    {
-      "date": "2026-10-21T23:30Z",
-      "status": "Final",
-      "home": "Miami Heat",
-      "away": "Minnesota Timberwolves"
-    },
-    {
-      "date": "2026-10-21T23:30Z",
-      "status": "Final",
-      "home": "Brooklyn Nets",
-      "away": "Charlotte Hornets"
-    },
-    {
-      "date": "2026-10-21T23:30Z",
-      "status": "Final",
-      "home": "Toronto Raptors",
-      "away": "Chicago Bulls"
-    },
-    {
-      "date": "2026-10-22T00:00Z",
-      "status": "Final",
-      "home": "Memphis Grizzlies",
-      "away": "Utah Jazz"
-    },
-    {
-      "date": "2026-10-22T00:00Z",
-      "status": "Final",
-      "home": "New Orleans Pelicans",
-      "away": "Indiana Pacers"
-    },
-    {
-      "date": "2026-10-22T00:30Z",
-      "status": "Final",
-      "home": "Houston Rockets",
-      "away": "Dallas Mavericks"
-    },
-    {
-      "date": "2026-10-22T02:00Z",
-      "status": "Final",
-      "home": "Los Angeles Lakers",
-      "away": "Golden State Warriors"
-    },
-    {
-      "date": "2026-10-22T02:00Z",
-      "status": "Final",
-      "home": "Portland Trail Blazers",
-      "away": "Phoenix Suns"
-    },
-    {
-      "date": "2026-10-22T02:30Z",
-      "status": "Final",
-      "home": "LA Clippers",
-      "away": "Sacramento Kings"
+      "date": "2026-10-23T01:30Z",
+      "status": "10/22 - 9:30 PM EDT",
+      "home": "Oklahoma City Thunder",
+      "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1792672803620
+  "fetchedAt": 1792691165862
 }
