@@ -37,9 +37,9 @@
         {
           "name": "Tyler Bilodeau",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Bilodeau will miss the season opener against the Hornets on Wednesday due to a shoulder sprain, Sharif Phillips-Keaton of USA Today reports.",
-          "returnDate": "2026-10-24"
+          "status": "Out",
+          "detail": "Shoulder — Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland.",
+          "returnDate": "2026-10-25"
         }
       ]
     },
@@ -94,9 +94,9 @@
         {
           "name": "Jett Howard",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Howard (calf) is listed as doubtful for Friday's game against the Pacers.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Calf — Howard (calf) is out for Friday's game in Indiana.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Caleb Martin",
@@ -160,15 +160,15 @@
         {
           "name": "Charles Bassey",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Bassey (knee) is listed as questionable for Friday's game against Memphis.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Knee — Bassey (knee) is out for Friday's game versus the Grizzlies.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Brandin Podziemski",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Back — Podziemski (back) is questionable for Friday's game against the Grizzlies.",
+          "detail": "Back — Podziemski (back) is probable for Friday's game against the Grizzlies.",
           "returnDate": "2026-10-23"
         },
         {
@@ -219,16 +219,9 @@
         {
           "name": "Ben Sheppard",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Sheppard (knee) is listed as questionable for Friday's game against the Mavericks.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Aaron Nesmith",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Nesmith (hamstring) is listed as questionable for Friday's game against the Mavericks.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Knee — Sheppard (knee) is out for Friday's game against the Mavericks and there's no timetable for his return, according to head coach Rick Carlisle per Alex Golden of SI.com.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "T.J. McConnell",
@@ -290,6 +283,13 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Jake LaRavia",
+          "position": "F",
+          "status": "Out",
+          "detail": "Ankle — LaRavia (ankle) has been ruled out for Friday's game against the Clippers, Mark Medina of TheSportingTribune.com reports.",
+          "returnDate": "2026-10-25"
+        },
+        {
           "name": "Adou Thiero",
           "position": "F",
           "status": "Out",
@@ -302,13 +302,6 @@
           "status": "Out",
           "detail": "Oblique — Carr (oblique) is out for Friday's game against the Clippers.",
           "returnDate": "2026-10-25"
-        },
-        {
-          "name": "Jake LaRavia",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — LaRavia (ankle) is listed as questionable for Friday's game against the Clippers.",
-          "returnDate": "2026-10-23"
         }
       ]
     },
@@ -406,24 +399,24 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "Joel Embiid",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Embiid recorded 24 points (8-16 FG, 1-4 3Pt, 7-9 FT), seven rebounds and one assist in 34 minutes during Thursday's 114-106 win over the Cavaliers.",
-          "returnDate": "2026-10-24"
-        },
-        {
           "name": "Tacko Fall",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Quadriceps — Fall (quadriceps) is out for Thursday's game against Cleveland.",
-          "returnDate": "2026-10-24"
+          "status": "Out",
+          "detail": "Quadriceps — Fall (quadriceps) is out for Saturday's game against the Bucks.",
+          "returnDate": "2026-10-25"
         },
         {
           "name": "Dean Wade",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Wade (ankle) is out for Thursday's game against the Cavaliers.",
+          "detail": "Ankle — Wade is listed as questionable for Saturday's game against the Bucks due to a left ankle sprain.",
+          "returnDate": "2026-10-24"
+        },
+        {
+          "name": "LeBron James",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — James (back) is questionable for Saturday's game against the Bucks.",
           "returnDate": "2026-10-24"
         },
         {
@@ -449,15 +442,15 @@
           "name": "Luke Kennard",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Kennard (knee) won't play Wednesday versus Portland, Duane Rankin of The Arizona Republic reports.",
+          "detail": "Knee — Kennard (knee) practiced Friday, Duane Rankin of The Arizona Republic reports.",
           "returnDate": "2026-10-24"
         },
         {
           "name": "Oso Ighodaro",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hip — Ighodaro (hip) didn't return to Wednesday's 124-83 loss to Portland, Duane Rankin reports. He finished with eight points (4-7 FG, 0-2 FT), three rebounds and three assists over 15 minutes.",
-          "returnDate": "2026-10-24"
+          "status": "Out",
+          "detail": "Oblique — Ighodaro has been ruled out for Saturday's game against the Warriors due to an oblique strain, Duane Rankin of The Arizona Republic reports.",
+          "returnDate": "2026-10-26"
         },
         {
           "name": "Mark Williams",
@@ -497,13 +490,6 @@
     {
       "name": "Sacramento Kings",
       "players": [
-        {
-          "name": "Malik Monk",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Monk (ankle) is probable for Friday's game against Portland.",
-          "returnDate": "2026-10-23"
-        },
         {
           "name": "Ben Simmons",
           "position": "G",
@@ -595,13 +581,6 @@
       "name": "Washington Wizards",
       "players": [
         {
-          "name": "Felix Okpara",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Okpara (illness) is questionable for Friday's game against Toronto.",
-          "returnDate": "2026-10-23"
-        },
-        {
           "name": "AJ Dybantsa",
           "position": "F",
           "status": "Out",
@@ -628,7 +607,7 @@
   "games": [
     {
       "date": "2026-10-23T20:00Z",
-      "status": "10/23 - 4:00 PM EDT",
+      "status": "Final",
       "home": "Milwaukee Bucks",
       "away": "Chicago Bulls"
     },
@@ -699,5 +678,5 @@
       "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1792784395590
+  "fetchedAt": 1792795573294
 }
