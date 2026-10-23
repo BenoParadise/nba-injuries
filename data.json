@@ -80,17 +80,17 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Dailyn Swain",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Swain (illness) is questionable for Friday's game against the Bucks.",
-          "returnDate": "2026-10-23"
-        },
-        {
           "name": "Jordan Hawkins",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Illness — Hawkins (illness) is questionable for Friday's game against the Bucks.",
+          "detail": "Illness — Hawkins (illness) is probable for Friday's game against the Hawks.",
+          "returnDate": "2026-10-23"
+        },
+        {
+          "name": "Dailyn Swain",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Swain (illness) is now probable for Friday against the Bucks.",
           "returnDate": "2026-10-23"
         },
         {
@@ -453,6 +453,13 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Joel Embiid",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Embiid recorded 24 points (8-16 FG, 1-4 3Pt, 7-9 FT), seven rebounds and one assist in 34 minutes during Thursday's 114-106 win over the Cavaliers.",
+          "returnDate": "2026-10-24"
+        },
+        {
           "name": "Tacko Fall",
           "position": "C",
           "status": "Day-To-Day",
@@ -674,17 +681,77 @@
   ],
   "games": [
     {
-      "date": "2026-10-22T23:00Z",
-      "status": "Final",
-      "home": "Philadelphia 76ers",
-      "away": "Cleveland Cavaliers"
+      "date": "2026-10-23T20:00Z",
+      "status": "10/23 - 4:00 PM EDT",
+      "home": "Milwaukee Bucks",
+      "away": "Chicago Bulls"
     },
     {
-      "date": "2026-10-23T01:30Z",
-      "status": "Final",
-      "home": "Oklahoma City Thunder",
-      "away": "Denver Nuggets"
+      "date": "2026-10-23T23:00Z",
+      "status": "10/23 - 7:00 PM EDT",
+      "home": "Boston Celtics",
+      "away": "New York Knicks"
+    },
+    {
+      "date": "2026-10-23T23:00Z",
+      "status": "10/23 - 7:00 PM EDT",
+      "home": "Charlotte Hornets",
+      "away": "Atlanta Hawks"
+    },
+    {
+      "date": "2026-10-23T23:00Z",
+      "status": "10/23 - 7:00 PM EDT",
+      "home": "Indiana Pacers",
+      "away": "Dallas Mavericks"
+    },
+    {
+      "date": "2026-10-23T23:00Z",
+      "status": "10/23 - 7:00 PM EDT",
+      "home": "Orlando Magic",
+      "away": "Minnesota Timberwolves"
+    },
+    {
+      "date": "2026-10-23T23:00Z",
+      "status": "10/23 - 7:00 PM EDT",
+      "home": "Washington Wizards",
+      "away": "Toronto Raptors"
+    },
+    {
+      "date": "2026-10-24T00:00Z",
+      "status": "10/23 - 8:00 PM EDT",
+      "home": "Miami Heat",
+      "away": "Detroit Pistons"
+    },
+    {
+      "date": "2026-10-24T01:30Z",
+      "status": "10/23 - 9:30 PM EDT",
+      "home": "San Antonio Spurs",
+      "away": "Houston Rockets"
+    },
+    {
+      "date": "2026-10-24T01:30Z",
+      "status": "10/23 - 9:30 PM EDT",
+      "home": "Utah Jazz",
+      "away": "New Orleans Pelicans"
+    },
+    {
+      "date": "2026-10-24T02:00Z",
+      "status": "10/23 - 10:00 PM EDT",
+      "home": "Golden State Warriors",
+      "away": "Memphis Grizzlies"
+    },
+    {
+      "date": "2026-10-24T02:00Z",
+      "status": "10/23 - 10:00 PM EDT",
+      "home": "Los Angeles Lakers",
+      "away": "LA Clippers"
+    },
+    {
+      "date": "2026-10-24T02:00Z",
+      "status": "10/23 - 10:00 PM EDT",
+      "home": "Sacramento Kings",
+      "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1792752354846
+  "fetchedAt": 1792769590742
 }
