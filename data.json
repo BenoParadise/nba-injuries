@@ -49,23 +49,23 @@
         {
           "name": "Grant Williams",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Williams (hamstring) is out for Wednesday's season opener versus the Nets.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Hamstring — Williams (hamstring) is out for Friday's game against the Hawks.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Coby White",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — White (calf) is out for Wednesday's season opener against the Nets.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Calf — White (calf) is out for Friday's game against the Hawks.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Kon Knueppel",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Knueppel (hamstring) has returned to individual on-court activity but won't play in Wednesday's game against the Nets.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Hamstring — Knueppel (hamstring) is out for Friday's game against the Hawks.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Kylan Boswell",
@@ -124,32 +124,6 @@
       ]
     },
     {
-      "name": "Cleveland Cavaliers",
-      "players": [
-        {
-          "name": "Jarrett Allen",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Allen (knee) said he expects to play Thursday against the 76ers, Chris Fedor of The Cleveland Plain Dealer reports.",
-          "returnDate": "2026-10-22"
-        },
-        {
-          "name": "Khalifa Diop",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Diop (knee) has been ruled out for Thursday's game against the 76ers.",
-          "returnDate": "2026-10-24"
-        },
-        {
-          "name": "Nae'Qwan Tomlin",
-          "position": "F",
-          "status": "Out",
-          "detail": "Back — Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
-          "returnDate": "2026-11-16"
-        }
-      ]
-    },
-    {
       "name": "Dallas Mavericks",
       "players": [
         {
@@ -197,7 +171,7 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Hamstring — Jones (hamstring) is questionable for Thursday's season opener against the Thunder.",
-          "returnDate": "2026-10-22"
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Julian Strawther",
@@ -227,7 +201,7 @@
           "name": "Brandin Podziemski",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Back — Podziemski (back) has been ruled out for Wednesday's game against the Lakers.",
+          "detail": "Back — Podziemski (back) is questionable for Friday's game against the Grizzlies.",
           "returnDate": "2026-10-23"
         },
         {
@@ -267,7 +241,14 @@
           "name": "Steven Adams",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Calf — Adams (calf) won't play in Wednesday's game versus Dallas.",
+          "detail": "Calf — Adams (calf) is questionable to play in Friday's game against the Spurs.",
+          "returnDate": "2026-10-23"
+        },
+        {
+          "name": "Reed Sheppard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Sheppard (knee) is listed as questionable for Friday's game against the Spurs.",
           "returnDate": "2026-10-23"
         }
       ]
@@ -349,31 +330,24 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Jake LaRavia",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — LaRavia logged 10 points (4-5 FG, 2-3 3Pt), two rebounds, two assists and one steal in 18 minutes during Wednesday's 127-105 win over the Warriors.",
-          "returnDate": "2026-10-23"
-        },
-        {
           "name": "Adou Thiero",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Head coach JJ Redick said Thiero (knee), who is out for Wednesday's game against Golden State, will begin ramping up soon and can be considered day-to-day moving forward, Daniel Starkand of LakersNation.com reports.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Collin Sexton",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Head coach JJ Redick said that Sexton (calf) did not experience a setback, but the Lakers will sit him out of Wednesday's regular-season opener against the Warriors as a precaution, Daniel Starkland of Lakers Nation reports.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Knee — Thiero (knee) is out for Friday's game against the Clippers.",
+          "returnDate": "2026-10-25"
         },
         {
           "name": "Cameron Carr",
           "position": "G",
-          "status": "Day-To-Day",
+          "status": "Out",
           "detail": "Oblique — Head coach JJ Redick said Carr (oblique), who is out for Wednesday's game against Golden State, is \"ramping up\" and can be considered day-to-day moving forward, Daniel Starkand of LakersNation.com reports.",
+          "returnDate": "2026-10-25"
+        },
+        {
+          "name": "Jake LaRavia",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — LaRavia logged 10 points (4-5 FG, 2-3 3Pt), two rebounds, two assists and one steal in 18 minutes during Wednesday's 127-105 win over the Warriors.",
           "returnDate": "2026-10-23"
         }
       ]
@@ -467,9 +441,9 @@
         {
           "name": "Dean Wade",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Wade (ankle) participated in Thursday's morning shootaround, Adam Aaronson of PhillyVoice.com reports.",
-          "returnDate": "2026-10-22"
+          "status": "Out",
+          "detail": "Ankle — Wade (ankle) is out for Thursday's game against the Cavaliers.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Tacko Fall",
@@ -526,16 +500,16 @@
         {
           "name": "Branden Carlson",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Concussion — Carlson (concussion) has been ruled out for Wednesday's game against the Suns.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Concussion — Carlson (concussion) has been ruled out for Friday's game against Sacramento.",
+          "returnDate": "2026-10-27"
         },
         {
           "name": "Chris Youngblood",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Youngblood is out for Wednesday's regular-season opener against Phoenix due to left ankle soreness.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Ankle — Youngblood (ankle) is out for Friday's game against the Kings.",
+          "returnDate": "2026-10-27"
         },
         {
           "name": "Shaedon Sharpe",
@@ -553,7 +527,7 @@
           "name": "Malik Monk",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Monk (ankle) won't play Wednesday versus the Clippers.",
+          "detail": "Ankle — Monk (ankle) is probable for Friday's game against Portland.",
           "returnDate": "2026-10-23"
         },
         {
@@ -583,11 +557,25 @@
       "name": "San Antonio Spurs",
       "players": [
         {
-          "name": "Tobias Harris",
+          "name": "De'Aaron Fox",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Fox (wrist) is questionable to play in Friday's game against the Rockets.",
+          "returnDate": "2026-10-23"
+        },
+        {
+          "name": "Keldon Johnson",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Calf — Harris (calf) will not be ready for the season opener Wednesday against the Thunder, Matt Guzman of SI.com reports.",
+          "detail": "Mouth — Johnson is listed as questionable for Friday's game against the Rockets due to a mouth laceration.",
           "returnDate": "2026-10-23"
+        },
+        {
+          "name": "Tobias Harris",
+          "position": "F",
+          "status": "Out",
+          "detail": "Calf — Harris (calf) is out for Friday's game against the Rockets.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Jayden Quaintance",
@@ -614,17 +602,17 @@
       "name": "Utah Jazz",
       "players": [
         {
+          "name": "Trey Alexander",
+          "position": "G",
+          "status": "Out",
+          "detail": "Knee — Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
+          "returnDate": "2026-10-25"
+        },
+        {
           "name": "Tony Bradley",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Quadriceps — Bradley is out for Wednesday's game in Memphis due to a left quadriceps strain.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Trey Alexander",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
+          "detail": "Quadriceps — Bradley (quadriceps) is questionable for Friday's game against New Orleans.",
           "returnDate": "2026-10-23"
         },
         {
@@ -673,7 +661,7 @@
   "games": [
     {
       "date": "2026-10-22T23:00Z",
-      "status": "10/22 - 7:00 PM EDT",
+      "status": "1:06 - 2nd",
       "home": "Philadelphia 76ers",
       "away": "Cleveland Cavaliers"
     },
@@ -684,5 +672,5 @@
       "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1792702871377
+  "fetchedAt": 1792714597081
 }
