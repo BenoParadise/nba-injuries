@@ -80,41 +80,6 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Jordan Hawkins",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Hawkins (illness) is probable for Friday's game against the Hawks.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Dailyn Swain",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Swain (illness) is now probable for Friday against the Bucks.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Zach Collins",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Quadriceps — Collins (quadriceps) is probable for Friday's game against the Bucks.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Tobe Awaka",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Awaka (knee) is probable for Friday's game against the Bucks.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Josh Giddey",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Giddey (wrist) is probable for Friday's game against the Bucks.",
-          "returnDate": "2026-10-23"
-        },
-        {
           "name": "Nic Claxton",
           "position": "C",
           "status": "Out",
@@ -186,18 +151,6 @@
           "status": "Out",
           "detail": "Knee — Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
           "returnDate": "2026-11-29"
-        }
-      ]
-    },
-    {
-      "name": "Detroit Pistons",
-      "players": [
-        {
-          "name": "Taurean Prince",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Personal — Prince (personal) is listed as probable for Friday's game against the Heat.",
-          "returnDate": "2026-10-23"
         }
       ]
     },
@@ -394,6 +347,13 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Otega Oweh",
+          "position": "G",
+          "status": "Out",
+          "detail": "Achilles — The Thunder plan to waive Oweh (Achilles) on Friday.",
+          "returnDate": "2027-07-01"
+        },
+        {
           "name": "Nikola Topic",
           "position": "G",
           "status": "Out",
@@ -406,13 +366,6 @@
           "status": "Out",
           "detail": "Knee — Sorber (knee) is listed as out for Thursday's game against Denver.",
           "returnDate": "2026-10-26"
-        },
-        {
-          "name": "Otega Oweh",
-          "position": "G",
-          "status": "Out",
-          "detail": "Achilles — Oweh (Achilles) underwent surgery Wednesday and will miss the entirety of the 2026-27 season, Brandon Rahbar of DailyThunder.com reports.",
-          "returnDate": "2027-07-01"
         }
       ]
     },
@@ -423,7 +376,7 @@
           "name": "Anthony Black",
           "position": "G",
           "status": "Out",
-          "detail": "Ankle — Black (ankle) has been ruled out for Friday's game against the Timberwolves.",
+          "detail": "Ankle — Black (ankle) has been ruled out for Friday's game against Minnesota but participated in shootaround and has experienced no setbacks in his recovery, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-25"
         },
         {
@@ -578,17 +531,17 @@
       "name": "San Antonio Spurs",
       "players": [
         {
-          "name": "De'Aaron Fox",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Fox (wrist) is questionable to play in Friday's game against the Rockets.",
-          "returnDate": "2026-10-23"
-        },
-        {
           "name": "Keldon Johnson",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Mouth — Johnson is listed as questionable for Friday's game against the Rockets due to a mouth laceration.",
+          "detail": "Mouth — Johnson (mouth) participated in shooting drills after Friday's morning shootaround, per Tom Orsborn of the San Antonio Express-News.",
+          "returnDate": "2026-10-23"
+        },
+        {
+          "name": "De'Aaron Fox",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Fox (wrist) participated in Friday's morning shootaround, Tom Orsborn of the San Antonio Express-News reports.",
           "returnDate": "2026-10-23"
         },
         {
@@ -628,13 +581,6 @@
           "status": "Out",
           "detail": "Knee — Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
           "returnDate": "2026-10-25"
-        },
-        {
-          "name": "Tony Bradley",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Quadriceps — Bradley (quadriceps) is questionable for Friday's game against New Orleans.",
-          "returnDate": "2026-10-23"
         },
         {
           "name": "Jusuf Nurkic",
@@ -753,5 +699,5 @@
       "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1792769590742
+  "fetchedAt": 1792784395590
 }
