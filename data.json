@@ -92,6 +92,13 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Cooper Flagg",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Flagg won't return to Friday's game against the Pacers due to left shoulder soreness, Brett Siegel of ClutchPoints.com reports.",
+          "returnDate": "2026-10-24"
+        },
+        {
           "name": "Jett Howard",
           "position": "G",
           "status": "Out",
@@ -134,15 +141,22 @@
         {
           "name": "Spencer Jones",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Jones (hamstring) has been ruled out for Thursday's game against Oklahoma City, Justin Martinez of The Oklahoman reports.",
-          "returnDate": "2026-10-24"
+          "status": "Out",
+          "detail": "Hamstring — Jones (hamstring) is out for Saturday's game against the Pelicans.",
+          "returnDate": "2026-10-26"
         },
         {
           "name": "Cameron Johnson",
           "position": "F",
+          "status": "Out",
+          "detail": "Ankle — Johnson (ankle) has been ruled out for Saturday's game against New Orleans.",
+          "returnDate": "2026-10-26"
+        },
+        {
+          "name": "Alpha Diallo",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Johnson (ankle) didn't return to Thursday's game against Oklahoma City. He ended with five points (2-3 FG, 1-1 3Pt), two rebounds and one assist in 11 minutes.",
+          "detail": "Wrist — Diallo is questionable for Saturday's game versus the Pelicans due to a right wrist sprain.",
           "returnDate": "2026-10-24"
         },
         {
@@ -155,6 +169,18 @@
       ]
     },
     {
+      "name": "Detroit Pistons",
+      "players": [
+        {
+          "name": "Jalen Duren",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Duren exited to the locker room in the second quarter of Friday's game against the Heat due to an apparent right knee injury, Omari Sankofa II of the Detroit Free Press reports.",
+          "returnDate": "2026-10-23"
+        }
+      ]
+    },
+    {
       "name": "Golden State Warriors",
       "players": [
         {
@@ -163,13 +189,6 @@
           "status": "Out",
           "detail": "Knee — Bassey (knee) is out for Friday's game versus the Grizzlies.",
           "returnDate": "2026-10-24"
-        },
-        {
-          "name": "Brandin Podziemski",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Podziemski (back) is probable for Friday's game against the Grizzlies.",
-          "returnDate": "2026-10-23"
         },
         {
           "name": "Kristaps Porzingis",
@@ -198,18 +217,11 @@
       "name": "Houston Rockets",
       "players": [
         {
-          "name": "Steven Adams",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Calf — Adams (calf) is questionable to play in Friday's game against the Spurs.",
-          "returnDate": "2026-10-23"
-        },
-        {
           "name": "Reed Sheppard",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Sheppard (knee) is listed as questionable for Friday's game against the Spurs.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Knee — Sheppard (knee) is out for Friday's game in San Antonio.",
+          "returnDate": "2026-10-24"
         }
       ]
     },
@@ -220,8 +232,8 @@
           "name": "Ben Sheppard",
           "position": "G",
           "status": "Out",
-          "detail": "Knee — Sheppard (knee) is out for Friday's game against the Mavericks and there's no timetable for his return, according to head coach Rick Carlisle per Alex Golden of SI.com.",
-          "returnDate": "2026-10-28"
+          "detail": "Knee — Sheppard has been diagnosed with a torn meniscus in his left knee and is without a timetable for a return to game action, Scott Agness of FieldhouseFiles.com reports.",
+          "returnDate": "2026-12-01"
         },
         {
           "name": "T.J. McConnell",
@@ -442,15 +454,15 @@
           "name": "Luke Kennard",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Kennard (knee) practiced Friday, Duane Rankin of The Arizona Republic reports.",
+          "detail": "Knee — Kennard (knee) is questionable to play Saturday against the Warriors.",
           "returnDate": "2026-10-24"
         },
         {
           "name": "Oso Ighodaro",
           "position": "F",
-          "status": "Out",
-          "detail": "Oblique — Ighodaro has been ruled out for Saturday's game against the Warriors due to an oblique strain, Duane Rankin of The Arizona Republic reports.",
-          "returnDate": "2026-10-26"
+          "status": "Day-To-Day",
+          "detail": "Oblique — Ighodaro (oblique) is listed as doubtful for Saturday's game against Golden State.",
+          "returnDate": "2026-10-24"
         },
         {
           "name": "Mark Williams",
@@ -516,20 +528,6 @@
     {
       "name": "San Antonio Spurs",
       "players": [
-        {
-          "name": "Keldon Johnson",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Mouth — Johnson (mouth) participated in shooting drills after Friday's morning shootaround, per Tom Orsborn of the San Antonio Express-News.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "De'Aaron Fox",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Fox (wrist) participated in Friday's morning shootaround, Tom Orsborn of the San Antonio Express-News reports.",
-          "returnDate": "2026-10-23"
-        },
         {
           "name": "Tobias Harris",
           "position": "F",
@@ -613,37 +611,37 @@
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "10/23 - 7:00 PM EDT",
+      "status": "10:04 - 4th",
       "home": "Boston Celtics",
       "away": "New York Knicks"
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "10/23 - 7:00 PM EDT",
+      "status": "5:07 - 4th",
       "home": "Charlotte Hornets",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "10/23 - 7:00 PM EDT",
+      "status": "10:36 - 4th",
       "home": "Indiana Pacers",
       "away": "Dallas Mavericks"
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "10/23 - 7:00 PM EDT",
+      "status": "5:43 - 4th",
       "home": "Orlando Magic",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "10/23 - 7:00 PM EDT",
+      "status": "7:29 - 4th",
       "home": "Washington Wizards",
       "away": "Toronto Raptors"
     },
     {
       "date": "2026-10-24T00:00Z",
-      "status": "10/23 - 8:00 PM EDT",
+      "status": "Halftime",
       "home": "Miami Heat",
       "away": "Detroit Pistons"
     },
@@ -678,5 +676,5 @@
       "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1792795573294
+  "fetchedAt": 1792804576003
 }
