@@ -92,6 +92,13 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Kyrie Irving",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Irving posted 24 points (8-15 FG, 5-10 3Pt, 3-3 FT), one rebound, three assists, one block and one steal over 25 minutes before fouling out of Friday's 121-105 win over Indiana.",
+          "returnDate": "2026-10-24"
+        },
+        {
           "name": "Caleb Martin",
           "position": "F",
           "status": "Day-To-Day",
@@ -191,9 +198,23 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Brandin Podziemski",
+          "position": "G",
+          "status": "Out",
+          "detail": "Back — Podziemski (back) told reporters Friday that he will not play in the second leg of the Warriors' back-to-back set Saturday against the Suns, Nick Friedell of The Athletic reports.",
+          "returnDate": "2026-10-26"
+        },
+        {
+          "name": "Stephen Curry",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Curry told reporters after Friday's loss to the Grizzlies that he will \"probably not\" play against the Suns on Saturday, Nick Friedell of The Athletic reports.",
+          "returnDate": "2026-10-24"
+        },
+        {
           "name": "Charles Bassey",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Bassey (knee) is out for Friday's game versus the Grizzlies.",
           "returnDate": "2026-10-24"
         },
@@ -224,9 +245,23 @@
       "name": "Houston Rockets",
       "players": [
         {
+          "name": "Fred VanVleet",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — VanVleet closed with six points (2-8 FG, 2-6 3Pt), two rebounds, 11 assists, one block and three steals in 30 minutes during Wednesday's 128-110 win over the Mavericks.",
+          "returnDate": "2026-10-24"
+        },
+        {
+          "name": "Steven Adams",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Adams (calf) is available for Friday's game against San Antonio.",
+          "returnDate": "2026-10-24"
+        },
+        {
           "name": "Reed Sheppard",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Sheppard (knee) is out for Friday's game in San Antonio.",
           "returnDate": "2026-10-24"
         }
@@ -302,23 +337,23 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Jake LaRavia",
+          "name": "Adou Thiero",
           "position": "F",
-          "status": "Out",
-          "detail": "Ankle — LaRavia (ankle) has been ruled out for Friday's game against the Clippers, Mark Medina of TheSportingTribune.com reports.",
+          "status": "Day-To-Day",
+          "detail": "Knee — Thiero (knee) is out for Friday's game against the Clippers.",
           "returnDate": "2026-10-25"
         },
         {
-          "name": "Adou Thiero",
+          "name": "Jake LaRavia",
           "position": "F",
-          "status": "Out",
-          "detail": "Knee — Thiero (knee) is out for Friday's game against the Clippers.",
+          "status": "Day-To-Day",
+          "detail": "Ankle — LaRavia (ankle) has been ruled out for Friday's game against the Clippers, Mark Medina of TheSportingTribune.com reports.",
           "returnDate": "2026-10-25"
         },
         {
           "name": "Cameron Carr",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Oblique — Carr (oblique) is out for Friday's game against the Clippers.",
           "returnDate": "2026-10-25"
         }
@@ -330,7 +365,7 @@
         {
           "name": "Cedric Coward",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Wrist — Coward (wrist) has been ruled out for Friday's game against the Warriors.",
           "returnDate": "2026-10-25"
         }
@@ -496,17 +531,17 @@
       "name": "Portland Trail Blazers",
       "players": [
         {
-          "name": "Branden Carlson",
-          "position": "C",
-          "status": "Out",
-          "detail": "Concussion — Carlson (concussion) has been ruled out for Friday's game against Sacramento.",
+          "name": "Chris Youngblood",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Youngblood (ankle) is out for Friday's game against the Kings.",
           "returnDate": "2026-10-27"
         },
         {
-          "name": "Chris Youngblood",
-          "position": "G",
-          "status": "Out",
-          "detail": "Ankle — Youngblood (ankle) is out for Friday's game against the Kings.",
+          "name": "Branden Carlson",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Concussion — Carlson (concussion) has been ruled out for Friday's game against Sacramento.",
           "returnDate": "2026-10-27"
         },
         {
@@ -550,7 +585,7 @@
         {
           "name": "Tobias Harris",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Calf — Harris (calf) is out for Friday's game against the Rockets.",
           "returnDate": "2026-10-24"
         },
@@ -581,7 +616,7 @@
         {
           "name": "Trey Alexander",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
           "returnDate": "2026-10-25"
         },
@@ -695,5 +730,5 @@
       "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1792842278949
+  "fetchedAt": 1792854424814
 }
