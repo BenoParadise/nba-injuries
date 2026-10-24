@@ -80,11 +80,18 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Patrick Williams",
+          "position": "F",
+          "status": "Out",
+          "detail": "Groin — Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athletic reports.",
+          "returnDate": "2026-10-26"
+        },
+        {
           "name": "Noa Essengue",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Head — Essengue (head) is probable for Saturday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
-          "returnDate": "2026-10-24"
+          "status": "Out",
+          "detail": "Head — Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
+          "returnDate": "2026-10-26"
         },
         {
           "name": "Nic Claxton",
@@ -99,18 +106,11 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "Zaccharie Risacher",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hip — Risacher is questionable for Saturday's game against the Spurs due to right hip soreness.",
-          "returnDate": "2026-10-24"
-        },
-        {
-          "name": "Morez Johnson Jr.",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Lower Leg — Johnson (shin) is listed as questionable for Saturday's game against the Spurs.",
-          "returnDate": "2026-10-24"
+          "name": "Kyrie Irving",
+          "position": "G",
+          "status": "Out",
+          "detail": "Knee — Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The Athletic reports.",
+          "returnDate": "2026-10-26"
         },
         {
           "name": "Caleb Martin",
@@ -118,27 +118,6 @@
           "status": "Out",
           "detail": "Thumb — Martin (thumb) has been ruled out against San Antonio on Saturday.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Jett Howard",
-          "position": "G",
-          "status": "Out",
-          "detail": "Calf — Howard (calf) is listed as doubtful against the Spurs on Saturday.",
-          "returnDate": "2026-10-24"
-        },
-        {
-          "name": "Kyrie Irving",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Irving (knee) is listed as questionable for Saturday's game against San Antonio.",
-          "returnDate": "2026-10-24"
-        },
-        {
-          "name": "Max Christie",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Leg — Christie (shin) is questionable for Saturday's game against the Spurs.",
-          "returnDate": "2026-10-24"
         },
         {
           "name": "Tarik Biberovic",
@@ -289,9 +268,9 @@
         {
           "name": "Marcus Smart",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Forearm — Smart (forearm) is listed as questionable for Saturday's game against the Hawks.",
-          "returnDate": "2026-10-24"
+          "status": "Out",
+          "detail": "Forearm — Smart (forearm) has been ruled out for Saturday's game against the Hawks, Varun Shankar of the Houston Chronicle reports.",
+          "returnDate": "2026-10-26"
         },
         {
           "name": "Steven Adams",
@@ -299,13 +278,6 @@
           "status": "Out",
           "detail": "Ankle — Adams (ankle) has been ruled out for Saturday's game against the Hawks.",
           "returnDate": "2026-10-26"
-        },
-        {
-          "name": "Reed Sheppard",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Sheppard (knee) is listed as questionable for Saturday's game against the Hawks.",
-          "returnDate": "2026-10-24"
         },
         {
           "name": "Fred VanVleet",
@@ -323,8 +295,8 @@
           "name": "Aaron Nesmith",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Nesmith is not starting Friday against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports.",
-          "returnDate": "2026-10-26"
+          "detail": "Hamstring — Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn.",
+          "returnDate": "2026-10-25"
         },
         {
           "name": "T.J. McConnell",
@@ -395,23 +367,16 @@
         {
           "name": "Adou Thiero",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Thiero (knee) is out for Friday's game against the Clippers.",
-          "returnDate": "2026-10-25"
-        },
-        {
-          "name": "Jake LaRavia",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — LaRavia (ankle) has been ruled out for Friday's game against the Clippers, Mark Medina of TheSportingTribune.com reports.",
-          "returnDate": "2026-10-25"
+          "status": "Out",
+          "detail": "Knee — Thiero (knee) has been ruled out for Sunday's game against Utah, Khobi Price of The California Post reports.",
+          "returnDate": "2026-10-27"
         },
         {
           "name": "Cameron Carr",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Oblique — Carr (oblique) is out for Friday's game against the Clippers.",
-          "returnDate": "2026-10-25"
+          "status": "Out",
+          "detail": "Oblique — Carr (oblique) is out for Sunday's game in Utah, Khobi Price of The California Post reports.",
+          "returnDate": "2026-10-27"
         }
       ]
     },
@@ -424,18 +389,6 @@
           "status": "Day-To-Day",
           "detail": "Wrist — Coward (wrist) has been ruled out for Friday's game against the Warriors.",
           "returnDate": "2026-10-25"
-        }
-      ]
-    },
-    {
-      "name": "Miami Heat",
-      "players": [
-        {
-          "name": "Pelle Larsson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Finger — Larsson (finger) is listed as probable for Saturday's game against Charlotte.",
-          "returnDate": "2026-10-24"
         }
       ]
     },
@@ -458,8 +411,20 @@
           "name": "Yves Missi",
           "position": "C",
           "status": "Out",
-          "detail": "Knee — Missi (knee) has been ruled out for Saturday's game against the Nuggets.",
-          "returnDate": "2026-10-28"
+          "detail": "Knee — Missi has been diagnosed with a left knee bone bruise and he will miss an extended period of time, Brett Siegel of ClutchPoints.com reports.",
+          "returnDate": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "name": "New York Knicks",
+      "players": [
+        {
+          "name": "Jose Alvarado",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Alvarado is questionable for Sunday's game against Orlando due to a left ankle sprain.",
+          "returnDate": "2026-10-25"
         }
       ]
     },
@@ -545,13 +510,6 @@
           "status": "Out",
           "detail": "Quadriceps — Fall (quadriceps) is out for Saturday's game against the Bucks.",
           "returnDate": "2026-10-25"
-        },
-        {
-          "name": "Dean Wade",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Wade is listed as questionable for Saturday's game against the Bucks due to a left ankle sprain.",
-          "returnDate": "2026-10-24"
         },
         {
           "name": "Dominick Barlow",
@@ -684,9 +642,9 @@
         {
           "name": "Trey Alexander",
           "position": "G",
-          "status": "Day-To-Day",
+          "status": "Out",
           "detail": "Knee — Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
-          "returnDate": "2026-10-25"
+          "returnDate": "2026-10-26"
         },
         {
           "name": "Jusuf Nurkic",
@@ -727,19 +685,19 @@
   "games": [
     {
       "date": "2026-10-24T22:00Z",
-      "status": "10/24 - 6:00 PM EDT",
+      "status": "1:17 - 3rd",
       "home": "Charlotte Hornets",
       "away": "Miami Heat"
     },
     {
       "date": "2026-10-24T23:30Z",
-      "status": "10/24 - 7:30 PM EDT",
+      "status": "6:44 - 1st",
       "home": "Cleveland Cavaliers",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-10-24T23:30Z",
-      "status": "10/24 - 7:30 PM EDT",
+      "status": "5:51 - 1st",
       "home": "Philadelphia 76ers",
       "away": "Milwaukee Bucks"
     },
@@ -774,5 +732,5 @@
       "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1792876825459
+  "fetchedAt": 1792885978103
 }
