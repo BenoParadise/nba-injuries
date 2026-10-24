@@ -49,21 +49,21 @@
         {
           "name": "Grant Williams",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Hamstring — Williams (hamstring) is out for Friday's game against the Hawks.",
           "returnDate": "2026-10-24"
         },
         {
           "name": "Coby White",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Calf — White (calf) is out for Friday's game against the Hawks.",
           "returnDate": "2026-10-24"
         },
         {
           "name": "Kon Knueppel",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Hamstring — Knueppel (hamstring) is out for Friday's game against the Hawks.",
           "returnDate": "2026-10-24"
         },
@@ -92,39 +92,39 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "Cooper Flagg",
+          "name": "Caleb Martin",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Shoulder — Flagg won't return to Friday's game against the Pacers due to left shoulder soreness, Brett Siegel of ClutchPoints.com reports.",
+          "detail": "Thumb — Martin (thumb) has been ruled out for Fridays' game against the Pacers.",
           "returnDate": "2026-10-24"
         },
         {
           "name": "Jett Howard",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Calf — Howard (calf) is out for Friday's game in Indiana.",
-          "returnDate": "2026-10-24"
-        },
-        {
-          "name": "Caleb Martin",
-          "position": "F",
-          "status": "Out",
-          "detail": "Thumb — Martin (thumb) has been ruled out for Fridays' game against the Pacers.",
-          "returnDate": "2026-10-24"
-        },
-        {
-          "name": "Santi Aldama",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Aldama (knee) has been ruled out for Friday's game against the Pacers.",
           "returnDate": "2026-10-24"
         },
         {
           "name": "Tarik Biberovic",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Heel — Biberovic (heel) is out for Friday's game against Indiana.",
           "returnDate": "2026-10-24"
+        },
+        {
+          "name": "Santi Aldama",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Aldama (knee) has been ruled out for Friday's game against the Pacers.",
+          "returnDate": "2026-10-24"
+        },
+        {
+          "name": "Cooper Flagg",
+          "position": "F",
+          "status": "Out",
+          "detail": "Shoulder — Head coach Dusty May said Flagg (shoulder) will be evaluated in the next couple of days, Mike Curtis of The Dallas Morning News reports.",
+          "returnDate": "2026-10-26"
         },
         {
           "name": "Dereck Lively II",
@@ -172,11 +172,18 @@
       "name": "Detroit Pistons",
       "players": [
         {
+          "name": "Ausar Thompson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Thompson exited Friday's game with an undisclosed injury and did not return, finishing with four points (2-5 FG, 0-1 3Pt), three rebounds, four assists, one steal, one block and three turnovers across 19 minutes in a 128-111 win over the Heat.",
+          "returnDate": "2026-10-25"
+        },
+        {
           "name": "Jalen Duren",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Knee — Duren exited to the locker room in the second quarter of Friday's game against the Heat due to an apparent right knee injury, Omari Sankofa II of the Detroit Free Press reports.",
-          "returnDate": "2026-10-23"
+          "detail": "Thigh — Duren (thigh) exited Friday's 128-111 win over the Heat in the second quarter and did not return, finishing with four points (2-4 FG), six rebounds, three assists, one steal and one block across 10 minutes.",
+          "returnDate": "2026-10-25"
         }
       ]
     },
@@ -229,18 +236,18 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "T.J. McConnell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — McConnell (hamstring) is out for Friday's game against Dallas.",
+          "returnDate": "2026-10-25"
+        },
+        {
           "name": "Ben Sheppard",
           "position": "G",
           "status": "Out",
           "detail": "Knee — Sheppard has been diagnosed with a torn meniscus in his left knee and is without a timetable for a return to game action, Scott Agness of FieldhouseFiles.com reports.",
           "returnDate": "2026-12-01"
-        },
-        {
-          "name": "T.J. McConnell",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — McConnell (hamstring) is out for Friday's game against Dallas.",
-          "returnDate": "2026-10-25"
         },
         {
           "name": "Johnny Furphy",
@@ -323,16 +330,9 @@
         {
           "name": "Cedric Coward",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Coward is doubtful for Friday's game against the Warriors due to a left wrist sprain.",
-          "returnDate": "2026-10-23"
-        },
-        {
-          "name": "Isaiah Stewart",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Stewart (ankle) is questionable for Friday's game against the Warriors.",
-          "returnDate": "2026-10-23"
+          "status": "Out",
+          "detail": "Wrist — Coward (wrist) has been ruled out for Friday's game against the Warriors.",
+          "returnDate": "2026-10-25"
         }
       ]
     },
@@ -345,6 +345,18 @@
           "status": "Out",
           "detail": "Achilles — DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
           "returnDate": "2027-04-02"
+        }
+      ]
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "players": [
+        {
+          "name": "Yves Missi",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Missi won't return to Friday's game against the Jazz due to a left knee injury.",
+          "returnDate": "2026-10-24"
         }
       ]
     },
@@ -378,17 +390,24 @@
       "name": "Orlando Magic",
       "players": [
         {
+          "name": "Jonathan Isaac",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Isaac (knee) is out for Friday's game against Minnesota.",
+          "returnDate": "2026-10-25"
+        },
+        {
           "name": "Anthony Black",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Black (ankle) has been ruled out for Friday's game against Minnesota but participated in shootaround and has experienced no setbacks in his recovery, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-10-25"
         },
         {
-          "name": "Jonathan Isaac",
+          "name": "Paolo Banchero",
           "position": "F",
-          "status": "Out",
-          "detail": "Knee — Isaac (knee) is out for Friday's game against Minnesota.",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Banchero didn't check back in during the fourth quarter of Friday's 115-93 loss to the Timberwolves after being deemed doubtful to return. He finished with 14 points (5-11 FG, 0-2 3Pt, 2-4 FT), six rebounds, five assists and one steal across 26 minutes.",
           "returnDate": "2026-10-25"
         },
         {
@@ -581,7 +600,7 @@
         {
           "name": "AJ Dybantsa",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Dybantsa (ankle) is out for Friday's game against the Raptors, Josh Robbins of The Athletic reports.",
           "returnDate": "2026-10-24"
         },
@@ -611,70 +630,70 @@
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "10:04 - 4th",
+      "status": "Final",
       "home": "Boston Celtics",
       "away": "New York Knicks"
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "5:07 - 4th",
+      "status": "Final",
       "home": "Charlotte Hornets",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "10:36 - 4th",
+      "status": "Final",
       "home": "Indiana Pacers",
       "away": "Dallas Mavericks"
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "5:43 - 4th",
+      "status": "Final",
       "home": "Orlando Magic",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-10-23T23:00Z",
-      "status": "7:29 - 4th",
+      "status": "Final",
       "home": "Washington Wizards",
       "away": "Toronto Raptors"
     },
     {
       "date": "2026-10-24T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "Detroit Pistons"
     },
     {
       "date": "2026-10-24T01:30Z",
-      "status": "10/23 - 9:30 PM EDT",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "Houston Rockets"
     },
     {
       "date": "2026-10-24T01:30Z",
-      "status": "10/23 - 9:30 PM EDT",
+      "status": "Final",
       "home": "Utah Jazz",
       "away": "New Orleans Pelicans"
     },
     {
       "date": "2026-10-24T02:00Z",
-      "status": "10/23 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Golden State Warriors",
       "away": "Memphis Grizzlies"
     },
     {
       "date": "2026-10-24T02:00Z",
-      "status": "10/23 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "LA Clippers"
     },
     {
       "date": "2026-10-24T02:00Z",
-      "status": "10/23 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1792804576003
+  "fetchedAt": 1792824145440
 }
