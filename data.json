@@ -38,7 +38,7 @@
           "name": "Mikel Brown Jr.",
           "position": "G",
           "status": "Out",
-          "detail": "Rest — Nets coach Jordi Fernandez said Brown will continue to have restrictions going forward, C.J. Holmes of the New York Daily News reports.",
+          "detail": "Rest — Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the Pacers, Brian Lewis of the New York Post reports.",
           "returnDate": "2026-10-27"
         },
         {
@@ -211,6 +211,13 @@
     {
       "name": "Golden State Warriors",
       "players": [
+        {
+          "name": "Gui Santos",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Santos exited Saturday's 131-122 loss to the Suns with an undisclosed injury and did not return, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-10-26"
+        },
         {
           "name": "Draymond Green",
           "position": "F",
@@ -724,34 +731,34 @@
     },
     {
       "date": "2026-10-25T00:00Z",
-      "status": "1:54 - 4th",
+      "status": "Final",
       "home": "Chicago Bulls",
       "away": "Washington Wizards"
     },
     {
       "date": "2026-10-25T00:00Z",
-      "status": "End of 4th",
+      "status": "Final",
       "home": "Dallas Mavericks",
       "away": "San Antonio Spurs"
     },
     {
       "date": "2026-10-25T00:30Z",
-      "status": "11:02 - 4th",
+      "status": "Final",
       "home": "Atlanta Hawks",
       "away": "Houston Rockets"
     },
     {
       "date": "2026-10-25T01:00Z",
-      "status": "9:20 - 3rd",
+      "status": "Final/OT",
       "home": "Denver Nuggets",
       "away": "New Orleans Pelicans"
     },
     {
       "date": "2026-10-25T02:00Z",
-      "status": "4:44 - 1st",
+      "status": "Final",
       "home": "Phoenix Suns",
       "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1792895395175
+  "fetchedAt": 1792915044357
 }
