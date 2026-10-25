@@ -35,18 +35,18 @@
       "name": "Brooklyn Nets",
       "players": [
         {
+          "name": "Tyler Bilodeau",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland.",
+          "returnDate": "2026-10-25"
+        },
+        {
           "name": "Mikel Brown Jr.",
           "position": "G",
           "status": "Out",
           "detail": "Rest — Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the Pacers, Brian Lewis of the New York Post reports.",
           "returnDate": "2026-10-27"
-        },
-        {
-          "name": "Tyler Bilodeau",
-          "position": "F",
-          "status": "Out",
-          "detail": "Shoulder — Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland.",
-          "returnDate": "2026-10-25"
         }
       ]
     },
@@ -89,14 +89,14 @@
         {
           "name": "Patrick Williams",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Groin — Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athletic reports.",
           "returnDate": "2026-10-26"
         },
         {
           "name": "Noa Essengue",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Head — Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
           "returnDate": "2026-10-26"
         },
@@ -115,7 +115,7 @@
         {
           "name": "Kyrie Irving",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The Athletic reports.",
           "returnDate": "2026-10-26"
         },
@@ -160,24 +160,24 @@
       "name": "Denver Nuggets",
       "players": [
         {
-          "name": "Alpha Diallo",
+          "name": "Spencer Jones",
           "position": "F",
-          "status": "Out",
-          "detail": "Wrist — Diallo (wrist) won't play Saturday against the Pelicans.",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Jones (hamstring) is out for Saturday's game against the Pelicans.",
           "returnDate": "2026-10-26"
         },
         {
           "name": "Cameron Johnson",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Head coach David Aldeman said that Johnson is \"day-to-day\" due to his sprained right ankle, Vinny Benedetto of The Denver Gazette reports.",
           "returnDate": "2026-10-26"
         },
         {
-          "name": "Spencer Jones",
+          "name": "Alpha Diallo",
           "position": "F",
-          "status": "Out",
-          "detail": "Hamstring — Jones (hamstring) is out for Saturday's game against the Pelicans.",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Diallo (wrist) won't play Saturday against the Pelicans.",
           "returnDate": "2026-10-26"
         },
         {
@@ -196,15 +196,15 @@
           "name": "Ausar Thompson",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Thompson (ankle) is listed as questionable for Sunday's game against Philadelphia.",
+          "detail": "Ankle — Thompson (ankle) did not participate in Sunday morning's shootaround, Coty M. Davis of The Detroit News reports.",
           "returnDate": "2026-10-25"
         },
         {
           "name": "Jalen Duren",
           "position": "C",
           "status": "Out",
-          "detail": "Hamstring — Duren has been ruled out for Sunday's game against the 76ers due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
-          "returnDate": "2026-10-27"
+          "detail": "Hamstring — Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
+          "returnDate": "2026-11-09"
         }
       ]
     },
@@ -212,38 +212,38 @@
       "name": "Golden State Warriors",
       "players": [
         {
-          "name": "Gui Santos",
-          "position": "F",
+          "name": "Brandin Podziemski",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Santos exited Saturday's 131-122 loss to the Suns with an undisclosed injury and did not return, Anthony Slater of ESPN.com reports.",
-          "returnDate": "2026-10-26"
-        },
-        {
-          "name": "Draymond Green",
-          "position": "F",
-          "status": "Out",
-          "detail": "Back — Green (back) won't play Saturday in Phoenix.",
+          "detail": "Back — Podziemski (back) told reporters Friday that he will not play in the second leg of the Warriors' back-to-back set Saturday against the Suns, Nick Friedell of The Athletic reports.",
           "returnDate": "2026-10-26"
         },
         {
           "name": "Al Horford",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Back — Horford (back) has been ruled out for Saturday's game against the Suns.",
+          "returnDate": "2026-10-26"
+        },
+        {
+          "name": "Draymond Green",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Green (back) won't play Saturday in Phoenix.",
           "returnDate": "2026-10-26"
         },
         {
           "name": "Stephen Curry",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Rest — Curry (rest) won't play Saturday against the Suns.",
           "returnDate": "2026-10-26"
         },
         {
-          "name": "Brandin Podziemski",
-          "position": "G",
-          "status": "Out",
-          "detail": "Back — Podziemski (back) told reporters Friday that he will not play in the second leg of the Warriors' back-to-back set Saturday against the Suns, Nick Friedell of The Athletic reports.",
+          "name": "Gui Santos",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Santos exited Saturday's 131-122 loss to the Suns with an undisclosed injury and did not return, Anthony Slater of ESPN.com reports.",
           "returnDate": "2026-10-26"
         },
         {
@@ -273,24 +273,24 @@
       "name": "Houston Rockets",
       "players": [
         {
+          "name": "Fred VanVleet",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — VanVleet (knee) has been ruled out for Saturday's game against the Hawks.",
+          "returnDate": "2026-10-26"
+        },
+        {
           "name": "Marcus Smart",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Forearm — Smart (forearm) has been ruled out for Saturday's game against the Hawks, Varun Shankar of the Houston Chronicle reports.",
           "returnDate": "2026-10-26"
         },
         {
           "name": "Steven Adams",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Adams (ankle) has been ruled out for Saturday's game against the Hawks.",
-          "returnDate": "2026-10-26"
-        },
-        {
-          "name": "Fred VanVleet",
-          "position": "G",
-          "status": "Out",
-          "detail": "Knee — VanVleet (knee) has been ruled out for Saturday's game against the Hawks.",
           "returnDate": "2026-10-26"
         }
       ]
@@ -512,6 +512,13 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "LeBron James",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of PhillyVoice.com reports.",
+          "returnDate": "2026-10-25"
+        },
+        {
           "name": "Joel Embiid",
           "position": "C",
           "status": "Day-To-Day",
@@ -523,13 +530,6 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Knee — Walker (ankle) exited Saturday's 127-116 win over the Bucks in the third quarter and did not return, finishing with six points (2-3 FG, 2-3 FT), three rebounds, one assist and one steal across 12 minutes.",
-          "returnDate": "2026-10-25"
-        },
-        {
-          "name": "LeBron James",
-          "position": "F",
-          "status": "Out",
-          "detail": "Back — James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of PhillyVoice.com reports.",
           "returnDate": "2026-10-25"
         },
         {
@@ -561,7 +561,7 @@
         {
           "name": "Oso Ighodaro",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Oblique — Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports.",
           "returnDate": "2026-10-26"
         },
@@ -712,53 +712,47 @@
   ],
   "games": [
     {
-      "date": "2026-10-24T22:00Z",
-      "status": "Final",
-      "home": "Charlotte Hornets",
-      "away": "Miami Heat"
+      "date": "2026-10-25T21:00Z",
+      "status": "10/25 - 5:00 PM EDT",
+      "home": "Utah Jazz",
+      "away": "Los Angeles Lakers"
     },
     {
-      "date": "2026-10-24T23:30Z",
-      "status": "Final",
-      "home": "Cleveland Cavaliers",
-      "away": "Brooklyn Nets"
+      "date": "2026-10-25T22:00Z",
+      "status": "10/25 - 6:00 PM EDT",
+      "home": "Brooklyn Nets",
+      "away": "Indiana Pacers"
     },
     {
-      "date": "2026-10-24T23:30Z",
-      "status": "Final",
+      "date": "2026-10-25T23:00Z",
+      "status": "10/25 - 7:00 PM EDT",
+      "home": "New York Knicks",
+      "away": "Orlando Magic"
+    },
+    {
+      "date": "2026-10-25T23:00Z",
+      "status": "10/25 - 7:00 PM EDT",
+      "home": "Minnesota Timberwolves",
+      "away": "Toronto Raptors"
+    },
+    {
+      "date": "2026-10-25T23:00Z",
+      "status": "10/25 - 7:00 PM EDT",
+      "home": "Oklahoma City Thunder",
+      "away": "LA Clippers"
+    },
+    {
+      "date": "2026-10-25T23:30Z",
+      "status": "10/25 - 7:30 PM EDT",
       "home": "Philadelphia 76ers",
-      "away": "Milwaukee Bucks"
+      "away": "Detroit Pistons"
     },
     {
-      "date": "2026-10-25T00:00Z",
-      "status": "Final",
-      "home": "Chicago Bulls",
-      "away": "Washington Wizards"
-    },
-    {
-      "date": "2026-10-25T00:00Z",
-      "status": "Final",
-      "home": "Dallas Mavericks",
-      "away": "San Antonio Spurs"
-    },
-    {
-      "date": "2026-10-25T00:30Z",
-      "status": "Final",
-      "home": "Atlanta Hawks",
-      "away": "Houston Rockets"
-    },
-    {
-      "date": "2026-10-25T01:00Z",
-      "status": "Final/OT",
-      "home": "Denver Nuggets",
-      "away": "New Orleans Pelicans"
-    },
-    {
-      "date": "2026-10-25T02:00Z",
-      "status": "Final",
-      "home": "Phoenix Suns",
-      "away": "Golden State Warriors"
+      "date": "2026-10-26T01:00Z",
+      "status": "10/25 - 9:00 PM EDT",
+      "home": "Sacramento Kings",
+      "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1792933025355
+  "fetchedAt": 1792947453788
 }
