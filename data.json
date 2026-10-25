@@ -37,9 +37,9 @@
         {
           "name": "Tyler Bilodeau",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland.",
-          "returnDate": "2026-10-25"
+          "status": "Out",
+          "detail": "Shoulder — Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
+          "returnDate": "2026-10-27"
         },
         {
           "name": "Mikel Brown Jr.",
@@ -90,14 +90,14 @@
           "name": "Patrick Williams",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Groin — Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athletic reports.",
+          "detail": "Groin — Williams (groin) is listed as questionable for Monday's game against Boston.",
           "returnDate": "2026-10-26"
         },
         {
           "name": "Noa Essengue",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Head — Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
+          "detail": "Head — Essengue (head) is listed as questionable for Monday's game against Boston.",
           "returnDate": "2026-10-26"
         },
         {
@@ -512,32 +512,25 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "LeBron James",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of PhillyVoice.com reports.",
-          "returnDate": "2026-10-25"
-        },
-        {
-          "name": "Joel Embiid",
+          "name": "Tacko Fall",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Embiid produced 28 points (8-20 FG, 0-3 3Pt, 12-14 FT), 11 rebounds, 10 assists, one steal and four turnovers across 36 minutes in Saturday's 127-116 win over the Bucks.",
-          "returnDate": "2026-10-25"
+          "status": "Out",
+          "detail": "Quadriceps — Fall (quadriceps) has been ruled out for Sunday's game against Detroit.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Jabari Walker",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Walker (ankle) exited Saturday's 127-116 win over the Bucks in the third quarter and did not return, finishing with six points (2-3 FG, 2-3 FT), three rebounds, one assist and one steal across 12 minutes.",
-          "returnDate": "2026-10-25"
+          "status": "Out",
+          "detail": "Knee — Walker has been ruled out for Sunday's game against the Pistons due to left knee soreness.",
+          "returnDate": "2026-10-28"
         },
         {
-          "name": "Tacko Fall",
+          "name": "Joel Embiid",
           "position": "C",
           "status": "Out",
-          "detail": "Quadriceps — Fall (quadriceps) is out for Saturday's game against the Bucks.",
-          "returnDate": "2026-10-25"
+          "detail": "Heel — Embiid has been ruled out for Sunday's game against Detroit due to right plantar fasciitis management.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Dominick Barlow",
@@ -607,7 +600,7 @@
           "name": "Keegan Murray",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Murray is questionable to play Sunday against the Grizzlies due to left ankle capsulitis.",
+          "detail": "Ankle — Murray (ankle) has been downgraded to doubtful for Sunday's game against Memphis.",
           "returnDate": "2026-10-25"
         },
         {
@@ -754,5 +747,5 @@
       "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1792947453788
+  "fetchedAt": 1792956409714
 }
