@@ -196,8 +196,8 @@
           "name": "Isaiah Joe",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Lower Body — Joe went back to the locker room due to an apparent tailbone injury, Hunter Patterson of The Athletic reports.",
-          "returnDate": "2026-10-25"
+          "detail": "Hip — Joe (hip) will not return to Sunday's game against the 76ers, Hunter Patterson of The Athletic reports.",
+          "returnDate": "2026-10-27"
         },
         {
           "name": "Ausar Thompson",
@@ -288,7 +288,7 @@
           "name": "Ivica Zubac",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Zubac (ankle) will not return to Sunday's game against the Nets.",
+          "detail": "Ankle — Head coach Rick Carlisle said that X-rays on Zubac's sprained left ankle came back negative, but he's got some swelling and is unlikely to play Monday in Milwaukee, Scott Agness of FieldhouseFiles.com reports.",
           "returnDate": "2026-10-26"
         },
         {
@@ -432,9 +432,16 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Jalen Williams",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Williams was stretchered off the floor during Sunday's game against the Clippers due to an apparent left ankle injury, NBA writer Justin Russo reports.",
+          "returnDate": "2026-11-02"
+        },
+        {
           "name": "Jaylin Williams",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Wrist — Williams won't return to Sunday's game against the Clippers due to right wrist soreness, Nick Crain of SLAM reports.",
           "returnDate": "2026-10-26"
         },
@@ -471,6 +478,13 @@
     {
       "name": "Orlando Magic",
       "players": [
+        {
+          "name": "Jalen Suggs",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Suggs (knee) did not return to Sunday's game against the Knicks.",
+          "returnDate": "2026-10-28"
+        },
         {
           "name": "Jonathan Isaac",
           "position": "F",
@@ -725,34 +739,34 @@
     },
     {
       "date": "2026-10-25T23:00Z",
-      "status": "11:57 - 4th",
+      "status": "Final",
       "home": "New York Knicks",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-10-25T23:00Z",
-      "status": "3:53 - 3rd",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Toronto Raptors"
     },
     {
       "date": "2026-10-25T23:00Z",
-      "status": "7:26 - 4th",
+      "status": "Final",
       "home": "Oklahoma City Thunder",
       "away": "LA Clippers"
     },
     {
       "date": "2026-10-25T23:30Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Philadelphia 76ers",
       "away": "Detroit Pistons"
     },
     {
       "date": "2026-10-26T01:00Z",
-      "status": "10/25 - 9:00 PM EDT",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1792976009408
+  "fetchedAt": 1792993106233
 }
