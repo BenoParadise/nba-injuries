@@ -160,25 +160,25 @@
       "name": "Denver Nuggets",
       "players": [
         {
-          "name": "Spencer Jones",
+          "name": "Alpha Diallo",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Jones (hamstring) is out for Saturday's game against the Pelicans.",
+          "detail": "Wrist — Diallo (wrist) is doubtful for Monday's game against the Warriors.",
           "returnDate": "2026-10-26"
         },
         {
           "name": "Cameron Johnson",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Head coach David Aldeman said that Johnson is \"day-to-day\" due to his sprained right ankle, Vinny Benedetto of The Denver Gazette reports.",
+          "detail": "Ankle — Johnson (ankle) is doubtful to play Monday against the Warriors.",
           "returnDate": "2026-10-26"
         },
         {
-          "name": "Alpha Diallo",
+          "name": "Spencer Jones",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Diallo (wrist) won't play Saturday against the Pelicans.",
-          "returnDate": "2026-10-26"
+          "status": "Out",
+          "detail": "Hamstring — Jones (hamstring) is out for Monday's matchup with the Warriors.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Julian Strawther",
@@ -193,10 +193,17 @@
       "name": "Detroit Pistons",
       "players": [
         {
+          "name": "Isaiah Joe",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Lower Body — Joe went back to the locker room due to an apparent tailbone injury, Hunter Patterson of The Athletic reports.",
+          "returnDate": "2026-10-25"
+        },
+        {
           "name": "Ausar Thompson",
           "position": "G",
           "status": "Out",
-          "detail": "Ankle — Thompson (ankle) did not participate in Sunday morning's shootaround, Coty M. Davis of The Detroit News reports.",
+          "detail": "Ankle — Thompson (ankle) is out for Sunday's game against the 76ers, Hunter Patterson of The Athletic reports.",
           "returnDate": "2026-10-27"
         },
         {
@@ -277,6 +284,13 @@
     {
       "name": "Indiana Pacers",
       "players": [
+        {
+          "name": "Ivica Zubac",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Zubac (ankle) will not return to Sunday's game against the Nets.",
+          "returnDate": "2026-10-26"
+        },
         {
           "name": "T.J. McConnell",
           "position": "G",
@@ -365,16 +379,9 @@
         {
           "name": "Karim Lopez",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Lopez (knee) is listed as questionable for Sunday's game against the Kings.",
-          "returnDate": "2026-10-25"
-        },
-        {
-          "name": "Cedric Coward",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Coward (wrist) is questionable for Sunday's game in Sacramento.",
-          "returnDate": "2026-10-25"
+          "status": "Out",
+          "detail": "Knee — Lopez (knee) is out for Sunday's game in Sacramento.",
+          "returnDate": "2026-10-26"
         },
         {
           "name": "Zach Edey",
@@ -424,6 +431,20 @@
     {
       "name": "Oklahoma City Thunder",
       "players": [
+        {
+          "name": "Jaylin Williams",
+          "position": "F",
+          "status": "Out",
+          "detail": "Wrist — Williams won't return to Sunday's game against the Clippers due to right wrist soreness, Nick Crain of SLAM reports.",
+          "returnDate": "2026-10-26"
+        },
+        {
+          "name": "Cason Wallace",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Wallace (shoulder) will not return to Sunday's game against the Clippers, Rylan Stiles of SI.com  reports.",
+          "returnDate": "2026-10-26"
+        },
         {
           "name": "Otega Oweh",
           "position": "G",
@@ -486,9 +507,9 @@
         {
           "name": "VJ Edgecombe",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Abdomen — Edgecombe has been downgraded to questionable ahead of Sunday's game against the Pistons due to an abdominal contusion.",
-          "returnDate": "2026-10-25"
+          "status": "Out",
+          "detail": "Abdomen — Edgecombe (abdomen) is out for Sunday's game against the Pistons, Adam Aaronson of PhillyVoice.com reports.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Tacko Fall",
@@ -534,7 +555,7 @@
           "name": "Oso Ighodaro",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Oblique — Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports.",
+          "detail": "Oblique — Ighodaro (oblique) is doubtful for Monday's matchup with the Thunder, Duane Rankin of The Arizona Republic reports.",
           "returnDate": "2026-10-26"
         },
         {
@@ -578,9 +599,9 @@
         {
           "name": "Keegan Murray",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Murray (ankle) has been downgraded to doubtful for Sunday's game against Memphis.",
-          "returnDate": "2026-10-25"
+          "status": "Out",
+          "detail": "Ankle — Murray (ankle) has been ruled out for Sunday's game against the Grizzlies.",
+          "returnDate": "2026-10-27"
         },
         {
           "name": "Ben Simmons",
@@ -627,6 +648,13 @@
     {
       "name": "Toronto Raptors",
       "players": [
+        {
+          "name": "Kawhi Leonard",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — Leonard is out for Sunday's game against the Timberwolves due to left knee swelling, Blake Murphy of Sportsnet.ca reports.",
+          "returnDate": "2026-10-28"
+        },
         {
           "name": "Nate Bittle",
           "position": "C",
@@ -685,37 +713,37 @@
   "games": [
     {
       "date": "2026-10-25T21:00Z",
-      "status": "1:55 - 2nd",
+      "status": "Final",
       "home": "Utah Jazz",
       "away": "Los Angeles Lakers"
     },
     {
       "date": "2026-10-25T22:00Z",
-      "status": "11:32 - 1st",
+      "status": "Final",
       "home": "Brooklyn Nets",
       "away": "Indiana Pacers"
     },
     {
       "date": "2026-10-25T23:00Z",
-      "status": "10/25 - 7:00 PM EDT",
+      "status": "11:57 - 4th",
       "home": "New York Knicks",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-10-25T23:00Z",
-      "status": "10/25 - 7:00 PM EDT",
+      "status": "3:53 - 3rd",
       "home": "Minnesota Timberwolves",
       "away": "Toronto Raptors"
     },
     {
       "date": "2026-10-25T23:00Z",
-      "status": "10/25 - 7:00 PM EDT",
+      "status": "7:26 - 4th",
       "home": "Oklahoma City Thunder",
       "away": "LA Clippers"
     },
     {
       "date": "2026-10-25T23:30Z",
-      "status": "10/25 - 7:30 PM EDT",
+      "status": "Halftime",
       "home": "Philadelphia 76ers",
       "away": "Detroit Pistons"
     },
@@ -726,5 +754,5 @@
       "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1792966289970
+  "fetchedAt": 1792976009408
 }
