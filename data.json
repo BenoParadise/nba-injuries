@@ -46,7 +46,7 @@
           "position": "F",
           "status": "Out",
           "detail": "Shoulder — Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
-          "returnDate": "2026-10-27"
+          "returnDate": "2026-10-30"
         }
       ]
     },
@@ -54,32 +54,25 @@
       "name": "Charlotte Hornets",
       "players": [
         {
-          "name": "Naz Reid",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Illness — Reid is listed as probable for Monday's game against Washington, according to the NBA's official injury report.",
-          "returnDate": "2026-10-26"
-        },
-        {
           "name": "Kon Knueppel",
           "position": "G",
           "status": "Out",
-          "detail": "Hamstring — Knueppel (hamstring) has been ruled out for Monday's game against the Wizards.",
-          "returnDate": "2026-10-28"
+          "detail": "Hamstring — Knueppel (hamstring) is without a timetable for a return, Rod Boone of The Charlotte Observer reports.",
+          "returnDate": "2026-10-31"
+        },
+        {
+          "name": "Grant Williams",
+          "position": "F",
+          "status": "Out",
+          "detail": "Hamstring — Williams (hamstring) will be re-evaluated following Charlotte's upcoming two-game road trip, Rod Boone reports.",
+          "returnDate": "2026-10-31"
         },
         {
           "name": "Coby White",
           "position": "G",
           "status": "Out",
           "detail": "Calf — White (calf) is out for Monday's game against the Wizards.",
-          "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Grant Williams",
-          "position": "F",
-          "status": "Out",
-          "detail": "Hamstring — Williams (hamstring) has been ruled out for Saturday's game against the Heat.",
-          "returnDate": "2026-10-30"
+          "returnDate": "2026-10-31"
         },
         {
           "name": "Kylan Boswell",
@@ -94,25 +87,18 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Patrick Williams",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Groin — Williams (groin) is listed as questionable for Monday's game against Boston.",
-          "returnDate": "2026-10-26"
-        },
-        {
-          "name": "Noa Essengue",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Head — Essengue (head) is listed as questionable for Monday's game against Boston.",
-          "returnDate": "2026-10-26"
-        },
-        {
           "name": "Nic Claxton",
           "position": "C",
           "status": "Out",
-          "detail": "Hamstring — Claxton (hamstring) will be re-evaluated in two weeks, K.C. Johnson of Chicago Sports Network reports.",
+          "detail": "Hamstring — Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
           "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Patrick Williams",
+          "position": "F",
+          "status": "Out",
+          "detail": "Groin — Williams (groin) has been ruled out for Monday's game against the Celtics.",
+          "returnDate": "2026-10-28"
         }
       ]
     },
@@ -125,13 +111,6 @@
           "status": "Out",
           "detail": "Thumb — Martin (thumb) is out for Monday's game against the Heat, Mike Curtis of The Dallas Morning News reports.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Cooper Flagg",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Flagg (shoulder) has been upgraded to probable for Monday against the Heat, Mike Curtis of The Dallas Morning News reports.",
-          "returnDate": "2026-10-26"
         },
         {
           "name": "Naji Marshall",
@@ -169,9 +148,9 @@
         {
           "name": "Alpha Diallo",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Diallo (wrist) is doubtful for Monday's game against the Warriors.",
-          "returnDate": "2026-10-26"
+          "status": "Out",
+          "detail": "Wrist — Diallo (wrist) is out for Monday's game against the Warriors.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Cameron Johnson",
@@ -200,17 +179,17 @@
       "name": "Detroit Pistons",
       "players": [
         {
-          "name": "Ausar Thompson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Thompson (ankle) is out for Sunday's game against the 76ers, Hunter Patterson of The Athletic reports.",
-          "returnDate": "2026-10-27"
-        },
-        {
           "name": "Isaiah Joe",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hip — Joe (hip) will not return to Sunday's game against the 76ers, Hunter Patterson of The Athletic reports.",
+          "detail": "Hip — Joe (hip) is questionable for Tuesday's game against the Knicks.",
+          "returnDate": "2026-10-27"
+        },
+        {
+          "name": "Ausar Thompson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Thompson (ankle) is listed as questionable for Tuesday's game against New York.",
           "returnDate": "2026-10-27"
         },
         {
@@ -284,7 +263,7 @@
           "position": "C",
           "status": "Out",
           "detail": "Calf — Adams has been ruled out for Monday's game against the Hawks due to a right soleus strain.",
-          "returnDate": "2026-10-28"
+          "returnDate": "2026-11-02"
         }
       ]
     },
@@ -292,18 +271,25 @@
       "name": "Indiana Pacers",
       "players": [
         {
-          "name": "Ivica Zubac",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Head coach Rick Carlisle said that X-rays on Zubac's sprained left ankle came back negative, but he's got some swelling and is unlikely to play Monday in Milwaukee, Scott Agness of FieldhouseFiles.com reports.",
-          "returnDate": "2026-10-26"
+          "name": "Andrew Nembhard",
+          "position": "G",
+          "status": "Out",
+          "detail": "Back — Nembhard (neck/back) has been ruled out for Monday's game against Milwaukee, Dustin Dopirak of The Indianapolis Star reports.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "T.J. McConnell",
           "position": "G",
           "status": "Out",
-          "detail": "Hamstring — McConnell (hamstring) is out for Sunday's game against the Nets.",
-          "returnDate": "2026-10-26"
+          "detail": "Hamstring — McConnell (hamstring) is out for Monday's game against the Bucks.",
+          "returnDate": "2026-10-28"
+        },
+        {
+          "name": "Ivica Zubac",
+          "position": "C",
+          "status": "Out",
+          "detail": "Ankle — Zubac (ankle) is out for Monday's game against the Bucks.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Ben Sheppard",
@@ -384,17 +370,17 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
-          "name": "Karim Lopez",
-          "position": "F",
+          "name": "Isaiah Stewart",
+          "position": "C",
           "status": "Day-To-Day",
-          "detail": "Knee — Lopez (knee) is out for Sunday's game in Sacramento.",
+          "detail": "Ankle — Stewart is listed as questionable for Monday's game against the Jazz due to left ankle injury management.",
           "returnDate": "2026-10-26"
         },
         {
-          "name": "Zach Edey",
-          "position": "C",
+          "name": "Karim Lopez",
+          "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Edey has been ruled out for Sunday's game against Sacramento due to left ankle injury management.",
+          "detail": "Knee — Lopez (knee) is questionable for Monday's game in Utah.",
           "returnDate": "2026-10-26"
         }
       ]
@@ -402,13 +388,6 @@
     {
       "name": "Minnesota Timberwolves",
       "players": [
-        {
-          "name": "Anthony Edwards",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Edwards (knee) is questionable for Monday's game against Cleveland.",
-          "returnDate": "2026-10-26"
-        },
         {
           "name": "Donte DiVincenzo",
           "position": "G",
@@ -436,9 +415,9 @@
         {
           "name": "Jose Alvarado",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Alvarado (ankle) is out for Sunday's game against the Magic, James L. Edwards III of The Athletic reports.",
-          "returnDate": "2026-10-27"
+          "status": "Out",
+          "detail": "Ankle — Alvarado (ankle) is out for Tuesday's game against the Pistons.",
+          "returnDate": "2026-10-28"
         }
       ]
     },
@@ -449,22 +428,36 @@
           "name": "Jalen Williams",
           "position": "G",
           "status": "Out",
-          "detail": "Ankle — Williams was stretchered off the floor during Sunday's game against the Clippers due to an apparent left ankle injury, NBA writer Justin Russo reports.",
+          "detail": "Leg — Williams has been diagnosed with a dislocated left ankle and fractured fibula, which will require surgery, Shams Charania of ESPN reports.",
           "returnDate": "2027-03-02"
-        },
-        {
-          "name": "Jaylin Williams",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Williams won't return to Sunday's game against the Clippers due to right wrist soreness, Nick Crain of SLAM reports.",
-          "returnDate": "2026-10-26"
         },
         {
           "name": "Cason Wallace",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Wallace (shoulder) will not return to Sunday's game against the Clippers, Rylan Stiles of SI.com  reports.",
-          "returnDate": "2026-10-26"
+          "status": "Out",
+          "detail": "Shoulder — Wallace has been diagnosed with a torn labrum in his left shoulder and will require surgery, Shams Charania of ESPN reports.",
+          "returnDate": "2027-03-02"
+        },
+        {
+          "name": "Nikola Topic",
+          "position": "G",
+          "status": "Out",
+          "detail": "Back — Topic (back) won't play in Monday's game against the Suns, Andrew Schlecht of The Athletic reports.",
+          "returnDate": "2026-10-28"
+        },
+        {
+          "name": "Thomas Sorber",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Sorber (knee) is out for Monday's game versus the Suns, per Andrew Schlecht of The Athletic.",
+          "returnDate": "2026-10-28"
+        },
+        {
+          "name": "Chet Holmgren",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Holmgren (knee) is out for Monday's game versus the Suns.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Otega Oweh",
@@ -472,20 +465,6 @@
           "status": "Out",
           "detail": "Achilles — The Thunder plan to waive Oweh (Achilles) on Friday.",
           "returnDate": "2027-07-01"
-        },
-        {
-          "name": "Nikola Topic",
-          "position": "G",
-          "status": "Out",
-          "detail": "Back — Topic (back) won't play in Thursday's game against the Nuggets.",
-          "returnDate": "2026-10-26"
-        },
-        {
-          "name": "Thomas Sorber",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Sorber (knee) is listed as out for Thursday's game against Denver.",
-          "returnDate": "2026-10-26"
         }
       ]
     },
@@ -495,9 +474,9 @@
         {
           "name": "Jalen Suggs",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Suggs (knee) did not return to Sunday's game against the Knicks.",
-          "returnDate": "2026-10-28"
+          "status": "Out",
+          "detail": "Knee — Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
+          "returnDate": "2026-11-10"
         },
         {
           "name": "Jonathan Isaac",
@@ -582,9 +561,9 @@
         {
           "name": "Oso Ighodaro",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Oblique — Ighodaro (oblique) is doubtful for Monday's matchup with the Thunder, Duane Rankin of The Arizona Republic reports.",
-          "returnDate": "2026-10-26"
+          "status": "Out",
+          "detail": "Oblique — Ighodaro (oblique) is out for Monday's matchup with the Thunder.",
+          "returnDate": "2026-10-30"
         },
         {
           "name": "Mark Williams",
@@ -625,11 +604,25 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Dylan Cardwell",
+          "position": "C",
+          "status": "Out",
+          "detail": "Calf — Cardwell (calf) will be re-evaluated in one week, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+          "returnDate": "2026-11-06"
+        },
+        {
+          "name": "Maxime Raynaud",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+          "returnDate": "2026-11-10"
+        },
+        {
           "name": "Keegan Murray",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Murray (ankle) has been ruled out for Sunday's game against the Grizzlies.",
-          "returnDate": "2026-10-27"
+          "status": "Out",
+          "detail": "Ankle — Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports.",
+          "returnDate": "2026-11-06"
         },
         {
           "name": "Ben Simmons",
@@ -637,20 +630,6 @@
           "status": "Out",
           "detail": "Achilles — Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
           "returnDate": "2027-10-01"
-        },
-        {
-          "name": "Dylan Cardwell",
-          "position": "C",
-          "status": "Out",
-          "detail": "Calf — Cardwell (calf) is expected to miss at least the first five or six games of the regular season, with a longer absence possible, Frankie Cartoscelli of KHTK Sactown Sports 1140 reports.",
-          "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Maxime Raynaud",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Raynaud (knee) is expected to miss at least the first five or six games of the regular season, and potentially longer, Frankie Cartoscelli of KHTK Sactown Sports 1140 reports.",
-          "returnDate": "2026-11-02"
         }
       ]
     },
@@ -661,8 +640,8 @@
           "name": "Tobias Harris",
           "position": "F",
           "status": "Out",
-          "detail": "Calf — Harris (calf) is out for Saturday's game against the Mavericks.",
-          "returnDate": "2026-10-27"
+          "detail": "Calf — Harris (calf) has been ruled out for Tuesday's game against the Kings.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Jayden Quaintance",
@@ -696,11 +675,18 @@
       "name": "Utah Jazz",
       "players": [
         {
+          "name": "Jaxson Hayes",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Hayes is listed as questionable for Monday's game against the Grizzlies due to right shoulder soreness, Shreyas Laddha of The Salt Lake Tribune reports.",
+          "returnDate": "2026-10-26"
+        },
+        {
           "name": "Trey Alexander",
           "position": "G",
           "status": "Out",
           "detail": "Knee — Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
-          "returnDate": "2026-10-26"
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Jusuf Nurkic",
@@ -718,7 +704,7 @@
           "name": "AJ Dybantsa",
           "position": "F",
           "status": "Out",
-          "detail": "Ankle — Dybantsa (ankle) has been ruled out for Monday's game against the Hornets.",
+          "detail": "Ankle — Dybantsa, who has been ruled out for Monday's game against the Hornets, is progressing well from a left ankle sprain and will take part in on-court activities Tuesday, Josh Robbins of The Athletic reports.",
           "returnDate": "2026-10-28"
         },
         {
@@ -794,5 +780,5 @@
       "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1793038469842
+  "fetchedAt": 1793055438975
 }
