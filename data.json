@@ -35,13 +35,6 @@
       "name": "Brooklyn Nets",
       "players": [
         {
-          "name": "Mikel Brown Jr.",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Rest — Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the Pacers, Brian Lewis of the New York Post reports.",
-          "returnDate": "2026-10-27"
-        },
-        {
           "name": "Tyler Bilodeau",
           "position": "F",
           "status": "Out",
@@ -87,24 +80,31 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Patrick Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Groin — Williams (groin) has been ruled out for Monday's game against the Celtics.",
+          "returnDate": "2026-10-28"
+        },
+        {
           "name": "Nic Claxton",
           "position": "C",
           "status": "Out",
           "detail": "Hamstring — Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
           "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Patrick Williams",
-          "position": "F",
-          "status": "Out",
-          "detail": "Groin — Williams (groin) has been ruled out for Monday's game against the Celtics.",
-          "returnDate": "2026-10-28"
         }
       ]
     },
     {
       "name": "Dallas Mavericks",
       "players": [
+        {
+          "name": "Naji Marshall",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Marshall (illness) has been ruled out for Monday's game against the Heat.",
+          "returnDate": "2026-10-28"
+        },
         {
           "name": "Sergio de Larrea",
           "position": "F",
@@ -118,13 +118,6 @@
           "status": "Out",
           "detail": "Thumb — Martin (thumb) is out for Monday's game against the Heat, Mike Curtis of The Dallas Morning News reports.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Naji Marshall",
-          "position": "F",
-          "status": "Out",
-          "detail": "Illness — Marshall (illness) has been ruled out for Monday's game against the Heat.",
-          "returnDate": "2026-10-28"
         },
         {
           "name": "Tarik Biberovic",
@@ -155,14 +148,14 @@
         {
           "name": "Cameron Johnson",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Johnson (ankle) has been ruled out for Monday's game against Golden State.",
           "returnDate": "2026-10-28"
         },
         {
           "name": "Alpha Diallo",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Wrist — Diallo (wrist) is out for Monday's game against the Warriors.",
           "returnDate": "2026-10-28"
         },
@@ -170,7 +163,7 @@
           "name": "Spencer Jones",
           "position": "F",
           "status": "Out",
-          "detail": "Hamstring — Jones (hamstring) is out for Monday's matchup with the Warriors.",
+          "detail": "Hamstring — Jones (hamstring) is progressing in his recovery and could be back with the team within the next three games, Vinny Benedetto of The Denver Gazette reports.",
           "returnDate": "2026-10-28"
         },
         {
@@ -238,24 +231,38 @@
       "name": "Houston Rockets",
       "players": [
         {
+          "name": "Marcus Smart",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Forearm — Smart (arm) is out for Monday's game against the Hawks.",
+          "returnDate": "2026-10-28"
+        },
+        {
           "name": "Steven Adams",
           "position": "C",
           "status": "Out",
           "detail": "Calf — Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Marcus Smart",
-          "position": "G",
-          "status": "Out",
-          "detail": "Forearm — Smart (arm) is out for Monday's game against the Hawks.",
-          "returnDate": "2026-10-28"
         }
       ]
     },
     {
       "name": "Indiana Pacers",
       "players": [
+        {
+          "name": "Ivica Zubac",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — The Pacers don't have a timetable for Zubac's return after he suffered a left ankle injury Sunday against Brooklyn, but he was able to walk without a boot Monday, Dustin Dopirak of The Indianapolis Star reports.",
+          "returnDate": "2026-10-28"
+        },
+        {
+          "name": "Andrew Nembhard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Nembhard (neck/back) has been ruled out for Monday's game against Milwaukee, Dustin Dopirak of The Indianapolis Star reports.",
+          "returnDate": "2026-10-28"
+        },
         {
           "name": "Ben Sheppard",
           "position": "G",
@@ -264,24 +271,10 @@
           "returnDate": "2026-12-01"
         },
         {
-          "name": "Andrew Nembhard",
-          "position": "G",
-          "status": "Out",
-          "detail": "Back — Nembhard (neck/back) has been ruled out for Monday's game against Milwaukee, Dustin Dopirak of The Indianapolis Star reports.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "T.J. McConnell",
           "position": "G",
           "status": "Out",
           "detail": "Hamstring — McConnell (hamstring) is out for Monday's game against the Bucks.",
-          "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Ivica Zubac",
-          "position": "C",
-          "status": "Out",
-          "detail": "Ankle — Zubac (ankle) is out for Monday's game against the Bucks.",
           "returnDate": "2026-10-28"
         },
         {
@@ -342,13 +335,6 @@
           "status": "Out",
           "detail": "Knee — Thiero (knee) is out for Tuesday's game against Portland.",
           "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Cameron Carr",
-          "position": "G",
-          "status": "Out",
-          "detail": "Oblique — Carr (oblique) has been ruled out for Tuesday's game against the Trail Blazers.",
-          "returnDate": "2026-10-27"
         }
       ]
     },
@@ -535,7 +521,7 @@
         {
           "name": "Oso Ighodaro",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Oblique — Ighodaro (oblique) is out for Monday's matchup with the Thunder.",
           "returnDate": "2026-10-30"
         },
@@ -552,6 +538,13 @@
       "name": "Portland Trail Blazers",
       "players": [
         {
+          "name": "Chris Youngblood",
+          "position": "G",
+          "status": "Out",
+          "detail": "Ankle — Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers.",
+          "returnDate": "2026-10-29"
+        },
+        {
           "name": "Branden Carlson",
           "position": "C",
           "status": "Day-To-Day",
@@ -564,13 +557,6 @@
           "status": "Day-To-Day",
           "detail": "Ankle — Henderson is questionable for Tuesday's game against the Lakers due to left ankle soreness.",
           "returnDate": "2026-10-27"
-        },
-        {
-          "name": "Chris Youngblood",
-          "position": "G",
-          "status": "Out",
-          "detail": "Ankle — Youngblood (ankle) is out for Friday's game against the Kings.",
-          "returnDate": "2026-10-29"
         },
         {
           "name": "Shaedon Sharpe",
@@ -656,17 +642,24 @@
       "name": "Utah Jazz",
       "players": [
         {
+          "name": "Jaxson Hayes",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Hayes (shoulder) is out for Monday's game against the Grizzlies.",
+          "returnDate": "2026-10-28"
+        },
+        {
           "name": "Lauri Markkanen",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hand — Markkanen went to the locker room during the first quarter of Monday's game against the Grizzlies due to an apparent hand injury, Shreyas Laddha of The Salt Lake Tribune reports.",
-          "returnDate": "2026-10-26"
+          "detail": "Wrist — Markkanen (wrist) won't return to Monday's game against Memphis.",
+          "returnDate": "2026-10-28"
         },
         {
-          "name": "Jaxson Hayes",
-          "position": "C",
-          "status": "Out",
-          "detail": "Shoulder — Hayes (shoulder) is out for Monday's game against the Grizzlies.",
+          "name": "Jaren Jackson Jr.",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Jackson has been ruled out for the rest of Monday's game against the Grizzlies due to a right knee injury.",
           "returnDate": "2026-10-28"
         },
         {
@@ -728,52 +721,52 @@
     },
     {
       "date": "2026-10-26T23:00Z",
-      "status": "1:02 - OT",
+      "status": "Final/OT",
       "home": "Cleveland Cavaliers",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-10-26T23:30Z",
-      "status": "4:53 - 4th",
+      "status": "Final",
       "home": "Boston Celtics",
       "away": "Chicago Bulls"
     },
     {
       "date": "2026-10-26T23:30Z",
-      "status": "4:52 - 4th",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "Dallas Mavericks"
     },
     {
       "date": "2026-10-27T00:00Z",
-      "status": "End of 3rd",
+      "status": "Final",
       "home": "Milwaukee Bucks",
       "away": "Indiana Pacers"
     },
     {
       "date": "2026-10-27T00:00Z",
-      "status": "1:23 - 3rd",
+      "status": "Final",
       "home": "Oklahoma City Thunder",
       "away": "Phoenix Suns"
     },
     {
       "date": "2026-10-27T00:30Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Houston Rockets",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-10-27T01:00Z",
-      "status": "10:57 - 2nd",
+      "status": "Final",
       "home": "Utah Jazz",
       "away": "Memphis Grizzlies"
     },
     {
       "date": "2026-10-27T02:00Z",
-      "status": "10/26 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Denver Nuggets",
       "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1793065717658
+  "fetchedAt": 1793084777438
 }
