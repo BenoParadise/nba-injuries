@@ -23,6 +23,13 @@
       "name": "Boston Celtics",
       "players": [
         {
+          "name": "Derrick White",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hip — White (right hip) is probable for Tuesday's game against the Nets.",
+          "returnDate": "2026-10-27"
+        },
+        {
           "name": "Devin Carter",
           "position": "G",
           "status": "Out",
@@ -51,21 +58,21 @@
           "position": "G",
           "status": "Out",
           "detail": "Calf — Head coach Charles Lee said Monday that White (calf) remains without a timeline for a return, though Lee added that he'll have a better idea of where things stand following the Hornets' two-game road trip, Rod Boone of The Charlotte Observer reports.",
-          "returnDate": "2026-10-31"
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Kon Knueppel",
           "position": "G",
           "status": "Out",
           "detail": "Hamstring — Knueppel (hamstring) is without a timetable for a return, Rod Boone of The Charlotte Observer reports.",
-          "returnDate": "2026-10-31"
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Grant Williams",
           "position": "F",
           "status": "Out",
           "detail": "Hamstring — Williams (hamstring) will be re-evaluated following Charlotte's upcoming two-game road trip, Rod Boone reports.",
-          "returnDate": "2026-10-31"
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Kylan Boswell",
@@ -99,6 +106,13 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Santi Aldama",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — The Mavericks assigned Aldama (knee) to the G League's Texas Legends on Tuesday, Marc Stein of The Stein Line reports.",
+          "returnDate": "2026-11-02"
+        },
+        {
           "name": "Naji Marshall",
           "position": "F",
           "status": "Day-To-Day",
@@ -124,13 +138,6 @@
           "position": "F",
           "status": "Out",
           "detail": "Heel — Biberovic (heel) has been ruled out for Saturday's game against San Antonio.",
-          "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Santi Aldama",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Aldama (knee) has been ruled out for Saturday's game against the Spurs.",
           "returnDate": "2026-11-02"
         },
         {
@@ -179,17 +186,17 @@
       "name": "Detroit Pistons",
       "players": [
         {
+          "name": "Ausar Thompson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Thompson (ankle) was a full participant at Tuesday's shootaround, Coty M. Davis of The Detroit News reports.",
+          "returnDate": "2026-10-27"
+        },
+        {
           "name": "Isaiah Joe",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Hip — Joe (hip) is questionable for Tuesday's game against the Knicks.",
-          "returnDate": "2026-10-27"
-        },
-        {
-          "name": "Ausar Thompson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Thompson (ankle) is listed as questionable for Tuesday's game against New York.",
           "returnDate": "2026-10-27"
         },
         {
@@ -378,6 +385,13 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Chet Holmgren",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Holmgren (knee) is out for Monday's game versus the Suns.",
+          "returnDate": "2026-10-28"
+        },
+        {
           "name": "Alex Caruso",
           "position": "G",
           "status": "Day-To-Day",
@@ -413,13 +427,6 @@
           "returnDate": "2026-10-28"
         },
         {
-          "name": "Chet Holmgren",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Holmgren (knee) is out for Monday's game versus the Suns.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "Otega Oweh",
           "position": "G",
           "status": "Out",
@@ -432,18 +439,18 @@
       "name": "Orlando Magic",
       "players": [
         {
+          "name": "Jonathan Isaac",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — Isaac (knee) has been ruled out ahead of Wednesday's game against the Raptors.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Jalen Suggs",
           "position": "G",
           "status": "Out",
           "detail": "Knee — Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
           "returnDate": "2026-11-10"
-        },
-        {
-          "name": "Jonathan Isaac",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Isaac (knee) has been ruled out ahead of Sunday's game against the Knicks.",
-          "returnDate": "2026-10-28"
         },
         {
           "name": "Paolo Banchero",
@@ -472,6 +479,20 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Tacko Fall",
+          "position": "C",
+          "status": "Out",
+          "detail": "Quadriceps — Fall (quadriceps) was able to practice on Tuesday, Keith Pompey of The Philadelphia Inquirer reports.",
+          "returnDate": "2026-10-28"
+        },
+        {
+          "name": "VJ Edgecombe",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Abdomen — Edgecombe (abdomen) practiced in full Tuesday, Keith Pompey of The Philadelphia Inquirer reports.",
+          "returnDate": "2026-10-28"
+        },
+        {
           "name": "Jabari Walker",
           "position": "F",
           "status": "Day-To-Day",
@@ -479,24 +500,10 @@
           "returnDate": "2026-10-28"
         },
         {
-          "name": "VJ Edgecombe",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Abdomen — Edgecombe (abdomen) is out for Sunday's game against the Pistons, Adam Aaronson of PhillyVoice.com reports.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "Joel Embiid",
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Heel — Embiid has been ruled out for Sunday's game against Detroit due to right plantar fasciitis management.",
-          "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Tacko Fall",
-          "position": "C",
-          "status": "Out",
-          "detail": "Quadriceps — Fall (quadriceps) has been ruled out for Sunday's game against Detroit.",
           "returnDate": "2026-10-28"
         },
         {
@@ -625,9 +632,9 @@
         {
           "name": "Kawhi Leonard",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Leonard is out for Sunday's game against the Timberwolves due to left knee swelling, Blake Murphy of Sportsnet.ca reports.",
-          "returnDate": "2026-10-28"
+          "status": "Out",
+          "detail": "Knee — Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams Charania of ESPN reports.",
+          "returnDate": "2026-11-23"
         },
         {
           "name": "Nate Bittle",
@@ -714,59 +721,29 @@
   ],
   "games": [
     {
-      "date": "2026-10-26T23:00Z",
-      "status": "Final",
-      "home": "Charlotte Hornets",
-      "away": "Washington Wizards"
-    },
-    {
-      "date": "2026-10-26T23:00Z",
-      "status": "Final/OT",
-      "home": "Cleveland Cavaliers",
-      "away": "Minnesota Timberwolves"
-    },
-    {
-      "date": "2026-10-26T23:30Z",
-      "status": "Final",
+      "date": "2026-10-27T23:30Z",
+      "status": "10/27 - 7:30 PM EDT",
       "home": "Boston Celtics",
-      "away": "Chicago Bulls"
+      "away": "Brooklyn Nets"
     },
     {
-      "date": "2026-10-26T23:30Z",
-      "status": "Final",
-      "home": "Miami Heat",
-      "away": "Dallas Mavericks"
+      "date": "2026-10-28T00:00Z",
+      "status": "10/27 - 8:00 PM EDT",
+      "home": "New York Knicks",
+      "away": "Detroit Pistons"
     },
     {
-      "date": "2026-10-27T00:00Z",
-      "status": "Final",
-      "home": "Milwaukee Bucks",
-      "away": "Indiana Pacers"
+      "date": "2026-10-28T00:00Z",
+      "status": "10/27 - 8:00 PM EDT",
+      "home": "San Antonio Spurs",
+      "away": "Sacramento Kings"
     },
     {
-      "date": "2026-10-27T00:00Z",
-      "status": "Final",
-      "home": "Oklahoma City Thunder",
-      "away": "Phoenix Suns"
-    },
-    {
-      "date": "2026-10-27T00:30Z",
-      "status": "Final",
-      "home": "Houston Rockets",
-      "away": "Atlanta Hawks"
-    },
-    {
-      "date": "2026-10-27T01:00Z",
-      "status": "Final",
-      "home": "Utah Jazz",
-      "away": "Memphis Grizzlies"
-    },
-    {
-      "date": "2026-10-27T02:00Z",
-      "status": "Final",
-      "home": "Denver Nuggets",
-      "away": "Golden State Warriors"
+      "date": "2026-10-28T03:00Z",
+      "status": "10/27 - 11:00 PM EDT",
+      "home": "Los Angeles Lakers",
+      "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1793108930407
+  "fetchedAt": 1793128064752
 }
