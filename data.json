@@ -42,6 +42,13 @@
       "name": "Brooklyn Nets",
       "players": [
         {
+          "name": "Egor Demin",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Leg — Demin (leg) won't return to Tuesday's game against Boston, C.J. Holmes of the New York Daily News reports. He finished with two points (1-3 FG, 0-2 3Pt), one rebound, two assists and one steal over 10 minutes.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Tyler Bilodeau",
           "position": "F",
           "status": "Out",
@@ -113,17 +120,17 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Santi Aldama",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — The Mavericks recalled Aldama (knee) from the G League's Texas Legends on Tuesday.",
+          "returnDate": "2026-10-28"
+        },
+        {
           "name": "Tarik Biberovic",
           "position": "F",
           "status": "Out",
           "detail": "Heel — Biberovic is listed as doubtful for Wednesday's game against the Thunder.",
-          "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Santi Aldama",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Aldama (knee) is doubtful for Wednesday's game against the Thunder.",
           "returnDate": "2026-10-28"
         },
         {
@@ -200,18 +207,11 @@
       "name": "Detroit Pistons",
       "players": [
         {
-          "name": "Ausar Thompson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Thompson (ankle) was a full participant at Tuesday's shootaround, Coty M. Davis of The Detroit News reports.",
-          "returnDate": "2026-10-27"
-        },
-        {
           "name": "Isaiah Joe",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Joe (hip) is questionable for Tuesday's game against the Knicks.",
-          "returnDate": "2026-10-27"
+          "status": "Out",
+          "detail": "Hip — Joe (hip) has been ruled out for Tuesday's game against the Knicks.",
+          "returnDate": "2026-10-28"
         },
         {
           "name": "Jalen Duren",
@@ -392,6 +392,13 @@
     {
       "name": "Los Angeles Lakers",
       "players": [
+        {
+          "name": "Cameron Carr",
+          "position": "G",
+          "status": "Out",
+          "detail": "Oblique — The Lakers recalled Carr (oblique) from the G League's Coachella Valley Lakers on Tuesday, Mark Medina of TheSportingTribune.com reports.",
+          "returnDate": "2026-10-28"
+        },
         {
           "name": "Adou Thiero",
           "position": "F",
@@ -611,7 +618,7 @@
           "name": "Oso Ighodaro",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Oblique — Ighodaro (oblique) is out for Monday's matchup with the Thunder.",
+          "detail": "Oblique — Ighodaro (oblique) is feeling better and considered day-to-day ahead of Friday's game against the Nuggets, John Gambadoro of Arizona Sports 98.7 FM reports.",
           "returnDate": "2026-10-30"
         },
         {
@@ -632,13 +639,6 @@
           "status": "Out",
           "detail": "Ankle — Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers.",
           "returnDate": "2026-10-29"
-        },
-        {
-          "name": "Scoot Henderson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Henderson is questionable for Tuesday's game against the Lakers due to left ankle soreness.",
-          "returnDate": "2026-10-27"
         },
         {
           "name": "Shaedon Sharpe",
@@ -797,28 +797,28 @@
   "games": [
     {
       "date": "2026-10-27T23:30Z",
-      "status": "10/27 - 7:30 PM EDT",
+      "status": "Final/OT",
       "home": "Boston Celtics",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-10-28T00:00Z",
-      "status": "10/27 - 8:00 PM EDT",
+      "status": "Final",
       "home": "New York Knicks",
       "away": "Detroit Pistons"
     },
     {
       "date": "2026-10-28T00:00Z",
-      "status": "10/27 - 8:00 PM EDT",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "Sacramento Kings"
     },
     {
       "date": "2026-10-28T03:00Z",
-      "status": "10/27 - 11:00 PM EDT",
+      "status": "9:49 - 1st",
       "home": "Los Angeles Lakers",
       "away": "Portland Trail Blazers"
     }
   ],
-  "fetchedAt": 1793143424850
+  "fetchedAt": 1793157378583
 }
