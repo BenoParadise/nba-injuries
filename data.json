@@ -7,7 +7,7 @@
           "name": "Aaron Wiggins",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Wiggins is questionable for Wednesday's game against the Heat due to a left knee contusion.",
+          "detail": "Knee — Wiggins (knee) is probable for Wednesday against Miami.",
           "returnDate": "2026-10-28"
         },
         {
@@ -226,18 +226,18 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Kristaps Porzingis",
+          "position": "C",
+          "status": "Out",
+          "detail": "Illness — The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports.",
+          "returnDate": "2026-12-01"
+        },
+        {
           "name": "Yaxel Lendeborg",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Foot — Lendeborg (foot) is questionable for Wednesday's game against Minnesota.",
           "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Kristaps Porzingis",
-          "position": "C",
-          "status": "Out",
-          "detail": "Illness — Porzingis is contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as postural orthostatic tachycardia syndrome, per Shams Charania of ESPN.",
-          "returnDate": "2026-12-01"
         },
         {
           "name": "Moses Moody",
@@ -412,18 +412,11 @@
       "name": "Miami Heat",
       "players": [
         {
-          "name": "Pelle Larsson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Larsson is listed as probable for Wednesday's game at Atlanta due to a right ankle sprain.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "Simone Fontecchio",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Fontecchio is doubtful for Wednesday's game in Atlanta due to an illness, per Tim Reynolds of Associated Press.",
-          "returnDate": "2026-10-28"
+          "status": "Out",
+          "detail": "Illness — Fontecchio (illness) is out for Wednesday's game against the Hawks.",
+          "returnDate": "2026-10-30"
         }
       ]
     },
@@ -542,6 +535,13 @@
       "name": "Orlando Magic",
       "players": [
         {
+          "name": "Anthony Black",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Personal — Black (personal) was not present at Wednesday's morning shootaround, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-10-28"
+        },
+        {
           "name": "Jonathan Isaac",
           "position": "F",
           "status": "Out",
@@ -600,7 +600,7 @@
           "position": "F",
           "status": "Out",
           "detail": "Back — Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports.",
-          "returnDate": "2026-11-02"
+          "returnDate": "2026-11-04"
         },
         {
           "name": "Ariel Hukporti",
@@ -771,13 +771,6 @@
           "returnDate": "2026-10-30"
         },
         {
-          "name": "AJ Dybantsa",
-          "position": "F",
-          "status": "Out",
-          "detail": "Ankle — Dybantsa (ankle) is questionable for Wednesday's game versus Cleveland.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "Tristan Vukcevic",
           "position": "F",
           "status": "Out",
@@ -796,29 +789,77 @@
   ],
   "games": [
     {
-      "date": "2026-10-27T23:30Z",
-      "status": "Final/OT",
-      "home": "Boston Celtics",
-      "away": "Brooklyn Nets"
+      "date": "2026-10-28T23:00Z",
+      "status": "10/28 - 7:00 PM EDT",
+      "home": "Atlanta Hawks",
+      "away": "Miami Heat"
     },
     {
-      "date": "2026-10-28T00:00Z",
-      "status": "Final",
-      "home": "New York Knicks",
-      "away": "Detroit Pistons"
+      "date": "2026-10-28T23:00Z",
+      "status": "10/28 - 7:00 PM EDT",
+      "home": "Cleveland Cavaliers",
+      "away": "Washington Wizards"
     },
     {
-      "date": "2026-10-28T00:00Z",
-      "status": "Final",
-      "home": "San Antonio Spurs",
-      "away": "Sacramento Kings"
+      "date": "2026-10-28T23:00Z",
+      "status": "10/28 - 7:00 PM EDT",
+      "home": "Detroit Pistons",
+      "away": "Charlotte Hornets"
     },
     {
-      "date": "2026-10-28T03:00Z",
-      "status": "Final",
-      "home": "Los Angeles Lakers",
-      "away": "Portland Trail Blazers"
+      "date": "2026-10-28T23:00Z",
+      "status": "10/28 - 7:00 PM EDT",
+      "home": "Indiana Pacers",
+      "away": "Philadelphia 76ers"
+    },
+    {
+      "date": "2026-10-28T23:30Z",
+      "status": "10/28 - 7:30 PM EDT",
+      "home": "Toronto Raptors",
+      "away": "Orlando Magic"
+    },
+    {
+      "date": "2026-10-29T00:00Z",
+      "status": "10/28 - 8:00 PM EDT",
+      "home": "Chicago Bulls",
+      "away": "New York Knicks"
+    },
+    {
+      "date": "2026-10-29T00:00Z",
+      "status": "10/28 - 8:00 PM EDT",
+      "home": "Milwaukee Bucks",
+      "away": "Houston Rockets"
+    },
+    {
+      "date": "2026-10-29T00:00Z",
+      "status": "10/28 - 8:00 PM EDT",
+      "home": "Minnesota Timberwolves",
+      "away": "Golden State Warriors"
+    },
+    {
+      "date": "2026-10-29T00:00Z",
+      "status": "10/28 - 8:00 PM EDT",
+      "home": "New Orleans Pelicans",
+      "away": "Denver Nuggets"
+    },
+    {
+      "date": "2026-10-29T01:00Z",
+      "status": "10/28 - 9:00 PM EDT",
+      "home": "Utah Jazz",
+      "away": "San Antonio Spurs"
+    },
+    {
+      "date": "2026-10-29T01:30Z",
+      "status": "10/28 - 9:30 PM EDT",
+      "home": "Dallas Mavericks",
+      "away": "Oklahoma City Thunder"
+    },
+    {
+      "date": "2026-10-29T02:30Z",
+      "status": "10/28 - 10:30 PM EDT",
+      "home": "LA Clippers",
+      "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1793182359669
+  "fetchedAt": 1793206486659
 }
