@@ -89,7 +89,7 @@
         {
           "name": "Tobe Awaka",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Awaka (ankle) is out for Wednesday's game against the Knicks, Joel Lorenzi of The Athletic reports.",
           "returnDate": "2026-10-30"
         },
@@ -113,9 +113,16 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Sergio de Larrea",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — De Larrea (knee) has been ruled out for Wednesday's game against the Thunder.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Naji Marshall",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Marshall (illness) won't play in Wednesday's game against Oklahoma City.",
           "returnDate": "2026-10-30"
         },
@@ -131,13 +138,6 @@
           "position": "F",
           "status": "Out",
           "detail": "Knee — Aldama (knee) is out for Wednesday's game against the Thunder.",
-          "returnDate": "2026-10-30"
-        },
-        {
-          "name": "Sergio de Larrea",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — De Larrea (knee) has been ruled out for Wednesday's game against the Thunder.",
           "returnDate": "2026-10-30"
         },
         {
@@ -188,7 +188,7 @@
         {
           "name": "Isaiah Joe",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Hip — Joe (hip) is out for Wednesday's game against the Hornets.",
           "returnDate": "2026-10-30"
         },
@@ -207,7 +207,7 @@
         {
           "name": "Gui Santos",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Santos has been ruled out for Wednesday's game against the Timberwolves due to left knee tendinitis.",
           "returnDate": "2026-10-30"
         },
@@ -238,17 +238,17 @@
       "name": "Houston Rockets",
       "players": [
         {
+          "name": "Alperen Sengun",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Back — Sengun (back) has been ruled out for Wednesday's game against the Bucks.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Marcus Smart",
           "position": "G",
           "status": "Out",
           "detail": "Forearm — Smart (forearm) is out for Wednesday's game against the Bucks.",
-          "returnDate": "2026-10-30"
-        },
-        {
-          "name": "Alperen Sengun",
-          "position": "C",
-          "status": "Out",
-          "detail": "Back — Sengun (back) has been ruled out for Wednesday's game against the Bucks.",
           "returnDate": "2026-10-30"
         },
         {
@@ -263,6 +263,13 @@
     {
       "name": "Indiana Pacers",
       "players": [
+        {
+          "name": "Ivica Zubac",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Zubac (ankle) is out for Wednesday's game against the 76ers.",
+          "returnDate": "2026-10-30"
+        },
         {
           "name": "T.J. McConnell",
           "position": "G",
@@ -285,13 +292,6 @@
           "returnDate": "2026-11-13"
         },
         {
-          "name": "Ivica Zubac",
-          "position": "C",
-          "status": "Out",
-          "detail": "Ankle — Zubac (ankle) is out for Wednesday's game against the 76ers.",
-          "returnDate": "2026-10-30"
-        },
-        {
           "name": "Johnny Furphy",
           "position": "G",
           "status": "Out",
@@ -303,6 +303,20 @@
     {
       "name": "LA Clippers",
       "players": [
+        {
+          "name": "Rui Hachimura",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Quadriceps — Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Linn of SI.com reports.",
+          "returnDate": "2026-10-30"
+        },
+        {
+          "name": "Yanic Konan Niederhauser",
+          "position": "C",
+          "status": "Out",
+          "detail": "Foot — Niederhauser (foot) remains out for Wednesday's game against the Lakers. He also won't travel with the team for the upcoming two-game road trip in Minnesota and Golden State, Ohm Youngmisuk of ESPN.com reports.",
+          "returnDate": "2026-11-08"
+        },
         {
           "name": "Max Strus",
           "position": "G",
@@ -318,24 +332,10 @@
           "returnDate": "2026-11-08"
         },
         {
-          "name": "Rui Hachimura",
-          "position": "F",
-          "status": "Out",
-          "detail": "Quadriceps — Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Linn of SI.com reports.",
-          "returnDate": "2026-10-30"
-        },
-        {
           "name": "Bradley Beal",
           "position": "G",
           "status": "Out",
           "detail": "Knee — Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Yanic Konan Niederhauser",
-          "position": "C",
-          "status": "Out",
-          "detail": "Foot — Niederhauser (foot) won't be ready for the start of the season, Law Murray of The Athletic reports.",
           "returnDate": "2026-11-08"
         },
         {
@@ -351,6 +351,20 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Ziaire Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Foot — Williams (foot) is out for Wednesday's game against the Clippers.",
+          "returnDate": "2026-10-30"
+        },
+        {
+          "name": "Luka Doncic",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Doncic (back) is out for Wednesday's game against the Clippers.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Cameron Carr",
           "position": "G",
           "status": "Out",
@@ -363,20 +377,6 @@
           "status": "Out",
           "detail": "Knee — Thiero (knee) is out for Wednesday's game against the Clippers.",
           "returnDate": "2026-10-30"
-        },
-        {
-          "name": "Ziaire Williams",
-          "position": "F",
-          "status": "Out",
-          "detail": "Foot — Williams (foot) is out for Wednesday's game against the Clippers.",
-          "returnDate": "2026-10-30"
-        },
-        {
-          "name": "Luka Doncic",
-          "position": "G",
-          "status": "Out",
-          "detail": "Back — Doncic (back) is out for Wednesday's game against the Clippers.",
-          "returnDate": "2026-10-30"
         }
       ]
     },
@@ -386,7 +386,7 @@
         {
           "name": "Simone Fontecchio",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Fontecchio (illness) is out for Wednesday's game against the Hawks.",
           "returnDate": "2026-10-30"
         }
@@ -415,6 +415,13 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
+          "name": "Jordan Poole",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Poole (ankle) won't return to Wednesday's game against the Nuggets. He finished with two points (1-3 FG, 0-1 3Pt), one rebound and one steal over seven minutes.",
+          "returnDate": "2026-10-29"
+        },
+        {
           "name": "Yves Missi",
           "position": "C",
           "status": "Out",
@@ -439,6 +446,13 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Chet Holmgren",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Holmgren (knee) has been ruled out for Wednesday's game against the Mavericks.",
+          "returnDate": "2026-10-31"
+        },
+        {
           "name": "Jalen Williams",
           "position": "G",
           "status": "Out",
@@ -460,13 +474,6 @@
           "returnDate": "2026-11-04"
         },
         {
-          "name": "Chet Holmgren",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Holmgren (knee) has been ruled out for Wednesday's game against the Mavericks.",
-          "returnDate": "2026-10-31"
-        },
-        {
           "name": "Nikola Topic",
           "position": "G",
           "status": "Out",
@@ -479,13 +486,6 @@
           "status": "Out",
           "detail": "Shoulder — Wallace has been diagnosed with a torn labrum in his left shoulder and will require surgery, Shams Charania of ESPN reports.",
           "returnDate": "2027-03-02"
-        },
-        {
-          "name": "Otega Oweh",
-          "position": "G",
-          "status": "Out",
-          "detail": "Achilles — The Thunder plan to waive Oweh (Achilles) on Friday.",
-          "returnDate": "2027-07-01"
         }
       ]
     },
@@ -533,18 +533,18 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Jabari Walker",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Walker (knee) has been ruled out for Wednesday's game against the Pacers.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Tacko Fall",
           "position": "C",
           "status": "Out",
           "detail": "Quadriceps — Fall (quadriceps) is out for Wednesday's game in Indiana.",
           "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Jabari Walker",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Walker (knee) has been ruled out for Wednesday's game against the Pacers.",
-          "returnDate": "2026-10-30"
         },
         {
           "name": "Dominick Barlow",
@@ -677,7 +677,7 @@
         {
           "name": "Lauri Markkanen",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Wrist — Markkanen (wrist) is out for Wednesday's tilt against the Spurs.",
           "returnDate": "2026-10-31"
         },
@@ -710,7 +710,7 @@
         {
           "name": "Tre Johnson",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Achilles — Johnson has been ruled out for Wednesday's game against the Cavaliers due to right Achilles soreness.",
           "returnDate": "2026-10-30"
         },
@@ -747,70 +747,70 @@
     },
     {
       "date": "2026-10-28T23:00Z",
-      "status": "29.7 - 4th",
+      "status": "Final",
       "home": "Cleveland Cavaliers",
       "away": "Washington Wizards"
     },
     {
       "date": "2026-10-28T23:00Z",
-      "status": "1:53 - 4th",
+      "status": "Final",
       "home": "Detroit Pistons",
       "away": "Charlotte Hornets"
     },
     {
       "date": "2026-10-28T23:00Z",
-      "status": "7:17 - 4th",
+      "status": "Final",
       "home": "Indiana Pacers",
       "away": "Philadelphia 76ers"
     },
     {
       "date": "2026-10-28T23:30Z",
-      "status": "2:14 - 3rd",
+      "status": "Final",
       "home": "Toronto Raptors",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-10-29T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Chicago Bulls",
       "away": "New York Knicks"
     },
     {
       "date": "2026-10-29T00:00Z",
-      "status": "9:04 - 3rd",
+      "status": "Final",
       "home": "Milwaukee Bucks",
       "away": "Houston Rockets"
     },
     {
       "date": "2026-10-29T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Golden State Warriors"
     },
     {
       "date": "2026-10-29T00:00Z",
-      "status": "10:18 - 3rd",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Denver Nuggets"
     },
     {
       "date": "2026-10-29T01:00Z",
-      "status": "5:20 - 1st",
+      "status": "Final/OT",
       "home": "Utah Jazz",
       "away": "San Antonio Spurs"
     },
     {
       "date": "2026-10-29T01:30Z",
-      "status": "10/28 - 9:30 PM EDT",
+      "status": "Final",
       "home": "Dallas Mavericks",
       "away": "Oklahoma City Thunder"
     },
     {
       "date": "2026-10-29T02:30Z",
-      "status": "10/28 - 10:30 PM EDT",
+      "status": "Final",
       "home": "LA Clippers",
       "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1793237186967
+  "fetchedAt": 1793260308836
 }
