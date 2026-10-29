@@ -87,18 +87,18 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Patrick Williams",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Groin — Williams (groin) is questionable for Wednesday's game against the Knicks.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "Tobe Awaka",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Awaka (ankle) is questionable for Wednesday's game against the Knicks.",
-          "returnDate": "2026-10-28"
+          "status": "Out",
+          "detail": "Ankle — Awaka (ankle) is out for Wednesday's game against the Knicks, Joel Lorenzi of The Athletic reports.",
+          "returnDate": "2026-10-30"
+        },
+        {
+          "name": "Patrick Williams",
+          "position": "F",
+          "status": "Out",
+          "detail": "Groin — Williams (adductor) won't play in Wednesday's game against the Knicks, Joel Lorenzi of The Athletic reports.",
+          "returnDate": "2026-10-30"
         },
         {
           "name": "Nic Claxton",
@@ -115,9 +115,9 @@
         {
           "name": "Naji Marshall",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Marshall (illness) is now doubtful for Wednesday against the Thunder.",
-          "returnDate": "2026-10-28"
+          "status": "Out",
+          "detail": "Illness — Marshall (illness) won't play in Wednesday's game against Oklahoma City.",
+          "returnDate": "2026-10-30"
         },
         {
           "name": "Tarik Biberovic",
@@ -141,20 +141,6 @@
           "returnDate": "2026-10-30"
         },
         {
-          "name": "Caleb Martin",
-          "position": "F",
-          "status": "Out",
-          "detail": "Thumb — Martin (thumb) is questionable for Wednesday's game against the Thunder.",
-          "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Kyrie Irving",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Irving (knee) is questionable for Wednesday's game against the Thunder.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "Dereck Lively II",
           "position": "C",
           "status": "Out",
@@ -167,18 +153,18 @@
       "name": "Denver Nuggets",
       "players": [
         {
+          "name": "Cameron Johnson",
+          "position": "F",
+          "status": "Out",
+          "detail": "Ankle — Johnson (ankle) is listed as out for Wednesday's game against the Pelicans.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Spencer Jones",
           "position": "F",
           "status": "Out",
           "detail": "Hamstring — Jones (hamstring) has been ruled out for Wednesday's game against New Orleans.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Cameron Johnson",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Johnson (ankle) is doubtful to face the Pelicans on Wednesday.",
-          "returnDate": "2026-10-28"
         },
         {
           "name": "Alpha Diallo",
@@ -207,13 +193,6 @@
           "returnDate": "2026-10-30"
         },
         {
-          "name": "Ausar Thompson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Thompson (ankle) is probable for Wednesday against the Hornets.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "Jalen Duren",
           "position": "C",
           "status": "Out",
@@ -226,11 +205,11 @@
       "name": "Golden State Warriors",
       "players": [
         {
-          "name": "Yaxel Lendeborg",
+          "name": "Gui Santos",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Foot — Lendeborg (foot) went through Wednesday's morning shootaround, per Nick Friedell of The Athletic.",
-          "returnDate": "2026-10-28"
+          "status": "Out",
+          "detail": "Knee — Santos has been ruled out for Wednesday's game against the Timberwolves due to left knee tendinitis.",
+          "returnDate": "2026-10-30"
         },
         {
           "name": "Kristaps Porzingis",
@@ -285,39 +264,25 @@
       "name": "Indiana Pacers",
       "players": [
         {
-          "name": "Tyrese Haliburton",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports.",
-          "returnDate": "2026-11-09"
-        },
-        {
-          "name": "Andrew Nembhard",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Neck — Nembhard (neck) is listed as questionable for Wednesday's game against Philadelphia.",
-          "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Obi Toppin",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hand — Toppin is probable to play Wednesday against the 76ers due to a left hand sprain.",
-          "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Aaron Nesmith",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Nesmith (hamstring) is probable for Wednesday's game against the 76ers.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "T.J. McConnell",
           "position": "G",
           "status": "Out",
-          "detail": "Hamstring — McConnell (hamstring) is out for Wednesday's game against the 76ers.",
-          "returnDate": "2026-10-30"
+          "detail": "Hamstring — Pacers head coach Rick Carlisle stated McConnell (hamstring) is \"doing better\" and \"getting closer\" to a return, Alex Golden of SI.com reports.",
+          "returnDate": "2026-11-02"
+        },
+        {
+          "name": "Ben Sheppard",
+          "position": "G",
+          "status": "Out",
+          "detail": "Knee — Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
+          "returnDate": "2027-01-02"
+        },
+        {
+          "name": "Tyrese Haliburton",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hamstring — Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
+          "returnDate": "2026-11-13"
         },
         {
           "name": "Ivica Zubac",
@@ -325,13 +290,6 @@
           "status": "Out",
           "detail": "Ankle — Zubac (ankle) is out for Wednesday's game against the 76ers.",
           "returnDate": "2026-10-30"
-        },
-        {
-          "name": "Ben Sheppard",
-          "position": "G",
-          "status": "Out",
-          "detail": "Knee — Sheppard is scheduled for surgery to repair a torn meniscus in his left knee Wednesday, Dustin Dopirak of The Indianapolis Star reports.",
-          "returnDate": "2026-12-01"
         },
         {
           "name": "Johnny Furphy",
@@ -345,6 +303,20 @@
     {
       "name": "LA Clippers",
       "players": [
+        {
+          "name": "Max Strus",
+          "position": "G",
+          "status": "Out",
+          "detail": "Foot — Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
+          "returnDate": "2026-11-08"
+        },
+        {
+          "name": "Brandon Ingram",
+          "position": "F",
+          "status": "Out",
+          "detail": "Achilles — Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
+          "returnDate": "2026-11-08"
+        },
         {
           "name": "Rui Hachimura",
           "position": "F",
@@ -360,24 +332,10 @@
           "returnDate": "2026-11-08"
         },
         {
-          "name": "Max Strus",
-          "position": "G",
-          "status": "Out",
-          "detail": "Foot — Strus has been diagnosed with a partially torn plantar fascia in his right foot and he will be re-evaluated in four weeks, Ohm Youngmisuk of ESPN.com reports.",
-          "returnDate": "2026-11-08"
-        },
-        {
           "name": "Yanic Konan Niederhauser",
           "position": "C",
           "status": "Out",
           "detail": "Foot — Niederhauser (foot) won't be ready for the start of the season, Law Murray of The Athletic reports.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Brandon Ingram",
-          "position": "F",
-          "status": "Out",
-          "detail": "Achilles — Ingram won't be ready for the start of the season due to a partially torn Achilles, per Joey Linn of SI.com.",
           "returnDate": "2026-11-08"
         },
         {
@@ -481,6 +439,13 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Jalen Williams",
+          "position": "G",
+          "status": "Out",
+          "detail": "Leg — Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",
+          "returnDate": "2027-03-02"
+        },
+        {
           "name": "Alex Caruso",
           "position": "G",
           "status": "Out",
@@ -509,20 +474,6 @@
           "returnDate": "2026-11-04"
         },
         {
-          "name": "Ajay Mitchell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Mitchell (ankle) is questionable for Wednesday's game against Dallas.",
-          "returnDate": "2026-10-28"
-        },
-        {
-          "name": "Jalen Williams",
-          "position": "G",
-          "status": "Out",
-          "detail": "Leg — Williams has been diagnosed with a dislocated left ankle and fractured fibula, which will require surgery, Shams Charania of ESPN reports.",
-          "returnDate": "2027-03-02"
-        },
-        {
           "name": "Cason Wallace",
           "position": "G",
           "status": "Out",
@@ -541,13 +492,6 @@
     {
       "name": "Orlando Magic",
       "players": [
-        {
-          "name": "Anthony Black",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Personal — Black (personal) was not present at Wednesday's morning shootaround, Jason Beede of the Orlando Sentinel reports.",
-          "returnDate": "2026-10-28"
-        },
         {
           "name": "Jonathan Isaac",
           "position": "F",
@@ -731,18 +675,11 @@
       "name": "Utah Jazz",
       "players": [
         {
-          "name": "Jaxson Hayes",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Hayes (shoulder) is listed as questionable for Wednesday's game against the Spurs.",
-          "returnDate": "2026-10-28"
-        },
-        {
           "name": "Lauri Markkanen",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Markkanen (wrist) is questionable for Wednesday's game against the Spurs.",
-          "returnDate": "2026-10-28"
+          "status": "Out",
+          "detail": "Wrist — Markkanen (wrist) is out for Wednesday's tilt against the Spurs.",
+          "returnDate": "2026-10-31"
         },
         {
           "name": "Jaren Jackson Jr.",
@@ -771,6 +708,13 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Tre Johnson",
+          "position": "G",
+          "status": "Out",
+          "detail": "Achilles — Johnson has been ruled out for Wednesday's game against the Cavaliers due to right Achilles soreness.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Justin Champagnie",
           "position": "F",
           "status": "Out",
@@ -797,61 +741,61 @@
   "games": [
     {
       "date": "2026-10-28T23:00Z",
-      "status": "10/28 - 7:00 PM EDT",
+      "status": "Final",
       "home": "Atlanta Hawks",
       "away": "Miami Heat"
     },
     {
       "date": "2026-10-28T23:00Z",
-      "status": "10/28 - 7:00 PM EDT",
+      "status": "29.7 - 4th",
       "home": "Cleveland Cavaliers",
       "away": "Washington Wizards"
     },
     {
       "date": "2026-10-28T23:00Z",
-      "status": "10/28 - 7:00 PM EDT",
+      "status": "1:53 - 4th",
       "home": "Detroit Pistons",
       "away": "Charlotte Hornets"
     },
     {
       "date": "2026-10-28T23:00Z",
-      "status": "10/28 - 7:00 PM EDT",
+      "status": "7:17 - 4th",
       "home": "Indiana Pacers",
       "away": "Philadelphia 76ers"
     },
     {
       "date": "2026-10-28T23:30Z",
-      "status": "10/28 - 7:30 PM EDT",
+      "status": "2:14 - 3rd",
       "home": "Toronto Raptors",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-10-29T00:00Z",
-      "status": "10/28 - 8:00 PM EDT",
+      "status": "Halftime",
       "home": "Chicago Bulls",
       "away": "New York Knicks"
     },
     {
       "date": "2026-10-29T00:00Z",
-      "status": "10/28 - 8:00 PM EDT",
+      "status": "9:04 - 3rd",
       "home": "Milwaukee Bucks",
       "away": "Houston Rockets"
     },
     {
       "date": "2026-10-29T00:00Z",
-      "status": "10/28 - 8:00 PM EDT",
+      "status": "Halftime",
       "home": "Minnesota Timberwolves",
       "away": "Golden State Warriors"
     },
     {
       "date": "2026-10-29T00:00Z",
-      "status": "10/28 - 8:00 PM EDT",
+      "status": "10:18 - 3rd",
       "home": "New Orleans Pelicans",
       "away": "Denver Nuggets"
     },
     {
       "date": "2026-10-29T01:00Z",
-      "status": "10/28 - 9:00 PM EDT",
+      "status": "5:20 - 1st",
       "home": "Utah Jazz",
       "away": "San Antonio Spurs"
     },
@@ -868,5 +812,5 @@
       "away": "Los Angeles Lakers"
     }
   ],
-  "fetchedAt": 1793222877209
+  "fetchedAt": 1793237186967
 }
