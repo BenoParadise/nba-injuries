@@ -35,6 +35,13 @@
       "name": "Brooklyn Nets",
       "players": [
         {
+          "name": "Noah Clowney",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Clowney (illness) was downgraded to questionable for Friday's game versus Detroit, Erik Slater of ClutchPoints.com reports.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Egor Demin",
           "position": "G",
           "status": "Out",
@@ -57,14 +64,14 @@
           "name": "Dennis Schroder",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Foot — Schroder (foot) is questionable for Friday's game against the Wizards.",
+          "detail": "Foot — Schroder (foot) is probable for Friday against the Wizards.",
           "returnDate": "2026-10-30"
         },
         {
           "name": "Kon Knueppel",
           "position": "G",
           "status": "Out",
-          "detail": "Hamstring — Knueppel (hamstring) will practice with the G League's Greensboro Swarm on Thursday, the Hornets announced.",
+          "detail": "Hamstring — Knueppel (hamstring) was recalled from the G League's Greensboro Swarm on Friday. He remains out for Friday's contest against the Wizards.",
           "returnDate": "2026-11-02"
         },
         {
@@ -93,13 +100,6 @@
     {
       "name": "Chicago Bulls",
       "players": [
-        {
-          "name": "Patrick Williams",
-          "position": "F",
-          "status": "Out",
-          "detail": "Groin — Williams (adductor) is questionable for Friday's game in Boston.",
-          "returnDate": "2026-10-30"
-        },
         {
           "name": "Jalen Smith",
           "position": "F",
@@ -820,23 +820,65 @@
   ],
   "games": [
     {
-      "date": "2026-10-30T00:00Z",
-      "status": "Final",
-      "home": "Atlanta Hawks",
-      "away": "Cleveland Cavaliers"
+      "date": "2026-10-30T23:00Z",
+      "status": "10/30 - 7:00 PM EDT",
+      "home": "Washington Wizards",
+      "away": "Charlotte Hornets"
     },
     {
-      "date": "2026-10-30T00:00Z",
-      "status": "Final",
-      "home": "New Orleans Pelicans",
-      "away": "Sacramento Kings"
+      "date": "2026-10-30T23:30Z",
+      "status": "10/30 - 7:30 PM EDT",
+      "home": "Boston Celtics",
+      "away": "Chicago Bulls"
     },
     {
-      "date": "2026-10-30T02:00Z",
-      "status": "Final",
-      "home": "Portland Trail Blazers",
-      "away": "Memphis Grizzlies"
+      "date": "2026-10-30T23:30Z",
+      "status": "10/30 - 7:30 PM EDT",
+      "home": "Brooklyn Nets",
+      "away": "Detroit Pistons"
+    },
+    {
+      "date": "2026-10-30T23:30Z",
+      "status": "10/30 - 7:30 PM EDT",
+      "home": "Philadelphia 76ers",
+      "away": "New York Knicks"
+    },
+    {
+      "date": "2026-10-30T23:30Z",
+      "status": "10/30 - 7:30 PM EDT",
+      "home": "Toronto Raptors",
+      "away": "Orlando Magic"
+    },
+    {
+      "date": "2026-10-31T00:00Z",
+      "status": "10/30 - 8:00 PM EDT",
+      "home": "Miami Heat",
+      "away": "Indiana Pacers"
+    },
+    {
+      "date": "2026-10-31T00:00Z",
+      "status": "10/30 - 8:00 PM EDT",
+      "home": "Dallas Mavericks",
+      "away": "Houston Rockets"
+    },
+    {
+      "date": "2026-10-31T00:00Z",
+      "status": "10/30 - 8:00 PM EDT",
+      "home": "Minnesota Timberwolves",
+      "away": "LA Clippers"
+    },
+    {
+      "date": "2026-10-31T02:00Z",
+      "status": "10/30 - 10:00 PM EDT",
+      "home": "Golden State Warriors",
+      "away": "Los Angeles Lakers"
+    },
+    {
+      "date": "2026-10-31T02:00Z",
+      "status": "10/30 - 10:00 PM EDT",
+      "home": "Phoenix Suns",
+      "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1793356681720
+  "fetchedAt": 1793379229826
 }
