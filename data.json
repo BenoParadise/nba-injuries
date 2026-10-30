@@ -129,7 +129,7 @@
         {
           "name": "Meleek Thomas",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Foot — Thomas (foot) has been ruled out for Thursday's game against the Hawks, Serena Winters of FanDuel Sports Network Ohio reports.",
           "returnDate": "2026-10-31"
         }
@@ -179,10 +179,17 @@
       "name": "Denver Nuggets",
       "players": [
         {
+          "name": "Alpha Diallo",
+          "position": "F",
+          "status": "Out",
+          "detail": "Personal — Diallo (personal) is listed as questionable for Friday's game against the Suns.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Cameron Johnson",
           "position": "F",
           "status": "Out",
-          "detail": "Ankle — Johnson (ankle) is listed as out for Wednesday's game against the Pelicans.",
+          "detail": "Ankle — Johnson (ankle) is questionable for Friday's game against Phoenix.",
           "returnDate": "2026-10-30"
         },
         {
@@ -191,13 +198,6 @@
           "status": "Out",
           "detail": "Hamstring — Jones (hamstring) has been ruled out for Wednesday's game against New Orleans.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Alpha Diallo",
-          "position": "F",
-          "status": "Out",
-          "detail": "Personal — Diallo is out for Wednesday's game against the Pelicans due to personal reasons.",
-          "returnDate": "2026-10-30"
         },
         {
           "name": "Julian Strawther",
@@ -234,7 +234,7 @@
           "name": "Gui Santos",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Santos has been ruled out for Wednesday's game against the Timberwolves due to left knee tendinitis.",
+          "detail": "Knee — Santos (knee) is listed as doubtful for Friday's game against the Warriors.",
           "returnDate": "2026-10-30"
         },
         {
@@ -398,32 +398,37 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Ziaire Williams",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Foot — Williams (foot) is out for Wednesday's game against the Clippers.",
-          "returnDate": "2026-10-30"
-        },
-        {
-          "name": "Luka Doncic",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Doncic (back) is out for Wednesday's game against the Clippers.",
-          "returnDate": "2026-10-30"
-        },
-        {
           "name": "Cameron Carr",
           "position": "G",
           "status": "Out",
-          "detail": "Oblique — Carr (oblique) is out for Wednesday's game against the Clippers.",
-          "returnDate": "2026-10-30"
+          "detail": "Oblique — Carr (oblique) has been ruled out for Friday's game against Golden State.",
+          "returnDate": "2026-11-01"
         },
         {
           "name": "Adou Thiero",
           "position": "F",
           "status": "Out",
-          "detail": "Knee — Thiero (knee) is out for Wednesday's game against the Clippers.",
+          "detail": "Knee — Thiero (knee) has been ruled out for Friday's game against the Warriors.",
+          "returnDate": "2026-11-01"
+        },
+        {
+          "name": "Ziaire Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Foot — Williams (foot) is questionable for Friday's game against Golden State.",
           "returnDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "players": [
+        {
+          "name": "Quinten Post",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Post is being considered doubtful to return to Thursday's game against the Trail Blazers due to a right ankle injury.",
+          "returnDate": "2026-10-29"
         }
       ]
     },
@@ -462,17 +467,17 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
-          "name": "Dejounte Murray",
+          "name": "Jordan Poole",
           "position": "G",
-          "status": "Out",
-          "detail": "Personal — Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports.",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Poole (ankle) has been ruled out for Thursday's game against the Kings.",
           "returnDate": "2026-10-31"
         },
         {
-          "name": "Jordan Poole",
+          "name": "Dejounte Murray",
           "position": "G",
-          "status": "Out",
-          "detail": "Ankle — Poole (ankle) has been ruled out for Thursday's game against the Kings.",
+          "status": "Day-To-Day",
+          "detail": "Personal — Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports.",
           "returnDate": "2026-10-31"
         },
         {
@@ -630,7 +635,7 @@
           "name": "Oso Ighodaro",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Oblique — Ighodaro (oblique) is feeling better and considered day-to-day ahead of Friday's game against the Nuggets, John Gambadoro of Arizona Sports 98.7 FM reports.",
+          "detail": "Oblique — Ighodaro (oblique) is listed as questionable for Friday's game against Denver.",
           "returnDate": "2026-10-30"
         },
         {
@@ -648,16 +653,16 @@
         {
           "name": "Robert Williams III",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Williams (knee) is doubtful for Thursday's game against Memphis due to left knee injury management, according to the Trail Blazers.",
-          "returnDate": "2026-10-29"
+          "status": "Out",
+          "detail": "Knee — Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports.",
+          "returnDate": "2026-10-31"
         },
         {
           "name": "Chris Youngblood",
           "position": "G",
           "status": "Out",
           "detail": "Ankle — Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers.",
-          "returnDate": "2026-10-29"
+          "returnDate": "2026-10-31"
         },
         {
           "name": "Shaedon Sharpe",
@@ -809,22 +814,22 @@
   "games": [
     {
       "date": "2026-10-30T00:00Z",
-      "status": "10/29 - 8:00 PM EDT",
+      "status": "Final",
       "home": "Atlanta Hawks",
       "away": "Cleveland Cavaliers"
     },
     {
       "date": "2026-10-30T00:00Z",
-      "status": "10/29 - 8:00 PM EDT",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Sacramento Kings"
     },
     {
       "date": "2026-10-30T02:00Z",
-      "status": "10/29 - 10:00 PM EDT",
+      "status": "3:29 - 3rd",
       "home": "Portland Trail Blazers",
       "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1793317768448
+  "fetchedAt": 1793331832167
 }
