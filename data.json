@@ -101,6 +101,13 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Dailyn Swain",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Swain is listed as questionable for Friday's game at Boston due to lower-back soreness.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Jalen Smith",
           "position": "F",
           "status": "Day-To-Day",
@@ -127,10 +134,17 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
+          "name": "Jaylon Tyson",
+          "position": "G",
+          "status": "Out",
+          "detail": "Ankle — Tyson (ankle) has been ruled out for Saturday's game against the Bucks.",
+          "returnDate": "2026-11-02"
+        },
+        {
           "name": "Meleek Thomas",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Foot — Thomas (foot) has been ruled out for Thursday's game against the Hawks, Serena Winters of FanDuel Sports Network Ohio reports.",
+          "detail": "Foot — Thomas (foot) is questionable for Saturday's game against the Bucks.",
           "returnDate": "2026-10-31"
         }
       ]
@@ -138,6 +152,13 @@
     {
       "name": "Dallas Mavericks",
       "players": [
+        {
+          "name": "Naji Marshall",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Marshall (illness) is probable for Friday's game against the Rockets.",
+          "returnDate": "2026-10-30"
+        },
         {
           "name": "Tarik Biberovic",
           "position": "F",
@@ -160,13 +181,6 @@
           "returnDate": "2026-11-02"
         },
         {
-          "name": "Naji Marshall",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Marshall is questionable for Friday's game against the Rockets with an illness.",
-          "returnDate": "2026-10-30"
-        },
-        {
           "name": "Dereck Lively II",
           "position": "C",
           "status": "Out",
@@ -182,14 +196,14 @@
           "name": "Alpha Diallo",
           "position": "F",
           "status": "Out",
-          "detail": "Personal — Diallo (personal) is listed as questionable for Friday's game against the Suns.",
+          "detail": "Personal — Diallo (personal) is doubtful for Friday's game against the Suns.",
           "returnDate": "2026-10-30"
         },
         {
           "name": "Cameron Johnson",
           "position": "F",
           "status": "Out",
-          "detail": "Ankle — Johnson (ankle) is questionable for Friday's game against Phoenix.",
+          "detail": "Ankle — Johnson (ankle) is expected to play in Friday's game against the Suns, per John Gambadoro of Arizona Sports 98.7 FM.",
           "returnDate": "2026-10-30"
         },
         {
@@ -214,9 +228,9 @@
         {
           "name": "Isaiah Joe",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Joe (hip) is listed as questionable for Friday's game against Brooklyn.",
-          "returnDate": "2026-10-30"
+          "status": "Out",
+          "detail": "Hip — Joe (hip) has been ruled out for Friday's game against the Nets.",
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Jalen Duren",
@@ -234,7 +248,7 @@
           "name": "Gui Santos",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Santos (knee) is listed as doubtful for Friday's game against the Warriors.",
+          "detail": "Knee — Santos (knee) is questionable for Friday's game against the Lakers.",
           "returnDate": "2026-10-30"
         },
         {
@@ -267,7 +281,7 @@
           "name": "Reed Sheppard",
           "position": "G",
           "status": "Out",
-          "detail": "Back — Sheppard (back) is out for Friday's game against the Mavericks.",
+          "detail": "Back — Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
           "returnDate": "2026-10-31"
         },
         {
@@ -297,6 +311,27 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "Obi Toppin",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Toppin (back) is questionable for Friday's game against the Heat.",
+          "returnDate": "2026-10-30"
+        },
+        {
+          "name": "T.J. McConnell",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hamstring — McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com.",
+          "returnDate": "2026-11-02"
+        },
+        {
+          "name": "Johnny Furphy",
+          "position": "G",
+          "status": "Out",
+          "detail": "Knee — Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
+          "returnDate": "2027-01-02"
+        },
+        {
           "name": "Andrew Nembhard",
           "position": "G",
           "status": "Day-To-Day",
@@ -318,13 +353,6 @@
           "returnDate": "2026-11-01"
         },
         {
-          "name": "T.J. McConnell",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — Pacers head coach Rick Carlisle stated McConnell (hamstring) is \"doing better\" and \"getting closer\" to a return, Alex Golden of SI.com reports.",
-          "returnDate": "2026-11-02"
-        },
-        {
           "name": "Ben Sheppard",
           "position": "G",
           "status": "Out",
@@ -337,13 +365,6 @@
           "status": "Out",
           "detail": "Hamstring — Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
           "returnDate": "2026-11-13"
-        },
-        {
-          "name": "Johnny Furphy",
-          "position": "G",
-          "status": "Out",
-          "detail": "Knee — Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the season, Michael Scotto of USA Today reports.",
-          "returnDate": "2027-01-02"
         }
       ]
     },
@@ -354,7 +375,7 @@
           "name": "Rui Hachimura",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Quadriceps — Hachimura (quadriceps) is questionable for Friday's game against Minnesota, Tomer Azarly of ClutchPoints.com reports.",
+          "detail": "Quadriceps — Hachimura (quadriceps) is probable for Friday's game against Minnesota, per Ohm Youngmisuk of ESPN.com.",
           "returnDate": "2026-10-30"
         },
         {
@@ -398,10 +419,10 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Cameron Carr",
-          "position": "G",
+          "name": "Ziaire Williams",
+          "position": "F",
           "status": "Out",
-          "detail": "Oblique — Carr (oblique) has been ruled out for Friday's game against Golden State.",
+          "detail": "Foot — Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports.",
           "returnDate": "2026-11-01"
         },
         {
@@ -410,13 +431,6 @@
           "status": "Out",
           "detail": "Knee — Thiero (knee) has been ruled out for Friday's game against the Warriors.",
           "returnDate": "2026-11-01"
-        },
-        {
-          "name": "Ziaire Williams",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Foot — Williams (foot) is questionable for Friday's game against Golden State.",
-          "returnDate": "2026-10-30"
         }
       ]
     },
@@ -439,7 +453,7 @@
           "name": "Simone Fontecchio",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Illness — Fontecchio (illness) is listed as questionable for Friday's game against Indiana.",
+          "detail": "Illness — Fontecchio (illness) is probable for Friday's against the Pacers.",
           "returnDate": "2026-10-30"
         }
       ]
@@ -492,6 +506,13 @@
     {
       "name": "New York Knicks",
       "players": [
+        {
+          "name": "Karl-Anthony Towns",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Towns (wrist) is listed as probable for Friday's game against Philadelphia.",
+          "returnDate": "2026-10-30"
+        },
         {
           "name": "Jose Alvarado",
           "position": "G",
@@ -592,18 +613,18 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Jaylen Brown",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Brown (knee) is doubtful for Friday's game against the Knicks.",
+          "returnDate": "2026-10-30"
+        },
+        {
           "name": "Jabari Walker",
           "position": "F",
           "status": "Out",
           "detail": "Knee — Walker (knee) has been ruled out for Friday's game versus New York.",
           "returnDate": "2026-10-31"
-        },
-        {
-          "name": "Jaylen Brown",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Brown (knee) is questionable for Friday's game against the Knicks.",
-          "returnDate": "2026-10-30"
         },
         {
           "name": "Tacko Fall",
@@ -651,17 +672,17 @@
       "name": "Portland Trail Blazers",
       "players": [
         {
+          "name": "Ja Morant",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hamstring — Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday.",
+          "returnDate": "2026-12-01"
+        },
+        {
           "name": "Robert Williams III",
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Knee — Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports.",
-          "returnDate": "2026-10-31"
-        },
-        {
-          "name": "Ja Morant",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injury. He'll end with 14 points (6-14 FG, 2-5 3Pt), two rebounds and three assists in 23 minutes.",
           "returnDate": "2026-10-31"
         },
         {
@@ -880,5 +901,5 @@
       "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1793379229826
+  "fetchedAt": 1793394963446
 }
