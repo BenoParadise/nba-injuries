@@ -427,8 +427,8 @@
           "name": "Quinten Post",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Post is being considered doubtful to return to Thursday's game against the Trail Blazers due to a right ankle injury.",
-          "returnDate": "2026-10-29"
+          "detail": "Ankle — Post (ankle) didn't return to Thursday's game against Portland. He recorded 10 points (3-5 FG, 2-3 3Pt, 2-2 FT) and four rebounds in seven minutes before exiting.",
+          "returnDate": "2026-10-31"
         }
       ]
     },
@@ -653,8 +653,15 @@
         {
           "name": "Robert Williams III",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports.",
+          "returnDate": "2026-10-31"
+        },
+        {
+          "name": "Ja Morant",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injury. He'll end with 14 points (6-14 FG, 2-5 3Pt), two rebounds and three assists in 23 minutes.",
           "returnDate": "2026-10-31"
         },
         {
@@ -826,10 +833,10 @@
     },
     {
       "date": "2026-10-30T02:00Z",
-      "status": "3:29 - 3rd",
+      "status": "Final",
       "home": "Portland Trail Blazers",
       "away": "Memphis Grizzlies"
     }
   ],
-  "fetchedAt": 1793331832167
+  "fetchedAt": 1793356681720
 }
