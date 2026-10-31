@@ -524,6 +524,20 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "LeBron James",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — James supplied 13 points (5-12 FG, 2-3 3Pt, 1-2 FT), five rebounds, 10 assists, two blocks and one steal in 33 minutes during Wednesday's 114-109 win over the Pacers.",
+          "returnDate": "2026-10-31"
+        },
+        {
+          "name": "Joel Embiid",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Embiid closed Wednesday's 114-109 win over the Pacers with 21 points (9-17 FG, 0-3 3Pt, 3-3 FT), 11 rebounds, two assists and one block across 39 minutes.",
+          "returnDate": "2026-10-31"
+        },
+        {
           "name": "Jaylen Brown",
           "position": "G",
           "status": "Day-To-Day",
@@ -798,5 +812,5 @@
       "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1793432857868
+  "fetchedAt": 1793455568836
 }
