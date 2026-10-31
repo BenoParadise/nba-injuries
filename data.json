@@ -89,7 +89,7 @@
         {
           "name": "Dailyn Swain",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Back — Swain (back) has been ruled out for Friday's game against Boston.",
           "returnDate": "2026-11-02"
         },
@@ -229,17 +229,17 @@
       "name": "Houston Rockets",
       "players": [
         {
-          "name": "Alperen Sengun",
-          "position": "C",
-          "status": "Out",
-          "detail": "Back — Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",
+          "name": "Reed Sheppard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
           "returnDate": "2026-10-31"
         },
         {
-          "name": "Reed Sheppard",
-          "position": "G",
-          "status": "Out",
-          "detail": "Back — Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
+          "name": "Alperen Sengun",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Back — Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",
           "returnDate": "2026-10-31"
         },
         {
@@ -257,7 +257,7 @@
         {
           "name": "Obi Toppin",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Back — Toppin (back) has been ruled out for Friday's game against Miami.",
           "returnDate": "2026-11-01"
         },
@@ -344,7 +344,7 @@
         {
           "name": "Ziaire Williams",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Foot — Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports.",
           "returnDate": "2026-11-01"
         },
@@ -437,6 +437,13 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Cason Wallace",
+          "position": "G",
+          "status": "Out",
+          "detail": "Shoulder — Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",
+          "returnDate": "2027-03-02"
+        },
+        {
           "name": "Chet Holmgren",
           "position": "C",
           "status": "Out",
@@ -470,13 +477,6 @@
           "status": "Out",
           "detail": "Back — Topic (back) will remain on the inactive list for Wednesday's game in Dallas.",
           "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Cason Wallace",
-          "position": "G",
-          "status": "Out",
-          "detail": "Shoulder — Wallace has been diagnosed with a torn labrum in his left shoulder and will require surgery, Shams Charania of ESPN reports.",
-          "returnDate": "2027-03-02"
         }
       ]
     },
@@ -526,7 +526,7 @@
         {
           "name": "Jaylen Brown",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Brown (knee) is out for Friday's game against the Knicks.",
           "returnDate": "2026-10-31"
         },
@@ -739,64 +739,64 @@
   "games": [
     {
       "date": "2026-10-30T23:00Z",
-      "status": "5:34 - 4th",
+      "status": "Final",
       "home": "Washington Wizards",
       "away": "Charlotte Hornets"
     },
     {
       "date": "2026-10-30T23:30Z",
-      "status": "4:51 - 3rd",
+      "status": "Final",
       "home": "Boston Celtics",
       "away": "Chicago Bulls"
     },
     {
       "date": "2026-10-30T23:30Z",
-      "status": "4:20 - 3rd",
+      "status": "Final",
       "home": "Brooklyn Nets",
       "away": "Detroit Pistons"
     },
     {
       "date": "2026-10-30T23:30Z",
-      "status": "4:40 - 3rd",
+      "status": "Final",
       "home": "Philadelphia 76ers",
       "away": "New York Knicks"
     },
     {
       "date": "2026-10-30T23:30Z",
-      "status": "6:57 - 3rd",
+      "status": "Final",
       "home": "Toronto Raptors",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-10-31T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "Indiana Pacers"
     },
     {
       "date": "2026-10-31T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Dallas Mavericks",
       "away": "Houston Rockets"
     },
     {
       "date": "2026-10-31T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "LA Clippers"
     },
     {
       "date": "2026-10-31T02:00Z",
-      "status": "10/30 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Golden State Warriors",
       "away": "Los Angeles Lakers"
     },
     {
       "date": "2026-10-31T02:00Z",
-      "status": "10/30 - 10:00 PM EDT",
+      "status": "Final",
       "home": "Phoenix Suns",
       "away": "Denver Nuggets"
     }
   ],
-  "fetchedAt": 1793409408142
+  "fetchedAt": 1793432857868
 }
