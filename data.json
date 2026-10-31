@@ -46,7 +46,7 @@
           "position": "F",
           "status": "Out",
           "detail": "Shoulder — Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
-          "returnDate": "2026-11-01"
+          "returnDate": "2026-11-06"
         }
       ]
     },
@@ -106,18 +106,18 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
+          "name": "Meleek Thomas",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Foot — Thomas (foot) has been upgraded to probable ahead of Saturday's meeting in Milwaukee.",
+          "returnDate": "2026-10-31"
+        },
+        {
           "name": "Jaylon Tyson",
           "position": "G",
           "status": "Out",
           "detail": "Ankle — Tyson (ankle) has been ruled out for Saturday's game against the Bucks.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Meleek Thomas",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Foot — Thomas (foot) is questionable for Saturday's game against the Bucks.",
-          "returnDate": "2026-10-31"
         }
       ]
     },
@@ -231,16 +231,16 @@
         {
           "name": "Reed Sheppard",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
-          "returnDate": "2026-10-31"
+          "status": "Out",
+          "detail": "Back — Sheppard (back) is out for Saturday's game against the Thunder.",
+          "returnDate": "2026-11-02"
         },
         {
-          "name": "Alperen Sengun",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Back — Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",
-          "returnDate": "2026-10-31"
+          "name": "Fred VanVleet",
+          "position": "G",
+          "status": "Out",
+          "detail": "Knee — VanVleet (knee) won't play Saturday against the Thunder.",
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Steven Adams",
@@ -387,6 +387,13 @@
       "name": "Minnesota Timberwolves",
       "players": [
         {
+          "name": "Rudy Gobert",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Back — Gobert (back) is listed as questionable for Saturday's game at San Antonio.",
+          "returnDate": "2026-10-31"
+        },
+        {
           "name": "Anthony Edwards",
           "position": "G",
           "status": "Out",
@@ -524,39 +531,39 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "LeBron James",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — James supplied 13 points (5-12 FG, 2-3 3Pt, 1-2 FT), five rebounds, 10 assists, two blocks and one steal in 33 minutes during Wednesday's 114-109 win over the Pacers.",
-          "returnDate": "2026-10-31"
-        },
-        {
-          "name": "Joel Embiid",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Embiid closed Wednesday's 114-109 win over the Pacers with 21 points (9-17 FG, 0-3 3Pt, 3-3 FT), 11 rebounds, two assists and one block across 39 minutes.",
-          "returnDate": "2026-10-31"
-        },
-        {
-          "name": "Jaylen Brown",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Brown (knee) is out for Friday's game against the Knicks.",
-          "returnDate": "2026-10-31"
-        },
-        {
           "name": "Jabari Walker",
           "position": "F",
           "status": "Out",
-          "detail": "Knee — Walker (knee) has been ruled out for Friday's game versus New York.",
+          "detail": "Knee — Walker (knee) is questionable for Saturday's game in Charlotte.",
           "returnDate": "2026-10-31"
+        },
+        {
+          "name": "LeBron James",
+          "position": "F",
+          "status": "Out",
+          "detail": "Back — James (back) has been ruled out for Saturday's meeting in Charlotte.",
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Tacko Fall",
           "position": "C",
           "status": "Out",
-          "detail": "Quadriceps — Fall (quadriceps) is out for Wednesday's game in Indiana.",
-          "returnDate": "2026-11-04"
+          "detail": "Quadriceps — Fall (quad) is questionable to face the Hornets on Saturday.",
+          "returnDate": "2026-10-31"
+        },
+        {
+          "name": "Joel Embiid",
+          "position": "C",
+          "status": "Out",
+          "detail": "Foot — Embiid (foot) is out for Saturday's game in Charlotte.",
+          "returnDate": "2026-11-02"
+        },
+        {
+          "name": "Jaylen Brown",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Brown (knee) is questionable for Saturday's game in Charlotte.",
+          "returnDate": "2026-10-31"
         },
         {
           "name": "Dominick Barlow",
@@ -589,20 +596,6 @@
     {
       "name": "Portland Trail Blazers",
       "players": [
-        {
-          "name": "Robert Williams III",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Williams (knee) is questionable for Saturday's game against the Jazz.",
-          "returnDate": "2026-10-31"
-        },
-        {
-          "name": "Chris Youngblood",
-          "position": "G",
-          "status": "Out",
-          "detail": "Ankle — Youngblood (ankle) is questionable for Saturday's game against Utah.",
-          "returnDate": "2026-10-31"
-        },
         {
           "name": "Ja Morant",
           "position": "G",
@@ -694,13 +687,6 @@
       "name": "Utah Jazz",
       "players": [
         {
-          "name": "Lauri Markkanen",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Markkanen (wrist) is listed as questionable for Saturday's game against Portland.",
-          "returnDate": "2026-10-31"
-        },
-        {
           "name": "Jaren Jackson Jr.",
           "position": "F",
           "status": "Out",
@@ -752,65 +738,47 @@
   ],
   "games": [
     {
-      "date": "2026-10-30T23:00Z",
-      "status": "Final",
-      "home": "Washington Wizards",
-      "away": "Charlotte Hornets"
+      "date": "2026-10-31T19:00Z",
+      "status": "10/31 - 3:00 PM EDT",
+      "home": "Utah Jazz",
+      "away": "Portland Trail Blazers"
     },
     {
-      "date": "2026-10-30T23:30Z",
-      "status": "Final",
-      "home": "Boston Celtics",
-      "away": "Chicago Bulls"
+      "date": "2026-10-31T22:00Z",
+      "status": "10/31 - 6:00 PM EDT",
+      "home": "Charlotte Hornets",
+      "away": "Philadelphia 76ers"
     },
     {
-      "date": "2026-10-30T23:30Z",
-      "status": "Final",
-      "home": "Brooklyn Nets",
-      "away": "Detroit Pistons"
+      "date": "2026-10-31T23:00Z",
+      "status": "10/31 - 7:00 PM EDT",
+      "home": "New Orleans Pelicans",
+      "away": "Atlanta Hawks"
     },
     {
-      "date": "2026-10-30T23:30Z",
-      "status": "Final",
-      "home": "Philadelphia 76ers",
-      "away": "New York Knicks"
+      "date": "2026-11-01T00:00Z",
+      "status": "10/31 - 8:00 PM EDT",
+      "home": "Memphis Grizzlies",
+      "away": "Sacramento Kings"
     },
     {
-      "date": "2026-10-30T23:30Z",
-      "status": "Final",
-      "home": "Toronto Raptors",
-      "away": "Orlando Magic"
+      "date": "2026-11-01T00:00Z",
+      "status": "10/31 - 8:00 PM EDT",
+      "home": "Milwaukee Bucks",
+      "away": "Cleveland Cavaliers"
     },
     {
-      "date": "2026-10-31T00:00Z",
-      "status": "Final",
-      "home": "Miami Heat",
-      "away": "Indiana Pacers"
+      "date": "2026-11-01T00:00Z",
+      "status": "10/31 - 8:00 PM EDT",
+      "home": "San Antonio Spurs",
+      "away": "Minnesota Timberwolves"
     },
     {
-      "date": "2026-10-31T00:00Z",
-      "status": "Final",
-      "home": "Dallas Mavericks",
-      "away": "Houston Rockets"
-    },
-    {
-      "date": "2026-10-31T00:00Z",
-      "status": "Final",
-      "home": "Minnesota Timberwolves",
-      "away": "LA Clippers"
-    },
-    {
-      "date": "2026-10-31T02:00Z",
-      "status": "Final",
-      "home": "Golden State Warriors",
-      "away": "Los Angeles Lakers"
-    },
-    {
-      "date": "2026-10-31T02:00Z",
-      "status": "Final",
-      "home": "Phoenix Suns",
-      "away": "Denver Nuggets"
+      "date": "2026-11-01T00:30Z",
+      "status": "10/31 - 8:30 PM EDT",
+      "home": "Houston Rockets",
+      "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1793455568836
+  "fetchedAt": 1793473010320
 }
