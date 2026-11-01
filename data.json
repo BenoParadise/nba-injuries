@@ -115,18 +115,18 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Nic Claxton",
+          "position": "C",
+          "status": "Out",
+          "detail": "Hamstring — Claxton (hamstring) was a full participant in Sunday's practice, K.C. Johnson of Chicago Sports Network.",
+          "returnDate": "2026-11-04"
+        },
+        {
           "name": "Dailyn Swain",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Back — Swain (back) has been ruled out for Friday's game against Boston.",
           "returnDate": "2026-11-02"
-        },
-        {
-          "name": "Nic Claxton",
-          "position": "C",
-          "status": "Out",
-          "detail": "Hamstring — Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
-          "returnDate": "2026-11-04"
         }
       ]
     },
@@ -289,13 +289,20 @@
           "position": "C",
           "status": "Out",
           "detail": "Calf — Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
-          "returnDate": "2026-11-02"
+          "returnDate": "2026-11-09"
         }
       ]
     },
     {
       "name": "Indiana Pacers",
       "players": [
+        {
+          "name": "T.J. McConnell",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hamstring — Indiana recalled McConnell (hamstring) from the G League's Noblesville Boom on Saturday.",
+          "returnDate": "2026-11-02"
+        },
         {
           "name": "Ivica Zubac",
           "position": "C",
@@ -316,13 +323,6 @@
           "status": "Day-To-Day",
           "detail": "Back — Toppin (back) is questionable for Sunday's game against the Nets.",
           "returnDate": "2026-11-01"
-        },
-        {
-          "name": "T.J. McConnell",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com.",
-          "returnDate": "2026-11-02"
         },
         {
           "name": "Johnny Furphy",
@@ -351,24 +351,10 @@
       "name": "LA Clippers",
       "players": [
         {
-          "name": "Yanic Konan Niederhauser",
-          "position": "C",
-          "status": "Out",
-          "detail": "Foot — Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports.",
-          "returnDate": "2026-11-08"
-        },
-        {
           "name": "Max Strus",
           "position": "G",
           "status": "Out",
           "detail": "Foot — Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Brandon Ingram",
-          "position": "F",
-          "status": "Out",
-          "detail": "Achilles — Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
           "returnDate": "2026-11-08"
         },
         {
@@ -773,47 +759,29 @@
   ],
   "games": [
     {
-      "date": "2026-10-31T19:00Z",
-      "status": "Final",
-      "home": "Utah Jazz",
-      "away": "Portland Trail Blazers"
+      "date": "2026-11-01T20:30Z",
+      "status": "11/1 - 3:30 PM EST",
+      "home": "Orlando Magic",
+      "away": "Boston Celtics"
     },
     {
-      "date": "2026-10-31T22:00Z",
-      "status": "Final",
-      "home": "Charlotte Hornets",
-      "away": "Philadelphia 76ers"
+      "date": "2026-11-01T22:00Z",
+      "status": "11/1 - 5:00 PM EST",
+      "home": "Indiana Pacers",
+      "away": "Brooklyn Nets"
     },
     {
-      "date": "2026-10-31T23:00Z",
-      "status": "Final",
-      "home": "New Orleans Pelicans",
-      "away": "Atlanta Hawks"
+      "date": "2026-11-02T01:30Z",
+      "status": "11/1 - 8:30 PM EST",
+      "home": "Golden State Warriors",
+      "away": "LA Clippers"
     },
     {
-      "date": "2026-11-01T00:00Z",
-      "status": "Final",
-      "home": "Memphis Grizzlies",
-      "away": "Sacramento Kings"
-    },
-    {
-      "date": "2026-11-01T00:00Z",
-      "status": "Final",
-      "home": "Milwaukee Bucks",
-      "away": "Cleveland Cavaliers"
-    },
-    {
-      "date": "2026-11-01T00:00Z",
-      "status": "Final",
-      "home": "San Antonio Spurs",
-      "away": "Minnesota Timberwolves"
-    },
-    {
-      "date": "2026-11-01T00:30Z",
-      "status": "Final",
-      "home": "Houston Rockets",
-      "away": "Oklahoma City Thunder"
+      "date": "2026-11-02T02:00Z",
+      "status": "11/1 - 9:00 PM EST",
+      "home": "Los Angeles Lakers",
+      "away": "Toronto Raptors"
     }
   ],
-  "fetchedAt": 1793547459726
+  "fetchedAt": 1793563185472
 }
