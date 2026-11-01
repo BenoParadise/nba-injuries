@@ -39,9 +39,9 @@
         {
           "name": "Mitchell Robinson",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Rest — Robinson (rest) is questionable for Sunday's game in Orlando, Jay King of The Athletic reports.",
-          "returnDate": "2026-11-01"
+          "status": "Out",
+          "detail": "Rest — Robinson (rest) has been ruled out for Sunday's game against the Magic.",
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Devin Carter",
@@ -391,17 +391,17 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Adou Thiero",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — Thiero (knee) has been ruled out for Sunday's game against the Raptors.",
+          "returnDate": "2026-11-09"
+        },
+        {
           "name": "Ziaire Williams",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Foot — Williams (foot) is questionable for Sunday's game against the Raptors, Law Murray of The Athletic reports.",
-          "returnDate": "2026-11-01"
-        },
-        {
-          "name": "Adou Thiero",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Thiero (knee) has been ruled out for Friday's game against the Warriors.",
           "returnDate": "2026-11-01"
         }
       ]
@@ -815,5 +815,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1793521706469
+  "fetchedAt": 1793547459726
 }
