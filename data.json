@@ -4,6 +4,20 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Jalen Johnson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Johnson (ankle) is questionable to return to Saturday's game against the Pelicans.",
+          "returnDate": "2026-10-31"
+        },
+        {
+          "name": "Jock Landale",
+          "position": "C",
+          "status": "Out",
+          "detail": "Hip — Landale (hip) won't return to Saturday's game against the Pelicans.",
+          "returnDate": "2026-11-02"
+        },
+        {
           "name": "Mouhamed Gueye",
           "position": "F",
           "status": "Out",
@@ -119,13 +133,6 @@
     {
       "name": "Cleveland Cavaliers",
       "players": [
-        {
-          "name": "Meleek Thomas",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Foot — Thomas (foot) has been upgraded to probable ahead of Saturday's meeting in Milwaukee.",
-          "returnDate": "2026-10-31"
-        },
         {
           "name": "Jaylon Tyson",
           "position": "G",
@@ -387,7 +394,7 @@
           "name": "Ziaire Williams",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Foot — Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports.",
+          "detail": "Foot — Williams (foot) is questionable for Sunday's game against the Raptors, Law Murray of The Athletic reports.",
           "returnDate": "2026-11-01"
         },
         {
@@ -403,25 +410,25 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
-          "name": "Scotty Pippen Jr.",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Pippen (back) is listed as questionable for Saturday's game against the Kings.",
-          "returnDate": "2026-10-31"
-        },
-        {
           "name": "Ty Jerome",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Jerome (back) is listed as questionable for Saturday's game against the Kings.",
-          "returnDate": "2026-10-31"
+          "status": "Out",
+          "detail": "Back — Jerome (back) won't play in Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian.",
+          "returnDate": "2026-11-02"
+        },
+        {
+          "name": "Scotty Pippen Jr.",
+          "position": "G",
+          "status": "Out",
+          "detail": "Back — Pippen (back) has been ruled out for Saturday's game against the Kings, Chris Herrington of The Daily Memphian reports.",
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Quinten Post",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Post (ankle) is doubtful for Friday's game against the Kings.",
-          "returnDate": "2026-10-31"
+          "status": "Out",
+          "detail": "Ankle — Post (ankle) has been ruled out for Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian reports.",
+          "returnDate": "2026-11-02"
         }
       ]
     },
@@ -431,9 +438,9 @@
         {
           "name": "Rudy Gobert",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Back — Gobert (back) is listed as questionable for Saturday's game at San Antonio.",
-          "returnDate": "2026-10-31"
+          "status": "Out",
+          "detail": "Back — Gobert (back) is out for Saturday's game against the Spurs, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
+          "returnDate": "2026-11-02"
         },
         {
           "name": "Anthony Edwards",
@@ -677,13 +684,6 @@
       "name": "San Antonio Spurs",
       "players": [
         {
-          "name": "Stephon Castle",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Head — Castle (migraine) is questionable for Saturday's game against the Timberwolves, Paul Garcia of ProjectSpurs.com reports.",
-          "returnDate": "2026-10-31"
-        },
-        {
           "name": "Tobias Harris",
           "position": "F",
           "status": "Out",
@@ -780,40 +780,40 @@
     },
     {
       "date": "2026-10-31T22:00Z",
-      "status": "10/31 - 6:00 PM EDT",
+      "status": "Final",
       "home": "Charlotte Hornets",
       "away": "Philadelphia 76ers"
     },
     {
       "date": "2026-10-31T23:00Z",
-      "status": "10/31 - 7:00 PM EDT",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-11-01T00:00Z",
-      "status": "10/31 - 8:00 PM EDT",
+      "status": "6:53 - 3rd",
       "home": "Memphis Grizzlies",
       "away": "Sacramento Kings"
     },
     {
       "date": "2026-11-01T00:00Z",
-      "status": "10/31 - 8:00 PM EDT",
+      "status": "1:26 - 3rd",
       "home": "Milwaukee Bucks",
       "away": "Cleveland Cavaliers"
     },
     {
       "date": "2026-11-01T00:00Z",
-      "status": "10/31 - 8:00 PM EDT",
+      "status": "6:10 - 3rd",
       "home": "San Antonio Spurs",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-11-01T00:30Z",
-      "status": "10/31 - 8:30 PM EDT",
+      "status": "Halftime",
       "home": "Houston Rockets",
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1793484599228
+  "fetchedAt": 1793497425088
 }
