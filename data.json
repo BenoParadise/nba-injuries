@@ -245,6 +245,13 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Gui Santos",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports.",
+          "returnDate": "2026-11-05"
+        },
+        {
           "name": "Draymond Green",
           "position": "F",
           "status": "Out",
@@ -358,6 +365,13 @@
       "name": "LA Clippers",
       "players": [
         {
+          "name": "Derrick Jones Jr.",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, Ohm Youngmisuk of ESPN.com reports.",
+          "returnDate": "2026-11-02"
+        },
+        {
           "name": "Max Strus",
           "position": "G",
           "status": "Out",
@@ -375,7 +389,7 @@
           "name": "Brandon Ingram",
           "position": "F",
           "status": "Out",
-          "detail": "Achilles — Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
+          "detail": "Achilles — Los Angeles assigned Ingram (Achilles) to the G League's San Diego Clippers on Saturday.",
           "returnDate": "2026-11-08"
         },
         {
@@ -710,7 +724,7 @@
         {
           "name": "Jakob Poeltl",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Shoulder — Poeltl (shoulder) won't play in Sunday's game against the Lakers, Vivek Jacob of the Raptors' official site reports.",
           "returnDate": "2026-11-02"
         },
@@ -812,16 +826,16 @@
     },
     {
       "date": "2026-11-02T01:30Z",
-      "status": "7:06 - 4th",
+      "status": "Final",
       "home": "Golden State Warriors",
       "away": "LA Clippers"
     },
     {
       "date": "2026-11-02T02:00Z",
-      "status": "4:48 - 3rd",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "Toronto Raptors"
     }
   ],
-  "fetchedAt": 1793590741748
+  "fetchedAt": 1793620368159
 }
