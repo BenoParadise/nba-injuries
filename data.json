@@ -4,6 +4,13 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Kingston Flemings",
+          "position": "G",
+          "status": "Suspension",
+          "detail": "Suspension — Flemings (suspension) won't play in Monday's game against Indiana, Andrew Schlecht of The Athletic reports.",
+          "returnDate": "2026-11-04"
+        },
+        {
           "name": "Jalen Johnson",
           "position": "F",
           "status": "Day-To-Day",
@@ -58,7 +65,7 @@
         {
           "name": "Mikel Brown Jr.",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Rest — Brown (rest) is out for Sunday's game in Indiana.",
           "returnDate": "2026-11-02"
         },
@@ -153,6 +160,13 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Tarik Biberovic",
+          "position": "F",
+          "status": "Out",
+          "detail": "Heel — Biberovic (heel) is listed as out for Monday's game against Sacramento.",
+          "returnDate": "2026-11-12"
+        },
+        {
           "name": "Dereck Lively II",
           "position": "C",
           "status": "Out",
@@ -179,13 +193,6 @@
           "status": "Out",
           "detail": "Knee — Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
           "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Tarik Biberovic",
-          "position": "F",
-          "status": "Out",
-          "detail": "Heel — Biberovic (heel) is out for Friday's game against the Rockets.",
-          "returnDate": "2026-11-12"
         }
       ]
     },
@@ -193,17 +200,17 @@
       "name": "Denver Nuggets",
       "players": [
         {
-          "name": "Alpha Diallo",
-          "position": "F",
-          "status": "Out",
-          "detail": "Personal — Diallo (personal/wrist) has been ruled out for Friday's game against Phoenix, Vic Lombardi of Altitude Sports reports.",
-          "returnDate": "2026-11-02"
-        },
-        {
           "name": "Spencer Jones",
           "position": "F",
           "status": "Out",
-          "detail": "Hamstring — Jones (hamstring) has been ruled out for Wednesday's game against New Orleans.",
+          "detail": "Hamstring — Jones (hamstring) is listed as out for Monday's game against the Trail Blazers.",
+          "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Alpha Diallo",
+          "position": "F",
+          "status": "Out",
+          "detail": "Wrist — Diallo (wrist) is listed as questionable for Monday's game versus Portland.",
           "returnDate": "2026-11-02"
         },
         {
@@ -237,13 +244,6 @@
     {
       "name": "Golden State Warriors",
       "players": [
-        {
-          "name": "Gui Santos",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Santos (knee) is probable for Sunday's game against the Clippers.",
-          "returnDate": "2026-11-01"
-        },
         {
           "name": "Draymond Green",
           "position": "F",
@@ -313,7 +313,7 @@
         {
           "name": "Obi Toppin",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Back — Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports.",
           "returnDate": "2026-11-02"
         },
@@ -358,6 +358,13 @@
       "name": "LA Clippers",
       "players": [
         {
+          "name": "Max Strus",
+          "position": "G",
+          "status": "Out",
+          "detail": "Foot — Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday, Los Angeles Clippers sideline reporter/host Ohm Youngmisuk reports.",
+          "returnDate": "2026-11-08"
+        },
+        {
           "name": "Yanic Konan Niederhauser",
           "position": "C",
           "status": "Out",
@@ -369,13 +376,6 @@
           "position": "F",
           "status": "Out",
           "detail": "Achilles — Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Max Strus",
-          "position": "G",
-          "status": "Out",
-          "detail": "Foot — Los Angeles assigned Strus (foot) to the G League's San Diego Clippers on Friday.",
           "returnDate": "2026-11-08"
         },
         {
@@ -417,17 +417,29 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
-          "name": "Quinten Post",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Post (ankle) has been ruled out for Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian reports.",
-          "returnDate": "2026-11-02"
-        },
-        {
           "name": "Scotty Pippen Jr.",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Back — Pippen (back) has been ruled out for Saturday's game against the Kings, Chris Herrington of The Daily Memphian reports.",
+          "detail": "Back — Pippen (back) is listed as doubtful for Monday's game against the Pelicans.",
+          "returnDate": "2026-11-02"
+        },
+        {
+          "name": "Quinten Post",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Post (ankle) is questionable to suit up for Monday's game against New Orleans.",
+          "returnDate": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "name": "Miami Heat",
+      "players": [
+        {
+          "name": "Tim Hardaway Jr.",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Personal — Hardaway (personal) is listed as questionable for Monday's game against the Lakers.",
           "returnDate": "2026-11-02"
         }
       ]
@@ -493,6 +505,13 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Thomas Sorber",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Oklahoma City exercised the third-year team option on Sorber (knee) on Sunday, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-11-04"
+        },
+        {
           "name": "Cason Wallace",
           "position": "G",
           "status": "Out",
@@ -518,13 +537,6 @@
           "position": "G",
           "status": "Out",
           "detail": "Ankle — Caruso (ankle) is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Thomas Sorber",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Sorber (knee) has been ruled out for Wednesday's game against the Mavericks.",
           "returnDate": "2026-11-04"
         },
         {
@@ -637,17 +649,17 @@
       "name": "Sacramento Kings",
       "players": [
         {
-          "name": "Zach LaVine",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Elbow — LaVine chipped in 11 points (4-9 FG, 0-3 3Pt, 3-3 FT) and one assist over 21 minutes during Saturday's 136-105 loss to Memphis.",
-          "returnDate": "2026-11-02"
-        },
-        {
           "name": "Dylan Cardwell",
           "position": "C",
           "status": "Out",
-          "detail": "Calf — Cardwell (calf) will be re-evaluated in one week, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+          "detail": "Calf — Cardwell (calf) is questionable to suit up for Monday's game against the Mavericks.",
+          "returnDate": "2026-11-02"
+        },
+        {
+          "name": "Zach LaVine",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Elbow — LaVine (elbow) is questionable to play in Monday's game against Dallas.",
           "returnDate": "2026-11-02"
         },
         {
@@ -695,6 +707,13 @@
     {
       "name": "Toronto Raptors",
       "players": [
+        {
+          "name": "Jakob Poeltl",
+          "position": "C",
+          "status": "Out",
+          "detail": "Shoulder — Poeltl (shoulder) won't play in Sunday's game against the Lakers, Vivek Jacob of the Raptors' official site reports.",
+          "returnDate": "2026-11-02"
+        },
         {
           "name": "Kawhi Leonard",
           "position": "F",
@@ -787,22 +806,22 @@
     },
     {
       "date": "2026-11-01T22:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Indiana Pacers",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-11-02T01:30Z",
-      "status": "11/1 - 8:30 PM EST",
+      "status": "7:06 - 4th",
       "home": "Golden State Warriors",
       "away": "LA Clippers"
     },
     {
       "date": "2026-11-02T02:00Z",
-      "status": "11/1 - 9:00 PM EST",
+      "status": "4:48 - 3rd",
       "home": "Los Angeles Lakers",
       "away": "Toronto Raptors"
     }
   ],
-  "fetchedAt": 1793575532942
+  "fetchedAt": 1793590741748
 }
