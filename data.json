@@ -259,7 +259,7 @@
         {
           "name": "Clint Capela",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Capela (ankle) has been ruled out for Monday's game against the Celtics.",
           "returnDate": "2026-11-04"
         },
@@ -527,7 +527,7 @@
           "position": "G",
           "status": "Out",
           "detail": "Back — Topic (back) will remain on the inactive list for Wednesday's game in Dallas.",
-          "returnDate": "2026-11-06"
+          "returnDate": "2026-11-04"
         }
       ]
     },
@@ -676,7 +676,7 @@
           "position": "F",
           "status": "Out",
           "detail": "Calf — Harris (calf) is listed as out for Saturday's game against Minnesota.",
-          "returnDate": "2026-11-06"
+          "returnDate": "2026-11-09"
         },
         {
           "name": "Jayden Quaintance",
@@ -789,95 +789,89 @@
   ],
   "games": [
     {
-      "date": "2026-11-03T00:00Z",
-      "status": "Final",
-      "home": "Cleveland Cavaliers",
-      "away": "Oklahoma City Thunder"
+      "date": "2026-11-05T00:00Z",
+      "status": "11/4 - 7:00 PM EST",
+      "home": "Detroit Pistons",
+      "away": "Philadelphia 76ers"
     },
     {
-      "date": "2026-11-03T00:30Z",
-      "status": "Final",
-      "home": "Charlotte Hornets",
-      "away": "Detroit Pistons"
-    },
-    {
-      "date": "2026-11-03T00:30Z",
-      "status": "Final",
-      "home": "Indiana Pacers",
+      "date": "2026-11-05T00:00Z",
+      "status": "11/4 - 7:00 PM EST",
+      "home": "Washington Wizards",
       "away": "Atlanta Hawks"
     },
     {
-      "date": "2026-11-03T00:30Z",
-      "status": "Final",
-      "home": "New York Knicks",
-      "away": "Brooklyn Nets"
-    },
-    {
-      "date": "2026-11-03T00:30Z",
-      "status": "Final",
-      "home": "Orlando Magic",
-      "away": "Washington Wizards"
-    },
-    {
-      "date": "2026-11-03T00:30Z",
-      "status": "Final",
-      "home": "Philadelphia 76ers",
-      "away": "Chicago Bulls"
-    },
-    {
-      "date": "2026-11-03T01:00Z",
-      "status": "Final",
-      "home": "Dallas Mavericks",
-      "away": "Sacramento Kings"
-    },
-    {
-      "date": "2026-11-03T01:00Z",
-      "status": "Final/OT",
-      "home": "Memphis Grizzlies",
-      "away": "New Orleans Pelicans"
-    },
-    {
-      "date": "2026-11-03T01:00Z",
-      "status": "Final",
-      "home": "Minnesota Timberwolves",
+      "date": "2026-11-05T00:30Z",
+      "status": "11/4 - 7:30 PM EST",
+      "home": "Boston Celtics",
       "away": "Milwaukee Bucks"
     },
     {
-      "date": "2026-11-03T01:30Z",
-      "status": "Final",
-      "home": "Houston Rockets",
-      "away": "Boston Celtics"
+      "date": "2026-11-05T00:30Z",
+      "status": "11/4 - 7:30 PM EST",
+      "home": "Brooklyn Nets",
+      "away": "Charlotte Hornets"
     },
     {
-      "date": "2026-11-03T01:30Z",
-      "status": "Final",
-      "home": "San Antonio Spurs",
+      "date": "2026-11-05T00:30Z",
+      "status": "11/4 - 7:30 PM EST",
+      "home": "New York Knicks",
+      "away": "Chicago Bulls"
+    },
+    {
+      "date": "2026-11-05T01:00Z",
+      "status": "11/4 - 8:00 PM EST",
+      "home": "Memphis Grizzlies",
+      "away": "Indiana Pacers"
+    },
+    {
+      "date": "2026-11-05T01:00Z",
+      "status": "11/4 - 8:00 PM EST",
+      "home": "New Orleans Pelicans",
       "away": "Utah Jazz"
     },
     {
-      "date": "2026-11-03T02:00Z",
-      "status": "Final",
+      "date": "2026-11-05T01:00Z",
+      "status": "11/4 - 8:00 PM EST",
+      "home": "Oklahoma City Thunder",
+      "away": "Cleveland Cavaliers"
+    },
+    {
+      "date": "2026-11-05T01:30Z",
+      "status": "11/4 - 8:30 PM EST",
+      "home": "Houston Rockets",
+      "away": "Minnesota Timberwolves"
+    },
+    {
+      "date": "2026-11-05T02:00Z",
+      "status": "11/4 - 9:00 PM EST",
       "home": "Denver Nuggets",
-      "away": "Portland Trail Blazers"
-    },
-    {
-      "date": "2026-11-03T03:00Z",
-      "status": "Final",
-      "home": "Golden State Warriors",
-      "away": "Phoenix Suns"
-    },
-    {
-      "date": "2026-11-03T03:00Z",
-      "status": "Final",
-      "home": "LA Clippers",
       "away": "Toronto Raptors"
     },
     {
-      "date": "2026-11-03T03:00Z",
-      "status": "Final",
-      "home": "Los Angeles Lakers",
+      "date": "2026-11-05T02:00Z",
+      "status": "11/4 - 9:00 PM EST",
+      "home": "Phoenix Suns",
+      "away": "Portland Trail Blazers"
+    },
+    {
+      "date": "2026-11-05T02:30Z",
+      "status": "11/4 - 9:30 PM EST",
+      "home": "San Antonio Spurs",
+      "away": "Dallas Mavericks"
+    },
+    {
+      "date": "2026-11-05T03:00Z",
+      "status": "11/4 - 10:00 PM EST",
+      "home": "Sacramento Kings",
+      "away": "Los Angeles Lakers"
+    },
+    {
+      "date": "2026-11-05T03:30Z",
+      "status": "11/4 - 10:30 PM EST",
+      "home": "LA Clippers",
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1793705410705
+  "fetchedAt": 1793731959116
 }
