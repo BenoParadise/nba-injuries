@@ -4,24 +4,17 @@
       "name": "Atlanta Hawks",
       "players": [
         {
-          "name": "Jalen Johnson",
-          "position": "F",
-          "status": "Out",
-          "detail": "Ankle — Johnson (ankle) has been ruled out for Monday's game versus Indiana.",
-          "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Kingston Flemings",
-          "position": "G",
-          "status": "Suspension",
-          "detail": "Suspension — Flemings (suspension) won't play in Monday's game against Indiana, Andrew Schlecht of The Athletic reports.",
-          "returnDate": "2026-11-04"
-        },
-        {
           "name": "Jock Landale",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Hip — Landale (hip) has been ruled out for Monday's game against Indiana.",
+          "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Jalen Johnson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Johnson (ankle) has been ruled out for Monday's game versus Indiana.",
           "returnDate": "2026-11-04"
         },
         {
@@ -46,7 +39,7 @@
         {
           "name": "Paul George",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Rest — George will be rested Monday against Houston.",
           "returnDate": "2026-11-04"
         },
@@ -115,14 +108,14 @@
         {
           "name": "Peyton Watson",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Hamstring — Watson (hamstring) is out for Monday's game against the Thunder, Chris Fedor of The Cleveland Plain Dealer reports.",
           "returnDate": "2026-11-04"
         },
         {
           "name": "Jaylon Tyson",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
           "returnDate": "2026-11-04"
         }
@@ -132,17 +125,17 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Kyrie Irving",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Irving (knee) has been ruled out for Monday's game against the Kings.",
+          "returnDate": "2026-11-04"
+        },
+        {
           "name": "Max Christie",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Hip — Christie has been ruled out for the rest of Monday's game against the Kings due to a right hip injury, Mike Curtis of The Dallas Morning News reports. He'll end the night with no points (0-5 FG, 0-5 3Pt), two rebounds and one steal in eight minutes.",
-          "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Kyrie Irving",
-          "position": "G",
-          "status": "Out",
-          "detail": "Knee — Irving (knee) has been ruled out for Monday's game against the Kings.",
           "returnDate": "2026-11-04"
         },
         {
@@ -219,22 +212,22 @@
         {
           "name": "Brandon Williams",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Quadriceps — Williams (quadriceps) has been ruled out for Monday's game against the Suns.",
-          "returnDate": "2026-11-05"
-        },
-        {
-          "name": "Al Horford",
-          "position": "C",
-          "status": "Out",
-          "detail": "Rest — Horford will be rested Monday against the Suns.",
           "returnDate": "2026-11-05"
         },
         {
           "name": "Gui Santos",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports.",
+          "returnDate": "2026-11-05"
+        },
+        {
+          "name": "Al Horford",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Horford will be rested Monday against the Suns.",
           "returnDate": "2026-11-05"
         },
         {
@@ -283,16 +276,37 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "Pascal Siakam",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Rest — Siakam will be rested against the Hawks on Monday.",
+          "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Aaron Nesmith",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Rest — Nesmith (rest) is sitting out Monday against Atlanta.",
+          "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Andrew Nembhard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Neck — Nembhard (cervical strain) is out for Monday's game against Atlanta.",
+          "returnDate": "2026-11-04"
+        },
+        {
           "name": "Kelly Oubre Jr.",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Oubre (knee) has been ruled out for Monday's game against the Hawks.",
           "returnDate": "2026-11-04"
         },
         {
           "name": "Larry Nance Jr.",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Nance (illness) has been ruled out for Monday's game against the Hawks.",
           "returnDate": "2026-11-04"
         },
@@ -316,27 +330,6 @@
           "status": "Out",
           "detail": "Ankle — Zubac (ankle) has been ruled out for Monday's game against the Hawks.",
           "returnDate": "2026-11-09"
-        },
-        {
-          "name": "Aaron Nesmith",
-          "position": "G",
-          "status": "Out",
-          "detail": "Rest — Nesmith (rest) is sitting out Monday against Atlanta.",
-          "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Andrew Nembhard",
-          "position": "G",
-          "status": "Out",
-          "detail": "Neck — Nembhard (cervical strain) is out for Monday's game against Atlanta.",
-          "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Pascal Siakam",
-          "position": "F",
-          "status": "Out",
-          "detail": "Rest — Siakam will be rested against the Hawks on Monday.",
-          "returnDate": "2026-11-04"
         },
         {
           "name": "Johnny Furphy",
@@ -365,17 +358,17 @@
       "name": "LA Clippers",
       "players": [
         {
-          "name": "Rui Hachimura",
+          "name": "Derrick Jones Jr.",
           "position": "F",
-          "status": "Out",
-          "detail": "Quadriceps — Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors.",
+          "status": "Day-To-Day",
+          "detail": "Knee — Jones (knee) has been ruled out for Monday's game against the Raptors.",
           "returnDate": "2026-11-04"
         },
         {
-          "name": "Derrick Jones Jr.",
+          "name": "Rui Hachimura",
           "position": "F",
-          "status": "Out",
-          "detail": "Knee — Jones (knee) has been ruled out for Monday's game against the Raptors.",
+          "status": "Day-To-Day",
+          "detail": "Quadriceps — Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors.",
           "returnDate": "2026-11-04"
         },
         {
@@ -424,17 +417,17 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
-          "name": "Scotty Pippen Jr.",
-          "position": "G",
-          "status": "Out",
-          "detail": "Back — Pippen (back) has been ruled out for Monday's game against the Pelicans.",
+          "name": "Quinten Post",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Post (ankle) has been downgraded to out for Monday's game against the Pelicans.",
           "returnDate": "2026-11-04"
         },
         {
-          "name": "Quinten Post",
-          "position": "C",
-          "status": "Out",
-          "detail": "Ankle — Post (ankle) has been downgraded to out for Monday's game against the Pelicans.",
+          "name": "Scotty Pippen Jr.",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Pippen (back) has been ruled out for Monday's game against the Pelicans.",
           "returnDate": "2026-11-04"
         }
       ]
@@ -445,7 +438,7 @@
         {
           "name": "Terrence Shannon Jr.",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Hip — Shannon (hip) has been ruled out for Monday's game against the Bucks, Jon Krawczynski of The Athletic reports.",
           "returnDate": "2026-11-04"
         },
@@ -534,7 +527,7 @@
           "position": "G",
           "status": "Out",
           "detail": "Back — Topic (back) will remain on the inactive list for Wednesday's game in Dallas.",
-          "returnDate": "2026-11-04"
+          "returnDate": "2026-11-06"
         }
       ]
     },
@@ -544,7 +537,7 @@
         {
           "name": "Anthony Black",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Rest — Black will be rested Monday against the Wizards.",
           "returnDate": "2026-11-05"
         },
@@ -607,6 +600,13 @@
     {
       "name": "Phoenix Suns",
       "players": [
+        {
+          "name": "Jordan Goodwin",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Calf — Goodwin won't return to Monday's game against the Warriors due to a left calf injury, Duane Rankin of The Arizona Republic reports. He recorded four points (2-3 FG, 0-1 3Pt), two rebounds, two assists and one steal in 10 minutes before exiting.",
+          "returnDate": "2026-11-04"
+        },
         {
           "name": "Mark Williams",
           "position": "C",
@@ -693,7 +693,7 @@
         {
           "name": "Jakob Poeltl",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Shoulder — Poeltl (shoulder) has been ruled out for Monday's game against the Clippers, Zulfi Sheikh reports.",
           "returnDate": "2026-11-04"
         },
@@ -743,25 +743,25 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Alex Sarr",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Sarr (knee) is out for Monday's game against Orlando.",
+          "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Anthony Gill",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Gill (back) is out for Monday's game against the Magic.",
+          "returnDate": "2026-11-04"
+        },
+        {
           "name": "Reece Beekman",
           "position": "G",
           "status": "Out",
           "detail": "Shoulder — The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.",
           "returnDate": "2026-12-03"
-        },
-        {
-          "name": "Anthony Gill",
-          "position": "F",
-          "status": "Out",
-          "detail": "Back — Gill (back) is out for Monday's game against the Magic.",
-          "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Alex Sarr",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Sarr (knee) is out for Monday's game against Orlando.",
-          "returnDate": "2026-11-04"
         },
         {
           "name": "Tristan Vukcevic",
@@ -826,58 +826,58 @@
     },
     {
       "date": "2026-11-03T01:00Z",
-      "status": "7:00 - 4th",
+      "status": "Final",
       "home": "Dallas Mavericks",
       "away": "Sacramento Kings"
     },
     {
       "date": "2026-11-03T01:00Z",
-      "status": "3:27 - 4th",
+      "status": "Final/OT",
       "home": "Memphis Grizzlies",
       "away": "New Orleans Pelicans"
     },
     {
       "date": "2026-11-03T01:00Z",
-      "status": "4:57 - 4th",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Milwaukee Bucks"
     },
     {
       "date": "2026-11-03T01:30Z",
-      "status": "4:35 - 3rd",
+      "status": "Final",
       "home": "Houston Rockets",
       "away": "Boston Celtics"
     },
     {
       "date": "2026-11-03T01:30Z",
-      "status": "4:45 - 3rd",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-11-03T02:00Z",
-      "status": "1.9 - 2nd",
+      "status": "Final",
       "home": "Denver Nuggets",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-11-03T03:00Z",
-      "status": "11/2 - 10:00 PM EST",
+      "status": "Final",
       "home": "Golden State Warriors",
       "away": "Phoenix Suns"
     },
     {
       "date": "2026-11-03T03:00Z",
-      "status": "11:37 - 1st",
+      "status": "Final",
       "home": "LA Clippers",
       "away": "Toronto Raptors"
     },
     {
       "date": "2026-11-03T03:00Z",
-      "status": "11:33 - 1st",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1793675558781
+  "fetchedAt": 1793705410705
 }
