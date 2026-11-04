@@ -186,11 +186,25 @@
       "name": "Denver Nuggets",
       "players": [
         {
+          "name": "Cameron Johnson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Johnson (lower body injury management) is listed as probable for Wednesday's game against Toronto.",
+          "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Alpha Diallo",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Diallo (wrist) is probable for Wednesday's game against the Raptors.",
+          "returnDate": "2026-11-04"
+        },
+        {
           "name": "Spencer Jones",
           "position": "F",
           "status": "Out",
-          "detail": "Hamstring — Jones (hamstring) is listed as out for Monday's game against the Trail Blazers.",
-          "returnDate": "2026-11-04"
+          "detail": "Hamstring — Jones (hamstring) is out for Wednesday's game against the Raptors.",
+          "returnDate": "2026-11-11"
         },
         {
           "name": "Julian Strawther",
@@ -290,6 +304,20 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "Ivica Zubac",
+          "position": "C",
+          "status": "Out",
+          "detail": "Ankle — Zubac (ankle) is listed as questionable for Wednesday's game against the Grizzlies.",
+          "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Kelly Oubre Jr.",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Oubre (knee) is questionable for Wednesday's game against the Grizzlies.",
+          "returnDate": "2026-11-04"
+        },
+        {
           "name": "Obi Toppin",
           "position": "F",
           "status": "Out",
@@ -297,24 +325,10 @@
           "returnDate": "2026-11-04"
         },
         {
-          "name": "Kelly Oubre Jr.",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Oubre (knee) has been ruled out for Monday's game against the Hawks.",
-          "returnDate": "2026-11-04"
-        },
-        {
           "name": "T.J. McConnell",
           "position": "G",
           "status": "Out",
           "detail": "Hamstring — McConnell (hamstring) is out for Monday's game against the Hawks and remains week-to-week.",
-          "returnDate": "2026-11-09"
-        },
-        {
-          "name": "Ivica Zubac",
-          "position": "C",
-          "status": "Out",
-          "detail": "Ankle — Zubac (ankle) has been ruled out for Monday's game against the Hawks.",
           "returnDate": "2026-11-09"
         },
         {
@@ -343,20 +357,6 @@
     {
       "name": "LA Clippers",
       "players": [
-        {
-          "name": "Derrick Jones Jr.",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Jones (knee) has been ruled out for Monday's game against the Raptors.",
-          "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Rui Hachimura",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Quadriceps — Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors.",
-          "returnDate": "2026-11-04"
-        },
         {
           "name": "Yanic Konan Niederhauser",
           "position": "C",
@@ -415,6 +415,25 @@
           "status": "Out",
           "detail": "Back — Pippen (back) won't play Wednesday against the Pacers.",
           "returnDate": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "name": "Miami Heat",
+      "players": [
+        {
+          "name": "Myron Gardner",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Quadriceps — Gardner (quadriceps) is listed as questionable for Wednesday's game against the Clippers.",
+          "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Giannis Antetokounmpo",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist.",
+          "returnDate": "2026-11-04"
         }
       ]
     },
@@ -602,7 +621,14 @@
           "name": "Jordan Goodwin",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Calf — Goodwin won't return to Monday's game against the Warriors due to a left calf injury, Duane Rankin of The Arizona Republic reports. He recorded four points (2-3 FG, 0-1 3Pt), two rebounds, two assists and one steal in 10 minutes before exiting.",
+          "detail": "Calf — Goodwin (calf) is questionable for Wednesday's game against Portland, Duane Rankin of The Arizona Republic reports.",
+          "returnDate": "2026-11-04"
+        },
+        {
+          "name": "Rasheer Fleming",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Fleming is questionable for Wednesday's game against the Trail Blazers due to a sprained left ankle, Duane Rankin of The Arizona Republic reports.",
           "returnDate": "2026-11-04"
         },
         {
@@ -637,10 +663,10 @@
       "name": "Sacramento Kings",
       "players": [
         {
-          "name": "Dylan Cardwell",
-          "position": "C",
-          "status": "Out",
-          "detail": "Calf — Cardwell (calf) has been ruled out for Monday's game against the Mavericks.",
+          "name": "Precious Achiuwa",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Achiuwa (ankle) is listed as probable for Wednesday's game against the Lakers.",
           "returnDate": "2026-11-04"
         },
         {
@@ -689,6 +715,13 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Kawhi Leonard",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
+          "returnDate": "2026-11-23"
+        },
+        {
           "name": "Jakob Poeltl",
           "position": "C",
           "status": "Day-To-Day",
@@ -701,13 +734,6 @@
           "status": "Out",
           "detail": "Foot — Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return.",
           "returnDate": "2026-11-09"
-        },
-        {
-          "name": "Kawhi Leonard",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",
-          "returnDate": "2026-11-23"
         }
       ]
     },
@@ -878,5 +904,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1793749745052
+  "fetchedAt": 1793765198466
 }
