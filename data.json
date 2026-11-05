@@ -4,24 +4,24 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Asa Newell",
+          "position": "F",
+          "status": "Out",
+          "detail": "Toe — Newell won't return to Wednesday's game against the Wizards due to a left great toe hyperextension, Brad Rowland of the Locked On Podcast Network reports. He'll finish with two points (1-1 FG), three rebounds and three assists across 10 minutes.",
+          "returnDate": "2026-11-07"
+        },
+        {
           "name": "Jock Landale",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Hip — Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chouinard of the Hawks' official site reports.",
-          "returnDate": "2026-11-06"
+          "status": "Out",
+          "detail": "Hip — Landale (hip) has been ruled out for Friday's game against the Wizards.",
+          "returnDate": "2026-11-07"
         },
         {
           "name": "Jalen Johnson",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Johnson (ankle) is listed as out for Wednesday's game in Washington.",
-          "returnDate": "2026-11-06"
-        },
-        {
-          "name": "Asa Newell",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Toe — Newell won't return to Wednesday's game against the Wizards due to a left great toe hyperextension, Brad Rowland of the Locked On Podcast Network reports. He'll finish with two points (1-1 FG), three rebounds and three assists across 10 minutes.",
+          "detail": "Ankle — Johnson is questionable to suit up for Friday's game against Washington.",
           "returnDate": "2026-11-06"
         },
         {
@@ -44,17 +44,10 @@
       "name": "Boston Celtics",
       "players": [
         {
-          "name": "Jayson Tatum",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
-          "returnDate": "2026-11-06"
-        },
-        {
           "name": "Payton Pritchard",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Eye — Pritchard exited Wednesday's 109-102 win over the Bucks and did not return due to a right eye abrasion, finishing with 10 points (4-7 FG, 2-2 FT), five assists and one rebound across 18 minutes.",
+          "detail": "Eye — Pritchard (eye) is questionable for Friday against Charlotte, Taylor Snow of the Celtics' official site reports.",
           "returnDate": "2026-11-06"
         },
         {
@@ -103,11 +96,25 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Dennis Schroder",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Thigh — Schroder (thigh) is questionable for Friday's game against the Celtics.",
+          "returnDate": "2026-11-06"
+        },
+        {
+          "name": "Moussa Diabate",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Quadriceps — Diabate (quadriceps) is questionable for Friday's game against the Celtics.",
+          "returnDate": "2026-11-06"
+        },
+        {
           "name": "Kon Knueppel",
           "position": "G",
           "status": "Out",
-          "detail": "Leg — Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left leg and he will not return, Brett Siegel of ClutchPoints.com reports.",
-          "returnDate": "2026-11-06"
+          "detail": "Hamstring — Knueppel (hamstring) is out for Friday's game against the Celtics.",
+          "returnDate": "2026-11-09"
         },
         {
           "name": "Grant Williams",
@@ -122,6 +129,13 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Nic Claxton",
+          "position": "C",
+          "status": "Out",
+          "detail": "Hamstring — The Bulls assigned Claxton (hamstring) to the G League's Windy City Bulls on Thursday.",
+          "returnDate": "2026-11-08"
+        },
+        {
           "name": "Zach Collins",
           "position": "F",
           "status": "Day-To-Day",
@@ -134,13 +148,6 @@
           "status": "Day-To-Day",
           "detail": "Hand — Smith (hand) won't return to Wednesday's game against the Knicks.",
           "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Nic Claxton",
-          "position": "C",
-          "status": "Out",
-          "detail": "Hamstring — Claxton (hamstring) is listed as out for Wednesday's game against New York.",
-          "returnDate": "2026-11-08"
         }
       ]
     },
@@ -148,31 +155,31 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
-          "name": "Peyton Watson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Watson (hamstring) is out for Wednesday's game in Oklahoma City.",
-          "returnDate": "2026-11-06"
-        },
-        {
-          "name": "Jarrett Allen",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Allen (knee) exited to the locker room in the first quarter of Wednesday's 124-116 loss to the Thunder and did not return, finishing with zero points (0-1 FG) and one rebound in seven minutes.",
-          "returnDate": "2026-11-06"
-        },
-        {
           "name": "Tyrese Proctor",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Proctor exited Wednesday's 124-116 loss to the Thunder in the fourth quarter and did not return due to an apparent ankle injury, finishing with 11 points (4-7 FG, 2-3 3Pt, 1-1 FT), one rebound and one steal across 22 minutes.",
+          "detail": "Ankle — Proctor (ankle) is questionable to play in Friday's game against the 76ers.",
           "returnDate": "2026-11-06"
         },
         {
           "name": "Jaylon Tyson",
           "position": "G",
           "status": "Out",
-          "detail": "Ankle — According to Cavaliers head coach Kenny Atkinson, Tyson (ankle) has been \"on the court lately progressing well,\" Chris Fedor of The Cleveland Plain Dealer reports.",
+          "detail": "Ankle — Tyson (ankle) is out for Friday's game against the 76ers.",
+          "returnDate": "2026-11-07"
+        },
+        {
+          "name": "Peyton Watson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Watson (hamstring) is questionable for Friday's game against the 76ers.",
+          "returnDate": "2026-11-06"
+        },
+        {
+          "name": "Jarrett Allen",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Allen (knee) is questionable for Friday's game against Philadelphia.",
           "returnDate": "2026-11-06"
         }
       ]
@@ -213,7 +220,7 @@
           "position": "F",
           "status": "Out",
           "detail": "Knee — Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
-          "returnDate": "2026-11-06"
+          "returnDate": "2026-11-12"
         }
       ]
     },
@@ -394,7 +401,7 @@
           "name": "Adou Thiero",
           "position": "F",
           "status": "Out",
-          "detail": "Knee — The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on Wednesday, per Khobi Price of The California Post.",
+          "detail": "Knee — The Lakers recalled Thiero (knee) from the G League's Coachella Valley Lakers on Thursday, per Ryan Ward of SI.com.",
           "returnDate": "2026-11-06"
         }
       ]
@@ -460,18 +467,18 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
-          "name": "Trey Murphy III",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Murphy (knees) is listed as out for Wednesday's game against Utah.",
-          "returnDate": "2026-11-06"
-        },
-        {
           "name": "Yves Missi",
           "position": "C",
           "status": "Out",
-          "detail": "Knee — Missi (knee) won't play in Saturday's game against Atlanta.",
+          "detail": "Knee — Missi (knee) is out for Friday's game against Minnesota.",
           "returnDate": "2026-11-08"
+        },
+        {
+          "name": "Trey Murphy III",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Murphy (knee) is probable for Friday's game against Minnesota.",
+          "returnDate": "2026-11-06"
         }
       ]
     },
@@ -581,7 +588,7 @@
           "name": "Adem Bona",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Head — Bona exited Wednesday's 112-106 win over the Pistons in the fourth quarter and did not return due to an apparent head injury, finishing with five points (2-4 FG, 1-1 FT), two rebounds, one assist and one steal across 15 minutes.",
+          "detail": "Back — Bona (back) is doubtful to play in Friday's game against the Cavaliers, Ky Carlin of USA Today reports.",
           "returnDate": "2026-11-06"
         },
         {
@@ -604,18 +611,18 @@
       "name": "Phoenix Suns",
       "players": [
         {
-          "name": "Jordan Goodwin",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Goodwin (calf) won't play in Wednesday's game against Portland.",
-          "returnDate": "2026-11-05"
-        },
-        {
           "name": "Rasheer Fleming",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle.",
-          "returnDate": "2026-11-05"
+          "status": "Out",
+          "detail": "Ankle — Fleming is out for Thursday's game against the Magic due to a sprained left ankle.",
+          "returnDate": "2026-11-07"
+        },
+        {
+          "name": "Jordan Goodwin",
+          "position": "G",
+          "status": "Out",
+          "detail": "Calf — Goodwin (calf) is out for Thursday's game against Orlando.",
+          "returnDate": "2026-11-07"
         },
         {
           "name": "Mark Williams",
@@ -797,5 +804,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1793897921539
+  "fetchedAt": 1793918108267
 }
