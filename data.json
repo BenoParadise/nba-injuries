@@ -4,6 +4,13 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Asa Newell",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Toe — Newell won't return to Wednesday's game against the Wizards due to a left great toe hyperextension, Brad Rowland of the Locked On Podcast Network reports. He'll finish with two points (1-1 FG), three rebounds and three assists across 10 minutes.",
+          "returnDate": "2026-11-06"
+        },
+        {
           "name": "Jalen Johnson",
           "position": "F",
           "status": "Out",
@@ -37,6 +44,13 @@
       "name": "Boston Celtics",
       "players": [
         {
+          "name": "Payton Pritchard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Eye — Pritchard exited Wednesday's 109-102 win over the Bucks and did not return due to a right eye abrasion, finishing with 10 points (4-7 FG, 2-2 FT), five assists and one rebound across 18 minutes.",
+          "returnDate": "2026-11-06"
+        },
+        {
           "name": "Devin Carter",
           "position": "G",
           "status": "Out",
@@ -55,6 +69,20 @@
     {
       "name": "Brooklyn Nets",
       "players": [
+        {
+          "name": "Noah Clowney",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Clowney (knee) supplied seven points (3-6 FG, 1-4 3Pt), one rebound and one assist over 17 minutes during Wednesday's 114-104 victory over the Hornets.",
+          "returnDate": "2026-11-07"
+        },
+        {
+          "name": "Day'Ron Sharpe",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",
+          "returnDate": "2026-11-04"
+        },
         {
           "name": "Egor Demin",
           "position": "G",
@@ -78,8 +106,8 @@
           "name": "Kon Knueppel",
           "position": "G",
           "status": "Out",
-          "detail": "Hamstring — Knueppel (hamstring) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports.",
-          "returnDate": "2026-11-04"
+          "detail": "Leg — Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left leg and he will not return, Brett Siegel of ClutchPoints.com reports.",
+          "returnDate": "2026-11-06"
         },
         {
           "name": "Grant Williams",
@@ -94,6 +122,20 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Zach Collins",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Collins (undisclosed) exited to the locker room in the fourth quarter of Wednesday's 135-105 loss to the Knicks, finishing with three points (1-4 FG, 0-2 3Pt, 1-1 FT), three assists, one rebound and one steal across 14 minutes.",
+          "returnDate": "2026-11-08"
+        },
+        {
+          "name": "Jalen Smith",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hand — Smith (hand) won't return to Wednesday's game against the Knicks.",
+          "returnDate": "2026-11-08"
+        },
+        {
           "name": "Nic Claxton",
           "position": "C",
           "status": "Out",
@@ -105,6 +147,20 @@
     {
       "name": "Cleveland Cavaliers",
       "players": [
+        {
+          "name": "Jarrett Allen",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Allen (knee) exited to the locker room in the first quarter of Wednesday's 124-116 loss to the Thunder and did not return, finishing with zero points (0-1 FG) and one rebound in seven minutes.",
+          "returnDate": "2026-11-06"
+        },
+        {
+          "name": "Tyrese Proctor",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Proctor exited Wednesday's 124-116 loss to the Thunder in the fourth quarter and did not return due to an apparent ankle injury, finishing with 11 points (4-7 FG, 2-3 3Pt, 1-1 FT), one rebound and one steal across 22 minutes.",
+          "returnDate": "2026-11-06"
+        },
         {
           "name": "Jaylon Tyson",
           "position": "G",
@@ -165,18 +221,11 @@
       "name": "Denver Nuggets",
       "players": [
         {
-          "name": "Cameron Johnson",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Lower Body — Johnson (lower body injury management) is listed as probable for Wednesday's game against Toronto.",
-          "returnDate": "2026-11-04"
-        },
-        {
-          "name": "Alpha Diallo",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Diallo (wrist) is probable for Wednesday's game against the Raptors.",
-          "returnDate": "2026-11-04"
+          "name": "DeMar DeRozan",
+          "position": "G",
+          "status": "Out",
+          "detail": "Back — DeRozan has been ruled out for Wednesday's game against the Raptors due to lower-back spasms.",
+          "returnDate": "2026-11-07"
         },
         {
           "name": "Spencer Jones",
@@ -309,13 +358,6 @@
       "name": "LA Clippers",
       "players": [
         {
-          "name": "Isaiah Jackson",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Groin — Jackson is questionable for Wednesday's game against the Heat with left groin soreness, per Law Murray of The Athletic.",
-          "returnDate": "2026-11-04"
-        },
-        {
           "name": "Yanic Konan Niederhauser",
           "position": "C",
           "status": "Out",
@@ -361,23 +403,18 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
+          "name": "Isaiah Stewart",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Stewart (knee) exited Wednesday's 107-103 loss to the Pacers and did not return, finishing with six points (3-4 FG) and one rebound in 10 minutes.",
+          "returnDate": "2026-11-06"
+        },
+        {
           "name": "Scotty Pippen Jr.",
           "position": "G",
           "status": "Out",
           "detail": "Back — Pippen (back) won't play Wednesday against the Pacers.",
           "returnDate": "2026-11-06"
-        }
-      ]
-    },
-    {
-      "name": "Miami Heat",
-      "players": [
-        {
-          "name": "Giannis Antetokounmpo",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist.",
-          "returnDate": "2026-11-04"
         }
       ]
     },
@@ -541,6 +578,13 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Adem Bona",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Head — Bona exited Wednesday's 112-106 win over the Pistons in the fourth quarter and did not return due to an apparent head injury, finishing with five points (2-4 FG, 1-1 FT), two rebounds, one assist and one steal across 15 minutes.",
+          "returnDate": "2026-11-06"
+        },
+        {
           "name": "Dominick Barlow",
           "position": "F",
           "status": "Out",
@@ -560,17 +604,17 @@
       "name": "Phoenix Suns",
       "players": [
         {
+          "name": "Jordan Goodwin",
+          "position": "G",
+          "status": "Out",
+          "detail": "Calf — Goodwin (calf) won't play in Wednesday's game against Portland.",
+          "returnDate": "2026-11-05"
+        },
+        {
           "name": "Rasheer Fleming",
           "position": "F",
           "status": "Out",
           "detail": "Ankle — Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle.",
-          "returnDate": "2026-11-05"
-        },
-        {
-          "name": "Jordan Goodwin",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Goodwin (calf) is questionable for Wednesday's game against Portland, Duane Rankin of The Arizona Republic reports.",
           "returnDate": "2026-11-05"
         },
         {
@@ -585,6 +629,13 @@
     {
       "name": "Portland Trail Blazers",
       "players": [
+        {
+          "name": "Vit Krejci",
+          "position": "G",
+          "status": "Out",
+          "detail": "Ankle — Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports.",
+          "returnDate": "2027-01-02"
+        },
         {
           "name": "Ja Morant",
           "position": "G",
@@ -664,13 +715,6 @@
           "returnDate": "2026-11-23"
         },
         {
-          "name": "Jakob Poeltl",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Poeltl is questionable for Wednesday's game against the Nuggets due to left shoulder bursitis, Blake Murphy of Sportsnet.ca reports.",
-          "returnDate": "2026-11-04"
-        },
-        {
           "name": "Nate Bittle",
           "position": "C",
           "status": "Out",
@@ -742,88 +786,88 @@
   "games": [
     {
       "date": "2026-11-05T00:00Z",
-      "status": "3:26 - 2nd",
+      "status": "Final",
       "home": "Detroit Pistons",
       "away": "Philadelphia 76ers"
     },
     {
       "date": "2026-11-05T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Washington Wizards",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-11-05T00:30Z",
-      "status": "10:25 - 2nd",
+      "status": "Final",
       "home": "Boston Celtics",
       "away": "Milwaukee Bucks"
     },
     {
       "date": "2026-11-05T00:30Z",
-      "status": "2:00 - 1st",
+      "status": "Final",
       "home": "Brooklyn Nets",
       "away": "Charlotte Hornets"
     },
     {
       "date": "2026-11-05T00:30Z",
-      "status": "End of 1st",
+      "status": "Final",
       "home": "New York Knicks",
       "away": "Chicago Bulls"
     },
     {
       "date": "2026-11-05T01:00Z",
-      "status": "11:40 - 1st",
+      "status": "Final",
       "home": "Memphis Grizzlies",
       "away": "Indiana Pacers"
     },
     {
       "date": "2026-11-05T01:00Z",
-      "status": "11:44 - 1st",
+      "status": "Final/OT",
       "home": "New Orleans Pelicans",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-11-05T01:00Z",
-      "status": "11:55 - 1st",
+      "status": "Final",
       "home": "Oklahoma City Thunder",
       "away": "Cleveland Cavaliers"
     },
     {
       "date": "2026-11-05T01:30Z",
-      "status": "11/4 - 8:30 PM EST",
+      "status": "Final",
       "home": "Houston Rockets",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-11-05T02:00Z",
-      "status": "11/4 - 9:00 PM EST",
+      "status": "Final",
       "home": "Denver Nuggets",
       "away": "Toronto Raptors"
     },
     {
       "date": "2026-11-05T02:00Z",
-      "status": "11/4 - 9:00 PM EST",
+      "status": "Final",
       "home": "Phoenix Suns",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-11-05T02:30Z",
-      "status": "11/4 - 9:30 PM EST",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "Dallas Mavericks"
     },
     {
       "date": "2026-11-05T03:00Z",
-      "status": "11/4 - 10:00 PM EST",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "Los Angeles Lakers"
     },
     {
       "date": "2026-11-05T03:30Z",
-      "status": "11/4 - 10:30 PM EST",
+      "status": "Final/OT",
       "home": "LA Clippers",
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1793841071651
+  "fetchedAt": 1793868464299
 }
