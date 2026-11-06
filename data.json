@@ -282,7 +282,7 @@
         {
           "name": "Gui Santos",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Santos (knee) has been ruled out for Thursday's game against the Heat.",
           "returnDate": "2026-11-07"
         },
@@ -618,17 +618,17 @@
       "name": "Phoenix Suns",
       "players": [
         {
-          "name": "Rasheer Fleming",
-          "position": "F",
-          "status": "Out",
-          "detail": "Ankle — Fleming is out for Thursday's game against the Magic due to a sprained left ankle.",
+          "name": "Jordan Goodwin",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Calf — Goodwin (calf) is out for Thursday's game against Orlando.",
           "returnDate": "2026-11-07"
         },
         {
-          "name": "Jordan Goodwin",
-          "position": "G",
-          "status": "Out",
-          "detail": "Calf — Goodwin (calf) is out for Thursday's game against Orlando.",
+          "name": "Rasheer Fleming",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Fleming is out for Thursday's game against the Magic due to a sprained left ankle.",
           "returnDate": "2026-11-07"
         },
         {
@@ -807,16 +807,16 @@
   "games": [
     {
       "date": "2026-11-06T02:00Z",
-      "status": "3:30 - 2nd",
+      "status": "Final",
       "home": "Phoenix Suns",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-11-06T03:00Z",
-      "status": "11/5 - 10:00 PM EST",
+      "status": "Final",
       "home": "Golden State Warriors",
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1793933953326
+  "fetchedAt": 1793961133454
 }
