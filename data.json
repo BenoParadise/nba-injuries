@@ -4,6 +4,13 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Jalen Johnson",
+          "position": "F",
+          "status": "Out",
+          "detail": "Ankle — Johnson (ankle) is out for Friday's game against the Wizards.",
+          "returnDate": "2026-11-07"
+        },
+        {
           "name": "Keshon Gilbert",
           "position": "G",
           "status": "Out",
@@ -23,13 +30,6 @@
           "status": "Out",
           "detail": "Hip — Landale (hip) has been ruled out for Friday's game against the Wizards.",
           "returnDate": "2026-11-07"
-        },
-        {
-          "name": "Jalen Johnson",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Johnson is questionable to suit up for Friday's game against Washington.",
-          "returnDate": "2026-11-06"
         },
         {
           "name": "Mouhamed Gueye",
@@ -63,13 +63,6 @@
       "name": "Brooklyn Nets",
       "players": [
         {
-          "name": "Noah Clowney",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Clowney (knee) supplied seven points (3-6 FG, 1-4 3Pt), one rebound and one assist over 17 minutes during Wednesday's 114-104 victory over the Hornets.",
-          "returnDate": "2026-11-07"
-        },
-        {
           "name": "Day'Ron Sharpe",
           "position": "C",
           "status": "Day-To-Day",
@@ -98,16 +91,16 @@
         {
           "name": "Dennis Schroder",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Thigh — Schroder (thigh) is questionable for Friday's game against the Celtics.",
-          "returnDate": "2026-11-06"
+          "status": "Out",
+          "detail": "Thigh — Schroder (thigh) is out for Friday's game versus Boston.",
+          "returnDate": "2026-11-09"
         },
         {
           "name": "Moussa Diabate",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Quadriceps — Diabate (quadriceps) is questionable for Friday's game against the Celtics.",
-          "returnDate": "2026-11-06"
+          "status": "Out",
+          "detail": "Quadriceps — Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report.",
+          "returnDate": "2026-11-09"
         },
         {
           "name": "Kon Knueppel",
@@ -129,17 +122,17 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Nic Claxton",
-          "position": "C",
-          "status": "Out",
-          "detail": "Hamstring — Claxton (hamstring) was recalled from the G League's Windy City Bulls on Thursday.",
-          "returnDate": "2026-11-08"
-        },
-        {
           "name": "Zach Collins",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Undisclosed — Collins (undisclosed) exited to the locker room in the fourth quarter of Wednesday's 135-105 loss to the Knicks, finishing with three points (1-4 FG, 0-2 3Pt, 1-1 FT), three assists, one rebound and one steal across 14 minutes.",
+          "detail": "Illness — Collins didn't practice Friday due to an illness, per K.C. Johnson of Chicago Sports Network.",
+          "returnDate": "2026-11-08"
+        },
+        {
+          "name": "Nic Claxton",
+          "position": "C",
+          "status": "Out",
+          "detail": "Hamstring — Head coach Tiago Splittler said Friday that Claxton (hamstring) is expected to make his season debut Sunday against the 76ers, per Joel Lorenzi of The Athletic.",
           "returnDate": "2026-11-08"
         },
         {
@@ -187,6 +180,13 @@
     {
       "name": "Dallas Mavericks",
       "players": [
+        {
+          "name": "Kyrie Irving",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Irving (illness) is probable for Friday's game against Utah.",
+          "returnDate": "2026-11-06"
+        },
         {
           "name": "Sergio de Larrea",
           "position": "F",
@@ -273,18 +273,32 @@
       "name": "Golden State Warriors",
       "players": [
         {
-          "name": "Gui Santos",
+          "name": "Draymond Green",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Santos (knee) has been ruled out for Thursday's game against the Heat.",
+          "detail": "Elbow — Green (elbow) is listed as questionable ahead of Saturday's game against Orlando.",
+          "returnDate": "2026-11-07"
+        },
+        {
+          "name": "Gary Payton II",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Calf — Payton is questionable to play Saturday against the Magic due to right calf tightness.",
           "returnDate": "2026-11-07"
         },
         {
           "name": "Kristaps Porzingis",
           "position": "C",
           "status": "Out",
-          "detail": "Illness — The Warriors have stopped issuing salary payments to Porzingis, who remains away from the team and is considering retirement, Anthony Slater and Shams Charania of ESPN reported Wednesday.",
-          "returnDate": "2026-12-01"
+          "detail": "Illness — Porzingis announced on his social media that he's stepping away from basketball.",
+          "returnDate": "2027-01-02"
+        },
+        {
+          "name": "Gui Santos",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic.",
+          "returnDate": "2026-11-07"
         },
         {
           "name": "Moses Moody",
@@ -308,9 +322,9 @@
         {
           "name": "Clint Capela",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Capela (ankle) is out for Wednesday's game against the Timberwolves.",
-          "returnDate": "2026-11-07"
+          "status": "Out",
+          "detail": "Ankle — Capela (ankle) is out for Saturday's game against the Suns.",
+          "returnDate": "2026-11-09"
         },
         {
           "name": "Steven Adams",
@@ -365,17 +379,17 @@
       "name": "LA Clippers",
       "players": [
         {
+          "name": "Brandon Ingram",
+          "position": "F",
+          "status": "Out",
+          "detail": "Achilles — Ingram (Achilles) has progressed to full contact basketball activities, per NBA writer Justin Russo.",
+          "returnDate": "2026-11-08"
+        },
+        {
           "name": "Yanic Konan Niederhauser",
           "position": "C",
           "status": "Out",
           "detail": "Foot — The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Brandon Ingram",
-          "position": "F",
-          "status": "Out",
-          "detail": "Achilles — The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday.",
           "returnDate": "2026-11-08"
         },
         {
@@ -391,18 +405,6 @@
           "status": "Out",
           "detail": "Shoulder — Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
           "returnDate": "2027-03-02"
-        }
-      ]
-    },
-    {
-      "name": "Los Angeles Lakers",
-      "players": [
-        {
-          "name": "Sandro Mamukelashvili",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Mamukelashvili (illness) is listed as questionable for Friday's game against Portland.",
-          "returnDate": "2026-11-06"
         }
       ]
     },
@@ -443,9 +445,9 @@
         {
           "name": "Terrence Shannon Jr.",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Shannon (hip) is questionable for Friday's game against New Orleans.",
-          "returnDate": "2026-11-06"
+          "status": "Out",
+          "detail": "Hip — Shannon (hip) has been ruled out for Friday's game against New Orleans.",
+          "returnDate": "2026-11-08"
         },
         {
           "name": "Anthony Edwards",
@@ -467,13 +469,6 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
-          "name": "Trey Murphy III",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Murphy (knee) participated in shootaround and expects to play Friday against Minnesota, Jim Eichenhofer of the Pelicans' official site reports.",
-          "returnDate": "2026-11-06"
-        },
-        {
           "name": "Yves Missi",
           "position": "C",
           "status": "Out",
@@ -488,9 +483,9 @@
         {
           "name": "Josh Hart",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Hart is out for Wednesday's game against the Bulls due to right ankle soreness.",
-          "returnDate": "2026-11-07"
+          "status": "Out",
+          "detail": "Ankle — Hart is out for Saturday's game against the Cavaliers due to right ankle soreness.",
+          "returnDate": "2026-11-10"
         }
       ]
     },
@@ -663,6 +658,13 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "De'Andre Hunter",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Hunter is questionable for Friday against the Spurs due to an illness.",
+          "returnDate": "2026-11-06"
+        },
+        {
           "name": "Maxime Raynaud",
           "position": "C",
           "status": "Out",
@@ -708,17 +710,31 @@
       "name": "Toronto Raptors",
       "players": [
         {
-          "name": "Kyle Anderson",
-          "position": "F",
+          "name": "Jakob Poeltl",
+          "position": "C",
           "status": "Day-To-Day",
-          "detail": "Illness — Anderson is questionable for Friday against the Bucks due to illness.",
+          "detail": "Shoulder — Poeltl (shoulder) is listed as probable for Friday's game against Milwaukee.",
+          "returnDate": "2026-11-06"
+        },
+        {
+          "name": "Immanuel Quickley",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Quickley (hamstring) is questionable for Friday against the Bucks.",
           "returnDate": "2026-11-06"
         },
         {
           "name": "Scottie Barnes",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Groin — Barnes (groin) is questionable to play Friday's game against the Bucks.",
+          "detail": "Groin — Barnes (adductor) was not present at the morning shootaround, Michael Grange of Sportsnet.careports.",
+          "returnDate": "2026-11-06"
+        },
+        {
+          "name": "Kyle Anderson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Anderson is questionable for Friday against the Bucks due to illness.",
           "returnDate": "2026-11-06"
         },
         {
@@ -744,8 +760,8 @@
           "name": "Jusuf Nurkic",
           "position": "C",
           "status": "Out",
-          "detail": "Foot — Nurkic (foot) is out for Wednesday's game against the Pelicans.",
-          "returnDate": "2026-11-13"
+          "detail": "Foot — Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday.",
+          "returnDate": "2026-11-20"
         },
         {
           "name": "Jaren Jackson Jr.",
@@ -860,5 +876,5 @@
       "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1793987137516
+  "fetchedAt": 1794004488882
 }
