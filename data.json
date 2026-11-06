@@ -4,10 +4,17 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Keshon Gilbert",
+          "position": "G",
+          "status": "Out",
+          "detail": "Knee — Gilbert is out for Friday's game against the Wizards due to left knee inflammation.",
+          "returnDate": "2026-11-07"
+        },
+        {
           "name": "Asa Newell",
           "position": "F",
           "status": "Out",
-          "detail": "Toe — Newell won't return to Wednesday's game against the Wizards due to a left great toe hyperextension, Brad Rowland of the Locked On Podcast Network reports. He'll finish with two points (1-1 FG), three rebounds and three assists across 10 minutes.",
+          "detail": "Toe — Newell (toe) is out for Friday's game against Washington.",
           "returnDate": "2026-11-07"
         },
         {
@@ -132,7 +139,7 @@
           "name": "Nic Claxton",
           "position": "C",
           "status": "Out",
-          "detail": "Hamstring — The Bulls assigned Claxton (hamstring) to the G League's Windy City Bulls on Thursday.",
+          "detail": "Hamstring — Claxton (hamstring) was recalled from the G League's Windy City Bulls on Thursday.",
           "returnDate": "2026-11-08"
         },
         {
@@ -188,17 +195,24 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "Max Christie",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Christie (hip) is out for Wednesday's game against the Spurs.",
-          "returnDate": "2026-11-06"
+          "name": "Sergio de Larrea",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — De Larrea (knee) is out for Friday's game against Utah.",
+          "returnDate": "2026-11-12"
         },
         {
           "name": "Santi Aldama",
           "position": "F",
           "status": "Out",
-          "detail": "Knee — Aldama (knee) is out for Wednesday's game against the Spurs, Grant Afseth of DallasHoopsJournal.com reports.",
+          "detail": "Knee — Aldama (knee) is probable to suit up for Friday's game against the Jazz.",
+          "returnDate": "2026-11-06"
+        },
+        {
+          "name": "Max Christie",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hip — Christie (hip) is probable for Friday's game against the Jazz.",
           "returnDate": "2026-11-06"
         },
         {
@@ -213,13 +227,6 @@
           "position": "C",
           "status": "Out",
           "detail": "Foot — Lively (foot) is listed as out for Monday's game against the Kings.",
-          "returnDate": "2026-11-12"
-        },
-        {
-          "name": "Sergio de Larrea",
-          "position": "F",
-          "status": "Out",
-          "detail": "Knee — Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
           "returnDate": "2026-11-12"
         }
       ]
@@ -398,10 +405,10 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Adou Thiero",
+          "name": "Sandro Mamukelashvili",
           "position": "F",
-          "status": "Out",
-          "detail": "Knee — The Lakers recalled Thiero (knee) from the G League's Coachella Valley Lakers on Thursday, per Ryan Ward of SI.com.",
+          "status": "Day-To-Day",
+          "detail": "Illness — Mamukelashvili (illness) is listed as questionable for Friday's game against Portland.",
           "returnDate": "2026-11-06"
         }
       ]
@@ -412,16 +419,16 @@
         {
           "name": "Isaiah Stewart",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Stewart (knee) exited Wednesday's 107-103 loss to the Pacers and did not return, finishing with six points (3-4 FG) and one rebound in 10 minutes.",
-          "returnDate": "2026-11-06"
+          "status": "Out",
+          "detail": "Knee — Stewart (knee) has been ruled out for Friday's game against the Thunder.",
+          "returnDate": "2026-11-09"
         },
         {
           "name": "Scotty Pippen Jr.",
           "position": "G",
           "status": "Out",
-          "detail": "Back — Pippen (back) won't play Wednesday against the Pacers.",
-          "returnDate": "2026-11-06"
+          "detail": "Back — Pippen (back) has been ruled out for Friday's game against Oklahoma City.",
+          "returnDate": "2026-11-09"
         }
       ]
     },
@@ -431,9 +438,9 @@
         {
           "name": "Kam Jones",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Jones (ankle) won't play Wednesday in Boston.",
-          "returnDate": "2026-11-06"
+          "status": "Out",
+          "detail": "Ankle — Jones (ankle/two-way player) is out for Friday's game against Toronto.",
+          "returnDate": "2026-11-08"
         }
       ]
     },
@@ -444,7 +451,7 @@
           "name": "Terrence Shannon Jr.",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hip — Shannon (hip) is out for Wednesday against the Rockets.",
+          "detail": "Hip — Shannon (hip) is questionable for Friday's game against New Orleans.",
           "returnDate": "2026-11-06"
         },
         {
@@ -471,7 +478,7 @@
           "position": "C",
           "status": "Out",
           "detail": "Knee — Missi (knee) is out for Friday's game against Minnesota.",
-          "returnDate": "2026-11-08"
+          "returnDate": "2026-11-09"
         },
         {
           "name": "Trey Murphy III",
@@ -500,9 +507,9 @@
         {
           "name": "Jaylin Williams",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Williams (back) is listed as out for Wednesday's game versus Cleveland, Clemente Almanza of USA Today reports.",
-          "returnDate": "2026-11-06"
+          "status": "Out",
+          "detail": "Back — Williams (back) has been ruled out for Friday's game against the Grizzlies.",
+          "returnDate": "2026-11-07"
         },
         {
           "name": "Nikola Topic",
@@ -663,13 +670,6 @@
       "name": "Sacramento Kings",
       "players": [
         {
-          "name": "Daeqwon Plowden",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Plowden (illness) is out for Wednesday's game against the Lakers.",
-          "returnDate": "2026-11-06"
-        },
-        {
           "name": "Maxime Raynaud",
           "position": "C",
           "status": "Out",
@@ -715,6 +715,13 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Scottie Barnes",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Groin — Barnes (groin) is questionable to play Friday's game against the Bucks.",
+          "returnDate": "2026-11-06"
+        },
+        {
           "name": "Kawhi Leonard",
           "position": "F",
           "status": "Out",
@@ -752,13 +759,20 @@
           "position": "G",
           "status": "Out",
           "detail": "Knee — Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
-          "returnDate": "2026-11-06"
+          "returnDate": "2026-11-08"
         }
       ]
     },
     {
       "name": "Washington Wizards",
       "players": [
+        {
+          "name": "Anthony Davis",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Davis is questionable for Friday's game against the Hawks due to a right ankle sprain, Josh Robbins of The Athletic reports.",
+          "returnDate": "2026-11-06"
+        },
         {
           "name": "Reece Beekman",
           "position": "G",
@@ -793,7 +807,7 @@
   "games": [
     {
       "date": "2026-11-06T02:00Z",
-      "status": "11/5 - 9:00 PM EST",
+      "status": "3:30 - 2nd",
       "home": "Phoenix Suns",
       "away": "Orlando Magic"
     },
@@ -804,5 +818,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1793918108267
+  "fetchedAt": 1793933953326
 }
