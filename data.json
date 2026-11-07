@@ -92,7 +92,7 @@
           "name": "Brandon Miller",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Groin — Miller (groin) won't return to Friday's game against the Celtics, Brett Siegel of ClutchPoints.com reports.",
+          "detail": "Groin — Head coach Charles Lee said Miller (groin) will be re-evaluated over the weekend, and they expect to have more information by Monday, Steve Reed of The Associated Press reports.",
           "returnDate": "2026-11-09"
         },
         {
@@ -414,6 +414,13 @@
     {
       "name": "Minnesota Timberwolves",
       "players": [
+        {
+          "name": "Joan Beringer",
+          "position": "F",
+          "status": "Out",
+          "detail": "Fracture — Beringer was ruled out for the second half of Friday's game against the Pelicans due to a nasal fracture, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
+          "returnDate": "2026-11-08"
+        },
         {
           "name": "Terrence Shannon Jr.",
           "position": "G",
@@ -793,46 +800,46 @@
     },
     {
       "date": "2026-11-07T00:30Z",
-      "status": "2:19 - 3rd",
+      "status": "Final",
       "home": "Cleveland Cavaliers",
       "away": "Philadelphia 76ers"
     },
     {
       "date": "2026-11-07T01:00Z",
-      "status": "8:44 - 3rd",
+      "status": "Final",
       "home": "Dallas Mavericks",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-11-07T01:00Z",
-      "status": "9:49 - 3rd",
+      "status": "Final",
       "home": "Memphis Grizzlies",
       "away": "Oklahoma City Thunder"
     },
     {
       "date": "2026-11-07T01:00Z",
-      "status": "11:11 - 3rd",
+      "status": "Final",
       "home": "Milwaukee Bucks",
       "away": "Toronto Raptors"
     },
     {
       "date": "2026-11-07T01:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Minnesota Timberwolves"
     },
     {
       "date": "2026-11-07T03:00Z",
-      "status": "11/6 - 10:00 PM EST",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-11-07T03:00Z",
-      "status": "11/6 - 10:00 PM EST",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1794018516732
+  "fetchedAt": 1794043643815
 }
