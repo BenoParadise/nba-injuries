@@ -25,13 +25,6 @@
           "returnDate": "2026-11-09"
         },
         {
-          "name": "Jalen Johnson",
-          "position": "F",
-          "status": "Out",
-          "detail": "Ankle — Johnson (ankle) is probable for Saturday's game against Brooklyn.",
-          "returnDate": "2026-11-07"
-        },
-        {
           "name": "Mouhamed Gueye",
           "position": "F",
           "status": "Out",
@@ -50,13 +43,6 @@
     {
       "name": "Brooklyn Nets",
       "players": [
-        {
-          "name": "Noah Clowney",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Clowney is listed as questionable for Saturday's game against the Hawks due to an illness.",
-          "returnDate": "2026-11-07"
-        },
         {
           "name": "Day'Ron Sharpe",
           "position": "C",
@@ -117,25 +103,32 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Zach Collins",
+          "name": "Tobe Awaka",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Illness — Collins didn't practice Friday due to an illness, per K.C. Johnson of Chicago Sports Network.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Nic Claxton",
-          "position": "C",
-          "status": "Out",
-          "detail": "Hamstring — Head coach Tiago Splittler said Friday that Claxton (hamstring) is expected to make his season debut Sunday against the 76ers, per Joel Lorenzi of The Athletic.",
+          "detail": "Knee — Awaka (knee) is questionable for Sundays' game against the 76ers.",
           "returnDate": "2026-11-08"
         },
         {
           "name": "Jalen Smith",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hand — Smith (hand) won't return to Wednesday's game against the Knicks.",
+          "detail": "Finger — Smith (finger) is probable for Sunday's game against Philadelphia.",
           "returnDate": "2026-11-08"
+        },
+        {
+          "name": "Nic Claxton",
+          "position": "C",
+          "status": "Out",
+          "detail": "Hamstring — Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers.",
+          "returnDate": "2026-11-08"
+        },
+        {
+          "name": "Zach Collins",
+          "position": "F",
+          "status": "Out",
+          "detail": "Illness — Collins (illness) is out for Sunday's game against Philadelphia.",
+          "returnDate": "2026-11-11"
         }
       ]
     },
@@ -195,13 +188,6 @@
       "name": "Denver Nuggets",
       "players": [
         {
-          "name": "DeMar DeRozan",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — DeRozan (back) is probable for Saturday's game against the Pacers.",
-          "returnDate": "2026-11-07"
-        },
-        {
           "name": "Julian Strawther",
           "position": "G",
           "status": "Out",
@@ -217,7 +203,21 @@
           "name": "Isaiah Joe",
           "position": "G",
           "status": "Out",
-          "detail": "Hip — Joe (hip) has been ruled out for Wednesday's game against Philadelphia.",
+          "detail": "Hip — Joe (hip) has been ruled out for Sunday's game against the Lakers.",
+          "returnDate": "2026-11-09"
+        },
+        {
+          "name": "Isaac Jones",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Not Injury Related — Jones posted 18 points (6-14 FG, 0-3 3Pt, 3-3 FT), 10 rebounds, an assist, two steals and two blocks in Wednesday's 100-88 Summer League loss to the Suns.",
+          "returnDate": "2026-11-08"
+        },
+        {
+          "name": "Elijah Harkless",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Not Injury Related — Harkless signed a two-way contract with the Pistons, Keith Smith of Spotrac.com reports.",
           "returnDate": "2026-11-08"
         },
         {
@@ -299,18 +299,11 @@
       "name": "Indiana Pacers",
       "players": [
         {
-          "name": "T.J. McConnell",
+          "name": "Tyrese Haliburton",
           "position": "G",
           "status": "Out",
-          "detail": "Hamstring — McConnell (hamstring) is questionable for Saturday's game against Denver.",
-          "returnDate": "2026-11-07"
-        },
-        {
-          "name": "Kelly Oubre Jr.",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Oubre (calf) is questionable for Saturday's game against Denver.",
-          "returnDate": "2026-11-07"
+          "detail": "Hamstring — Haliburton (hamstring) is progressing well but does not have a timetable to return, Dustin Dopirak of The Indianapolis Star reports.",
+          "returnDate": "2026-11-13"
         },
         {
           "name": "Johnny Furphy",
@@ -325,13 +318,6 @@
           "status": "Out",
           "detail": "Knee — Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
           "returnDate": "2027-01-02"
-        },
-        {
-          "name": "Tyrese Haliburton",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
-          "returnDate": "2026-11-13"
         }
       ]
     },
@@ -369,6 +355,18 @@
       ]
     },
     {
+      "name": "Los Angeles Lakers",
+      "players": [
+        {
+          "name": "Luka Doncic",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Doncic (back) is questionable for Sunday's game against the Pistons.",
+          "returnDate": "2026-11-08"
+        }
+      ]
+    },
+    {
       "name": "Memphis Grizzlies",
       "players": [
         {
@@ -401,14 +399,7 @@
           "name": "Joan Beringer",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Fracture — Beringer was ruled out for the second half of Friday's game against the Pelicans due to a nasal fracture, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Terrence Shannon Jr.",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hip — Shannon (hip) has been ruled out for Friday's game against New Orleans.",
+          "detail": "Fracture — Beringer (nose) is questionable for Sunday's game against the Jazz.",
           "returnDate": "2026-11-08"
         },
         {
@@ -542,11 +533,18 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "Adem Bona",
+          "name": "Joel Embiid",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Back — Bona (neck) is listed as out for Friday's game versus the Cavaliers.",
+          "detail": "Foot — Embiid (foot) is probable for Sunday's game against the Bulls.",
           "returnDate": "2026-11-08"
+        },
+        {
+          "name": "Adem Bona",
+          "position": "C",
+          "status": "Out",
+          "detail": "Back — Bona (back) is out for Sunday's game in Chicago.",
+          "returnDate": "2026-11-10"
         },
         {
           "name": "Dominick Barlow",
@@ -593,6 +591,13 @@
     {
       "name": "Portland Trail Blazers",
       "players": [
+        {
+          "name": "Robert Williams III",
+          "position": "C",
+          "status": "Out",
+          "detail": "Rest — Williams (rest) won't play in Saturday's game against the Spurs.",
+          "returnDate": "2026-11-10"
+        },
         {
           "name": "Vit Krejci",
           "position": "G",
@@ -705,6 +710,13 @@
       "name": "Utah Jazz",
       "players": [
         {
+          "name": "Lauri Markkanen",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Markkanen is questionable for Sunday's game against the Timberwolves due to a right wrist sprain.",
+          "returnDate": "2026-11-08"
+        },
+        {
           "name": "Jusuf Nurkic",
           "position": "C",
           "status": "Out",
@@ -764,7 +776,7 @@
   "games": [
     {
       "date": "2026-11-07T22:00Z",
-      "status": "11/7 - 5:00 PM EST",
+      "status": "11:40 - 3rd",
       "home": "Indiana Pacers",
       "away": "Denver Nuggets"
     },
@@ -805,5 +817,5 @@
       "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1794081569343
+  "fetchedAt": 1794094221682
 }
