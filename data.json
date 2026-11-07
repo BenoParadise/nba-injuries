@@ -4,24 +4,24 @@
       "name": "Atlanta Hawks",
       "players": [
         {
-          "name": "Jalen Johnson",
-          "position": "F",
-          "status": "Out",
-          "detail": "Ankle — Johnson (ankle) is out for Friday's game against the Wizards.",
-          "returnDate": "2026-11-07"
-        },
-        {
           "name": "Keshon Gilbert",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Gilbert is out for Friday's game against the Wizards due to left knee inflammation.",
           "returnDate": "2026-11-07"
         },
         {
           "name": "Asa Newell",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Toe — Newell (toe) is out for Friday's game against Washington.",
+          "returnDate": "2026-11-07"
+        },
+        {
+          "name": "Jalen Johnson",
+          "position": "F",
+          "status": "Out",
+          "detail": "Ankle — Johnson (ankle) is out for Friday's game against the Wizards.",
           "returnDate": "2026-11-07"
         },
         {
@@ -63,6 +63,13 @@
       "name": "Brooklyn Nets",
       "players": [
         {
+          "name": "Noah Clowney",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Clowney is listed as questionable for Saturday's game against the Hawks due to an illness.",
+          "returnDate": "2026-11-07"
+        },
+        {
           "name": "Day'Ron Sharpe",
           "position": "C",
           "status": "Day-To-Day",
@@ -81,7 +88,7 @@
           "position": "F",
           "status": "Out",
           "detail": "Shoulder — Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
-          "returnDate": "2026-11-06"
+          "returnDate": "2026-11-07"
         }
       ]
     },
@@ -157,14 +164,14 @@
         {
           "name": "Sam Merrill",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Elbow — Merrill (elbow) won't return to Friday's game against the 76ers, Dave McMenamin of ESPN.com reports.",
           "returnDate": "2026-11-07"
         },
         {
           "name": "Jarrett Allen",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Allen (knee) is out for Friday's game against the 76ers.",
           "returnDate": "2026-11-07"
         },
@@ -417,7 +424,7 @@
         {
           "name": "Joan Beringer",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Fracture — Beringer was ruled out for the second half of Friday's game against the Pelicans due to a nasal fracture, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
           "returnDate": "2026-11-08"
         },
@@ -474,16 +481,9 @@
         {
           "name": "Jaylin Williams",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Back — Williams (back) has been ruled out for Friday's game against the Grizzlies.",
           "returnDate": "2026-11-07"
-        },
-        {
-          "name": "Nikola Topic",
-          "position": "G",
-          "status": "Out",
-          "detail": "Back — Topic (back) is listed as out for Wednesday's game against Cleveland.",
-          "returnDate": "2026-11-13"
         },
         {
           "name": "Thomas Sorber",
@@ -639,7 +639,7 @@
         {
           "name": "De'Andre Hunter",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Hunter (illness) is listed as out for Friday's game against San Antonio.",
           "returnDate": "2026-11-08"
         },
@@ -750,7 +750,7 @@
         {
           "name": "Anthony Davis",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Davis (ankle) is listed as out for Friday's game against the Hawks.",
           "returnDate": "2026-11-07"
         },
@@ -841,5 +841,5 @@
       "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1794043643815
+  "fetchedAt": 1794067164478
 }
