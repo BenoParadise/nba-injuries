@@ -4,17 +4,17 @@
       "name": "Atlanta Hawks",
       "players": [
         {
-          "name": "Keshon Gilbert",
-          "position": "G",
-          "status": "Out",
-          "detail": "Knee — Gilbert (knee) is out for Saturday's game against Brooklyn.",
+          "name": "Asa Newell",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Toe — Newell (toe)  is out for Saturday's game against the Nets.",
           "returnDate": "2026-11-09"
         },
         {
-          "name": "Asa Newell",
-          "position": "F",
-          "status": "Out",
-          "detail": "Toe — Newell (toe)  is out for Saturday's game against the Nets.",
+          "name": "Keshon Gilbert",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Gilbert (knee) is out for Saturday's game against Brooklyn.",
           "returnDate": "2026-11-09"
         },
         {
@@ -43,6 +43,13 @@
     {
       "name": "Brooklyn Nets",
       "players": [
+        {
+          "name": "Grant Nelson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports.",
+          "returnDate": "2026-11-10"
+        },
         {
           "name": "Mikel Brown Jr.",
           "position": "G",
@@ -103,6 +110,13 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Norman Powell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Powell (shoulder) is listed as questionable for Sunday's game against the 76ers.",
+          "returnDate": "2026-11-08"
+        },
+        {
           "name": "Tobe Awaka",
           "position": "F",
           "status": "Day-To-Day",
@@ -136,24 +150,24 @@
       "name": "Cleveland Cavaliers",
       "players": [
         {
-          "name": "Jaylon Tyson",
-          "position": "G",
-          "status": "Out",
-          "detail": "Ankle — Tyson (ankle) is out for Saturday's game against the Knicks.",
-          "returnDate": "2026-11-09"
-        },
-        {
           "name": "Sam Merrill",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Elbow — Merrill (elbow) is out for Saturday's game against the Knicks.",
           "returnDate": "2026-11-09"
         },
         {
           "name": "Jarrett Allen",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Allen (knee) is out for Saturday's game against the Knicks",
+          "returnDate": "2026-11-09"
+        },
+        {
+          "name": "Jaylon Tyson",
+          "position": "G",
+          "status": "Out",
+          "detail": "Ankle — Tyson (ankle) is out for Saturday's game against the Knicks.",
           "returnDate": "2026-11-09"
         }
       ]
@@ -200,31 +214,17 @@
       "name": "Detroit Pistons",
       "players": [
         {
+          "name": "Jalen Duren",
+          "position": "C",
+          "status": "Out",
+          "detail": "Hamstring — Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
+          "returnDate": "2026-11-24"
+        },
+        {
           "name": "Isaiah Joe",
           "position": "G",
           "status": "Out",
           "detail": "Hip — Joe (hip) has been ruled out for Sunday's game against the Lakers.",
-          "returnDate": "2026-11-09"
-        },
-        {
-          "name": "Isaac Jones",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Not Injury Related — Jones posted 18 points (6-14 FG, 0-3 3Pt, 3-3 FT), 10 rebounds, an assist, two steals and two blocks in Wednesday's 100-88 Summer League loss to the Suns.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Elijah Harkless",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Not Injury Related — Harkless signed a two-way contract with the Pistons, Keith Smith of Spotrac.com reports.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Jalen Duren",
-          "position": "C",
-          "status": "Out",
-          "detail": "Hamstring — Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
           "returnDate": "2026-11-09"
         }
       ]
@@ -422,7 +422,7 @@
         {
           "name": "Josh Hart",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Hart is out for Saturday's game against the Cavaliers due to right ankle soreness.",
           "returnDate": "2026-11-10"
         }
@@ -474,7 +474,7 @@
         {
           "name": "Desmond Bane",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Bane (illness) has been ruled out for Saturday's game against the Warriors.",
           "returnDate": "2026-11-10"
         },
@@ -571,18 +571,18 @@
       "name": "Portland Trail Blazers",
       "players": [
         {
+          "name": "Robert Williams III",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Rest — Williams (rest) won't play in Saturday's game against the Spurs.",
+          "returnDate": "2026-11-10"
+        },
+        {
           "name": "Ja Morant",
           "position": "G",
           "status": "Out",
           "detail": "Hamstring — Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant \"may not be out for as long as we thought,\" Trail Blazers Insider Sean Highkin reports.",
           "returnDate": "2026-12-01"
-        },
-        {
-          "name": "Robert Williams III",
-          "position": "C",
-          "status": "Out",
-          "detail": "Rest — Williams (rest) won't play in Saturday's game against the Spurs.",
-          "returnDate": "2026-11-10"
         },
         {
           "name": "Vit Krejci",
@@ -682,6 +682,13 @@
       "name": "Utah Jazz",
       "players": [
         {
+          "name": "Keyonte George",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — George (illness) has been downgraded to questionable for Sunday's game against Minnesota.",
+          "returnDate": "2026-11-08"
+        },
+        {
           "name": "Lauri Markkanen",
           "position": "F",
           "status": "Day-To-Day",
@@ -708,17 +715,17 @@
       "name": "Washington Wizards",
       "players": [
         {
-          "name": "Deandre Ayton",
-          "position": "C",
-          "status": "Out",
-          "detail": "Leg — Ayton won't return to Saturday's game against the Thunder due to a lower leg injury.",
+          "name": "Anthony Davis",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Davis (ankle) won't play Saturday against the Thunder.",
           "returnDate": "2026-11-09"
         },
         {
-          "name": "Anthony Davis",
-          "position": "F",
-          "status": "Out",
-          "detail": "Ankle — Davis (ankle) won't play Saturday against the Thunder.",
+          "name": "Deandre Ayton",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Leg — Ayton won't return to Saturday's game against the Thunder due to a lower leg injury.",
           "returnDate": "2026-11-09"
         },
         {
@@ -754,47 +761,47 @@
   ],
   "games": [
     {
-      "date": "2026-11-07T22:00Z",
-      "status": "Final",
-      "home": "Indiana Pacers",
-      "away": "Denver Nuggets"
+      "date": "2026-11-08T20:30Z",
+      "status": "11/8 - 3:30 PM EST",
+      "home": "Chicago Bulls",
+      "away": "Philadelphia 76ers"
     },
     {
-      "date": "2026-11-08T00:30Z",
-      "status": "Final",
-      "home": "Atlanta Hawks",
+      "date": "2026-11-08T23:00Z",
+      "status": "11/8 - 6:00 PM EST",
+      "home": "Detroit Pistons",
+      "away": "Los Angeles Lakers"
+    },
+    {
+      "date": "2026-11-09T00:00Z",
+      "status": "11/8 - 7:00 PM EST",
+      "home": "Minnesota Timberwolves",
+      "away": "Utah Jazz"
+    },
+    {
+      "date": "2026-11-09T00:30Z",
+      "status": "11/8 - 7:30 PM EST",
+      "home": "Dallas Mavericks",
       "away": "Brooklyn Nets"
     },
     {
-      "date": "2026-11-08T01:00Z",
-      "status": "Final",
-      "home": "Cleveland Cavaliers",
-      "away": "New York Knicks"
+      "date": "2026-11-09T01:00Z",
+      "status": "11/8 - 8:00 PM EST",
+      "home": "Milwaukee Bucks",
+      "away": "Boston Celtics"
     },
     {
-      "date": "2026-11-08T01:00Z",
-      "status": "Final",
-      "home": "Oklahoma City Thunder",
-      "away": "Washington Wizards"
+      "date": "2026-11-09T02:00Z",
+      "status": "11/8 - 9:00 PM EST",
+      "home": "LA Clippers",
+      "away": "New Orleans Pelicans"
     },
     {
-      "date": "2026-11-08T01:30Z",
-      "status": "Final/OT",
-      "home": "Golden State Warriors",
-      "away": "Orlando Magic"
-    },
-    {
-      "date": "2026-11-08T02:00Z",
-      "status": "Final",
-      "home": "Phoenix Suns",
-      "away": "Houston Rockets"
-    },
-    {
-      "date": "2026-11-08T03:00Z",
-      "status": "Final",
-      "home": "Portland Trail Blazers",
-      "away": "San Antonio Spurs"
+      "date": "2026-11-09T02:00Z",
+      "status": "11/8 - 9:00 PM EST",
+      "home": "Sacramento Kings",
+      "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1794135364626
+  "fetchedAt": 1794156808181
 }
