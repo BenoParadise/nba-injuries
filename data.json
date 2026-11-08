@@ -41,6 +41,18 @@
       ]
     },
     {
+      "name": "Boston Celtics",
+      "players": [
+        {
+          "name": "Mitchell Robinson",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Illness — Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports.",
+          "returnDate": "2026-11-08"
+        }
+      ]
+    },
+    {
       "name": "Brooklyn Nets",
       "players": [
         {
@@ -112,30 +124,9 @@
         {
           "name": "Norman Powell",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Powell (shoulder) is listed as questionable for Sunday's game against the 76ers.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Tobe Awaka",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Awaka (knee) is questionable for Sundays' game against the 76ers.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Jalen Smith",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Finger — Smith (finger) is probable for Sunday's game against Philadelphia.",
-          "returnDate": "2026-11-08"
-        },
-        {
-          "name": "Nic Claxton",
-          "position": "C",
           "status": "Out",
-          "detail": "Hamstring — Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers.",
-          "returnDate": "2026-11-08"
+          "detail": "Shoulder — Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports.",
+          "returnDate": "2026-11-11"
         },
         {
           "name": "Zach Collins",
@@ -346,9 +337,9 @@
         {
           "name": "Luka Doncic",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Doncic (back) is questionable for Sunday's game against the Pistons.",
-          "returnDate": "2026-11-08"
+          "status": "Out",
+          "detail": "Back — Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor Lane of LakersNation.com reports.",
+          "returnDate": "2026-11-09"
         }
       ]
     },
@@ -379,15 +370,20 @@
       ]
     },
     {
-      "name": "Minnesota Timberwolves",
+      "name": "Milwaukee Bucks",
       "players": [
         {
-          "name": "Joan Beringer",
-          "position": "F",
+          "name": "Gary Trent Jr.",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Fracture — Beringer (nose) is questionable for Sunday's game against the Jazz.",
+          "detail": "Illness — Trent (illness) has been downgraded to questionable for Sunday's game against Boston.",
           "returnDate": "2026-11-08"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "players": [
         {
           "name": "Anthony Edwards",
           "position": "G",
@@ -519,13 +515,6 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "Joel Embiid",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Embiid (foot) is probable for Sunday's game against the Bulls.",
-          "returnDate": "2026-11-08"
-        },
-        {
           "name": "Adem Bona",
           "position": "C",
           "status": "Out",
@@ -604,13 +593,6 @@
       "name": "Sacramento Kings",
       "players": [
         {
-          "name": "Keegan Murray",
-          "position": "F",
-          "status": "Out",
-          "detail": "Ankle — Murray (ankle) is questionable for Sunday's game against the Heat.",
-          "returnDate": "2026-11-08"
-        },
-        {
           "name": "Maxime Raynaud",
           "position": "C",
           "status": "Out",
@@ -649,17 +631,17 @@
       "name": "Toronto Raptors",
       "players": [
         {
-          "name": "Scottie Barnes",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Groin — Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports.",
-          "returnDate": "2026-11-09"
-        },
-        {
           "name": "Immanuel Quickley",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hamstring — Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports.",
+          "detail": "Hamstring — Quickley (hamstring) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
+          "returnDate": "2026-11-09"
+        },
+        {
+          "name": "Scottie Barnes",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Groin — Barnes (adductor) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
           "returnDate": "2026-11-09"
         },
         {
@@ -762,7 +744,7 @@
   "games": [
     {
       "date": "2026-11-08T20:30Z",
-      "status": "11/8 - 3:30 PM EST",
+      "status": "3:48 - 1st",
       "home": "Chicago Bulls",
       "away": "Philadelphia 76ers"
     },
@@ -803,5 +785,5 @@
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1794156808181
+  "fetchedAt": 1794171284233
 }
