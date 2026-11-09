@@ -41,18 +41,6 @@
       ]
     },
     {
-      "name": "Boston Celtics",
-      "players": [
-        {
-          "name": "Mitchell Robinson",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Illness — Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports.",
-          "returnDate": "2026-11-08"
-        }
-      ]
-    },
-    {
       "name": "Brooklyn Nets",
       "players": [
         {
@@ -266,6 +254,20 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Will Richard",
+          "position": "G",
+          "status": "Out",
+          "detail": "Thumb — Richard is out for Monday's game against the Pelicans due to a left thumb UCL tear.",
+          "returnDate": "2026-11-11"
+        },
+        {
+          "name": "Gui Santos",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Santos (knee) is listed as probable for Monday's game against New Orleans.",
+          "returnDate": "2026-11-09"
+        },
+        {
           "name": "Kristaps Porzingis",
           "position": "C",
           "status": "Out",
@@ -384,6 +386,13 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Quentin Grimes",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Finger — Grimes (finger) did not return to Sunday's game against the Pistons.",
+          "returnDate": "2026-11-09"
+        },
+        {
           "name": "Luka Doncic",
           "position": "G",
           "status": "Out",
@@ -407,7 +416,7 @@
           "position": "C",
           "status": "Out",
           "detail": "Knee — Stewart (knee) has been ruled out for Monday's game against Toronto.",
-          "returnDate": "2026-11-09"
+          "returnDate": "2026-11-11"
         },
         {
           "name": "Richie Saunders",
@@ -593,7 +602,7 @@
           "name": "Jordan Goodwin",
           "position": "G",
           "status": "Out",
-          "detail": "Calf — Goodwin (calf) is out for Saturday's game against the Rockets.",
+          "detail": "Calf — Goodwin (calf) is questionable for Monday's game against the Spurs.",
           "returnDate": "2026-11-09"
         },
         {
@@ -644,9 +653,9 @@
         {
           "name": "Domantas Sabonis",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Sabonis has been downgraded to questionable for Sunday's game against Miami due to left knee soreness.",
-          "returnDate": "2026-11-08"
+          "status": "Out",
+          "detail": "Knee — Sabonis (knee) is out for Sunday's game against the Heat.",
+          "returnDate": "2026-11-10"
         },
         {
           "name": "Maxime Raynaud",
@@ -671,7 +680,14 @@
           "name": "Tobias Harris",
           "position": "F",
           "status": "Out",
-          "detail": "Calf — Harris (calf) is listed as out for Saturday's game against Minnesota.",
+          "detail": "Calf — Harris (calf) is listed as out for Monday's game against Phoenix.",
+          "returnDate": "2026-11-11"
+        },
+        {
+          "name": "Devin Vassell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Groin — Vassell is questionable for Monday's game against the Suns due to left adductor tightness.",
           "returnDate": "2026-11-09"
         },
         {
@@ -719,6 +735,13 @@
     {
       "name": "Utah Jazz",
       "players": [
+        {
+          "name": "Keyonte George",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — George will not return to Sunday's game against the Timberwolves due to a right ankle injury.",
+          "returnDate": "2026-11-10"
+        },
         {
           "name": "Lauri Markkanen",
           "position": "F",
@@ -792,40 +815,40 @@
     },
     {
       "date": "2026-11-08T23:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Detroit Pistons",
       "away": "Los Angeles Lakers"
     },
     {
       "date": "2026-11-09T00:00Z",
-      "status": "6:15 - 1st",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-11-09T00:30Z",
-      "status": "11/8 - 7:30 PM EST",
+      "status": "Final",
       "home": "Dallas Mavericks",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-11-09T01:00Z",
-      "status": "11/8 - 8:00 PM EST",
+      "status": "Final",
       "home": "Milwaukee Bucks",
       "away": "Boston Celtics"
     },
     {
       "date": "2026-11-09T02:00Z",
-      "status": "11/8 - 9:00 PM EST",
+      "status": "Final",
       "home": "LA Clippers",
       "away": "New Orleans Pelicans"
     },
     {
       "date": "2026-11-09T02:00Z",
-      "status": "11/8 - 9:00 PM EST",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "Miami Heat"
     }
   ],
-  "fetchedAt": 1794183754509
+  "fetchedAt": 1794209389190
 }
