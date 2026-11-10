@@ -524,6 +524,13 @@
       "name": "Orlando Magic",
       "players": [
         {
+          "name": "Tristan da Silva",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Calf — Da Silva posted 19 points (7-21 FG, 5-16 3Pt), seven rebounds, two assists and a steal across 39 minutes in Saturday's 126-119 overtime loss to the Warriors.",
+          "returnDate": "2026-11-10"
+        },
+        {
           "name": "Jalen Suggs",
           "position": "G",
           "status": "Out",
@@ -535,7 +542,7 @@
           "position": "F",
           "status": "Out",
           "detail": "Knee — Isaac (knee) is out for Tuesday's game against Sacramento.",
-          "returnDate": "2026-11-11"
+          "returnDate": "2026-11-16"
         },
         {
           "name": "Paolo Banchero",
@@ -806,53 +813,41 @@
   ],
   "games": [
     {
-      "date": "2026-11-10T00:00Z",
-      "status": "Final",
-      "home": "Atlanta Hawks",
-      "away": "Los Angeles Lakers"
+      "date": "2026-11-11T00:30Z",
+      "status": "11/10 - 7:30 PM EST",
+      "home": "New York Knicks",
+      "away": "Milwaukee Bucks"
     },
     {
-      "date": "2026-11-10T00:00Z",
-      "status": "Final",
-      "home": "Charlotte Hornets",
-      "away": "Cleveland Cavaliers"
+      "date": "2026-11-11T01:00Z",
+      "status": "11/10 - 8:00 PM EST",
+      "home": "Philadelphia 76ers",
+      "away": "Boston Celtics"
     },
     {
-      "date": "2026-11-10T00:00Z",
-      "status": "Final",
-      "home": "Detroit Pistons",
-      "away": "Washington Wizards"
-    },
-    {
-      "date": "2026-11-10T00:30Z",
-      "status": "Final",
-      "home": "Toronto Raptors",
-      "away": "Memphis Grizzlies"
-    },
-    {
-      "date": "2026-11-10T01:00Z",
-      "status": "Final",
-      "home": "Dallas Mavericks",
-      "away": "Indiana Pacers"
-    },
-    {
-      "date": "2026-11-10T01:30Z",
-      "status": "Final",
-      "home": "Houston Rockets",
-      "away": "Denver Nuggets"
-    },
-    {
-      "date": "2026-11-10T02:00Z",
-      "status": "Final",
+      "date": "2026-11-11T02:00Z",
+      "status": "11/10 - 9:00 PM EST",
       "home": "Phoenix Suns",
-      "away": "San Antonio Spurs"
+      "away": "LA Clippers"
     },
     {
-      "date": "2026-11-10T03:00Z",
-      "status": "Final",
-      "home": "Golden State Warriors",
-      "away": "New Orleans Pelicans"
+      "date": "2026-11-11T02:00Z",
+      "status": "11/10 - 9:00 PM EST",
+      "home": "Utah Jazz",
+      "away": "Miami Heat"
+    },
+    {
+      "date": "2026-11-11T03:00Z",
+      "status": "11/10 - 10:00 PM EST",
+      "home": "Sacramento Kings",
+      "away": "Orlando Magic"
+    },
+    {
+      "date": "2026-11-11T04:00Z",
+      "status": "11/10 - 11:00 PM EST",
+      "home": "Portland Trail Blazers",
+      "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1794301208596
+  "fetchedAt": 1794329645662
 }
