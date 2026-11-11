@@ -34,28 +34,33 @@
       ]
     },
     {
+      "name": "Boston Celtics",
+      "players": [
+        {
+          "name": "Paul George",
+          "position": "F",
+          "status": "Out",
+          "detail": "Illness — George (illness) has been ruled out for Wednesday's game against Toronto, Taylor Snow of the Celtics' official site reports.",
+          "returnDate": "2026-11-15"
+        }
+      ]
+    },
+    {
       "name": "Brooklyn Nets",
       "players": [
+        {
+          "name": "Mikel Brown Jr.",
+          "position": "G",
+          "status": "Out",
+          "detail": "Illness — Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports.",
+          "returnDate": "2026-11-14"
+        },
         {
           "name": "Nolan Traore",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Calf — Traore (calf) is listed as questionable for Wednesday's game against New Orleans.",
           "returnDate": "2026-11-11"
-        },
-        {
-          "name": "Egor Demin",
-          "position": "G",
-          "status": "Out",
-          "detail": "Leg — Demin (leg) is probable for Wednesday's game against the Pelicans, Erik Slater of ClutchPoints.com reports.",
-          "returnDate": "2026-11-11"
-        },
-        {
-          "name": "Grant Nelson",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports.",
-          "returnDate": "2026-11-10"
         }
       ]
     },
@@ -193,6 +198,13 @@
       "name": "Detroit Pistons",
       "players": [
         {
+          "name": "Ugonna Onyenso",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Foot — Onyenso agreed to a two-way contract with the Pistons on Thursday.",
+          "returnDate": "2026-11-13"
+        },
+        {
           "name": "Isaiah Joe",
           "position": "G",
           "status": "Out",
@@ -212,18 +224,18 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Will Richard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Thumb — Richard (thumb) is questionable for Wednesday's game against Houston.",
+          "returnDate": "2026-11-11"
+        },
+        {
           "name": "Gary Payton II",
           "position": "G",
           "status": "Out",
           "detail": "Knee — Payton (knee) is out for Wednesday's game against Houston.",
           "returnDate": "2026-11-13"
-        },
-        {
-          "name": "Will Richard",
-          "position": "G",
-          "status": "Out",
-          "detail": "Thumb — Richard (thumb) is questionable for Wednesday's game against Houston.",
-          "returnDate": "2026-11-11"
         },
         {
           "name": "Brandon Williams",
@@ -313,7 +325,7 @@
         {
           "name": "Cam Christie",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Christie (ankle) is listed as out for Tuesday's game against Phoenix.",
           "returnDate": "2026-11-13"
         },
@@ -398,7 +410,7 @@
         {
           "name": "Tyler Herro",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Herro (knee) is listed as out for Tuesday's game against New York.",
           "returnDate": "2026-11-11"
         }
@@ -427,18 +439,25 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
-          "name": "Trendon Watford",
-          "position": "F",
+          "name": "Bennedict Mathurin",
+          "position": "G",
           "status": "Out",
-          "detail": "Ankle — Watford (ankle) is out for Wednesday's game against the Nets.",
+          "detail": "Thumb — Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain.",
           "returnDate": "2026-11-13"
         },
         {
           "name": "Trey Murphy III",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Knee — Murphy (knee) is probable for Wednesday's game against the Nets.",
+          "detail": "Knee — Murphy (knee) is doubtful for Wednesday's game against the Nets.",
           "returnDate": "2026-11-11"
+        },
+        {
+          "name": "Trendon Watford",
+          "position": "F",
+          "status": "Out",
+          "detail": "Ankle — Watford (ankle) is out for Wednesday's game against the Nets.",
+          "returnDate": "2026-11-13"
         },
         {
           "name": "Yves Missi",
@@ -507,7 +526,7 @@
         {
           "name": "Tristan da Silva",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Calf — Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-11-11"
         },
@@ -618,7 +637,7 @@
         {
           "name": "Precious Achiuwa",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Lower Leg — Achiuwa left Tuesday's 107-100 loss to the Magic with a left lower leg contusion and did not return, Matt George of ABC 10 Sacramento reports.",
           "returnDate": "2026-11-13"
         },
@@ -670,9 +689,9 @@
         {
           "name": "Trayce Jackson-Davis",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Jackson-Davis is questionable for Wednesday's game against Boston with an illness.",
-          "returnDate": "2026-11-11"
+          "status": "Out",
+          "detail": "Illness — Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
+          "returnDate": "2026-11-12"
         },
         {
           "name": "Collin Murray-Boyles",
@@ -715,17 +734,17 @@
       "name": "Utah Jazz",
       "players": [
         {
-          "name": "Lauri Markkanen",
-          "position": "F",
-          "status": "Out",
-          "detail": "Wrist — Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain.",
+          "name": "Keyonte George",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — George (ankle) has been ruled out for Tuesday's game against the Heat.",
           "returnDate": "2026-11-11"
         },
         {
-          "name": "Keyonte George",
-          "position": "G",
-          "status": "Out",
-          "detail": "Ankle — George (ankle) has been ruled out for Tuesday's game against the Heat.",
+          "name": "Lauri Markkanen",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain.",
           "returnDate": "2026-11-11"
         },
         {
@@ -780,41 +799,65 @@
   ],
   "games": [
     {
-      "date": "2026-11-11T00:30Z",
-      "status": "Final",
-      "home": "New York Knicks",
-      "away": "Milwaukee Bucks"
+      "date": "2026-11-12T00:00Z",
+      "status": "11/11 - 7:00 PM EST",
+      "home": "Indiana Pacers",
+      "away": "Washington Wizards"
     },
     {
-      "date": "2026-11-11T01:00Z",
-      "status": "Final",
-      "home": "Philadelphia 76ers",
+      "date": "2026-11-12T00:00Z",
+      "status": "11/11 - 7:00 PM EST",
+      "home": "New York Knicks",
+      "away": "Cleveland Cavaliers"
+    },
+    {
+      "date": "2026-11-12T00:00Z",
+      "status": "11/11 - 7:00 PM EST",
+      "home": "Toronto Raptors",
       "away": "Boston Celtics"
     },
     {
-      "date": "2026-11-11T02:00Z",
-      "status": "Final",
-      "home": "Phoenix Suns",
-      "away": "LA Clippers"
+      "date": "2026-11-12T01:00Z",
+      "status": "11/11 - 8:00 PM EST",
+      "home": "Chicago Bulls",
+      "away": "San Antonio Spurs"
     },
     {
-      "date": "2026-11-11T02:00Z",
-      "status": "Final",
+      "date": "2026-11-12T01:00Z",
+      "status": "11/11 - 8:00 PM EST",
+      "home": "Memphis Grizzlies",
+      "away": "Denver Nuggets"
+    },
+    {
+      "date": "2026-11-12T01:00Z",
+      "status": "11/11 - 8:00 PM EST",
+      "home": "Milwaukee Bucks",
+      "away": "Los Angeles Lakers"
+    },
+    {
+      "date": "2026-11-12T01:00Z",
+      "status": "11/11 - 8:00 PM EST",
+      "home": "New Orleans Pelicans",
+      "away": "Brooklyn Nets"
+    },
+    {
+      "date": "2026-11-12T02:00Z",
+      "status": "11/11 - 9:00 PM EST",
       "home": "Utah Jazz",
-      "away": "Miami Heat"
-    },
-    {
-      "date": "2026-11-11T03:00Z",
-      "status": "Final",
-      "home": "Sacramento Kings",
       "away": "Orlando Magic"
     },
     {
-      "date": "2026-11-11T04:00Z",
-      "status": "Final",
+      "date": "2026-11-12T02:30Z",
+      "status": "11/11 - 9:30 PM EST",
+      "home": "Houston Rockets",
+      "away": "Golden State Warriors"
+    },
+    {
+      "date": "2026-11-12T03:00Z",
+      "status": "11/11 - 10:00 PM EST",
       "home": "Portland Trail Blazers",
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1794391536050
+  "fetchedAt": 1794420875901
 }
