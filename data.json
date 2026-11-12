@@ -68,20 +68,6 @@
       "name": "Charlotte Hornets",
       "players": [
         {
-          "name": "Grant Williams",
-          "position": "F",
-          "status": "Out",
-          "detail": "Hamstring — Williams (hamstring) is listed as probable for Thursday's game against the Suns.",
-          "returnDate": "2026-11-12"
-        },
-        {
-          "name": "Moussa Diabate",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Quadriceps — Diabate (quadriceps) is listed as probable for Thursday's game against the Suns.",
-          "returnDate": "2026-11-12"
-        },
-        {
           "name": "Brandon Miller",
           "position": "F",
           "status": "Out",
@@ -108,38 +94,45 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Tobe Awaka",
+          "position": "F",
+          "status": "Out",
+          "detail": "Back — Awaka (back) has been ruled out for Friday's game against the Hawks.",
+          "returnDate": "2026-11-14"
+        },
+        {
           "name": "Dailyn Swain",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Back — Swain (back) is out for Wednesday's game against the Spurs.",
+          "detail": "Back — Swain (back) is listed as questionable for Friday's game against Atlanta.",
           "returnDate": "2026-11-13"
         },
         {
           "name": "Norman Powell",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Shoulder — Powell (shoulder) won't play in Wednesday's game against the Spurs,Joel Lorenzi of The Athletic reports.",
-          "returnDate": "2026-11-13"
-        },
-        {
-          "name": "Tobe Awaka",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — Awaka (back) has been ruled out for Wednesday's game against the Spurs.",
+          "detail": "Shoulder — Powell (shoulder) is questionable for Friday's game against the Hawks.",
           "returnDate": "2026-11-13"
         },
         {
           "name": "Caleb Wilson",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hand — Wilson won't return to Wednesday's game against the Spurs due to a right hand injury. He'll finish with 15 points (5-7 FG, 2-2 3Pt, 3-3 FT), five rebounds and one steal in 15 minutes.",
-          "returnDate": "2026-11-13"
+          "status": "Out",
+          "detail": "Hand — Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
+          "returnDate": "2026-12-13"
         }
       ]
     },
     {
       "name": "Cleveland Cavaliers",
       "players": [
+        {
+          "name": "Evan Mobley",
+          "position": "C",
+          "status": "Out",
+          "detail": "Toe — Mobley (toe) is out for Friday's game against the Heat.",
+          "returnDate": "2026-11-14"
+        },
         {
           "name": "Sam Merrill",
           "position": "G",
@@ -224,18 +217,18 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Charles Bassey",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Toe — Bassey is probable for Friday's game against the Spurs due to left toe soreness.",
+          "returnDate": "2026-11-13"
+        },
+        {
           "name": "Stephen Curry",
           "position": "G",
           "status": "Out",
           "detail": "Abdomen — Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
-          "returnDate": "2026-12-01"
-        },
-        {
-          "name": "Gary Payton II",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Payton (knee) is out for Wednesday's game against Houston.",
-          "returnDate": "2026-11-13"
+          "returnDate": "2026-12-12"
         },
         {
           "name": "Brandon Williams",
@@ -270,6 +263,13 @@
     {
       "name": "Houston Rockets",
       "players": [
+        {
+          "name": "Marcus Smart",
+          "position": "G",
+          "status": "Suspension",
+          "detail": "Suspension — Smart was ejected from Wednesday's game against the Warriors after throwing a punch at Charles Bassey, Adam Spolane of Sports Radio 610 Houston reports.",
+          "returnDate": "2026-11-18"
+        },
         {
           "name": "Clint Capela",
           "position": "C",
@@ -323,6 +323,13 @@
       "name": "LA Clippers",
       "players": [
         {
+          "name": "Brandon Ingram",
+          "position": "F",
+          "status": "Out",
+          "detail": "Achilles — Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic.",
+          "returnDate": "2026-11-19"
+        },
+        {
           "name": "Cam Christie",
           "position": "G",
           "status": "Day-To-Day",
@@ -335,13 +342,6 @@
           "status": "Out",
           "detail": "Foot — Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",
           "returnDate": "2026-11-17"
-        },
-        {
-          "name": "Brandon Ingram",
-          "position": "F",
-          "status": "Out",
-          "detail": "Achilles — Ingram (Achilles) has been ruled out for Tuesday's game at Phoenix, Ohm Youngmisuk of ESPN.com reports.",
-          "returnDate": "2026-11-13"
         },
         {
           "name": "Bradley Beal",
@@ -419,20 +419,27 @@
       ]
     },
     {
-      "name": "Milwaukee Bucks",
+      "name": "Miami Heat",
       "players": [
         {
-          "name": "Myles Turner",
-          "position": "C",
+          "name": "Klay Thompson",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Rest — Turner has been ruled out for Wednesday's game against the Lakers due to rest.",
+          "detail": "Ankle — Thompson (ankle) is listed as questionable for Friday's game against the Cavaliers.",
           "returnDate": "2026-11-13"
         },
         {
-          "name": "Ryan Rollins",
+          "name": "Giannis Antetokounmpo",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Wrist — Antetokounmpo (wrist) is probable for Friday's game against Cleveland.",
+          "returnDate": "2026-11-13"
+        },
+        {
+          "name": "Pelle Larsson",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Head — Rollins (head) exited to the locker room in the fourth quarter of Wednesday's 123-112 loss to the Lakers and did not return, finishing with eight points (3-10 FG, 2-6 3Pt), seven rebounds, four assists and one steal across 24 minutes.",
+          "detail": "Illness — Larsson (illness) is listed as questionable for Friday's game against Cleveland.",
           "returnDate": "2026-11-13"
         }
       ]
@@ -460,32 +467,39 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
-          "name": "Bennedict Mathurin",
+          "name": "Bryce McGowens",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Thumb — Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain.",
+          "detail": "Elbow — McGowens (elbow) is listed as doubtful for Friday's game against the Grizzlies.",
           "returnDate": "2026-11-13"
         },
         {
           "name": "Trendon Watford",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Watford (ankle) is out for Wednesday's game against the Nets.",
-          "returnDate": "2026-11-13"
+          "status": "Out",
+          "detail": "Ankle — Watford (ankle) is listed as out for Friday's game against the Grizzlies.",
+          "returnDate": "2026-11-14"
         },
         {
-          "name": "Trey Murphy III",
-          "position": "F",
+          "name": "Bennedict Mathurin",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Murphy (knee) is listed as out for Wednesday's game against the Nets.",
+          "detail": "Thumb — Mathurin (thumb) is listed as doubtful for Friday's game against Memphis.",
           "returnDate": "2026-11-13"
         },
         {
           "name": "Yves Missi",
           "position": "C",
           "status": "Out",
-          "detail": "Knee — Missi (knee) is out for Friday's game against Minnesota.",
-          "returnDate": "2026-11-16"
+          "detail": "Knee — Missi (knee) is listed as doubtful for Friday's game against the Grizzlies.",
+          "returnDate": "2026-11-13"
+        },
+        {
+          "name": "Trey Murphy III",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies.",
+          "returnDate": "2026-11-13"
         }
       ]
     },
@@ -543,22 +557,22 @@
           "name": "Tristan da Silva",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Calf — Da Silva (calf) is listed as out for Wednesday's game versus the Jazz.",
+          "detail": "Calf — Da Silva (calf) is questionable for Friday's game against Milwaukee.",
           "returnDate": "2026-11-13"
         },
         {
           "name": "Jamal Cain",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Shoulder — Cain (shoulder) is out for Wednesday's game in Utah.",
+          "detail": "Shoulder — Cain (shoulder) is questionable for Friday's game against the Bucks.",
           "returnDate": "2026-11-13"
         },
         {
           "name": "Jalen Suggs",
           "position": "G",
           "status": "Out",
-          "detail": "Knee — Suggs (knee) has been ruled out for Tuesday's game against the Kings.",
-          "returnDate": "2026-11-16"
+          "detail": "Knee — Suggs (knee) is questionable for Friday's game against Milwaukee.",
+          "returnDate": "2026-11-13"
         },
         {
           "name": "Jonathan Isaac",
@@ -594,6 +608,13 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "LeBron James",
+          "position": "F",
+          "status": "Out",
+          "detail": "Back — James (back) is out for Thursday's game against Toronto.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "Dominick Barlow",
           "position": "F",
           "status": "Out",
@@ -612,13 +633,6 @@
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Foot — Embiid (foot) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports.",
-          "returnDate": "2026-11-12"
-        },
-        {
-          "name": "LeBron James",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — James (back) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports.",
           "returnDate": "2026-11-12"
         },
         {
@@ -733,9 +747,16 @@
         {
           "name": "Trayce Jackson-Davis",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
-          "returnDate": "2026-11-12"
+          "status": "Out",
+          "detail": "Illness — Jackson-Davis is out for Thursday's game against the 76ers due to an illness.",
+          "returnDate": "2026-11-15"
+        },
+        {
+          "name": "Scottie Barnes",
+          "position": "F",
+          "status": "Out",
+          "detail": "Groin — Barnes (groin) is out for Thursday's game against Philadelphia.",
+          "returnDate": "2026-11-15"
         },
         {
           "name": "Kawhi Leonard",
@@ -743,13 +764,6 @@
           "status": "Out",
           "detail": "Knee — Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",
           "returnDate": "2026-11-23"
-        },
-        {
-          "name": "Scottie Barnes",
-          "position": "F",
-          "status": "Out",
-          "detail": "Groin — Barnes (groin) is out for Wednesday's game against Boston.",
-          "returnDate": "2026-11-12"
         },
         {
           "name": "Nate Bittle",
@@ -853,5 +867,5 @@
       "away": "Charlotte Hornets"
     }
   ],
-  "fetchedAt": 1794505736991
+  "fetchedAt": 1794524431074
 }
