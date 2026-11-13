@@ -432,21 +432,14 @@
           "name": "Klay Thompson",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Thompson (ankle) is listed as questionable for Friday's game against the Cavaliers.",
-          "returnDate": "2026-11-13"
-        },
-        {
-          "name": "Giannis Antetokounmpo",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Antetokounmpo (wrist) is probable for Friday's game against Cleveland.",
+          "detail": "Ankle — Thompson (ankle) is listed as probable for Friday's game against the Cavaliers.",
           "returnDate": "2026-11-13"
         },
         {
           "name": "Pelle Larsson",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Illness — Larsson (illness) is listed as questionable for Friday's game against Cleveland.",
+          "detail": "Illness — Larsson (illness) is listed as doubtful for Friday's game against Cleveland.",
           "returnDate": "2026-11-13"
         }
       ]
@@ -476,9 +469,37 @@
         {
           "name": "Bryce McGowens",
           "position": "G",
+          "status": "Out",
+          "detail": "Elbow — McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
+          "returnDate": "2026-11-14"
+        },
+        {
+          "name": "Yves Missi",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Missi (knee) is out for Friday's game against the Grizzlies.",
+          "returnDate": "2026-11-14"
+        },
+        {
+          "name": "Bennedict Mathurin",
+          "position": "G",
           "status": "Day-To-Day",
-          "detail": "Elbow — McGowens (elbow) is listed as doubtful for Friday's game against the Grizzlies.",
+          "detail": "Thumb — Mathurin (thumb) is listed as questionable for Friday's game against Memphis.",
           "returnDate": "2026-11-13"
+        },
+        {
+          "name": "Dejounte Murray",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Murray (ankle) is doubtful for Friday's game against Memphis.",
+          "returnDate": "2026-11-13"
+        },
+        {
+          "name": "Trey Murphy III",
+          "position": "F",
+          "status": "Out",
+          "detail": "Knee — Murphy (knee) is out for Friday's game against Memphis.",
+          "returnDate": "2026-11-14"
         },
         {
           "name": "Trendon Watford",
@@ -486,27 +507,6 @@
           "status": "Out",
           "detail": "Ankle — Watford (ankle) is listed as out for Friday's game against the Grizzlies.",
           "returnDate": "2026-11-14"
-        },
-        {
-          "name": "Bennedict Mathurin",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Thumb — Mathurin (thumb) is listed as doubtful for Friday's game against Memphis.",
-          "returnDate": "2026-11-13"
-        },
-        {
-          "name": "Yves Missi",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Missi (knee) is listed as doubtful for Friday's game against the Grizzlies.",
-          "returnDate": "2026-11-13"
-        },
-        {
-          "name": "Trey Murphy III",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies.",
-          "returnDate": "2026-11-13"
         }
       ]
     },
@@ -561,24 +561,24 @@
       "name": "Orlando Magic",
       "players": [
         {
-          "name": "Tristan da Silva",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Calf — Da Silva (calf) is questionable for Friday's game against Milwaukee.",
-          "returnDate": "2026-11-13"
-        },
-        {
           "name": "Jamal Cain",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Shoulder — Cain (shoulder) is questionable for Friday's game against the Bucks.",
+          "detail": "Shoulder — Cain (shoulder) participated in Friday morning's shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports.",
+          "returnDate": "2026-11-13"
+        },
+        {
+          "name": "Tristan da Silva",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Calf — Da Silva (calf) participated in Friday's morning shootaround and remains questionable for Friday's game against Milwaukee, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-11-13"
         },
         {
           "name": "Jalen Suggs",
           "position": "G",
           "status": "Out",
-          "detail": "Knee — Suggs (knee) is questionable for Friday's game against Milwaukee.",
+          "detail": "Knee — Suggs (knee) participated in Friday's morning shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports.",
           "returnDate": "2026-11-13"
         },
         {
@@ -647,6 +647,13 @@
     {
       "name": "Phoenix Suns",
       "players": [
+        {
+          "name": "Drew Timme",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hand — The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com.",
+          "returnDate": "2026-11-15"
+        },
         {
           "name": "Mark Williams",
           "position": "C",
@@ -751,6 +758,13 @@
     {
       "name": "Toronto Raptors",
       "players": [
+        {
+          "name": "Kevin McCullar Jr.",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
+          "returnDate": "2026-11-14"
+        },
         {
           "name": "Trayce Jackson-Davis",
           "position": "F",
@@ -857,29 +871,59 @@
   ],
   "games": [
     {
-      "date": "2026-11-13T00:00Z",
-      "status": "Final",
-      "home": "Philadelphia 76ers",
-      "away": "Toronto Raptors"
+      "date": "2026-11-14T00:00Z",
+      "status": "11/13 - 7:00 PM EST",
+      "home": "Indiana Pacers",
+      "away": "New York Knicks"
     },
     {
-      "date": "2026-11-13T00:00Z",
-      "status": "Final/2OT",
-      "home": "Washington Wizards",
-      "away": "Detroit Pistons"
+      "date": "2026-11-14T00:00Z",
+      "status": "11/13 - 7:00 PM EST",
+      "home": "Orlando Magic",
+      "away": "Milwaukee Bucks"
     },
     {
-      "date": "2026-11-13T01:00Z",
-      "status": "Final",
-      "home": "Minnesota Timberwolves",
-      "away": "Dallas Mavericks"
+      "date": "2026-11-14T01:00Z",
+      "status": "11/13 - 8:00 PM EST",
+      "home": "Miami Heat",
+      "away": "Cleveland Cavaliers"
     },
     {
-      "date": "2026-11-13T02:00Z",
-      "status": "Final",
-      "home": "Phoenix Suns",
-      "away": "Charlotte Hornets"
+      "date": "2026-11-14T01:00Z",
+      "status": "11/13 - 8:00 PM EST",
+      "home": "Chicago Bulls",
+      "away": "Atlanta Hawks"
+    },
+    {
+      "date": "2026-11-14T01:00Z",
+      "status": "11/13 - 8:00 PM EST",
+      "home": "New Orleans Pelicans",
+      "away": "Memphis Grizzlies"
+    },
+    {
+      "date": "2026-11-14T01:30Z",
+      "status": "11/13 - 8:30 PM EST",
+      "home": "Houston Rockets",
+      "away": "Utah Jazz"
+    },
+    {
+      "date": "2026-11-14T02:30Z",
+      "status": "11/13 - 9:30 PM EST",
+      "home": "San Antonio Spurs",
+      "away": "Golden State Warriors"
+    },
+    {
+      "date": "2026-11-14T03:00Z",
+      "status": "11/13 - 10:00 PM EST",
+      "home": "Sacramento Kings",
+      "away": "Portland Trail Blazers"
+    },
+    {
+      "date": "2026-11-14T03:30Z",
+      "status": "11/13 - 10:30 PM EST",
+      "home": "LA Clippers",
+      "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1794573869233
+  "fetchedAt": 1794600689407
 }
