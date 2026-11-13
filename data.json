@@ -77,7 +77,7 @@
         {
           "name": "Brandon Miller",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Groin — Miller (groin) is listed as out for Thursday's game against Phoenix.",
           "returnDate": "2026-11-15"
         },
@@ -876,10 +876,10 @@
     },
     {
       "date": "2026-11-13T02:00Z",
-      "status": "23.0 - 4th",
+      "status": "Final",
       "home": "Phoenix Suns",
       "away": "Charlotte Hornets"
     }
   ],
-  "fetchedAt": 1794543582545
+  "fetchedAt": 1794573869233
 }
