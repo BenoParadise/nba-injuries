@@ -4,25 +4,32 @@
       "name": "Atlanta Hawks",
       "players": [
         {
-          "name": "Asa Newell",
+          "name": "Mouhamed Gueye",
           "position": "F",
           "status": "Out",
-          "detail": "Toe — Newell (toe) has been ruled out for Monday's game against the Lakers.",
-          "returnDate": "2026-11-13"
+          "detail": "Foot — Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",
+          "returnDate": "2026-12-12"
         },
         {
           "name": "Keshon Gilbert",
           "position": "G",
           "status": "Out",
-          "detail": "Knee — Gilbert (knee) has been ruled out for Monday's game against the Lakers.",
-          "returnDate": "2026-11-13"
+          "detail": "Knee — Gilbert (knee) has been ruled out for Friday's game against the Bulls.",
+          "returnDate": "2026-11-20"
         },
         {
-          "name": "Mouhamed Gueye",
+          "name": "Asa Newell",
           "position": "F",
           "status": "Out",
-          "detail": "Foot — Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports.",
+          "detail": "Toe — Newell (toe) has been ruled out for Friday's game against Chicago.",
           "returnDate": "2026-11-20"
+        },
+        {
+          "name": "Kingston Flemings",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Flemings (back) is questionable for Friday's game against the Bulls.",
+          "returnDate": "2026-11-13"
         },
         {
           "name": "Henri Veesaar",
@@ -165,13 +172,6 @@
           "status": "Out",
           "detail": "Knee — De Larrea (knee) has been ruled out for Thursday's game at Minnesota.",
           "returnDate": "2026-11-18"
-        },
-        {
-          "name": "Morez Johnson Jr.",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Lower Leg — Johnson (shin) is listed as probable for Thursday's game against Minnesota.",
-          "returnDate": "2026-11-12"
         }
       ]
     },
@@ -267,7 +267,7 @@
           "name": "Marcus Smart",
           "position": "G",
           "status": "Suspension",
-          "detail": "Suspension — Smart was ejected from Wednesday's game against the Warriors after throwing a punch at Charles Bassey, Adam Spolane of Sports Radio 610 Houston reports.",
+          "detail": "Suspension — Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
           "returnDate": "2026-11-18"
         },
         {
@@ -290,10 +290,17 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "T.J. McConnell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — McConnell is probable for Friday's game against the Knicks due to a right hamstring strain.",
+          "returnDate": "2026-11-13"
+        },
+        {
           "name": "Aaron Nesmith",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Nesmith will not return to Wednesday's game against the Wizards due to right knee soreness. He'll finish with two points (1-6 FG, 0-4 3Pt), one rebound and one assist across 22 minutes.",
+          "detail": "Knee — Nesmith (knee) is questionable for Friday's game against the Knicks.",
           "returnDate": "2026-11-13"
         },
         {
@@ -328,13 +335,6 @@
           "status": "Out",
           "detail": "Achilles — Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic.",
           "returnDate": "2026-11-19"
-        },
-        {
-          "name": "Cam Christie",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Christie (ankle) is listed as out for Tuesday's game against Phoenix.",
-          "returnDate": "2026-11-13"
         },
         {
           "name": "Yanic Konan Niederhauser",
@@ -398,9 +398,16 @@
         {
           "name": "Quinten Post",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Head — Post (concussion) has been ruled out for Wednesday's game against the Nuggets.",
-          "returnDate": "2026-11-13"
+          "status": "Out",
+          "detail": "Concussion — Post (concussion) has been ruled out for Friday's game against New Orleans.",
+          "returnDate": "2026-11-14"
+        },
+        {
+          "name": "Zach Edey",
+          "position": "C",
+          "status": "Out",
+          "detail": "Ankle — Edey won't play in Friday's game against the Pelicans due to left ankle injury management.",
+          "returnDate": "2026-11-14"
         },
         {
           "name": "Scotty Pippen Jr.",
@@ -507,10 +514,17 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Thomas Sorber",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Sorber (knee) has been ruled out for Friday's game against the Clippers.",
+          "returnDate": "2026-11-20"
+        },
+        {
           "name": "Ajay Mitchell",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Mitchell has been ruled out for Wednesday's game against the Trail Blazers due to a left ankle sprain.",
+          "detail": "Ankle — Mitchell (ankle) is questionable for Friday's game against the Clippers.",
           "returnDate": "2026-11-13"
         },
         {
@@ -519,13 +533,6 @@
           "status": "Out",
           "detail": "Back — Williams (back) has been ruled out for Wednesday's game against Portland and remains out indefinitely.",
           "returnDate": "2026-11-15"
-        },
-        {
-          "name": "Thomas Sorber",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Sorber (knee) is out for Wednesday's game against the Cavaliers.",
-          "returnDate": "2026-11-13"
         },
         {
           "name": "Cason Wallace",
@@ -610,7 +617,7 @@
         {
           "name": "LeBron James",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Back — James (back) is out for Thursday's game against Toronto.",
           "returnDate": "2026-11-15"
         },
@@ -627,13 +634,6 @@
           "status": "Out",
           "detail": "Back — Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",
           "returnDate": "2026-11-18"
-        },
-        {
-          "name": "Joel Embiid",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Foot — Embiid (foot) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports.",
-          "returnDate": "2026-11-12"
         },
         {
           "name": "Ariel Hukporti",
@@ -662,9 +662,9 @@
         {
           "name": "Chris Youngblood",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Foot — Youngblood has been ruled out for Wednesday's game against the Thunder.",
-          "returnDate": "2026-11-13"
+          "status": "Out",
+          "detail": "Foot — Youngblood (foot) is out for Friday's game against Sacramento.",
+          "returnDate": "2026-11-16"
         },
         {
           "name": "Vit Krejci",
@@ -696,7 +696,7 @@
           "name": "Precious Achiuwa",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Lower Leg — Achiuwa left Tuesday's 107-100 loss to the Magic with a left lower leg contusion and did not return, Matt George of ABC 10 Sacramento reports.",
+          "detail": "Ankle — Achiuwa (ankle) is questionable to play Friday's game against the Trail Blazers.",
           "returnDate": "2026-11-13"
         },
         {
@@ -722,7 +722,14 @@
           "name": "Devin Vassell",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Groin — Vassell (adductor) won't play in Wednesday's game against the Bulls, Jeff Garcia of KENS 5 San Antonio reports.",
+          "detail": "Groin — Vassell is questionable for Friday's game against the Warriors due to left adductor tightness.",
+          "returnDate": "2026-11-13"
+        },
+        {
+          "name": "De'Aaron Fox",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hip — Fox is questionable for Friday's game against the Warriors due to left hip soreness.",
           "returnDate": "2026-11-13"
         },
         {
@@ -747,7 +754,7 @@
         {
           "name": "Trayce Jackson-Davis",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Jackson-Davis is out for Thursday's game against the 76ers due to an illness.",
           "returnDate": "2026-11-15"
         },
@@ -811,6 +818,13 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Bub Carrington",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Chest — Carrington (chest) has been ruled out for the remainder of Thursday's game against the Pistons.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "Tristan Vukcevic",
           "position": "F",
           "status": "Out",
@@ -844,28 +858,28 @@
   "games": [
     {
       "date": "2026-11-13T00:00Z",
-      "status": "11/12 - 7:00 PM EST",
+      "status": "Final",
       "home": "Philadelphia 76ers",
       "away": "Toronto Raptors"
     },
     {
       "date": "2026-11-13T00:00Z",
-      "status": "11/12 - 7:00 PM EST",
+      "status": "Final/2OT",
       "home": "Washington Wizards",
       "away": "Detroit Pistons"
     },
     {
       "date": "2026-11-13T01:00Z",
-      "status": "11/12 - 8:00 PM EST",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Dallas Mavericks"
     },
     {
       "date": "2026-11-13T02:00Z",
-      "status": "11/12 - 9:00 PM EST",
+      "status": "23.0 - 4th",
       "home": "Phoenix Suns",
       "away": "Charlotte Hornets"
     }
   ],
-  "fetchedAt": 1794524431074
+  "fetchedAt": 1794543582545
 }
