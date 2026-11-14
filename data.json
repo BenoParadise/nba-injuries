@@ -4,6 +4,13 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Kingston Flemings",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Flemings (back tightness) will not return to Friday's game against the Bulls.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "Mouhamed Gueye",
           "position": "F",
           "status": "Out",
@@ -93,6 +100,13 @@
     {
       "name": "Chicago Bulls",
       "players": [
+        {
+          "name": "Jalen Smith",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hand — Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes.",
+          "returnDate": "2026-11-14"
+        },
         {
           "name": "Dailyn Swain",
           "position": "G",
@@ -224,13 +238,6 @@
       "name": "Golden State Warriors",
       "players": [
         {
-          "name": "Charles Bassey",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Toe — Bassey is probable for Friday's game against the Spurs due to left toe soreness.",
-          "returnDate": "2026-11-13"
-        },
-        {
           "name": "Stephen Curry",
           "position": "G",
           "status": "Out",
@@ -296,6 +303,13 @@
     {
       "name": "Indiana Pacers",
       "players": [
+        {
+          "name": "Aaron Nesmith",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hand — Nesmith exited to the locker room in the final seconds of Friday's 106-104 win over the Knicks due to an apparent hand/wrist injury, Tony East of Forbes.com reports. He posted 18 points (7-10 FG, 2-3 3Pt, 2-2 FT), seven rebounds and one assist in 33 minutes.",
+          "returnDate": "2026-11-15"
+        },
         {
           "name": "Tyrese Haliburton",
           "position": "G",
@@ -500,18 +514,18 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Ajay Mitchell",
+          "position": "G",
+          "status": "Out",
+          "detail": "Ankle — Mitchell (ankle) has been ruled out for Friday's game against the Clippers.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "Thomas Sorber",
           "position": "C",
           "status": "Out",
           "detail": "Knee — Sorber (knee) has been ruled out for Friday's game against the Clippers.",
           "returnDate": "2026-11-20"
-        },
-        {
-          "name": "Ajay Mitchell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Mitchell (ankle) is questionable for Friday's game against the Clippers.",
-          "returnDate": "2026-11-13"
         },
         {
           "name": "Jaylin Williams",
@@ -691,20 +705,6 @@
       "name": "San Antonio Spurs",
       "players": [
         {
-          "name": "Devin Vassell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Groin — Vassell is questionable for Friday's game against the Warriors due to left adductor tightness.",
-          "returnDate": "2026-11-13"
-        },
-        {
-          "name": "De'Aaron Fox",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hip — Fox is questionable for Friday's game against the Warriors due to left hip soreness.",
-          "returnDate": "2026-11-13"
-        },
-        {
           "name": "Tobias Harris",
           "position": "F",
           "status": "Out",
@@ -763,6 +763,13 @@
     {
       "name": "Utah Jazz",
       "players": [
+        {
+          "name": "Jaxson Hayes",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Hayes won't return to Friday's game against the Rockets due to a left knee issue.",
+          "returnDate": "2026-11-15"
+        },
         {
           "name": "Trey Alexander",
           "position": "G",
@@ -837,58 +844,58 @@
   "games": [
     {
       "date": "2026-11-14T00:00Z",
-      "status": "3:34 - 2nd",
+      "status": "Final",
       "home": "Indiana Pacers",
       "away": "New York Knicks"
     },
     {
       "date": "2026-11-14T00:00Z",
-      "status": "12:00 - 2nd",
+      "status": "Final",
       "home": "Orlando Magic",
       "away": "Milwaukee Bucks"
     },
     {
       "date": "2026-11-14T01:00Z",
-      "status": "11/13 - 8:00 PM EST",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "Cleveland Cavaliers"
     },
     {
       "date": "2026-11-14T01:00Z",
-      "status": "11/13 - 8:00 PM EST",
+      "status": "Final/OT",
       "home": "Chicago Bulls",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-11-14T01:00Z",
-      "status": "11/13 - 8:00 PM EST",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Memphis Grizzlies"
     },
     {
       "date": "2026-11-14T01:30Z",
-      "status": "11/13 - 8:30 PM EST",
+      "status": "Final",
       "home": "Houston Rockets",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-11-14T02:30Z",
-      "status": "11/13 - 9:30 PM EST",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "Golden State Warriors"
     },
     {
       "date": "2026-11-14T03:00Z",
-      "status": "11/13 - 10:00 PM EST",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-11-14T03:30Z",
-      "status": "11/13 - 10:30 PM EST",
+      "status": "Final",
       "home": "LA Clippers",
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1794618514067
+  "fetchedAt": 1794644482823
 }
