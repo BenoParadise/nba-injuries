@@ -101,24 +101,24 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Jalen Smith",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hand — Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes.",
-          "returnDate": "2026-11-14"
-        },
-        {
           "name": "Dailyn Swain",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Back — Swain (back) is out for Friday's game against the Hawks.",
           "returnDate": "2026-11-14"
         },
         {
           "name": "Tobe Awaka",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Back — Awaka (back) has been ruled out for Friday's game against the Hawks.",
+          "returnDate": "2026-11-14"
+        },
+        {
+          "name": "Jalen Smith",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hand — Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes.",
           "returnDate": "2026-11-14"
         },
         {
@@ -136,7 +136,7 @@
         {
           "name": "Evan Mobley",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Toe — Mobley (toe) is out for Friday's game against the Heat.",
           "returnDate": "2026-11-14"
         },
@@ -405,14 +405,14 @@
         {
           "name": "Quinten Post",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Concussion — Post (concussion) has been ruled out for Friday's game against New Orleans.",
           "returnDate": "2026-11-14"
         },
         {
           "name": "Zach Edey",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Edey won't play in Friday's game against the Pelicans due to left ankle injury management.",
           "returnDate": "2026-11-14"
         },
@@ -436,17 +436,17 @@
       "name": "Miami Heat",
       "players": [
         {
-          "name": "Klay Thompson",
+          "name": "Pelle Larsson",
           "position": "G",
-          "status": "Out",
-          "detail": "Ankle — Thompson (ankle) is out for Friday's game against the Cavaliers.",
+          "status": "Day-To-Day",
+          "detail": "Illness — Larsson (illness) is out for Friday's game against Cleveland.",
           "returnDate": "2026-11-14"
         },
         {
-          "name": "Pelle Larsson",
+          "name": "Klay Thompson",
           "position": "G",
-          "status": "Out",
-          "detail": "Illness — Larsson (illness) is out for Friday's game against Cleveland.",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Thompson (ankle) is out for Friday's game against the Cavaliers.",
           "returnDate": "2026-11-14"
         }
       ]
@@ -474,18 +474,18 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
+          "name": "Bryce McGowens",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Elbow — McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
+          "returnDate": "2026-11-14"
+        },
+        {
           "name": "Dejounte Murray",
           "position": "G",
           "status": "Out",
           "detail": "Ankle — Murray (ankle) is out for Friday's game against Memphis.",
           "returnDate": "2026-11-20"
-        },
-        {
-          "name": "Bryce McGowens",
-          "position": "G",
-          "status": "Out",
-          "detail": "Elbow — McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
-          "returnDate": "2026-11-14"
         },
         {
           "name": "Yves Missi",
@@ -516,7 +516,7 @@
         {
           "name": "Ajay Mitchell",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Mitchell (ankle) has been ruled out for Friday's game against the Clippers.",
           "returnDate": "2026-11-15"
         },
@@ -648,7 +648,7 @@
         {
           "name": "Chris Youngblood",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Foot — Youngblood (foot) is out for Friday's game against Sacramento.",
           "returnDate": "2026-11-16"
         },
@@ -681,7 +681,7 @@
         {
           "name": "Precious Achiuwa",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Achiuwa (ankle) is out for Friday's game against the Trail Blazers.",
           "returnDate": "2026-11-15"
         },
@@ -897,5 +897,5 @@
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1794644482823
+  "fetchedAt": 1794669942840
 }
