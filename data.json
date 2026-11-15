@@ -6,9 +6,9 @@
         {
           "name": "Kingston Flemings",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Flemings (back tightness) will not return to Friday's game against the Bulls.",
-          "returnDate": "2026-11-15"
+          "status": "Out",
+          "detail": "Back — Flemings (back) has been ruled out for Sunday's game against the Bucks.",
+          "returnDate": "2026-11-18"
         },
         {
           "name": "Mouhamed Gueye",
@@ -41,33 +41,14 @@
       ]
     },
     {
-      "name": "Boston Celtics",
-      "players": [
-        {
-          "name": "Paul George",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — George (illness) has been ruled out for Wednesday's game against Toronto, Taylor Snow of the Celtics' official site reports.",
-          "returnDate": "2026-11-15"
-        }
-      ]
-    },
-    {
       "name": "Brooklyn Nets",
       "players": [
         {
-          "name": "Mikel Brown Jr.",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Brown (illness) has been upgraded to probable for Saturday's game at Memphis.",
-          "returnDate": "2026-11-14"
-        },
-        {
-          "name": "Nolan Traore",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Traore (calf) is listed as probable for Saturday's game against Memphis.",
-          "returnDate": "2026-11-14"
+          "name": "Michael Porter Jr.",
+          "position": "F",
+          "status": "Out",
+          "detail": "Personal — Porter (personal) is out for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports.",
+          "returnDate": "2026-11-16"
         }
       ]
     },
@@ -101,32 +82,25 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Tobe Awaka",
+          "name": "Jalen Smith",
           "position": "F",
           "status": "Out",
-          "detail": "Back — Awaka has been ruled out for Saturday's game against the Timberwolves.",
+          "detail": "Finger — Smith (finger) has been ruled out for Saturday's game against Minnesota, K.C. Johnson of Chicago Sports Network reports.",
           "returnDate": "2026-11-16"
         },
         {
           "name": "Nic Claxton",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Claxton (hamstring) is listed as questionable for Saturday's game against the Timberwolves.",
-          "returnDate": "2026-11-14"
+          "status": "Out",
+          "detail": "Hamstring — Claxton (hamstring) is out for Saturday's game against the Timberwolves, K.C. Johnson of Chicago Sports Network reports.",
+          "returnDate": "2026-11-16"
         },
         {
-          "name": "Jalen Smith",
+          "name": "Tobe Awaka",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Finger — Smith (finger) is listed as questionable for Saturday's game at Minnesota.",
-          "returnDate": "2026-11-14"
-        },
-        {
-          "name": "Norman Powell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Powell (back) is listed as questionable for Saturday's game against Minnesota.",
-          "returnDate": "2026-11-14"
+          "status": "Out",
+          "detail": "Back — Awaka has been ruled out for Saturday's game against the Timberwolves.",
+          "returnDate": "2026-11-16"
         },
         {
           "name": "Caleb Wilson",
@@ -143,9 +117,30 @@
         {
           "name": "Peyton Watson",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Watson (hamstring) is listed as questionable for Saturday's game against the Mavericks.",
-          "returnDate": "2026-11-14"
+          "status": "Out",
+          "detail": "Hamstring — Watson (hamstring) has been ruled out for Saturday's game against the Mavericks.",
+          "returnDate": "2026-11-16"
+        },
+        {
+          "name": "James Harden",
+          "position": "G",
+          "status": "Out",
+          "detail": "Calf — Harden (calf) has been ruled out for Saturday's game against Dallas.",
+          "returnDate": "2026-11-16"
+        },
+        {
+          "name": "Donovan Mitchell",
+          "position": "G",
+          "status": "Out",
+          "detail": "Knee — Mitchell (knee) has been ruled out for Saturday's game against the Mavericks.",
+          "returnDate": "2026-11-16"
+        },
+        {
+          "name": "Jarrett Allen",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Allen (knee) has been ruled out for Saturday's game against the Mavericks.",
+          "returnDate": "2026-11-16"
         },
         {
           "name": "Evan Mobley",
@@ -153,27 +148,6 @@
           "status": "Out",
           "detail": "Toe — Mobley (toe) has been ruled out for Saturday's meeting with Dallas.",
           "returnDate": "2026-11-16"
-        },
-        {
-          "name": "Jarrett Allen",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Allen (knee) is listed as questionable for Saturday's game against Dallas.",
-          "returnDate": "2026-11-14"
-        },
-        {
-          "name": "Donovan Mitchell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Mitchell (knee) is listed as questionable for Saturday's game against the Mavericks.",
-          "returnDate": "2026-11-14"
-        },
-        {
-          "name": "James Harden",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Calf — Harden (left lower leg/calf tightness) is listed as questionable for Saturday's game against the Mavericks.",
-          "returnDate": "2026-11-14"
         },
         {
           "name": "Sam Merrill",
@@ -197,16 +171,9 @@
         {
           "name": "Max Christie",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Christie (ankle) has been downgraded to doubtful for Saturday's game against the Cavaliers",
-          "returnDate": "2026-11-14"
-        },
-        {
-          "name": "Morez Johnson Jr.",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Lower Leg — Johnson (left shin contusion) is listed as probable for Saturday against Cleveland.",
-          "returnDate": "2026-11-14"
+          "status": "Out",
+          "detail": "Ankle — Christie (ankle) has been ruled out for Saturday's game against Cleveland.",
+          "returnDate": "2026-11-15"
         },
         {
           "name": "Dereck Lively II",
@@ -313,25 +280,32 @@
       "name": "Houston Rockets",
       "players": [
         {
-          "name": "Marcus Smart",
-          "position": "G",
-          "status": "Suspension",
-          "detail": "Suspension — Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
-          "returnDate": "2026-11-18"
-        },
-        {
           "name": "Clint Capela",
           "position": "C",
           "status": "Out",
-          "detail": "Ankle — Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard Binkley of SI.com reports.",
-          "returnDate": "2026-11-15"
+          "detail": "Ankle — Capela (ankle) has been ruled out for Sunday's game at Washington.",
+          "returnDate": "2026-11-16"
         },
         {
           "name": "Steven Adams",
           "position": "C",
           "status": "Out",
-          "detail": "Calf — Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports.",
+          "detail": "Calf — Adams (calf) has been upgraded to probable for Sunday's game against the Wizards.",
           "returnDate": "2026-11-15"
+        },
+        {
+          "name": "Fred VanVleet",
+          "position": "G",
+          "status": "Out",
+          "detail": "Knee — VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.",
+          "returnDate": "2026-11-16"
+        },
+        {
+          "name": "Marcus Smart",
+          "position": "G",
+          "status": "Suspension",
+          "detail": "Suspension — Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
+          "returnDate": "2026-11-18"
         }
       ]
     },
@@ -339,10 +313,17 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "T.J. McConnell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — McConnell (hamstring) is listed as probable for Sunday's game against the 76ers.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "Aaron Nesmith",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Hand — Nesmith exited to the locker room in the final seconds of Friday's 106-104 win over the Knicks due to an apparent hand/wrist injury, Tony East of Forbes.com reports. He posted 18 points (7-10 FG, 2-3 3Pt, 2-2 FT), seven rebounds and one assist in 33 minutes.",
+          "detail": "Hand — Nesmith (hand) is listed as questionable for Sunday's game against Philadelphia.",
           "returnDate": "2026-11-15"
         },
         {
@@ -405,32 +386,18 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Quentin Grimes",
+          "name": "Collin Sexton",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Finger — Grimes (finger) said he expects to return to action Sunday against the Suns, according to Ricardo Sandoval of Lakers on SI.",
+          "detail": "Head — Sexton (head) is questionable for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
           "returnDate": "2026-11-15"
         },
         {
           "name": "Austin Reaves",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Heel — Reaves (heel) won't undergo imaging and is considered day-to-day ahead of Sunday's game against the Suns, Jovan Buha of The Athletic reports.",
-          "returnDate": "2026-11-15"
-        },
-        {
-          "name": "Luka Doncic",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Head coach JJ Redick said Friday that Doncic (ankle) is \"fine,\" per Law Murray of The Athletic.",
-          "returnDate": "2026-11-15"
-        },
-        {
-          "name": "Collin Sexton",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Head — Sexton did not return to Wednesday's 123-112 win over the Bucks and required stitches to close a cut on his forehead, Thuc Nhi Nguyen of the Los Angeles Times reports.",
-          "returnDate": "2026-11-15"
+          "status": "Out",
+          "detail": "Heel — Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
+          "returnDate": "2026-11-17"
         }
       ]
     },
@@ -487,23 +454,21 @@
         {
           "name": "Pelle Larsson",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Illness — Larsson (illness) is listed as doubtful for Saturday's game against Detroit.",
-          "returnDate": "2026-11-14"
-        },
+          "status": "Out",
+          "detail": "Illness — Larsson (illness) has been ruled out for Saturday's game against the Pistons.",
+          "returnDate": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "players": [
         {
-          "name": "Klay Thompson",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Thompson (ankle) is listed as probable for Saturday's game against the Pistons.",
-          "returnDate": "2026-11-14"
-        },
-        {
-          "name": "Giannis Antetokounmpo",
+          "name": "Ousmane Dieng",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Wrist — Antetokounmpo (wrist) is listed as probable for Saturday's game against Detroit.",
-          "returnDate": "2026-11-14"
+          "status": "Out",
+          "detail": "Finger — Dieng (finger) has been ruled out for Sunday's game against the Hawks.",
+          "returnDate": "2026-11-18"
         }
       ]
     },
@@ -530,11 +495,11 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
-          "name": "Yves Missi",
-          "position": "C",
+          "name": "Bennedict Mathurin",
+          "position": "G",
           "status": "Out",
-          "detail": "Knee — Missi (knee) has been upgraded to probable for Saturday's game versus the Nuggets.",
-          "returnDate": "2026-11-14"
+          "detail": "Foot — Mathurin is out for Saturday's game against the Nuggets due to left plantar fasciitis.",
+          "returnDate": "2026-11-16"
         },
         {
           "name": "Trendon Watford",
@@ -650,11 +615,11 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
-          "name": "LeBron James",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Back — James (back) is out for Thursday's game against Toronto.",
-          "returnDate": "2026-11-15"
+          "name": "Joel Embiid",
+          "position": "C",
+          "status": "Out",
+          "detail": "Foot — Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers.",
+          "returnDate": "2026-11-16"
         },
         {
           "name": "Dominick Barlow",
@@ -735,6 +700,13 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Keegan Murray",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Murray (illness) didn't participate in Saturday's practice, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "Precious Achiuwa",
           "position": "F",
           "status": "Day-To-Day",
@@ -780,6 +752,13 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Nate Bittle",
+          "position": "C",
+          "status": "Out",
+          "detail": "Foot — Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",
+          "returnDate": "2026-11-23"
+        },
+        {
           "name": "Scottie Barnes",
           "position": "F",
           "status": "Out",
@@ -794,25 +773,11 @@
           "returnDate": "2026-11-14"
         },
         {
-          "name": "Trayce Jackson-Davis",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Jackson-Davis is out for Thursday's game against the 76ers due to an illness.",
-          "returnDate": "2026-11-15"
-        },
-        {
           "name": "Kawhi Leonard",
           "position": "F",
           "status": "Out",
           "detail": "Knee — Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",
           "returnDate": "2026-11-23"
-        },
-        {
-          "name": "Nate Bittle",
-          "position": "C",
-          "status": "Out",
-          "detail": "Foot — Bittle (foot) is listed as out for Monday's game against Memphis.",
-          "returnDate": "2026-11-15"
         }
       ]
     },
@@ -822,9 +787,9 @@
         {
           "name": "Jaxson Hayes",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Hayes won't return to Friday's game against the Rockets due to a left knee issue.",
-          "returnDate": "2026-11-15"
+          "status": "Out",
+          "detail": "Knee — Hayes (knee) has been ruled out for Sunday's game against the Spurs.",
+          "returnDate": "2026-11-17"
         },
         {
           "name": "Trey Alexander",
@@ -860,10 +825,24 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Alex Sarr",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Illness — Sarr (illness) is listed as questionable for Sunday's game against Houston.",
+          "returnDate": "2026-11-15"
+        },
+        {
+          "name": "Tre Johnson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Johnson is listed as questionable for Sunday's game against the Rockets due to lower-back soreness.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "Bub Carrington",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Chest — Carrington (chest) has been ruled out for the remainder of Thursday's game against the Pistons.",
+          "detail": "Chest — Carrington (chest) is listed as questionable for Sunday's game against Houston.",
           "returnDate": "2026-11-15"
         },
         {
@@ -900,7 +879,7 @@
   "games": [
     {
       "date": "2026-11-15T00:00Z",
-      "status": "11/14 - 7:00 PM EST",
+      "status": "1:38 - 1st",
       "home": "New Orleans Pelicans",
       "away": "Denver Nuggets"
     },
@@ -929,5 +908,5 @@
       "away": "Chicago Bulls"
     }
   ],
-  "fetchedAt": 1794687321128
+  "fetchedAt": 1794702830088
 }
