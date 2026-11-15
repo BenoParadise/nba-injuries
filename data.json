@@ -805,7 +805,7 @@
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Illness — McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
-          "returnDate": "2026-11-14"
+          "returnDate": "2026-11-16"
         },
         {
           "name": "Kawhi Leonard",
@@ -943,5 +943,5 @@
       "away": "Chicago Bulls"
     }
   ],
-  "fetchedAt": 1794727393060
+  "fetchedAt": 1794755275901
 }
