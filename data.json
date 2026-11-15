@@ -56,13 +56,6 @@
       "name": "Charlotte Hornets",
       "players": [
         {
-          "name": "Brandon Miller",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Groin — Miller (groin) is listed as out for Thursday's game against Phoenix.",
-          "returnDate": "2026-11-15"
-        },
-        {
           "name": "Kon Knueppel",
           "position": "G",
           "status": "Out",
@@ -169,6 +162,13 @@
       "name": "Dallas Mavericks",
       "players": [
         {
+          "name": "Daniel Gafford",
+          "position": "F",
+          "status": "Out",
+          "detail": "Face — Gafford (face) won't return to Saturday's game against the Cavaliers, Grant Afseth of DallasHoopsJournal.com reports.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "Max Christie",
           "position": "G",
           "status": "Out",
@@ -213,6 +213,13 @@
     {
       "name": "Detroit Pistons",
       "players": [
+        {
+          "name": "Duncan Robinson",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Thigh — Robinson (thigh) is questionable to return to Saturday's game against Miami.",
+          "returnDate": "2026-11-14"
+        },
         {
           "name": "Ugonna Onyenso",
           "position": "C",
@@ -313,6 +320,13 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "Andrew Nembhard",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hip — Nembhard is questionable for Sunday's game against the 76ers due to left hip soreness.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "T.J. McConnell",
           "position": "G",
           "status": "Day-To-Day",
@@ -386,6 +400,13 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Adou Thiero",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Thiero (ankle) is questionable for Sunday's game against the Suns.",
+          "returnDate": "2026-11-15"
+        },
+        {
           "name": "Collin Sexton",
           "position": "G",
           "status": "Day-To-Day",
@@ -405,25 +426,32 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
-          "name": "Quinten Post",
+          "name": "GG Jackson",
+          "position": "F",
+          "status": "Out",
+          "detail": "Foot — According to Grizzlies head coach Tuomas Iisalo, Jackson suffered a \"relatively serious\" foot injury in Saturday's 129-110 win over Brooklyn, Michael Wallace of the Grizzlies' official site reports.",
+          "returnDate": "2026-11-16"
+        },
+        {
+          "name": "Zach Edey",
           "position": "C",
           "status": "Out",
-          "detail": "Concussion — Post (concussion) has been ruled out for Saturday's game against the Nets.",
+          "detail": "Ankle — Edey (ankle) is listed as out for Saturday's game against the Nets.",
           "returnDate": "2026-11-16"
         },
         {
           "name": "Jerami Grant",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Head — Grant (head) is questionable for Saturday's game against the Nets.",
-          "returnDate": "2026-11-14"
+          "status": "Out",
+          "detail": "Head — Grant (head) is out for Saturday's game against the Nets.",
+          "returnDate": "2026-11-16"
         },
         {
-          "name": "Zach Edey",
+          "name": "Quinten Post",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Edey (ankle) is listed as questionable for Saturday's game against Brooklyn.",
-          "returnDate": "2026-11-14"
+          "status": "Out",
+          "detail": "Concussion — Post (concussion) has been ruled out for Saturday's game against the Nets.",
+          "returnDate": "2026-11-16"
         },
         {
           "name": "Ty Jerome",
@@ -475,6 +503,13 @@
     {
       "name": "Minnesota Timberwolves",
       "players": [
+        {
+          "name": "Jaylen Clark",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hamstring — Clark (hamstring) has been ruled out for the remainder of Saturday's game against the Bulls, Sarah Todd of The Deseret News reports.",
+          "returnDate": "2026-11-16"
+        },
         {
           "name": "Anthony Edwards",
           "position": "G",
@@ -535,10 +570,17 @@
       "name": "Oklahoma City Thunder",
       "players": [
         {
+          "name": "Jaylin Williams",
+          "position": "F",
+          "status": "Out",
+          "detail": "Back — Williams (back) has been ruled out for Sunday's game against the Kings.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Ajay Mitchell",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Mitchell (ankle) has been ruled out for Friday's game against the Clippers.",
+          "detail": "Ankle — Mitchell (ankle) is questionable to suit up for Sunday's game against the Kings.",
           "returnDate": "2026-11-15"
         },
         {
@@ -547,13 +589,6 @@
           "status": "Out",
           "detail": "Knee — Sorber (knee) has been ruled out for Friday's game against the Clippers.",
           "returnDate": "2026-11-20"
-        },
-        {
-          "name": "Jaylin Williams",
-          "position": "F",
-          "status": "Out",
-          "detail": "Back — Williams (back) has been ruled out for Wednesday's game against Portland and remains out indefinitely.",
-          "returnDate": "2026-11-15"
         },
         {
           "name": "Cason Wallace",
@@ -700,24 +735,24 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Maxime Raynaud",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Raynaud (knee) has been ruled out for Sunday's game against the Thunder.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Keegan Murray",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Illness — Murray (illness) didn't participate in Saturday's practice, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+          "detail": "Illness — Murray (illness) is questionable for Sunday's game against the Thunder.",
           "returnDate": "2026-11-15"
         },
         {
           "name": "Precious Achiuwa",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Achiuwa (ankle) is out for Friday's game against the Trail Blazers.",
-          "returnDate": "2026-11-15"
-        },
-        {
-          "name": "Maxime Raynaud",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Raynaud (knee) has been ruled out for Tuesday's game against Orlando.",
+          "detail": "Ankle — Achiuwa (ankle) is questionable for Sunday's game against the Thunder.",
           "returnDate": "2026-11-15"
         },
         {
@@ -879,34 +914,34 @@
   "games": [
     {
       "date": "2026-11-15T00:00Z",
-      "status": "1:38 - 1st",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Denver Nuggets"
     },
     {
       "date": "2026-11-15T00:30Z",
-      "status": "11/14 - 7:30 PM EST",
+      "status": "Final",
       "home": "Cleveland Cavaliers",
       "away": "Dallas Mavericks"
     },
     {
       "date": "2026-11-15T01:00Z",
-      "status": "11/14 - 8:00 PM EST",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "Detroit Pistons"
     },
     {
       "date": "2026-11-15T01:00Z",
-      "status": "11/14 - 8:00 PM EST",
+      "status": "Final",
       "home": "Memphis Grizzlies",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-11-15T01:00Z",
-      "status": "11/14 - 8:00 PM EST",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Chicago Bulls"
     }
   ],
-  "fetchedAt": 1794702830088
+  "fetchedAt": 1794727393060
 }
