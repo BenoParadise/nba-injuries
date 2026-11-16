@@ -25,13 +25,6 @@
           "returnDate": "2026-12-12"
         },
         {
-          "name": "Keshon Gilbert",
-          "position": "G",
-          "status": "Out",
-          "detail": "Knee — Gilbert (knee) has been ruled out for Friday's game against the Bulls.",
-          "returnDate": "2026-11-20"
-        },
-        {
           "name": "Asa Newell",
           "position": "F",
           "status": "Out",
@@ -537,13 +530,6 @@
           "returnDate": "2026-11-18"
         },
         {
-          "name": "Ajay Mitchell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Mitchell (ankle) is questionable to suit up for Sunday's game against the Kings.",
-          "returnDate": "2026-11-15"
-        },
-        {
           "name": "Thomas Sorber",
           "position": "C",
           "status": "Out",
@@ -695,18 +681,25 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "De'Andre Hunter",
+          "position": "F",
+          "status": "Out",
+          "detail": "Hip — Hunter (hip) is out for Sunday's game against the Thunder.",
+          "returnDate": "2026-11-18"
+        },
+        {
+          "name": "Zach LaVine",
+          "position": "G",
+          "status": "Out",
+          "detail": "Illness — LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of DailyThunder.com reports.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Precious Achiuwa",
           "position": "F",
           "status": "Out",
           "detail": "Ankle — Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
           "returnDate": "2026-11-18"
-        },
-        {
-          "name": "De'Andre Hunter",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hip — Hunter is questionable for Sunday's game against the Thunder due to left hip soreness.",
-          "returnDate": "2026-11-15"
         },
         {
           "name": "Maxime Raynaud",
@@ -884,34 +877,34 @@
     },
     {
       "date": "2026-11-15T23:00Z",
-      "status": "2:23 - 3rd",
+      "status": "Final",
       "home": "Boston Celtics",
       "away": "Dallas Mavericks"
     },
     {
       "date": "2026-11-15T23:00Z",
-      "status": "8:59 - 3rd",
+      "status": "Final/OT",
       "home": "Toronto Raptors",
       "away": "New York Knicks"
     },
     {
       "date": "2026-11-16T00:00Z",
-      "status": "1:16 - 1st",
+      "status": "Final",
       "home": "Washington Wizards",
       "away": "Houston Rockets"
     },
     {
       "date": "2026-11-16T01:00Z",
-      "status": "11/15 - 8:00 PM EST",
+      "status": "Final",
       "home": "Milwaukee Bucks",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-11-16T02:00Z",
-      "status": "11/15 - 9:00 PM EST",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "Oklahoma City Thunder"
     }
   ],
-  "fetchedAt": 1794789215398
+  "fetchedAt": 1794814157938
 }
