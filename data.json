@@ -4,17 +4,17 @@
       "name": "Atlanta Hawks",
       "players": [
         {
+          "name": "Kingston Flemings",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Back — Flemings (back) practiced Tuesday, per Lauren L. Williams of The Atlanta Journal-Constitution.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Jock Landale",
           "position": "C",
           "status": "Day-To-Day",
           "detail": "Hip — Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcast Network reports.",
-          "returnDate": "2026-11-18"
-        },
-        {
-          "name": "Kingston Flemings",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Back — Flemings (back) has been ruled out for Sunday's game against the Bucks.",
           "returnDate": "2026-11-18"
         },
         {
@@ -151,14 +151,14 @@
           "name": "Max Christie",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Christie (ankle) has been ruled out for Sunday's game against the Celtics.",
+          "detail": "Ankle — Christie (ankle) was a full participant in Tuesday's practice, Mike Curtis of The Dallas Morning News reports.",
           "returnDate": "2026-11-18"
         },
         {
           "name": "Santi Aldama",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Ankle — Aldama (ankle) is out for Sunday's game against the Celtics.",
+          "detail": "Ankle — Aldama (ankle) was a full participant in Tuesday's practice, Mike Curtis of The Dallas Morning News reports.",
           "returnDate": "2026-11-18"
         },
         {
@@ -207,6 +207,20 @@
       "name": "Detroit Pistons",
       "players": [
         {
+          "name": "Isaiah Joe",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hip — Joe (hip) is out for Tuesday's game against the Spurs.",
+          "returnDate": "2026-11-18"
+        },
+        {
+          "name": "Duncan Robinson",
+          "position": "F",
+          "status": "Out",
+          "detail": "Quadriceps — Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports.",
+          "returnDate": "2026-11-27"
+        },
+        {
           "name": "Taurean Prince",
           "position": "F",
           "status": "Out",
@@ -218,20 +232,6 @@
           "position": "F",
           "status": "Out",
           "detail": "Knee — Holland is out for Tuesday's game against San Antonio due to a left knee contusion.",
-          "returnDate": "2026-11-18"
-        },
-        {
-          "name": "Isaiah Joe",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hip — Joe (hip) is doubtful to play in Tuesday's game against the Spurs.",
-          "returnDate": "2026-11-17"
-        },
-        {
-          "name": "Duncan Robinson",
-          "position": "F",
-          "status": "Out",
-          "detail": "Quadriceps — Robinson (quadriceps) has been ruled out for Tuesday's game against the Spurs.",
           "returnDate": "2026-11-18"
         },
         {
@@ -327,18 +327,18 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "Tyrese Haliburton",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hamstring — Head coach Rick Carlisle said Tuesday that Haliburton (hamstring) is \"getting there,\" but there's still no definitive timetable for his return to game action, Dustin Dopirak of The Indianapolis Star reports.",
+          "returnDate": "2026-11-28"
+        },
+        {
           "name": "Andrew Nembhard",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Hip — Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports.",
           "returnDate": "2026-11-18"
-        },
-        {
-          "name": "Tyrese Haliburton",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports.",
-          "returnDate": "2026-11-22"
         },
         {
           "name": "Johnny Furphy",
@@ -787,6 +787,13 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Scottie Barnes",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Barnes (illness) has been downgraded to questionable for Tuesday's game against the Knicks, Blake Murphy of Sportsnet.ca reports.",
+          "returnDate": "2026-11-17"
+        },
+        {
           "name": "Nate Bittle",
           "position": "C",
           "status": "Out",
@@ -846,6 +853,13 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Felix Okpara",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Okpara (illness) is available for Friday's game against Toronto.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Tristan Vukcevic",
           "position": "F",
           "status": "Out",
@@ -878,53 +892,35 @@
   ],
   "games": [
     {
-      "date": "2026-11-17T00:00Z",
-      "status": "Final",
-      "home": "Boston Celtics",
-      "away": "Orlando Magic"
+      "date": "2026-11-18T00:30Z",
+      "status": "11/17 - 7:30 PM EST",
+      "home": "Toronto Raptors",
+      "away": "New York Knicks"
     },
     {
-      "date": "2026-11-17T00:00Z",
-      "status": "Final",
-      "home": "Cleveland Cavaliers",
-      "away": "Chicago Bulls"
-    },
-    {
-      "date": "2026-11-17T00:00Z",
-      "status": "Final",
-      "home": "Washington Wizards",
-      "away": "Memphis Grizzlies"
-    },
-    {
-      "date": "2026-11-17T00:30Z",
-      "status": "Final",
-      "home": "Brooklyn Nets",
-      "away": "Philadelphia 76ers"
-    },
-    {
-      "date": "2026-11-17T00:30Z",
-      "status": "Final",
-      "home": "Miami Heat",
-      "away": "Houston Rockets"
-    },
-    {
-      "date": "2026-11-17T01:00Z",
-      "status": "Final",
+      "date": "2026-11-18T01:00Z",
+      "status": "11/17 - 8:00 PM EST",
       "home": "Minnesota Timberwolves",
       "away": "Portland Trail Blazers"
     },
     {
-      "date": "2026-11-17T01:00Z",
-      "status": "Final",
-      "home": "New Orleans Pelicans",
-      "away": "Golden State Warriors"
+      "date": "2026-11-18T01:00Z",
+      "status": "11/17 - 8:00 PM EST",
+      "home": "San Antonio Spurs",
+      "away": "Detroit Pistons"
     },
     {
-      "date": "2026-11-17T02:00Z",
-      "status": "Final",
-      "home": "Denver Nuggets",
-      "away": "Phoenix Suns"
+      "date": "2026-11-18T03:30Z",
+      "status": "11/17 - 10:30 PM EST",
+      "home": "LA Clippers",
+      "away": "Utah Jazz"
+    },
+    {
+      "date": "2026-11-18T04:00Z",
+      "status": "11/17 - 11:00 PM EST",
+      "home": "Los Angeles Lakers",
+      "away": "Charlotte Hornets"
     }
   ],
-  "fetchedAt": 1794909348223
+  "fetchedAt": 1794941622398
 }
