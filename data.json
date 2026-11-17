@@ -46,7 +46,7 @@
         {
           "name": "Neemias Queta",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Rest — Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports.",
           "returnDate": "2026-11-18"
         }
@@ -75,6 +75,20 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Jalen Smith",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Head — Smith (undisclosed) exited in the fourth quarter of Monday's 126-115 loss to the Cavaliers and did not return.",
+          "returnDate": "2026-11-18"
+        },
+        {
+          "name": "Patrick Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Finger — Williams (finger) has been ruled out for the remainder of Monday's game against Cleveland.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Tobe Awaka",
           "position": "F",
           "status": "Out",
@@ -96,8 +110,15 @@
         {
           "name": "Jaylon Tyson",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Tyson (ankle) has been ruled out for Monday's game against Chicago.",
+          "returnDate": "2026-11-18"
+        },
+        {
+          "name": "Peyton Watson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Head — Watson left Monday's 126-115 win over Chicago due to a head injury and did not return.",
           "returnDate": "2026-11-18"
         },
         {
@@ -268,8 +289,22 @@
         {
           "name": "Amen Thompson",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Thompson (knee) is out for Monday's game against the Heat.",
+          "returnDate": "2026-11-18"
+        },
+        {
+          "name": "Marcus Smart",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Suspension — Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
+          "returnDate": "2026-11-18"
+        },
+        {
+          "name": "Steven Adams",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Calf — Adams (calf) is out for Monday's game against the Heat.",
           "returnDate": "2026-11-18"
         },
         {
@@ -280,25 +315,11 @@
           "returnDate": "2026-11-18"
         },
         {
-          "name": "Steven Adams",
-          "position": "C",
-          "status": "Out",
-          "detail": "Calf — Adams (calf) is out for Monday's game against the Heat.",
-          "returnDate": "2026-11-18"
-        },
-        {
           "name": "Julian Phillips",
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Wrist — Phillips (illness) is available for Wednesday's game against Dallas.",
-          "returnDate": "2026-11-16"
-        },
-        {
-          "name": "Marcus Smart",
-          "position": "G",
-          "status": "Suspension",
-          "detail": "Suspension — Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
-          "returnDate": "2026-11-18"
+          "returnDate": "2026-11-17"
         }
       ]
     },
@@ -343,7 +364,7 @@
           "position": "C",
           "status": "Out",
           "detail": "Foot — Niederhauser (foot) has been ruled out for Tuesday's game against the Jazz.",
-          "returnDate": "2026-11-19"
+          "returnDate": "2026-11-23"
         },
         {
           "name": "Brandon Ingram",
@@ -375,14 +396,14 @@
           "name": "Austin Reaves",
           "position": "G",
           "status": "Out",
-          "detail": "Heel — Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
+          "detail": "Heel — Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com reports.",
           "returnDate": "2026-11-18"
         },
         {
           "name": "Walker Kessler",
           "position": "C",
           "status": "Out",
-          "detail": "Lower Leg — Kessler registered 14 points (4-5 FG, 6-6 FT), 12 rebounds, three assists, two blocks and one steal over 32 minutes during Sunday's 131-123 victory over the Suns.",
+          "detail": "Lower Leg — Walker (leg) has been ruled out for Tuesday's game against the Hornets.",
           "returnDate": "2026-11-18"
         }
       ]
@@ -393,8 +414,15 @@
         {
           "name": "Isaiah Stewart",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Stewart is out for Monday's game against the Wizards due to an illness.",
+          "returnDate": "2026-11-18"
+        },
+        {
+          "name": "Ty Jerome",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hip — Jerome (hip) has been ruled out for Monday's game against the Wizards.",
           "returnDate": "2026-11-18"
         },
         {
@@ -412,13 +440,6 @@
           "returnDate": "2027-01-18"
         },
         {
-          "name": "Ty Jerome",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hip — Jerome (hip) has been ruled out for Monday's game against the Wizards.",
-          "returnDate": "2026-11-18"
-        },
-        {
           "name": "Richie Saunders",
           "position": "G",
           "status": "Out",
@@ -433,8 +454,15 @@
         {
           "name": "Nikola Jovic",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Jovic (illness) is out for Monday's game against Houston.",
+          "returnDate": "2026-11-18"
+        },
+        {
+          "name": "Bam Adebayo",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Hip — Coach Erik Spoelstra stated after Monday's 128-110 win over Houston that the team held Adebayo (hip) out of the second half in an effort to be proactive, and the injury isn't expected to be a long-term issue, Anthony Chiang of the Miami Herald reports.",
           "returnDate": "2026-11-18"
         },
         {
@@ -469,6 +497,13 @@
       "name": "Minnesota Timberwolves",
       "players": [
         {
+          "name": "Jonathan Kuminga",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Kuminga (shoulder) exited in the fourth quarter of Monday's 106-98 win over Portland and did not return. He closed with 13 points (5-12 FG, 1-2 3Pt, 2-2 FT), nine rebounds and one assist across 29 minutes.",
+          "returnDate": "2026-11-17"
+        },
+        {
           "name": "Jaylen Clark",
           "position": "G",
           "status": "Out",
@@ -495,17 +530,17 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
+          "name": "Bennedict Mathurin",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Foot — Mathurin (foot) has been ruled out for Monday's game against the Warriors.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Bryce McGowens",
           "position": "G",
           "status": "Out",
           "detail": "Elbow — McGowens (elbow) has been ruled out for Monday's game against the Warriors.",
-          "returnDate": "2026-11-18"
-        },
-        {
-          "name": "Bennedict Mathurin",
-          "position": "G",
-          "status": "Out",
-          "detail": "Foot — Mathurin (foot) has been ruled out for Monday's game against the Warriors.",
           "returnDate": "2026-11-18"
         },
         {
@@ -579,7 +614,7 @@
           "position": "F",
           "status": "Out",
           "detail": "Knee — Isaac (knee) has been ruled out for Monday's game against the Celtics.",
-          "returnDate": "2026-11-18"
+          "returnDate": "2026-11-22"
         },
         {
           "name": "Noah Penda",
@@ -608,6 +643,20 @@
       "name": "Philadelphia 76ers",
       "players": [
         {
+          "name": "Jaylen Brown",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Brown (hamstring/head) will undergo further evaluation Tuesday and could receive an MRI, Kris Rhim of ESPN reports.",
+          "returnDate": "2026-11-18"
+        },
+        {
+          "name": "LeBron James",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — James (back) has been ruled out for Monday's game against the Nets.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Dominick Barlow",
           "position": "F",
           "status": "Out",
@@ -615,18 +664,11 @@
           "returnDate": "2026-11-18"
         },
         {
-          "name": "LeBron James",
-          "position": "F",
-          "status": "Out",
-          "detail": "Back — James (back) has been ruled out for Monday's game against the Nets.",
-          "returnDate": "2026-11-18"
-        },
-        {
           "name": "Adem Bona",
           "position": "C",
           "status": "Out",
           "detail": "Back — Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",
-          "returnDate": "2026-11-18"
+          "returnDate": "2026-11-21"
         },
         {
           "name": "Ariel Hukporti",
@@ -756,7 +798,7 @@
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Illness — McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
-          "returnDate": "2026-11-16"
+          "returnDate": "2026-11-20"
         },
         {
           "name": "Kawhi Leonard",
@@ -837,52 +879,52 @@
   "games": [
     {
       "date": "2026-11-17T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Boston Celtics",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-11-17T00:00Z",
-      "status": "11:25 - 3rd",
+      "status": "Final",
       "home": "Cleveland Cavaliers",
       "away": "Chicago Bulls"
     },
     {
       "date": "2026-11-17T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Washington Wizards",
       "away": "Memphis Grizzlies"
     },
     {
       "date": "2026-11-17T00:30Z",
-      "status": "9:02 - 2nd",
+      "status": "Final",
       "home": "Brooklyn Nets",
       "away": "Philadelphia 76ers"
     },
     {
       "date": "2026-11-17T00:30Z",
-      "status": "8:05 - 2nd",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "Houston Rockets"
     },
     {
       "date": "2026-11-17T01:00Z",
-      "status": "7:06 - 1st",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-11-17T01:00Z",
-      "status": "7:19 - 1st",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Golden State Warriors"
     },
     {
       "date": "2026-11-17T02:00Z",
-      "status": "11/16 - 9:00 PM EST",
+      "status": "Final",
       "home": "Denver Nuggets",
       "away": "Phoenix Suns"
     }
   ],
-  "fetchedAt": 1794878416050
+  "fetchedAt": 1794909348223
 }
