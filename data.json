@@ -51,6 +51,13 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Grayson Allen",
+          "position": "G",
+          "status": "Out",
+          "detail": "Concussion — Allen (concussion-like symptoms) has been ruled out for Tuesday's game against the Lakers.",
+          "returnDate": "2026-11-20"
+        },
+        {
           "name": "Kon Knueppel",
           "position": "G",
           "status": "Out",
@@ -242,6 +249,13 @@
       "name": "Golden State Warriors",
       "players": [
         {
+          "name": "Draymond Green",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Elbow — Green is questionable for Wednesday's game in Dallas due to inflammation in his right elbow.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Al Horford",
           "position": "C",
           "status": "Day-To-Day",
@@ -388,17 +402,17 @@
       "name": "Los Angeles Lakers",
       "players": [
         {
+          "name": "Walker Kessler",
+          "position": "C",
+          "status": "Out",
+          "detail": "Lower Leg — Head coach JJ Redick said he expects Walker (leg) to be available for Wednesday's game against the Jazz, Thuc Nhi Nguyen of the Los Angeles Times reports.",
+          "returnDate": "2026-11-18"
+        },
+        {
           "name": "Austin Reaves",
           "position": "G",
           "status": "Out",
           "detail": "Heel — Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com reports.",
-          "returnDate": "2026-11-18"
-        },
-        {
-          "name": "Walker Kessler",
-          "position": "C",
-          "status": "Out",
-          "detail": "Lower Leg — Walker (leg) has been ruled out for Tuesday's game against the Hornets.",
           "returnDate": "2026-11-18"
         }
       ]
@@ -723,6 +737,13 @@
       "name": "Sacramento Kings",
       "players": [
         {
+          "name": "Maxime Raynaud",
+          "position": "C",
+          "status": "Out",
+          "detail": "Knee — Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns.",
+          "returnDate": "2026-11-25"
+        },
+        {
           "name": "De'Andre Hunter",
           "position": "F",
           "status": "Day-To-Day",
@@ -737,13 +758,6 @@
           "returnDate": "2026-11-18"
         },
         {
-          "name": "Maxime Raynaud",
-          "position": "C",
-          "status": "Out",
-          "detail": "Knee — Raynaud (knee) has been ruled out for Sunday's game against the Thunder.",
-          "returnDate": "2026-11-18"
-        },
-        {
           "name": "Ben Simmons",
           "position": "G",
           "status": "Out",
@@ -755,6 +769,13 @@
     {
       "name": "San Antonio Spurs",
       "players": [
+        {
+          "name": "Dylan Harper",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Undisclosed — Harper left Tuesday's game against the Spurs due to an undisclosed injury after an awkward fall, Chris Mannix reports.",
+          "returnDate": "2026-11-19"
+        },
         {
           "name": "Tobias Harris",
           "position": "F",
@@ -874,34 +895,34 @@
   "games": [
     {
       "date": "2026-11-18T00:30Z",
-      "status": "4:14 - 2nd",
+      "status": "Final",
       "home": "Toronto Raptors",
       "away": "New York Knicks"
     },
     {
       "date": "2026-11-18T01:00Z",
-      "status": "4:24 - 1st",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-11-18T01:00Z",
-      "status": "4:54 - 1st",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "Detroit Pistons"
     },
     {
       "date": "2026-11-18T03:30Z",
-      "status": "11/17 - 10:30 PM EST",
+      "status": "Final",
       "home": "LA Clippers",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-11-18T04:00Z",
-      "status": "11/17 - 11:00 PM EST",
+      "status": "Final/OT",
       "home": "Los Angeles Lakers",
       "away": "Charlotte Hornets"
     }
   ],
-  "fetchedAt": 1794965212759
+  "fetchedAt": 1794994261456
 }
