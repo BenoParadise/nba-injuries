@@ -181,13 +181,6 @@
           "returnDate": "2026-11-20"
         },
         {
-          "name": "Isaiah Joe",
-          "position": "G",
-          "status": "Out",
-          "detail": "Joe (hip) is listed as questionable for Wednesday's game against the Pelicans.",
-          "returnDate": ""
-        },
-        {
           "name": "Taurean Prince",
           "position": "F",
           "status": "Out",
@@ -268,6 +261,13 @@
       "name": "Houston Rockets",
       "players": [
         {
+          "name": "Alperen Sengun",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Eye — Sengun (eye) will not return to Wednesday's game against the Pacers, Will Guillory of The Athletic reports.",
+          "returnDate": "2026-11-20"
+        },
+        {
           "name": "Clint Capela",
           "position": "C",
           "status": "Out",
@@ -279,6 +279,13 @@
     {
       "name": "Indiana Pacers",
       "players": [
+        {
+          "name": "Braden Smith",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Smith suffered a right ankle sprain during Wednesday's game against the Wizards, Tony East of Forbes.com reports.",
+          "returnDate": "2026-11-20"
+        },
         {
           "name": "Andrew Nembhard",
           "position": "G",
@@ -342,7 +349,7 @@
           "name": "Austin Reaves",
           "position": "G",
           "status": "Out",
-          "detail": "Heel — Reaves (heel) is out for Wednesday's game against the Jazz.",
+          "detail": "Heel — Head coach JJ Redick said Reaves' (heel) pregame workout went \"well,\" but he remains without an official timetable to return, Daniel Starkand of LakersNation.com reports.",
           "returnDate": "2026-11-20"
         }
       ]
@@ -501,6 +508,13 @@
     {
       "name": "Oklahoma City Thunder",
       "players": [
+        {
+          "name": "Alex Caruso",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hip — Caruso won't return to Wednesday's game against the Hawks due to right hip soreness, Clemente Almanza of USA Today reports.",
+          "returnDate": "2026-11-20"
+        },
         {
           "name": "Thomas Sorber",
           "position": "C",
@@ -726,6 +740,13 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Collin Murray-Boyles",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Murray-Boyles will not return to Wednesday's game against the Wizards due to an illness, Blake Murphy of Sportsnet.ca reports.",
+          "returnDate": "2026-11-20"
+        },
+        {
           "name": "RJ Barrett",
           "position": "F",
           "status": "Out",
@@ -759,13 +780,6 @@
       "name": "Utah Jazz",
       "players": [
         {
-          "name": "Jaxson Hayes",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Hayes (knee) is questionable for Wednesday's game against the Lakers.",
-          "returnDate": "2026-11-18"
-        },
-        {
           "name": "Lauri Markkanen",
           "position": "F",
           "status": "Out",
@@ -796,7 +810,7 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Back — Okpara (illness) is available for Friday's game against Toronto.",
-          "returnDate": "2026-11-18"
+          "returnDate": "2026-11-20"
         },
         {
           "name": "Tristan Vukcevic",
@@ -832,76 +846,76 @@
   "games": [
     {
       "date": "2026-11-19T00:00Z",
-      "status": "6:37 - 2nd",
+      "status": "Final",
       "home": "Cleveland Cavaliers",
       "away": "Memphis Grizzlies"
     },
     {
       "date": "2026-11-19T00:00Z",
-      "status": "5:52 - 2nd",
+      "status": "Final",
       "home": "Indiana Pacers",
       "away": "Houston Rockets"
     },
     {
       "date": "2026-11-19T00:00Z",
-      "status": "11:58 - 2nd",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "Milwaukee Bucks"
     },
     {
       "date": "2026-11-19T00:00Z",
-      "status": "7:44 - 2nd",
+      "status": "Final",
       "home": "Orlando Magic",
       "away": "Philadelphia 76ers"
     },
     {
       "date": "2026-11-19T00:30Z",
-      "status": "6:51 - 1st",
+      "status": "Final",
       "home": "Brooklyn Nets",
       "away": "Chicago Bulls"
     },
     {
       "date": "2026-11-19T00:30Z",
-      "status": "7:35 - 1st",
+      "status": "Final",
       "home": "Toronto Raptors",
       "away": "Washington Wizards"
     },
     {
       "date": "2026-11-19T01:00Z",
-      "status": "11/18 - 8:00 PM EST",
+      "status": "Final",
       "home": "New Orleans Pelicans",
       "away": "Detroit Pistons"
     },
     {
       "date": "2026-11-19T01:00Z",
-      "status": "11/18 - 8:00 PM EST",
+      "status": "Final",
       "home": "Oklahoma City Thunder",
       "away": "Atlanta Hawks"
     },
     {
       "date": "2026-11-19T01:00Z",
-      "status": "11/18 - 8:00 PM EST",
+      "status": "Final",
       "home": "Dallas Mavericks",
       "away": "Golden State Warriors"
     },
     {
       "date": "2026-11-19T02:30Z",
-      "status": "11/18 - 9:30 PM EST",
+      "status": "Final",
       "home": "Denver Nuggets",
       "away": "Boston Celtics"
     },
     {
       "date": "2026-11-19T03:00Z",
-      "status": "11/18 - 10:00 PM EST",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-11-19T03:00Z",
-      "status": "11/18 - 10:00 PM EST",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "Phoenix Suns"
     }
   ],
-  "fetchedAt": 1795049476891
+  "fetchedAt": 1795075954978
 }
