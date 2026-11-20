@@ -256,7 +256,7 @@
         {
           "name": "Draymond Green",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Rest — Green (elbow) is out for Thursday's game against the Grizzlies.",
           "returnDate": "2026-11-22"
         },
@@ -403,8 +403,8 @@
           "name": "Austin Reaves",
           "position": "G",
           "status": "Out",
-          "detail": "Heel — Head coach JJ Redick said Reaves' (heel) pregame workout went \"well,\" but he remains without an official timetable to return, Daniel Starkand of LakersNation.com reports.",
-          "returnDate": "2026-11-20"
+          "detail": "Heel — Reaves (heel) is listed as out for Friday's game against the Kings.",
+          "returnDate": "2026-11-23"
         }
       ]
     },
@@ -412,17 +412,17 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
-          "name": "Isaiah Stewart",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Illness — Stewart is questionable for Thursday's game against the Warriors due to an illness.",
-          "returnDate": "2026-11-19"
-        },
-        {
           "name": "Zach Edey",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Ankle — Edey (hip) has been ruled out for Thursday's game against the Warriors.",
+          "returnDate": "2026-11-21"
+        },
+        {
+          "name": "Jerami Grant",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Calf — Grant won't return to Thursday's game against the Warriors due to a left calf injury. He'll finish with three points (1-2 FG, 1-1 3Pt) across five minutes.",
           "returnDate": "2026-11-21"
         },
         {
@@ -471,17 +471,17 @@
       "name": "Milwaukee Bucks",
       "players": [
         {
-          "name": "Kyle Kuzma",
-          "position": "F",
-          "status": "Out",
-          "detail": "Shoulder — Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion.",
+          "name": "Myles Turner",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,",
           "returnDate": "2026-11-21"
         },
         {
-          "name": "Myles Turner",
-          "position": "C",
-          "status": "Out",
-          "detail": "Shoulder — Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,",
+          "name": "Kyle Kuzma",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion.",
           "returnDate": "2026-11-21"
         },
         {
@@ -496,13 +496,6 @@
     {
       "name": "Minnesota Timberwolves",
       "players": [
-        {
-          "name": "Jonathan Kuminga",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Kuminga (shoulder) is questionable for Thursday's game against the Knicks, Charlie Walton of ZoneCoverage.com reports.",
-          "returnDate": "2026-11-19"
-        },
         {
           "name": "Jaylen Clark",
           "position": "G",
@@ -702,16 +695,9 @@
       "name": "Portland Trail Blazers",
       "players": [
         {
-          "name": "Chris Youngblood",
-          "position": "G",
-          "status": "Out",
-          "detail": "Heel — Youngblood (heel) has been ruled out for Thursday's game against the Bucks.",
-          "returnDate": "2026-11-21"
-        },
-        {
           "name": "Robert Williams III",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Rest — Williams (rest) is listed as out for Thursday's game versus the Bucks.",
           "returnDate": "2026-11-21"
         },
@@ -719,15 +705,15 @@
           "name": "Deni Avdija",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Foot — Avdija (foot) is listed as questionable ahead of Thursday's game against Milwaukee.",
-          "returnDate": "2026-11-19"
+          "detail": "Foot — Avdija (foot) is listed as out for Thursday's game against the Bucks.",
+          "returnDate": "2026-11-21"
         },
         {
-          "name": "Toumani Camara",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Camara is questionable to play Thursday against the Bucks due to general soreness.",
-          "returnDate": "2026-11-19"
+          "name": "Chris Youngblood",
+          "position": "G",
+          "status": "Out",
+          "detail": "Heel — Youngblood (heel) has been ruled out for Thursday's game against the Bucks.",
+          "returnDate": "2026-11-21"
         },
         {
           "name": "Vit Krejci",
@@ -755,6 +741,20 @@
     {
       "name": "Sacramento Kings",
       "players": [
+        {
+          "name": "Precious Achiuwa",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Lower Leg — Achiuwa is doubtful for Friday's game against the Lakers due to a left lower leg bruise.",
+          "returnDate": "2026-11-20"
+        },
+        {
+          "name": "De'Andre Hunter",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hip — Hunter (hip) is listed as questionable for Friday's game against the Lakers.",
+          "returnDate": "2026-11-20"
+        },
         {
           "name": "Maxime Raynaud",
           "position": "C",
@@ -834,18 +834,18 @@
       "name": "Utah Jazz",
       "players": [
         {
+          "name": "Jusuf Nurkic",
+          "position": "C",
+          "status": "Out",
+          "detail": "Foot — Nurkic (toe) is listed as out for Friday's game against Phoenix.",
+          "returnDate": "2026-11-27"
+        },
+        {
           "name": "Lauri Markkanen",
           "position": "F",
           "status": "Out",
           "detail": "Hand — Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports.",
           "returnDate": "2027-01-04"
-        },
-        {
-          "name": "Jusuf Nurkic",
-          "position": "C",
-          "status": "Out",
-          "detail": "Foot — Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday.",
-          "returnDate": "2026-11-20"
         },
         {
           "name": "Jaren Jackson Jr.",
@@ -900,28 +900,28 @@
   "games": [
     {
       "date": "2026-11-20T01:00Z",
-      "status": "11/19 - 8:00 PM EST",
+      "status": "Final",
       "home": "Memphis Grizzlies",
       "away": "Golden State Warriors"
     },
     {
       "date": "2026-11-20T01:00Z",
-      "status": "11/19 - 8:00 PM EST",
+      "status": "Final",
       "home": "Milwaukee Bucks",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-11-20T01:00Z",
-      "status": "11/19 - 8:00 PM EST",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "New York Knicks"
     },
     {
       "date": "2026-11-20T01:00Z",
-      "status": "11/19 - 8:00 PM EST",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "LA Clippers"
     }
   ],
-  "fetchedAt": 1795133037308
+  "fetchedAt": 1795161288357
 }
