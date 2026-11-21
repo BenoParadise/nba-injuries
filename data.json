@@ -74,7 +74,7 @@
           "position": "G",
           "status": "Out",
           "detail": "Hamstring — Traore (hamstring) won't return to Friday's game against Orlando, Meghan Triplett of YES Network reports. He finished with four points (2-6 FG, 0-2 3Pt) and two assists over 18 minutes.",
-          "returnDate": "2026-11-20"
+          "returnDate": "2026-11-23"
         },
         {
           "name": "Grant Nelson",
@@ -339,6 +339,13 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "T.J. McConnell",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hamstring — Rick Carlisle revealed during his postgame interview that McConnell exited Friday's 128-119 loss with a left hamstring issue, Tony East of Forbes.com reports.",
+          "returnDate": "2026-11-22"
+        },
+        {
           "name": "Tyrese Haliburton",
           "position": "G",
           "status": "Out",
@@ -403,6 +410,13 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
+          "name": "Jerami Grant",
+          "position": "F",
+          "status": "Out",
+          "detail": "Calf — Grant (calf) is out for Saturday's game against the Timberwolves.",
+          "returnDate": "2026-11-23"
+        },
+        {
           "name": "Javon Small",
           "position": "G",
           "status": "Out",
@@ -421,13 +435,6 @@
           "position": "G",
           "status": "Out",
           "detail": "Hip — Jerome (hip) is probable for Saturday's game in Minnesota.",
-          "returnDate": "2026-11-21"
-        },
-        {
-          "name": "Jerami Grant",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Calf — Grant won't return to Thursday's game against the Warriors due to a left calf injury. He'll finish with three points (1-2 FG, 1-1 3Pt) across five minutes.",
           "returnDate": "2026-11-21"
         },
         {
@@ -686,6 +693,13 @@
       "name": "Phoenix Suns",
       "players": [
         {
+          "name": "Ryan Dunn",
+          "position": "F",
+          "status": "Out",
+          "detail": "Quadriceps — Dunn won't return to Friday's game against the Jazz due to a right quad injury, Amanda Pflugrad of 3TV Phoenix reports.",
+          "returnDate": "2026-11-23"
+        },
+        {
           "name": "Mark Williams",
           "position": "C",
           "status": "Out",
@@ -925,22 +939,22 @@
     },
     {
       "date": "2026-11-21T02:30Z",
-      "status": "39.6 - 2nd",
+      "status": "Final",
       "home": "Utah Jazz",
       "away": "Phoenix Suns"
     },
     {
       "date": "2026-11-21T03:00Z",
-      "status": "End of 1st",
+      "status": "Final",
       "home": "Denver Nuggets",
       "away": "Houston Rockets"
     },
     {
       "date": "2026-11-21T03:00Z",
-      "status": "0.6 - 1st",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "Sacramento Kings"
     }
   ],
-  "fetchedAt": 1795232367632
+  "fetchedAt": 1795262121614
 }
