@@ -129,6 +129,13 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Patrick Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Thumb — Williams is probable for Sunday's game against the Nuggets due to a left thumb sprain.",
+          "returnDate": "2026-11-22"
+        },
+        {
           "name": "Norman Powell",
           "position": "G",
           "status": "Day-To-Day",
@@ -294,18 +301,11 @@
       "name": "Golden State Warriors",
       "players": [
         {
-          "name": "Draymond Green",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Rest — Green (elbow) is out for Thursday's game against the Grizzlies.",
-          "returnDate": "2026-11-22"
-        },
-        {
           "name": "Brandon Williams",
           "position": "G",
           "status": "Out",
-          "detail": "Hamstring — Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday.",
-          "returnDate": "2026-11-22"
+          "detail": "Hamstring — Williams (hamstring) is out for Sunday's game against the Celtics.",
+          "returnDate": "2026-11-25"
         },
         {
           "name": "Stephen Curry",
@@ -673,7 +673,7 @@
           "position": "F",
           "status": "Out",
           "detail": "Knee — Isaac (knee) is out for Sunday's game against the Wizards.",
-          "returnDate": "2026-11-29"
+          "returnDate": "2026-11-28"
         },
         {
           "name": "Izaiyah Nelson",
@@ -954,10 +954,10 @@
     },
     {
       "date": "2026-11-22T03:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "Boston Celtics"
     }
   ],
-  "fetchedAt": 1795321046426
+  "fetchedAt": 1795352234711
 }
