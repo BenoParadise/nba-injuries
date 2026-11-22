@@ -129,6 +129,13 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Norman Powell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Powell is questionable for Sunday's game against the Nuggets due to a right hamstring strain.",
+          "returnDate": "2026-11-22"
+        },
+        {
           "name": "Jalen Smith",
           "position": "F",
           "status": "Day-To-Day",
@@ -528,6 +535,13 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
+          "name": "Zion Williamson",
+          "position": "F",
+          "status": "Out",
+          "detail": "Thigh — Williamson is out for Saturday's game against the Spurs due to a left thigh contusion.",
+          "returnDate": "2026-11-23"
+        },
+        {
           "name": "Trey Murphy III",
           "position": "F",
           "status": "Out",
@@ -570,22 +584,22 @@
         {
           "name": "Karl-Anthony Towns",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Towns (illness) won't play in Saturday's game versus the Trail Blazers.",
-          "returnDate": "2026-11-22"
-        },
-        {
-          "name": "OG Anunoby",
-          "position": "F",
-          "status": "Out",
-          "detail": "Calf — Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.",
           "returnDate": "2026-11-22"
         },
         {
           "name": "Jordan Clarkson",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Foot — Clarkson (foot) won't play in Saturday's game against Portland.",
+          "returnDate": "2026-11-22"
+        },
+        {
+          "name": "OG Anunoby",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Calf — Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.",
           "returnDate": "2026-11-22"
         }
       ]
@@ -773,13 +787,6 @@
       "name": "Sacramento Kings",
       "players": [
         {
-          "name": "Precious Achiuwa",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Lower Leg — Achiuwa (lower leg) is questionable for Saturday's game against the Celtics.",
-          "returnDate": "2026-11-21"
-        },
-        {
           "name": "Maxime Raynaud",
           "position": "C",
           "status": "Out",
@@ -923,34 +930,34 @@
     },
     {
       "date": "2026-11-22T00:30Z",
-      "status": "11/21 - 7:30 PM EST",
+      "status": "Final",
       "home": "New York Knicks",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-11-22T01:00Z",
-      "status": "11/21 - 8:00 PM EST",
+      "status": "Final",
       "home": "Dallas Mavericks",
       "away": "LA Clippers"
     },
     {
       "date": "2026-11-22T01:00Z",
-      "status": "11/21 - 8:00 PM EST",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Memphis Grizzlies"
     },
     {
       "date": "2026-11-22T01:00Z",
-      "status": "11/21 - 8:00 PM EST",
+      "status": "Final",
       "home": "San Antonio Spurs",
       "away": "New Orleans Pelicans"
     },
     {
       "date": "2026-11-22T03:00Z",
-      "status": "11/21 - 10:00 PM EST",
+      "status": "Halftime",
       "home": "Sacramento Kings",
       "away": "Boston Celtics"
     }
   ],
-  "fetchedAt": 1795304316396
+  "fetchedAt": 1795321046426
 }
