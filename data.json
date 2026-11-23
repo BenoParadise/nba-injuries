@@ -354,7 +354,7 @@
           "name": "Austin Reaves",
           "position": "G",
           "status": "Out",
-          "detail": "Heel — Reaves (heel) was a full participant in Sunday's practice, Thuc Nhi Nguyen of the Los Angeles Times reports.",
+          "detail": "Heel — Reaves (heel) has been ruled out for Monday's game against the Jazz, Jovan Buha of The Athletic reports.",
           "returnDate": "2026-11-27"
         }
       ]
@@ -365,8 +365,8 @@
         {
           "name": "Jerami Grant",
           "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Calf — Grant (calf) has been ruled out for Monday's game against the Hornets.",
+          "status": "Out",
+          "detail": "Calf — Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks.",
           "returnDate": "2026-12-12"
         },
         {
@@ -731,6 +731,27 @@
       "name": "San Antonio Spurs",
       "players": [
         {
+          "name": "Victor Wembanyama",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Back — Wembanyama (back) is questionable for Monday's game against the Kings, Jared Weiss of The Athletic reports.",
+          "returnDate": "2026-11-23"
+        },
+        {
+          "name": "De'Aaron Fox",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Lower Leg — Fox is questionable for Monday's game against the Kings due to a right shin contusion, Jared Weiss of The Athletic reports.",
+          "returnDate": "2026-11-23"
+        },
+        {
+          "name": "Jordan McLaughlin",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Shoulder — McLaughlin (shoulder) is listed as questionable for Monday's game against the Kings.",
+          "returnDate": "2026-11-23"
+        },
+        {
           "name": "Dylan Harper",
           "position": "G",
           "status": "Out",
@@ -792,9 +813,9 @@
         {
           "name": "Jaxson Hayes",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Hayes is questionable to return to Sunday's game against the Mavericks due to a left knee injury, Shreyas Laddha of The Salt Lake Tribune reports.",
-          "returnDate": "2026-11-22"
+          "status": "Out",
+          "detail": "Knee — Hayes (knee) has been ruled out for the remainder of Sunday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports.",
+          "returnDate": "2026-11-23"
         },
         {
           "name": "Jusuf Nurkic",
@@ -862,40 +883,40 @@
     },
     {
       "date": "2026-11-22T23:00Z",
-      "status": "3:27 - 4th",
+      "status": "Final",
       "home": "Miami Heat",
       "away": "Oklahoma City Thunder"
     },
     {
       "date": "2026-11-23T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Washington Wizards",
       "away": "Orlando Magic"
     },
     {
       "date": "2026-11-23T00:00Z",
-      "status": "Halftime",
+      "status": "Final/OT",
       "home": "Chicago Bulls",
       "away": "Denver Nuggets"
     },
     {
       "date": "2026-11-23T00:00Z",
-      "status": "Halftime",
+      "status": "Final",
       "home": "Utah Jazz",
       "away": "Dallas Mavericks"
     },
     {
       "date": "2026-11-23T01:00Z",
-      "status": "8:47 - 1st",
+      "status": "Final",
       "home": "New York Knicks",
       "away": "Indiana Pacers"
     },
     {
       "date": "2026-11-23T01:30Z",
-      "status": "11/22 - 8:30 PM EST",
+      "status": "Final",
       "home": "Golden State Warriors",
       "away": "Boston Celtics"
     }
   ],
-  "fetchedAt": 1795396562393
+  "fetchedAt": 1795428112524
 }
