@@ -68,24 +68,24 @@
       "name": "Charlotte Hornets",
       "players": [
         {
+          "name": "Grant Williams",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — Williams (hamstring) won't play Monday's game against the Grizzlies.",
+          "returnDate": "2026-11-25"
+        },
+        {
+          "name": "Ryan Kalkbrenner",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Hip — Kalkbrenner has been ruled out for the rest of Monday's game against Memphis due to left hip soreness. He'll end with two rebounds in nine minutes.",
+          "returnDate": "2026-11-25"
+        },
+        {
           "name": "Grayson Allen",
           "position": "G",
           "status": "Out",
           "detail": "Concussion — Allen (concussion) has been ruled out for Monday's game against the Grizzlies.",
-          "returnDate": "2026-11-25"
-        },
-        {
-          "name": "Brandon Miller",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Knee — Miller is probable for Monday's game against the Grizzlies due to a right knee contusion.",
-          "returnDate": "2026-11-23"
-        },
-        {
-          "name": "Grant Williams",
-          "position": "F",
-          "status": "Out",
-          "detail": "Hamstring — Williams (hamstring) won't play Monday's game against the Grizzlies.",
           "returnDate": "2026-11-25"
         },
         {
@@ -108,20 +108,6 @@
       "name": "Chicago Bulls",
       "players": [
         {
-          "name": "Jalen Smith",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Smith (illness) is probable for Monday's game against Cleveland.",
-          "returnDate": "2026-11-23"
-        },
-        {
-          "name": "Nic Claxton",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Illness — Claxton (illness) is questionable for Monday's game against Cleveland.",
-          "returnDate": "2026-11-23"
-        },
-        {
           "name": "Norman Powell",
           "position": "G",
           "status": "Out",
@@ -140,13 +126,6 @@
     {
       "name": "Cleveland Cavaliers",
       "players": [
-        {
-          "name": "Jaylon Tyson",
-          "position": "G",
-          "status": "Out",
-          "detail": "Ankle — Tyson (ankle) is probable for Monday's game against the Bulls.",
-          "returnDate": "2026-11-23"
-        },
         {
           "name": "Nae'Qwan Tomlin",
           "position": "F",
@@ -167,17 +146,17 @@
       "name": "Dallas Mavericks",
       "players": [
         {
-          "name": "P.J. Washington",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Illness — Washington (illness) has been ruled out for Sunday's game against the Jazz.",
-          "returnDate": "2026-11-24"
-        },
-        {
           "name": "Tobi Lawal",
           "position": "F",
           "status": "Out",
-          "detail": "Groin — Lawal (groin) has been ruled out for Sunday's game against the Jazz.",
+          "detail": "Groin — Lawal (groin) is out for Tuesday's game against Denver.",
+          "returnDate": "2026-11-27"
+        },
+        {
+          "name": "P.J. Washington",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Washington (illness) is questionable for Tuesday's game against the Nuggets.",
           "returnDate": "2026-11-24"
         },
         {
@@ -204,33 +183,28 @@
       ]
     },
     {
-      "name": "Denver Nuggets",
-      "players": [
-        {
-          "name": "Julian Strawther",
-          "position": "G",
-          "status": "Out",
-          "detail": "Knee — Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
-          "returnDate": "2026-11-29"
-        }
-      ]
-    },
-    {
       "name": "Detroit Pistons",
       "players": [
+        {
+          "name": "Ebuka Okorie",
+          "position": "G",
+          "status": "Out",
+          "detail": "Oblique — Okorie (oblique) won't play Tuesday in Orlando.",
+          "returnDate": "2026-11-30"
+        },
+        {
+          "name": "Jalen Duren",
+          "position": "C",
+          "status": "Out",
+          "detail": "Hamstring — Duren (hamstring) has been ruled out for Tuesday's game against the Magic.",
+          "returnDate": "2026-11-30"
+        },
         {
           "name": "Cade Cunningham",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Knee — Cunningham closed Sunday's 107-97 loss to the Hawks with five points (2-9 FG, 1-3 3Pt), four rebounds, 15 assists, one block and one steal in 33 minutes.",
+          "detail": "Knee — Cunningham (knee) is probable for Tuesday's game against the Orlando.",
           "returnDate": "2026-11-24"
-        },
-        {
-          "name": "Ebuka Okorie",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Oblique — Okorie (oblique) is out for Sunday's game in Atlanta.",
-          "returnDate": "2026-11-30"
         },
         {
           "name": "Taurean Prince",
@@ -245,13 +219,6 @@
           "status": "Out",
           "detail": "Quadriceps — Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports.",
           "returnDate": "2026-11-27"
-        },
-        {
-          "name": "Jalen Duren",
-          "position": "C",
-          "status": "Out",
-          "detail": "Hamstring — Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
-          "returnDate": "2026-11-30"
         }
       ]
     },
@@ -299,25 +266,25 @@
       "name": "Indiana Pacers",
       "players": [
         {
-          "name": "T.J. McConnell",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — McConnell is out for Monday's game against the Thunder due to left hamstring soreness.",
-          "returnDate": "2026-11-27"
-        },
-        {
           "name": "Aaron Nesmith",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Foot — Nesmith is out for Monday's game against the Thunder due to right foot soreness.",
           "returnDate": "2026-11-27"
         },
         {
-          "name": "Pascal Siakam",
+          "name": "T.J. McConnell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — McConnell is out for Monday's game against the Thunder due to left hamstring soreness.",
+          "returnDate": "2026-11-27"
+        },
+        {
+          "name": "Larry Nance Jr.",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Hip — Siakam is questionable for Monday's game against Oklahoma City due to left hip injury management, according to the NBA's injury report.",
-          "returnDate": "2026-11-23"
+          "detail": "Ankle — Nance exited Monday's game against the Thunder due to a sore right ankle and he will not return, Tony East of Forbes.com reports.",
+          "returnDate": "2026-11-27"
         },
         {
           "name": "Tyrese Haliburton",
@@ -368,7 +335,7 @@
           "name": "Austin Reaves",
           "position": "G",
           "status": "Out",
-          "detail": "Heel — Reaves (heel) has been ruled out for Monday's game against the Jazz, Jovan Buha of The Athletic reports.",
+          "detail": "Heel — Coach JJ Redick stated Monday that the team is optimistic Reaves (heel) will return for Friday's game against San Antonio, Daniel Starkand of LakersNation.com reports.",
           "returnDate": "2026-11-27"
         }
       ]
@@ -377,18 +344,18 @@
       "name": "Memphis Grizzlies",
       "players": [
         {
+          "name": "Cameron Boozer",
+          "position": "F",
+          "status": "Out",
+          "detail": "Ankle — Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports.",
+          "returnDate": "2026-12-21"
+        },
+        {
           "name": "Jerami Grant",
           "position": "F",
           "status": "Out",
           "detail": "Calf — Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks.",
           "returnDate": "2026-12-12"
-        },
-        {
-          "name": "Cameron Boozer",
-          "position": "F",
-          "status": "Out",
-          "detail": "Ankle — Boozer (ankle) won't play Monday's game against the Hornets.",
-          "returnDate": "2026-11-25"
         },
         {
           "name": "GG Jackson",
@@ -455,13 +422,6 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
-          "name": "Zion Williamson",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Thigh — Williamson (thigh) is probable for Monday's game against Phoenix.",
-          "returnDate": "2026-11-23"
-        },
-        {
           "name": "Trendon Watford",
           "position": "F",
           "status": "Out",
@@ -516,8 +476,15 @@
         {
           "name": "Jaylin Williams",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Back — Williams (back) has been ruled out for Monday's game against the Pacers",
+          "returnDate": "2026-11-25"
+        },
+        {
+          "name": "Aday Mara",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Lower Leg — Mara (shin) has been ruled out for Monday's game against the Pacers.",
           "returnDate": "2026-11-25"
         },
         {
@@ -525,13 +492,6 @@
           "position": "G",
           "status": "Out",
           "detail": "Hip — Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
-          "returnDate": "2026-11-25"
-        },
-        {
-          "name": "Aday Mara",
-          "position": "C",
-          "status": "Out",
-          "detail": "Lower Leg — Mara (shin) has been ruled out for Monday's game against the Pacers.",
           "returnDate": "2026-11-25"
         },
         {
@@ -611,29 +571,8 @@
           "name": "Joel Embiid",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Illness — Embiid (knee) has been downgraded to questionable for Monday's game against Portland.",
-          "returnDate": "2026-11-23"
-        },
-        {
-          "name": "Adem Bona",
-          "position": "C",
-          "status": "Out",
-          "detail": "Back — Bona (back) is listed as probable for Monday's game against the Trail Blazers.",
-          "returnDate": "2026-11-23"
-        },
-        {
-          "name": "Jaylen Brown",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Brown (hamstring) is listed as probable for Monday's game versus Portland.",
-          "returnDate": "2026-11-23"
-        },
-        {
-          "name": "Dean Wade",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Wade (hamstring) is listed as probable for Monday's game against Portland.",
-          "returnDate": "2026-11-23"
+          "detail": "Illness — Embiid (illness) is out for Monday's game against Portland, Austin Krell of OnPattison.com reports.",
+          "returnDate": "2026-11-25"
         },
         {
           "name": "Ariel Hukporti",
@@ -715,22 +654,15 @@
           "name": "Victor Wembanyama",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Back — Wembanyama (back) is questionable for Monday's game against the Kings, Jared Weiss of The Athletic reports.",
-          "returnDate": "2026-11-23"
+          "detail": "Back — Wembanyama (back) won't play Monday against the Kings, Jeff McDonald of the San Antonio Express-News reports.",
+          "returnDate": "2026-11-25"
         },
         {
           "name": "De'Aaron Fox",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Lower Leg — Fox is questionable for Monday's game against the Kings due to a right shin contusion, Jared Weiss of The Athletic reports.",
-          "returnDate": "2026-11-23"
-        },
-        {
-          "name": "Jordan McLaughlin",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — McLaughlin (shoulder) is listed as questionable for Monday's game against the Kings.",
-          "returnDate": "2026-11-23"
+          "detail": "Lower Leg — Fox (shin) has been ruled out for Monday's game against the Kings, Jeff McDonald of the San Antonio Express-News reports.",
+          "returnDate": "2026-11-25"
         },
         {
           "name": "Dylan Harper",
@@ -758,20 +690,6 @@
     {
       "name": "Toronto Raptors",
       "players": [
-        {
-          "name": "Jaden Bradley",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Ankle — Bradley is questionable for Monday's game against the Bucks due to an ankle sprain, Blake Murphy of Sportsnet.ca reports.",
-          "returnDate": "2026-11-23"
-        },
-        {
-          "name": "Collin Murray-Boyles",
-          "position": "F",
-          "status": "Day-To-Day",
-          "detail": "Concussion — Murray-Boyles (concussion) is listed as probable for Monday's game against Milwaukee, Blake Murphy of Sportsnet.ca reports.",
-          "returnDate": "2026-11-23"
-        },
         {
           "name": "Nate Bittle",
           "position": "C",
@@ -801,7 +719,7 @@
         {
           "name": "Jaxson Hayes",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Hayes (knee) has been ruled out for Monday's game against the Lakers.",
           "returnDate": "2026-11-27"
         },
@@ -835,7 +753,7 @@
           "name": "Tristan Vukcevic",
           "position": "F",
           "status": "Out",
-          "detail": "Hip — Vukcevic (hip) has been ruled out for Monday's game against Memphis.",
+          "detail": "Hip — Vukcevic (hip) has been ruled out for Tuesday's game against Boston.",
           "returnDate": "2026-11-30"
         },
         {
@@ -865,64 +783,64 @@
   "games": [
     {
       "date": "2026-11-24T00:00Z",
-      "status": "11/23 - 7:00 PM EST",
+      "status": "Final",
       "home": "Charlotte Hornets",
       "away": "Memphis Grizzlies"
     },
     {
       "date": "2026-11-24T00:00Z",
-      "status": "11/23 - 7:00 PM EST",
+      "status": "Final",
       "home": "Philadelphia 76ers",
       "away": "Portland Trail Blazers"
     },
     {
       "date": "2026-11-24T00:30Z",
-      "status": "11/23 - 7:30 PM EST",
+      "status": "Final",
       "home": "Indiana Pacers",
       "away": "Oklahoma City Thunder"
     },
     {
       "date": "2026-11-24T00:30Z",
-      "status": "11/23 - 7:30 PM EST",
+      "status": "Final",
       "home": "Toronto Raptors",
       "away": "Milwaukee Bucks"
     },
     {
       "date": "2026-11-24T00:30Z",
-      "status": "11/23 - 7:30 PM EST",
+      "status": "Final",
       "home": "Minnesota Timberwolves",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-11-24T01:00Z",
-      "status": "11/23 - 8:00 PM EST",
+      "status": "Final",
       "home": "Chicago Bulls",
       "away": "Cleveland Cavaliers"
     },
     {
       "date": "2026-11-24T01:00Z",
-      "status": "11/23 - 8:00 PM EST",
+      "status": "Final/OT",
       "home": "New Orleans Pelicans",
       "away": "Phoenix Suns"
     },
     {
       "date": "2026-11-24T01:30Z",
-      "status": "11/23 - 8:30 PM EST",
+      "status": "Final",
       "home": "Houston Rockets",
       "away": "LA Clippers"
     },
     {
       "date": "2026-11-24T03:00Z",
-      "status": "11/23 - 10:00 PM EST",
+      "status": "Final",
       "home": "Los Angeles Lakers",
       "away": "Utah Jazz"
     },
     {
       "date": "2026-11-24T03:00Z",
-      "status": "11/23 - 10:00 PM EST",
+      "status": "Final",
       "home": "Sacramento Kings",
       "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1795472388532
+  "fetchedAt": 1795502203375
 }
