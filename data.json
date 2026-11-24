@@ -108,6 +108,13 @@
       "name": "Chicago Bulls",
       "players": [
         {
+          "name": "Jalen Smith",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Illness — Smith (illness) is listed as questionable for Wednesday's game against the Hornets.",
+          "returnDate": "2026-11-25"
+        },
+        {
           "name": "Norman Powell",
           "position": "G",
           "status": "Out",
@@ -266,17 +273,24 @@
       "name": "Indiana Pacers",
       "players": [
         {
+          "name": "T.J. McConnell",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Hamstring — McConnell (hamstring) was assigned to the G League's Noblesville Boom on Tuesday.",
+          "returnDate": "2026-11-27"
+        },
+        {
+          "name": "Tyrese Haliburton",
+          "position": "G",
+          "status": "Out",
+          "detail": "Hamstring — Haliburton (hamstring) was assigned to the G League's Noblesville Boom on Tuesday.",
+          "returnDate": "2026-12-13"
+        },
+        {
           "name": "Aaron Nesmith",
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Foot — Nesmith is out for Monday's game against the Thunder due to right foot soreness.",
-          "returnDate": "2026-11-27"
-        },
-        {
-          "name": "T.J. McConnell",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — McConnell is out for Monday's game against the Thunder due to left hamstring soreness.",
           "returnDate": "2026-11-27"
         },
         {
@@ -285,20 +299,6 @@
           "status": "Day-To-Day",
           "detail": "Ankle — Nance exited Monday's game against the Thunder due to a sore right ankle and he will not return, Tony East of Forbes.com reports.",
           "returnDate": "2026-11-27"
-        },
-        {
-          "name": "Tyrese Haliburton",
-          "position": "G",
-          "status": "Out",
-          "detail": "Hamstring — Haliburton (hamstring) is expected to miss at least two more weeks, Shams Charania of ESPN reports.",
-          "returnDate": "2026-12-13"
-        },
-        {
-          "name": "Johnny Furphy",
-          "position": "G",
-          "status": "Out",
-          "detail": "Knee — Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
-          "returnDate": "2027-01-02"
         },
         {
           "name": "Ben Sheppard",
@@ -396,6 +396,13 @@
       "name": "Minnesota Timberwolves",
       "players": [
         {
+          "name": "Donte DiVincenzo",
+          "position": "G",
+          "status": "Out",
+          "detail": "Achilles — DiVincenzo (Achilles) has been cleared for team basketball activities and is targeting a return to game action in January, Jon Krawczynski of The Athletic reports.",
+          "returnDate": "2027-01-03"
+        },
+        {
           "name": "Jaylen Clark",
           "position": "G",
           "status": "Out",
@@ -408,13 +415,6 @@
           "status": "Out",
           "detail": "Knee — Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",
           "returnDate": "2026-12-21"
-        },
-        {
-          "name": "Donte DiVincenzo",
-          "position": "G",
-          "status": "Out",
-          "detail": "Achilles — DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
-          "returnDate": "2027-04-02"
         }
       ]
     },
@@ -750,6 +750,13 @@
       "name": "Washington Wizards",
       "players": [
         {
+          "name": "Tre Mann",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Mann (illness) has been downgraded to questionable for Tuesday's game against Boston.",
+          "returnDate": "2026-11-24"
+        },
+        {
           "name": "Tristan Vukcevic",
           "position": "F",
           "status": "Out",
@@ -782,65 +789,23 @@
   ],
   "games": [
     {
-      "date": "2026-11-24T00:00Z",
-      "status": "Final",
-      "home": "Charlotte Hornets",
-      "away": "Memphis Grizzlies"
+      "date": "2026-11-25T00:00Z",
+      "status": "11/24 - 7:00 PM EST",
+      "home": "Orlando Magic",
+      "away": "Detroit Pistons"
     },
     {
-      "date": "2026-11-24T00:00Z",
-      "status": "Final",
-      "home": "Philadelphia 76ers",
-      "away": "Portland Trail Blazers"
+      "date": "2026-11-25T01:00Z",
+      "status": "11/24 - 8:00 PM EST",
+      "home": "Washington Wizards",
+      "away": "Boston Celtics"
     },
     {
-      "date": "2026-11-24T00:30Z",
-      "status": "Final",
-      "home": "Indiana Pacers",
-      "away": "Oklahoma City Thunder"
-    },
-    {
-      "date": "2026-11-24T00:30Z",
-      "status": "Final",
-      "home": "Toronto Raptors",
-      "away": "Milwaukee Bucks"
-    },
-    {
-      "date": "2026-11-24T00:30Z",
-      "status": "Final",
-      "home": "Minnesota Timberwolves",
-      "away": "Brooklyn Nets"
-    },
-    {
-      "date": "2026-11-24T01:00Z",
-      "status": "Final",
-      "home": "Chicago Bulls",
-      "away": "Cleveland Cavaliers"
-    },
-    {
-      "date": "2026-11-24T01:00Z",
-      "status": "Final/OT",
-      "home": "New Orleans Pelicans",
-      "away": "Phoenix Suns"
-    },
-    {
-      "date": "2026-11-24T01:30Z",
-      "status": "Final",
-      "home": "Houston Rockets",
-      "away": "LA Clippers"
-    },
-    {
-      "date": "2026-11-24T03:00Z",
-      "status": "Final",
-      "home": "Los Angeles Lakers",
-      "away": "Utah Jazz"
-    },
-    {
-      "date": "2026-11-24T03:00Z",
-      "status": "Final",
-      "home": "Sacramento Kings",
-      "away": "San Antonio Spurs"
+      "date": "2026-11-25T03:00Z",
+      "status": "11/24 - 10:00 PM EST",
+      "home": "Denver Nuggets",
+      "away": "Dallas Mavericks"
     }
   ],
-  "fetchedAt": 1795502203375
+  "fetchedAt": 1795544966215
 }
