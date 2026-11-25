@@ -642,8 +642,8 @@
           "name": "Maxime Raynaud",
           "position": "C",
           "status": "Out",
-          "detail": "Knee — Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns.",
-          "returnDate": "2026-11-25"
+          "detail": "Knee — Raynaud (knee) is out for Wednesday's game against the Warriors.",
+          "returnDate": "2026-12-02"
         },
         {
           "name": "Ben Simmons",
@@ -796,16 +796,16 @@
     },
     {
       "date": "2026-11-25T01:00Z",
-      "status": "2:28 - 3rd",
+      "status": "Final",
       "home": "Washington Wizards",
       "away": "Boston Celtics"
     },
     {
       "date": "2026-11-25T03:00Z",
-      "status": "11/24 - 10:00 PM EST",
+      "status": "Final",
       "home": "Denver Nuggets",
       "away": "Dallas Mavericks"
     }
   ],
-  "fetchedAt": 1795575114855
+  "fetchedAt": 1795607714370
 }
