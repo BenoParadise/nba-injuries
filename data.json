@@ -70,9 +70,16 @@
         {
           "name": "Ryan Kalkbrenner",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Hip — Kalkbrenner (hip) is doubtful to play Wednesday against the Bulls.",
-          "returnDate": "2026-11-25"
+          "status": "Out",
+          "detail": "Hip — Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago.",
+          "returnDate": "2026-11-28"
+        },
+        {
+          "name": "Grayson Allen",
+          "position": "G",
+          "status": "Out",
+          "detail": "Concussion — Allen (concussion) has been ruled out for Wednesday's game against Chicago.",
+          "returnDate": "2026-11-28"
         },
         {
           "name": "Dennis Schroder",
@@ -86,13 +93,6 @@
           "position": "G",
           "status": "Day-To-Day",
           "detail": "Undisclosed — James is probable for Wednesday's game against the Bulls due to general soreness.",
-          "returnDate": "2026-11-25"
-        },
-        {
-          "name": "Grayson Allen",
-          "position": "G",
-          "status": "Out",
-          "detail": "Concussion — Allen (concussion) is listed as questionable for Wednesday's game versus Chicago.",
           "returnDate": "2026-11-25"
         },
         {
@@ -188,7 +188,7 @@
         {
           "name": "Cade Cunningham",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — Cunningham (knee) is listed as out for Tuesday's game against Orlando.",
           "returnDate": "2026-11-27"
         },
@@ -335,7 +335,7 @@
           "name": "Austin Reaves",
           "position": "G",
           "status": "Out",
-          "detail": "Heel — Coach JJ Redick stated Monday that the team is optimistic Reaves (heel) will return for Friday's game against San Antonio, Daniel Starkand of LakersNation.com reports.",
+          "detail": "Heel — Reaves (heel) was a full participant in Wednesday's practice, Daniel Starkand of LakersNation.com reports.",
           "returnDate": "2026-11-27"
         }
       ]
@@ -387,7 +387,7 @@
           "name": "Giannis Antetokounmpo",
           "position": "F",
           "status": "Day-To-Day",
-          "detail": "Groin — Antetokounmpo (groin) is questionable for Wednesday's game in Philadelphia.",
+          "detail": "Groin — Antetokounmpo (groin) has been upgraded to probable for Wednesday's game against the 76ers.",
           "returnDate": "2026-11-25"
         }
       ]
@@ -422,6 +422,13 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
+          "name": "Julian Reese",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Knee — The Pelicans transferred Reese from the G League's Laketown Squadron, and he will be available for New Orleans' game against the Warriors on Monday.",
+          "returnDate": "2026-11-25"
+        },
+        {
           "name": "Trendon Watford",
           "position": "F",
           "status": "Out",
@@ -448,10 +455,31 @@
       "name": "New York Knicks",
       "players": [
         {
-          "name": "Miles McBride",
+          "name": "Josh Hart",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Groin — McBride (adductor) is listed as questionable for Wednesday's game versus Cleveland.",
+          "detail": "Shoulder — Hart (shoulder) has been upgraded to probable for Wednesday's game against the Cavaliers.",
+          "returnDate": "2026-11-25"
+        },
+        {
+          "name": "Miles McBride",
+          "position": "G",
+          "status": "Out",
+          "detail": "Groin — McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
+          "returnDate": "2026-11-27"
+        },
+        {
+          "name": "Karl-Anthony Towns",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Knee — Towns (knee) is probable for Wednesday's game against Cleveland.",
+          "returnDate": "2026-11-25"
+        },
+        {
+          "name": "Jalen Brunson",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Illness — Brunson (illness) has been downgraded to questionable for Wednesday's game against the Cavaliers.",
           "returnDate": "2026-11-25"
         },
         {
@@ -462,25 +490,11 @@
           "returnDate": "2026-11-27"
         },
         {
-          "name": "Josh Hart",
-          "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Shoulder — Hart (shoulder) is listed as questionable for Wednesday's game against Cleveland.",
-          "returnDate": "2026-11-25"
-        },
-        {
           "name": "OG Anunoby",
           "position": "F",
           "status": "Out",
           "detail": "Calf — Anunoby (calf) is out for Wednesday's game against Cleveland.",
           "returnDate": "2026-11-27"
-        },
-        {
-          "name": "Karl-Anthony Towns",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Knee — Towns (knee) is questionable for Wednesday's game against Cleveland.",
-          "returnDate": "2026-11-25"
         }
       ]
     },
@@ -577,8 +591,8 @@
         {
           "name": "Joel Embiid",
           "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Illness — Embiid (illness) is listed as doubtful for Wednesday's game versus Miami.",
+          "status": "Out",
+          "detail": "Illness — Embiid (illness) is out for Wednesday's game against Miami, Ira Winderman of the South Florida Sun Sentinel reports.",
           "returnDate": "2026-11-27"
         },
         {
@@ -642,7 +656,7 @@
           "name": "Maxime Raynaud",
           "position": "C",
           "status": "Out",
-          "detail": "Knee — Raynaud (knee) is out for Wednesday's game against the Warriors.",
+          "detail": "Knee — Raynaud (knee) was assigned to the G League's Stockton Kings on Wednesday, James Ham of ESPN 1320 Sacramento reports.",
           "returnDate": "2026-12-02"
         },
         {
@@ -789,23 +803,59 @@
   ],
   "games": [
     {
-      "date": "2026-11-25T00:00Z",
-      "status": "Final",
-      "home": "Orlando Magic",
-      "away": "Detroit Pistons"
+      "date": "2026-11-25T22:00Z",
+      "status": "11/25 - 5:00 PM EST",
+      "home": "Philadelphia 76ers",
+      "away": "Miami Heat"
     },
     {
-      "date": "2026-11-25T01:00Z",
-      "status": "Final",
-      "home": "Washington Wizards",
-      "away": "Boston Celtics"
+      "date": "2026-11-26T00:00Z",
+      "status": "11/25 - 7:00 PM EST",
+      "home": "Charlotte Hornets",
+      "away": "Chicago Bulls"
     },
     {
-      "date": "2026-11-25T03:00Z",
-      "status": "Final",
-      "home": "Denver Nuggets",
-      "away": "Dallas Mavericks"
+      "date": "2026-11-26T00:30Z",
+      "status": "11/25 - 7:30 PM EST",
+      "home": "New York Knicks",
+      "away": "Cleveland Cavaliers"
+    },
+    {
+      "date": "2026-11-26T00:30Z",
+      "status": "11/25 - 7:30 PM EST",
+      "home": "Oklahoma City Thunder",
+      "away": "Minnesota Timberwolves"
+    },
+    {
+      "date": "2026-11-26T01:00Z",
+      "status": "11/25 - 8:00 PM EST",
+      "home": "Memphis Grizzlies",
+      "away": "LA Clippers"
+    },
+    {
+      "date": "2026-11-26T01:00Z",
+      "status": "11/25 - 8:00 PM EST",
+      "home": "Milwaukee Bucks",
+      "away": "Brooklyn Nets"
+    },
+    {
+      "date": "2026-11-26T01:30Z",
+      "status": "11/25 - 8:30 PM EST",
+      "home": "Houston Rockets",
+      "away": "Phoenix Suns"
+    },
+    {
+      "date": "2026-11-26T03:00Z",
+      "status": "11/25 - 10:00 PM EST",
+      "home": "Golden State Warriors",
+      "away": "Sacramento Kings"
+    },
+    {
+      "date": "2026-11-26T03:00Z",
+      "status": "11/25 - 10:00 PM EST",
+      "home": "Portland Trail Blazers",
+      "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1795607714370
+  "fetchedAt": 1795640023590
 }
