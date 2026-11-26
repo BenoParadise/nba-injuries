@@ -47,7 +47,7 @@
           "name": "Mitchell Robinson",
           "position": "C",
           "status": "Out",
-          "detail": "Illness — Robinson (illness) is out for Tuesday's game against Washington, Taylor Snow of the Celtics' official site reports.",
+          "detail": "Illness — Robinson (illness) is questionable for Friday's game against the Hawks.",
           "returnDate": "2026-11-27"
         }
       ]
@@ -59,8 +59,8 @@
           "name": "Moritz Wagner",
           "position": "C",
           "status": "Out",
-          "detail": "Knee — Wagner (knee) will not return to Wednesday's game against the Bucks, C.J. Holmes of the New York Daily News reports.",
-          "returnDate": "2026-11-27"
+          "detail": "Knee — Wagner (knee) won't be available for Friday's game against Toronto.",
+          "returnDate": "2026-11-28"
         },
         {
           "name": "Nolan Traore",
@@ -186,11 +186,25 @@
       "name": "Detroit Pistons",
       "players": [
         {
+          "name": "Duncan Robinson",
+          "position": "F",
+          "status": "Out",
+          "detail": "Quadriceps — Robinson (quadriceps) is out for Friday's game against the Bucks.",
+          "returnDate": "2026-11-29"
+        },
+        {
           "name": "Cade Cunningham",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Knee — Cunningham (knee) is listed as out for Tuesday's game against Orlando.",
-          "returnDate": "2026-11-27"
+          "status": "Out",
+          "detail": "Knee — Cunningham (knee) is out for Friday's game against the Bucks.",
+          "returnDate": "2026-11-29"
+        },
+        {
+          "name": "Jalen Duren",
+          "position": "C",
+          "status": "Out",
+          "detail": "Hamstring — Detroit recalled Duren (hamstring) from the G League's Motor City Cruise on Wednesday.",
+          "returnDate": "2026-11-30"
         },
         {
           "name": "Ebuka Okorie",
@@ -205,20 +219,6 @@
           "status": "Out",
           "detail": "Knee — Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, Eric Vincent of ClutchPoints.com reports.",
           "returnDate": "2026-12-26"
-        },
-        {
-          "name": "Duncan Robinson",
-          "position": "F",
-          "status": "Out",
-          "detail": "Quadriceps — Robinson (quadriceps) is considered day-to-day as he progresses in his rehab, Eric Vincent of ClutchPoints.com reports.",
-          "returnDate": "2026-11-27"
-        },
-        {
-          "name": "Jalen Duren",
-          "position": "C",
-          "status": "Out",
-          "detail": "Hamstring — Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a return, Eric Vincent of ClutchPoints.com reports.",
-          "returnDate": "2026-11-30"
         }
       ]
     },
@@ -374,6 +374,25 @@
       ]
     },
     {
+      "name": "Miami Heat",
+      "players": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Groin — Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis.",
+          "returnDate": "2026-11-27"
+        },
+        {
+          "name": "Andrew Wiggins",
+          "position": "F",
+          "status": "Day-To-Day",
+          "detail": "Ankle — Wiggins is probable for Friday's game against the Knicks due to a right ankle sprain.",
+          "returnDate": "2026-11-27"
+        }
+      ]
+    },
+    {
       "name": "Minnesota Timberwolves",
       "players": [
         {
@@ -410,6 +429,20 @@
       "name": "New Orleans Pelicans",
       "players": [
         {
+          "name": "Trendon Watford",
+          "position": "F",
+          "status": "Out",
+          "detail": "Ankle — Watford (ankle) is probable for Friday's game against the Clippers.",
+          "returnDate": "2026-11-27"
+        },
+        {
+          "name": "Bennedict Mathurin",
+          "position": "G",
+          "status": "Out",
+          "detail": "Foot — Mathurin (foot) is doubtful for Friday's game against the Clippers.",
+          "returnDate": "2026-11-27"
+        },
+        {
           "name": "Julian Reese",
           "position": "F",
           "status": "Day-To-Day",
@@ -417,25 +450,11 @@
           "returnDate": "2026-12-01"
         },
         {
-          "name": "Trendon Watford",
-          "position": "F",
-          "status": "Out",
-          "detail": "Ankle — Watford (ankle) is out for Saturday's game against the Spurs.",
-          "returnDate": "2026-11-27"
-        },
-        {
-          "name": "Bennedict Mathurin",
-          "position": "G",
-          "status": "Out",
-          "detail": "Foot — Mathurin (foot) has been ruled out for Friday's game against the Thunder.",
-          "returnDate": "2026-11-27"
-        },
-        {
           "name": "Dejounte Murray",
           "position": "G",
           "status": "Out",
           "detail": "Ankle — Murray (ankle) is out for Friday's game against Memphis.",
-          "returnDate": "2026-11-27"
+          "returnDate": "2026-11-29"
         }
       ]
     },
@@ -446,28 +465,28 @@
           "name": "Miles McBride",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Groin — McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
-          "returnDate": "2026-11-27"
-        },
-        {
-          "name": "Andre Drummond",
-          "position": "C",
-          "status": "Day-To-Day",
-          "detail": "Head — Drummond (head) did not return to Wednesday's 121-102 win over the Cavaliers.",
-          "returnDate": "2026-11-27"
-        },
-        {
-          "name": "OG Anunoby",
-          "position": "F",
-          "status": "Out",
-          "detail": "Calf — Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports.",
+          "detail": "Groin — McBride (groin) is questionable for Friday's game against the Heat.",
           "returnDate": "2026-11-27"
         },
         {
           "name": "Jordan Clarkson",
           "position": "G",
           "status": "Out",
-          "detail": "Foot — Clarkson (foot) is out for Wednesday's game against Cleveland.",
+          "detail": "Foot — Clarkson (foot) is questionable for Friday's game against the Heat.",
+          "returnDate": "2026-11-27"
+        },
+        {
+          "name": "OG Anunoby",
+          "position": "F",
+          "status": "Out",
+          "detail": "Calf — Anunoby (calf) is doubtful for Friday's game against the Heat.",
+          "returnDate": "2026-11-27"
+        },
+        {
+          "name": "Andre Drummond",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Head — Drummond (head) is questionable for Friday's game against the Heat.",
           "returnDate": "2026-11-27"
         }
       ]
@@ -530,6 +549,13 @@
       "name": "Orlando Magic",
       "players": [
         {
+          "name": "Colin Castleton",
+          "position": "C",
+          "status": "Day-To-Day",
+          "detail": "Calf — Castleton totaled five points (2-4 FG, 1-1 3Pt) and four rebounds in seven minutes during Tuesday's 132-116 preseason win over the Cavaliers.",
+          "returnDate": "2026-11-27"
+        },
+        {
           "name": "Jonathan Isaac",
           "position": "F",
           "status": "Out",
@@ -566,15 +592,15 @@
           "name": "Joel Embiid",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Illness — Embiid (illness) is out for Wednesday's game against Miami, Ira Winderman of the South Florida Sun Sentinel reports.",
+          "detail": "Illness — Embiid (illness) is questionable for Friday's game against the Pacers.",
           "returnDate": "2026-11-27"
         },
         {
           "name": "Jaylen Brown",
           "position": "G",
-          "status": "Day-To-Day",
-          "detail": "Hamstring — Brown (hamstring) will receive imaging, and the Sixers will provide an update Thursday, Ky Carlin of USA Today reports.",
-          "returnDate": "2026-11-27"
+          "status": "Out",
+          "detail": "Hamstring — Brown (hamstring) is out for Friday's game against the Pacers.",
+          "returnDate": "2026-11-28"
         },
         {
           "name": "Ariel Hukporti",
@@ -693,6 +719,13 @@
       "name": "Toronto Raptors",
       "players": [
         {
+          "name": "Alijah Martin",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Knee — Martin is questionable for Friday's game against the Nets due to left knee soreness.",
+          "returnDate": "2026-11-27"
+        },
+        {
           "name": "Kawhi Leonard",
           "position": "F",
           "status": "Out",
@@ -784,59 +817,71 @@
   ],
   "games": [
     {
-      "date": "2026-11-25T22:00Z",
-      "status": "Final",
-      "home": "Philadelphia 76ers",
+      "date": "2026-11-28T00:00Z",
+      "status": "11/27 - 7:00 PM EST",
+      "home": "New York Knicks",
       "away": "Miami Heat"
     },
     {
-      "date": "2026-11-26T00:00Z",
-      "status": "Final",
-      "home": "Charlotte Hornets",
-      "away": "Chicago Bulls"
+      "date": "2026-11-28T00:30Z",
+      "status": "11/27 - 7:30 PM EST",
+      "home": "Detroit Pistons",
+      "away": "Milwaukee Bucks"
     },
     {
-      "date": "2026-11-26T00:30Z",
-      "status": "Final",
-      "home": "New York Knicks",
-      "away": "Cleveland Cavaliers"
+      "date": "2026-11-28T00:30Z",
+      "status": "11/27 - 7:30 PM EST",
+      "home": "Indiana Pacers",
+      "away": "Philadelphia 76ers"
     },
     {
-      "date": "2026-11-26T00:30Z",
-      "status": "Final",
-      "home": "Oklahoma City Thunder",
-      "away": "Minnesota Timberwolves"
-    },
-    {
-      "date": "2026-11-26T01:00Z",
-      "status": "Final",
-      "home": "Memphis Grizzlies",
-      "away": "LA Clippers"
-    },
-    {
-      "date": "2026-11-26T01:00Z",
-      "status": "Final",
-      "home": "Milwaukee Bucks",
+      "date": "2026-11-28T00:30Z",
+      "status": "11/27 - 7:30 PM EST",
+      "home": "Toronto Raptors",
       "away": "Brooklyn Nets"
     },
     {
-      "date": "2026-11-26T01:30Z",
-      "status": "Final",
-      "home": "Houston Rockets",
-      "away": "Phoenix Suns"
+      "date": "2026-11-28T01:00Z",
+      "status": "11/27 - 8:00 PM EST",
+      "home": "Boston Celtics",
+      "away": "Atlanta Hawks"
     },
     {
-      "date": "2026-11-26T03:00Z",
-      "status": "Final",
-      "home": "Golden State Warriors",
-      "away": "Sacramento Kings"
+      "date": "2026-11-28T01:30Z",
+      "status": "11/27 - 8:30 PM EST",
+      "home": "Minnesota Timberwolves",
+      "away": "Memphis Grizzlies"
     },
     {
-      "date": "2026-11-26T03:00Z",
-      "status": "Final",
+      "date": "2026-11-28T02:00Z",
+      "status": "11/27 - 9:00 PM EST",
+      "home": "Phoenix Suns",
+      "away": "Dallas Mavericks"
+    },
+    {
+      "date": "2026-11-28T02:30Z",
+      "status": "11/27 - 9:30 PM EST",
+      "home": "San Antonio Spurs",
+      "away": "Los Angeles Lakers"
+    },
+    {
+      "date": "2026-11-28T02:30Z",
+      "status": "11/27 - 9:30 PM EST",
+      "home": "Utah Jazz",
+      "away": "Denver Nuggets"
+    },
+    {
+      "date": "2026-11-28T02:30Z",
+      "status": "11/27 - 9:30 PM EST",
+      "home": "LA Clippers",
+      "away": "New Orleans Pelicans"
+    },
+    {
+      "date": "2026-11-28T02:30Z",
+      "status": "11/27 - 9:30 PM EST",
       "home": "Portland Trail Blazers",
-      "away": "San Antonio Spurs"
+      "away": "Golden State Warriors"
     }
   ],
-  "fetchedAt": 1795699423162
+  "fetchedAt": 1795732942671
 }
