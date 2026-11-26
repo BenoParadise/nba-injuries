@@ -77,7 +77,7 @@
         {
           "name": "Ryan Kalkbrenner",
           "position": "C",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Hip — Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago.",
           "returnDate": "2026-11-28"
         },
@@ -110,7 +110,7 @@
         {
           "name": "Jalen Smith",
           "position": "F",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Illness — Smith (illness) is listed as out for Wednesday's game against Charlotte.",
           "returnDate": "2026-11-28"
         },
@@ -333,8 +333,8 @@
           "name": "Zach Edey",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Ankle — Edey (ankle) is doubtful to return to Wednesday's game against the Clippers.",
-          "returnDate": "2026-11-25"
+          "detail": "Ankle — Edey (ankle) did not return to Wednesday's 115-97 win over the Clippers. He finished with seven points (3-4 FG, 1-1 FT), four rebounds, two assists and two blocks across nine minutes.",
+          "returnDate": "2026-11-27"
         },
         {
           "name": "Scotty Pippen Jr.",
@@ -380,8 +380,8 @@
           "name": "LaMelo Ball",
           "position": "G",
           "status": "Day-To-Day",
-          "detail": "Ankle — Ball finished with 17 points (6-16 FG, 2-10 3Pt, 3-3 FT), two rebounds, three assists, one block and one steal across 30 minutes during Monday's 142-116 victory over the Nets.",
-          "returnDate": "2026-11-25"
+          "detail": "Ankle — Ball (ankle) did not return to Wednesday's 113-106 win over the Thunder.",
+          "returnDate": "2026-11-27"
         },
         {
           "name": "Donte DiVincenzo",
@@ -414,7 +414,7 @@
           "position": "F",
           "status": "Day-To-Day",
           "detail": "Knee — The Pelicans transferred Reese from the G League's Laketown Squadron, and he will be available for New Orleans' game against the Warriors on Monday.",
-          "returnDate": "2026-11-25"
+          "returnDate": "2026-12-01"
         },
         {
           "name": "Trendon Watford",
@@ -443,24 +443,24 @@
       "name": "New York Knicks",
       "players": [
         {
+          "name": "Miles McBride",
+          "position": "G",
+          "status": "Day-To-Day",
+          "detail": "Groin — McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
+          "returnDate": "2026-11-27"
+        },
+        {
           "name": "Andre Drummond",
           "position": "C",
           "status": "Day-To-Day",
-          "detail": "Head — Drummond is questionable to return to Wednesday's game against Cleveland due to a head injury, Stefan Bondy of The New York Post reports.",
-          "returnDate": "2026-11-25"
+          "detail": "Head — Drummond (head) did not return to Wednesday's 121-102 win over the Cavaliers.",
+          "returnDate": "2026-11-27"
         },
         {
           "name": "OG Anunoby",
           "position": "F",
           "status": "Out",
           "detail": "Calf — Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports.",
-          "returnDate": "2026-11-27"
-        },
-        {
-          "name": "Miles McBride",
-          "position": "G",
-          "status": "Out",
-          "detail": "Groin — McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
           "returnDate": "2026-11-27"
         },
         {
@@ -636,7 +636,7 @@
         {
           "name": "Zach LaVine",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Knee — LaVine (knee) is listed as out for Wednesday's game versus the Warriors.",
           "returnDate": "2026-11-29"
         },
@@ -662,7 +662,7 @@
         {
           "name": "De'Aaron Fox",
           "position": "G",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": "Lower Leg — Fox (shin) has been ruled out for Wednesday's game against Portland, Jeff McDonald of the San Antonio Express-News reports.",
           "returnDate": "2026-11-27"
         },
@@ -809,34 +809,34 @@
     },
     {
       "date": "2026-11-26T01:00Z",
-      "status": "24.1 - 4th",
+      "status": "Final",
       "home": "Memphis Grizzlies",
       "away": "LA Clippers"
     },
     {
       "date": "2026-11-26T01:00Z",
-      "status": "1:25 - 4th",
+      "status": "Final",
       "home": "Milwaukee Bucks",
       "away": "Brooklyn Nets"
     },
     {
       "date": "2026-11-26T01:30Z",
-      "status": "5:45 - 3rd",
+      "status": "Final",
       "home": "Houston Rockets",
       "away": "Phoenix Suns"
     },
     {
       "date": "2026-11-26T03:00Z",
-      "status": "6:54 - 1st",
+      "status": "Final",
       "home": "Golden State Warriors",
       "away": "Sacramento Kings"
     },
     {
       "date": "2026-11-26T03:00Z",
-      "status": "9:16 - 1st",
+      "status": "Final",
       "home": "Portland Trail Blazers",
       "away": "San Antonio Spurs"
     }
   ],
-  "fetchedAt": 1795663131443
+  "fetchedAt": 1795699423162
 }
